@@ -1,0 +1,433 @@
+,index,date,home_team,away_team,home_score,away_score
+0,9826,1974-08-08,Sweden,Norway,2.0,1.0
+1,9838,1974-09-01,Finland,Poland,1.0,2.0
+2,9845,1974-09-03,Iran,Pakistan,7.0,0.0
+3,9847,1974-09-04,Austria,Wales,2.0,1.0
+4,9850,1974-09-04,Poland,German DR,1.0,3.0
+5,9851,1974-09-04,Sweden,Netherlands,1.0,5.0
+6,9856,1974-09-05,Mexico,United States,3.0,1.0
+7,9860,1974-09-05,Iran,Myanmar,2.0,1.0
+8,9865,1974-09-07,Poland,France,0.0,2.0
+9,9869,1974-09-07,Iran,Bahrain,6.0,0.0
+10,9871,1974-09-08,United States,Mexico,0.0,1.0
+11,9872,1974-09-09,Iran,Malaysia,1.0,0.0
+12,9878,1974-09-11,Iran,South Korea,2.0,0.0
+13,9883,1974-09-13,Iran,Iraq,1.0,0.0
+14,9888,1974-09-15,Iran,Israel,1.0,0.0
+15,9891,1974-09-25,Denmark,Spain,1.0,2.0
+16,9892,1974-09-25,Finland,Netherlands,1.0,3.0
+17,9895,1974-09-28,Austria,Hungary,1.0,0.0
+18,9898,1974-09-28,Yugoslavia,Italy,1.0,0.0
+19,9902,1974-10-01,Morocco,Tunisia,3.0,1.0
+20,9904,1974-10-03,Algeria,Tunisia,0.0,1.0
+21,9911,1974-10-09,Netherlands,Switzerland,1.0,0.0
+22,9912,1974-10-09,Poland,Finland,3.0,0.0
+23,9913,1974-10-09,Sudan,Tunisia,1.0,3.0
+24,9915,1974-10-12,Argentina,Spain,1.0,1.0
+25,9916,1974-10-12,Belgium,France,2.0,1.0
+26,9919,1974-10-13,Czechoslovakia,Sweden,4.0,0.0
+27,9921,1974-10-13,Luxembourg,Hungary,2.0,4.0
+28,9924,1974-10-30,Scotland,German DR,3.0,0.0
+29,9925,1974-10-30,Sweden,Northern Ireland,0.0,2.0
+30,9926,1974-10-30,Wales,Hungary,2.0,0.0
+31,9930,1974-10-31,Poland,Canada,2.0,0.0
+32,9941,1974-11-06,Chile,Argentina,0.0,2.0
+33,9945,1974-11-10,Bulgaria,Hungary,0.0,0.0
+34,9947,1974-11-10,Tunisia,Libya,1.0,0.0
+35,9948,1974-11-13,Czechoslovakia,Poland,2.0,2.0
+36,9950,1974-11-13,Turkey,Austria,0.0,1.0
+37,9952,1974-11-16,France,German DR,2.0,2.0
+38,9953,1974-11-20,Argentina,Chile,1.0,1.0
+39,9956,1974-11-20,Netherlands,Italy,3.0,1.0
+40,9957,1974-11-20,Scotland,Spain,1.0,2.0
+41,9961,1974-11-22,Libya,Tunisia,1.0,0.0
+42,9969,1974-12-04,Hungary,Switzerland,1.0,0.0
+43,9993,1974-12-20,Iran,Czechoslovakia,0.0,1.0
+44,10002,1974-12-29,Italy,Bulgaria,0.0,0.0
+45,10003,1974-12-29,Kuwait,Tunisia,2.0,0.0
+46,10007,1975-01-01,Iraq,Tunisia,0.0,0.0
+47,10023,1975-02-05,Spain,Scotland,1.0,1.0
+48,10026,1975-02-19,Italy,Norway,4.0,1.0
+49,10035,1975-03-02,Morocco,Tunisia,0.0,0.0
+50,10036,1975-03-09,Brazil,Portugal,2.0,1.0
+51,10040,1975-03-16,Luxembourg,Austria,1.0,2.0
+52,10052,1975-03-23,Tunisia,Algeria,1.0,1.0
+53,10061,1975-03-26,France,Hungary,2.0,0.0
+54,10063,1975-03-26,Poland,United States,7.0,0.0
+55,10071,1975-04-02,Austria,Hungary,0.0,0.0
+56,10073,1975-04-02,Italy,United States,10.0,0.0
+57,10081,1975-04-06,Algeria,Tunisia,1.0,2.0
+58,10095,1975-04-16,Hungary,Wales,1.0,2.0
+59,10097,1975-04-16,Sweden,Scotland,1.0,1.0
+60,10098,1975-04-17,Spain,Romania,1.0,1.0
+61,10099,1975-04-19,Italy,Poland,0.0,0.0
+62,10103,1975-04-26,France,Portugal,0.0,2.0
+63,10109,1975-04-30,Belgium,Netherlands,1.0,0.0
+64,10118,1975-05-13,Scotland,Portugal,1.0,0.0
+65,10122,1975-05-17,Germany,Netherlands,1.0,1.0
+66,10124,1975-05-17,Wales,Scotland,2.0,2.0
+67,10126,1975-05-19,Sweden,Algeria,4.0,0.0
+68,10127,1975-05-20,Scotland,Northern Ireland,3.0,0.0
+69,10133,1975-05-24,England,Scotland,5.0,1.0
+70,10134,1975-05-25,Iceland,France,0.0,0.0
+71,10136,1975-05-28,German DR,Poland,1.0,2.0
+72,10137,1975-06-01,Romania,Scotland,1.0,1.0
+73,10139,1975-06-04,Sweden,Yugoslavia,1.0,2.0
+74,10141,1975-06-05,Finland,Italy,0.0,1.0
+75,10144,1975-06-07,Austria,Czechoslovakia,0.0,0.0
+76,10147,1975-06-08,Russia,Italy,1.0,0.0
+77,10169,1975-06-22,Ecuador,Peru,6.0,0.0
+78,10174,1975-06-24,United States,Poland,0.0,4.0
+79,10177,1975-06-25,Ecuador,Peru,1.0,0.0
+80,10180,1975-06-27,Bolivia,Argentina,1.0,2.0
+81,10183,1975-06-30,Sweden,Norway,3.0,1.0
+82,10184,1975-07-01,Peru,Ecuador,2.0,0.0
+83,10187,1975-07-06,Canada,Poland,1.0,8.0
+84,10189,1975-07-06,Tunisia,Sudan,3.0,2.0
+85,10194,1975-07-09,Canada,Poland,1.0,4.0
+86,10196,1975-07-10,Peru,Paraguay,2.0,0.0
+87,10201,1975-07-17,Chile,Peru,1.0,1.0
+88,10203,1975-07-18,Uruguay,Argentina,2.0,3.0
+89,10211,1975-07-27,Bolivia,Peru,0.0,1.0
+90,10222,1975-07-31,Venezuela,Brazil,0.0,4.0
+91,10226,1975-08-01,Mexico,German DR,2.0,3.0
+92,10235,1975-08-03,Mexico,German DR,0.0,1.0
+93,10236,1975-08-03,Venezuela,Argentina,1.0,5.0
+94,10246,1975-08-06,Brazil,Argentina,2.0,1.0
+95,10249,1975-08-06,Mexico,German DR,1.0,0.0
+96,10256,1975-08-07,Peru,Bolivia,3.0,1.0
+97,10262,1975-08-10,Argentina,Venezuela,11.0,0.0
+98,10265,1975-08-10,Iran,Hungary,1.0,2.0
+99,10270,1975-08-13,Brazil,Venezuela,6.0,0.0
+100,10272,1975-08-13,Norway,Sweden,0.0,2.0
+101,10275,1975-08-15,Sudan,Tunisia,2.0,1.0
+102,10280,1975-08-16,Argentina,Brazil,0.0,1.0
+103,10282,1975-08-17,Mexico,Costa Rica,7.0,0.0
+104,10285,1975-08-20,Peru,Chile,3.0,1.0
+105,10286,1975-08-21,Argentina,United States,6.0,0.0
+106,10288,1975-08-24,Mexico,United States,2.0,0.0
+107,10290,1975-08-31,Mexico,Argentina,1.0,1.0
+108,10291,1975-09-03,Austria,Germany,0.0,2.0
+109,10292,1975-09-03,Denmark,Scotland,0.0,1.0
+110,10293,1975-09-03,France,Iceland,3.0,0.0
+111,10294,1975-09-03,Netherlands,Finland,4.0,1.0
+112,10295,1975-09-03,Northern Ireland,Sweden,1.0,2.0
+113,10303,1975-09-10,Poland,Netherlands,4.0,1.0
+114,10308,1975-09-24,Hungary,Austria,2.0,1.0
+115,10309,1975-09-25,Sweden,Denmark,0.0,0.0
+116,10312,1975-09-27,Italy,Finland,0.0,0.0
+117,10313,1975-09-30,Brazil,Peru,1.0,3.0
+118,10315,1975-10-04,Peru,Brazil,0.0,2.0
+119,10317,1975-10-08,Poland,Hungary,4.0,2.0
+120,10320,1975-10-12,German DR,France,2.0,1.0
+121,10322,1975-10-12,Spain,Denmark,2.0,0.0
+122,10324,1975-10-15,Austria,Luxembourg,6.0,2.0
+123,10325,1975-10-15,Czechoslovakia,Hungary,1.0,1.0
+124,10326,1975-10-15,Netherlands,Poland,3.0,0.0
+125,10327,1975-10-15,Yugoslavia,Sweden,3.0,0.0
+126,10328,1975-10-16,Colombia,Peru,1.0,0.0
+127,10331,1975-10-19,Hungary,Luxembourg,8.0,1.0
+128,10332,1975-10-20,Israel,Mexico,1.0,0.0
+129,10333,1975-10-22,Peru,Colombia,2.0,0.0
+130,10335,1975-10-26,Poland,Italy,0.0,0.0
+131,10336,1975-10-28,Colombia,Peru,0.0,1.0
+132,10339,1975-10-29,Scotland,Denmark,3.0,1.0
+133,10355,1975-11-15,France,Belgium,0.0,0.0
+134,10356,1975-11-16,Romania,Spain,2.0,2.0
+135,10360,1975-11-19,Wales,Austria,1.0,0.0
+136,10363,1975-11-22,Italy,Netherlands,1.0,0.0
+137,10374,1975-12-17,Scotland,Romania,1.0,1.0
+138,10377,1975-12-19,Tunisia,United Arab Emirates,3.0,0.0
+139,10391,1975-12-23,Tunisia,Iraq,1.0,1.0
+140,10401,1975-12-30,Italy,Greece,3.0,2.0
+141,10425,1976-02-09,El Salvador,Hungary,1.0,2.0
+142,10429,1976-02-18,Tunisia,Yugoslavia,2.0,1.0
+143,10434,1976-02-25,Paraguay,Argentina,2.0,3.0
+144,10435,1976-02-25,Uruguay,Brazil,1.0,2.0
+145,10436,1976-02-27,Argentina,Brazil,1.0,2.0
+146,10438,1976-02-28,Tunisia,Sweden,1.0,1.0
+147,10444,1976-03-02,Algeria,Sweden,0.0,2.0
+148,10466,1976-03-20,Russia,Argentina,0.0,1.0
+149,10473,1976-03-24,Poland,Argentina,1.0,2.0
+150,10477,1976-03-27,France,Czechoslovakia,2.0,2.0
+151,10478,1976-03-27,Hungary,Argentina,2.0,0.0
+152,10497,1976-04-07,Italy,Portugal,3.0,1.0
+153,10498,1976-04-07,Paraguay,Brazil,1.0,1.0
+154,10500,1976-04-07,Scotland,Switzerland,1.0,0.0
+155,10501,1976-04-08,Argentina,Uruguay,4.0,1.0
+156,10510,1976-04-17,Yugoslavia,Hungary,0.0,0.0
+157,10516,1976-04-24,France,Poland,2.0,0.0
+158,10517,1976-04-24,Spain,Germany,1.0,1.0
+159,10519,1976-04-25,Netherlands,Belgium,5.0,0.0
+160,10521,1976-04-28,Argentina,Paraguay,2.0,2.0
+161,10522,1976-04-28,Austria,Sweden,1.0,0.0
+162,10523,1976-04-28,Brazil,Uruguay,2.0,1.0
+163,10524,1976-04-30,Switzerland,Hungary,0.0,1.0
+164,10531,1976-05-06,Greece,Poland,1.0,0.0
+165,10532,1976-05-06,Scotland,Wales,3.0,1.0
+166,10533,1976-05-08,Scotland,Northern Ireland,3.0,0.0
+167,10539,1976-05-11,Sweden,Denmark,1.0,2.0
+168,10540,1976-05-11,Switzerland,Poland,2.0,1.0
+169,10543,1976-05-15,Scotland,England,2.0,1.0
+170,10544,1976-05-19,Brazil,Argentina,2.0,0.0
+171,10548,1976-05-22,Belgium,Netherlands,1.0,2.0
+172,10549,1976-05-22,Germany,Spain,2.0,0.0
+173,10550,1976-05-22,Hungary,France,1.0,0.0
+174,10553,1976-05-23,Brazil,England,1.0,0.0
+175,10555,1976-05-26,Hungary,Russia,1.0,1.0
+176,10556,1976-05-26,Poland,Republic of Ireland,0.0,2.0
+177,10557,1976-05-28,England,Italy,3.0,2.0
+178,10559,1976-05-31,Brazil,Italy,4.0,1.0
+179,10560,1976-06-01,Finland,Sweden,0.0,2.0
+180,10562,1976-06-04,Iran,Iraq,2.0,0.0
+181,10563,1976-06-04,Mexico,Brazil,0.0,3.0
+182,10565,1976-06-05,Italy,Romania,4.0,2.0
+183,10570,1976-06-08,Iran,Yemen DPR,8.0,0.0
+184,10571,1976-06-09,Brazil,Paraguay,3.0,1.0
+185,10572,1976-06-09,Uruguay,Argentina,0.0,3.0
+186,10574,1976-06-11,Iran,China,2.0,0.0
+187,10576,1976-06-12,Hungary,Austria,2.0,0.0
+188,10580,1976-06-13,Iran,Kuwait,1.0,0.0
+189,10581,1976-06-16,Czechoslovakia,Netherlands,3.0,1.0
+190,10583,1976-06-16,Sweden,Norway,2.0,0.0
+191,10585,1976-06-19,Yugoslavia,Netherlands,2.0,3.0
+192,10587,1976-06-23,Austria,Russia,1.0,2.0
+193,10593,1976-07-02,Iran,Romania,2.0,2.0
+194,10620,1976-08-11,Sweden,Finland,6.0,0.0
+195,10646,1976-09-01,Denmark,France,1.0,1.0
+196,10653,1976-09-08,Iceland,Netherlands,0.0,1.0
+197,10656,1976-09-08,Scotland,Finland,6.0,0.0
+198,10657,1976-09-08,Sweden,Hungary,1.0,1.0
+199,10674,1976-09-22,Austria,Switzerland,3.0,1.0
+200,10676,1976-09-22,Denmark,Italy,0.0,1.0
+201,10678,1976-09-22,German DR,Hungary,1.0,1.0
+202,10680,1976-09-22,Norway,Sweden,3.0,2.0
+203,10684,1976-09-25,Italy,Yugoslavia,3.0,0.0
+204,10688,1976-09-30,Saudi Arabia,Tunisia,0.0,1.0
+205,10690,1976-10-03,United States,Mexico,0.0,0.0
+206,10694,1976-10-09,Bulgaria,France,2.0,2.0
+207,10695,1976-10-09,Greece,Hungary,1.0,1.0
+208,10696,1976-10-09,Switzerland,Sweden,1.0,2.0
+209,10699,1976-10-10,Canada,Mexico,1.0,0.0
+210,10702,1976-10-10,Spain,Yugoslavia,1.0,0.0
+211,10705,1976-10-12,Peru,Uruguay,0.0,0.0
+212,10706,1976-10-13,Argentina,Chile,2.0,0.0
+213,10707,1976-10-13,Austria,Hungary,2.0,4.0
+214,10708,1976-10-13,Czechoslovakia,Scotland,2.0,0.0
+215,10710,1976-10-13,Netherlands,Northern Ireland,2.0,2.0
+216,10713,1976-10-15,Mexico,United States,3.0,0.0
+217,10714,1976-10-16,Luxembourg,Italy,1.0,4.0
+218,10715,1976-10-16,Portugal,Poland,0.0,2.0
+219,10730,1976-10-27,Mexico,Canada,0.0,0.0
+220,10731,1976-10-28,Peru,Argentina,1.0,3.0
+221,10736,1976-10-31,Poland,Cyprus,5.0,0.0
+222,10741,1976-11-04,Tunisia,Libya,3.0,0.0
+223,10749,1976-11-10,Argentina,Peru,1.0,0.0
+224,10751,1976-11-10,Greece,Austria,0.0,3.0
+225,10765,1976-11-17,France,Republic of Ireland,2.0,0.0
+226,10768,1976-11-17,Italy,England,2.0,0.0
+227,10770,1976-11-17,Scotland,Wales,1.0,0.0
+228,10772,1976-11-24,Malta,Tunisia,1.0,1.0
+229,10773,1976-11-24,Uruguay,Peru,0.0,0.0
+230,10775,1976-11-28,Argentina,Russia,0.0,0.0
+231,10779,1976-12-01,Brazil,Russia,2.0,0.0
+232,10784,1976-12-05,Malta,Austria,0.0,1.0
+233,10788,1976-12-12,Morocco,Tunisia,1.0,1.0
+234,10790,1976-12-15,Israel,Austria,1.0,3.0
+235,10799,1976-12-22,Portugal,Italy,2.0,1.0
+236,10805,1977-01-07,Saudi Arabia,Iran,0.0,3.0
+237,10807,1977-01-09,Tunisia,Morocco,1.0,1.0
+238,10813,1977-01-23,Brazil,Bulgaria,1.0,0.0
+239,10821,1977-01-26,Italy,Belgium,2.0,1.0
+240,10822,1977-01-28,Syria,Iran,0.0,1.0
+241,10828,1977-02-01,Mexico,Yugoslavia,5.0,1.0
+242,10830,1977-02-02,France,Romania,2.0,0.0
+243,10836,1977-02-06,Tunisia,Algeria,2.0,0.0
+244,10837,1977-02-08,Mexico,Yugoslavia,0.0,1.0
+245,10839,1977-02-09,England,Netherlands,0.0,2.0
+246,10840,1977-02-09,Republic of Ireland,Spain,0.0,1.0
+247,10841,1977-02-09,Peru,Hungary,3.0,2.0
+248,10858,1977-02-20,Colombia,Brazil,0.0,0.0
+249,10859,1977-02-20,Ecuador,Peru,1.0,1.0
+250,10861,1977-02-22,Mexico,Hungary,1.0,1.0
+251,10862,1977-02-23,France,Germany,1.0,0.0
+252,10864,1977-02-27,Argentina,Hungary,5.0,1.0
+253,10874,1977-02-28,Algeria,Tunisia,1.0,1.0
+254,10882,1977-03-05,Tunisia,Malta,0.0,1.0
+255,10883,1977-03-06,Chile,Peru,1.0,1.0
+256,10892,1977-03-08,Qatar,Tunisia,1.0,0.0
+257,10893,1977-03-09,Austria,Greece,2.0,0.0
+258,10894,1977-03-09,Brazil,Colombia,6.0,0.0
+259,10898,1977-03-12,Peru,Ecuador,4.0,0.0
+260,10904,1977-03-13,Egypt,Tunisia,2.0,2.0
+261,10909,1977-03-13,Paraguay,Brazil,0.0,1.0
+262,10911,1977-03-15,Iran,Hungary,0.0,2.0
+263,10918,1977-03-20,Brazil,Paraguay,1.0,1.0
+264,10923,1977-03-20,Tunisia,Russia,0.0,3.0
+265,10925,1977-03-22,Argentina,Iran,1.0,1.0
+266,10933,1977-03-26,Belgium,Netherlands,0.0,2.0
+267,10935,1977-03-26,Peru,Chile,2.0,0.0
+268,10940,1977-03-27,Spain,Hungary,1.0,1.0
+269,10943,1977-03-30,Republic of Ireland,France,1.0,0.0
+270,10954,1977-04-13,Hungary,Poland,2.0,1.0
+271,10956,1977-04-16,Romania,Spain,1.0,0.0
+272,10957,1977-04-17,Austria,Turkey,1.0,0.0
+273,10958,1977-04-20,Hungary,Czechoslovakia,2.0,0.0
+274,10959,1977-04-22,Iran,Saudi Arabia,2.0,0.0
+275,10960,1977-04-23,Switzerland,France,0.0,4.0
+276,10961,1977-04-24,Republic of Ireland,Poland,0.0,0.0
+277,10963,1977-04-27,Tunisia,Egypt,3.0,2.0
+278,10966,1977-04-27,Scotland,Sweden,3.0,1.0
+279,10967,1977-04-30,Austria,Malta,9.0,0.0
+280,10968,1977-04-30,Hungary,Russia,2.0,1.0
+281,10971,1977-05-01,Denmark,Poland,1.0,2.0
+282,10976,1977-05-15,Cyprus,Poland,1.0,3.0
+283,10977,1977-05-17,Mexico,Peru,1.0,1.0
+284,10978,1977-05-18,Russia,Hungary,2.0,0.0
+285,10979,1977-05-24,Mexico,Peru,2.0,1.0
+286,10981,1977-05-26,Haiti,Peru,1.0,2.0
+287,10983,1977-05-26,Sweden,Norway,1.0,0.0
+288,10984,1977-05-28,Hungary,Greece,3.0,0.0
+289,10987,1977-05-28,Wales,Scotland,0.0,0.0
+290,10988,1977-05-29,Argentina,Poland,3.0,1.0
+291,10989,1977-05-29,Haiti,Peru,2.0,2.0
+292,10994,1977-06-01,Czechoslovakia,Austria,0.0,0.0
+293,10996,1977-06-01,Scotland,Northern Ireland,3.0,0.0
+294,10999,1977-06-04,England,Scotland,1.0,2.0
+295,11001,1977-06-05,Argentina,Germany,1.0,3.0
+296,11002,1977-06-05,Guinea,Tunisia,1.0,0.0
+297,11005,1977-06-08,Brazil,England,0.0,0.0
+298,11006,1977-06-08,Finland,Italy,0.0,3.0
+299,11007,1977-06-08,Sweden,Switzerland,2.0,1.0
+300,11011,1977-06-10,Peru,Poland,1.0,3.0
+301,11015,1977-06-12,Argentina,England,1.0,1.0
+302,11016,1977-06-12,Bolivia,Poland,1.0,2.0
+303,11017,1977-06-12,Brazil,Germany,1.0,1.0
+304,11020,1977-06-14,Mexico,Germany,2.0,2.0
+305,11021,1977-06-15,Chile,Scotland,2.0,4.0
+306,11022,1977-06-15,Denmark,Sweden,2.0,1.0
+307,11026,1977-06-18,Argentina,Scotland,1.0,1.0
+308,11027,1977-06-19,Brazil,Poland,3.0,1.0
+309,11028,1977-06-19,Hong Kong,Iran,0.0,2.0
+310,11029,1977-06-19,Tunisia,Guinea,3.0,1.0
+311,11031,1977-06-23,Brazil,Scotland,2.0,0.0
+312,11035,1977-06-26,Argentina,France,0.0,0.0
+313,11036,1977-06-26,Brazil,Yugoslavia,0.0,0.0
+314,11038,1977-06-30,Brazil,France,2.0,2.0
+315,11040,1977-07-03,Argentina,Yugoslavia,1.0,0.0
+316,11041,1977-07-03,South Korea,Iran,0.0,0.0
+317,11047,1977-07-10,Peru,Brazil,0.0,1.0
+318,11048,1977-07-12,Argentina,German DR,2.0,0.0
+319,11049,1977-07-14,Brazil,Bolivia,8.0,0.0
+320,11055,1977-07-17,Peru,Bolivia,5.0,0.0
+321,11059,1977-07-20,Iceland,Sweden,0.0,1.0
+322,11067,1977-07-24,Hong Kong,Iran,1.0,0.0
+323,11074,1977-07-27,Iran,Morocco,1.0,1.0
+324,11078,1977-07-29,Iran,DR Congo,1.0,3.0
+325,11082,1977-08-05,Iran,Romania,0.0,0.0
+326,11083,1977-08-14,Australia,Iran,0.0,1.0
+327,11085,1977-08-17,Sweden,German DR,0.0,1.0
+328,11087,1977-08-24,Argentina,Paraguay,2.0,1.0
+329,11088,1977-08-24,Austria,Poland,2.0,1.0
+330,11090,1977-08-31,Netherlands,Iceland,4.0,1.0
+331,11091,1977-08-31,Paraguay,Argentina,2.0,0.0
+332,11097,1977-09-06,Tunisia,Malta,2.0,1.0
+333,11102,1977-09-07,German DR,Scotland,1.0,0.0
+334,11103,1977-09-07,Norway,Sweden,2.0,1.0
+335,11104,1977-09-07,Russia,Poland,4.0,1.0
+336,11118,1977-09-21,Poland,Denmark,4.0,1.0
+337,11120,1977-09-21,Scotland,Czechoslovakia,3.0,1.0
+338,11121,1977-09-21,Switzerland,Spain,1.0,2.0
+339,11123,1977-09-24,Austria,German DR,1.0,1.0
+340,11128,1977-09-25,Tunisia,Nigeria,0.0,0.0
+341,11130,1977-09-27,Mexico,United States,3.0,0.0
+342,11135,1977-10-02,Tunisia,Guinea,3.0,0.0
+343,11138,1977-10-05,Hungary,Yugoslavia,4.0,3.0
+344,11139,1977-10-05,Netherlands,Russia,0.0,0.0
+345,11140,1977-10-05,Sweden,Denmark,1.0,0.0
+346,11144,1977-10-08,France,Russia,0.0,0.0
+347,11145,1977-10-08,Germany,Italy,2.0,1.0
+348,11150,1977-10-09,Mexico,Haiti,4.0,1.0
+349,11154,1977-10-12,German DR,Austria,1.0,1.0
+350,11156,1977-10-12,Hungary,Sweden,3.0,0.0
+351,11159,1977-10-12,Mexico,El Salvador,3.0,1.0
+352,11160,1977-10-12,Northern Ireland,Netherlands,0.0,1.0
+353,11161,1977-10-12,Wales,Scotland,0.0,2.0
+354,11162,1977-10-15,Italy,Finland,6.0,1.0
+355,11163,1977-10-15,Mexico,Suriname,8.0,1.0
+356,11164,1977-10-16,Guinea,Tunisia,3.0,2.0
+357,11169,1977-10-19,Mexico,Guatemala,2.0,1.0
+358,11174,1977-10-22,Mexico,Canada,3.0,1.0
+359,11182,1977-10-26,Netherlands,Belgium,1.0,0.0
+360,11183,1977-10-26,Spain,Romania,2.0,0.0
+361,11184,1977-10-28,Iran,Kuwait,1.0,0.0
+362,11187,1977-10-29,Hungary,Bolivia,6.0,0.0
+363,11188,1977-10-29,Poland,Portugal,1.0,1.0
+364,11191,1977-10-30,Turkey,Austria,0.0,1.0
+365,11198,1977-11-09,Czechoslovakia,Hungary,1.0,1.0
+366,11200,1977-11-11,Iran,South Korea,2.0,2.0
+367,11203,1977-11-12,Nigeria,Tunisia,0.0,1.0
+368,11204,1977-11-12,Poland,Sweden,2.0,1.0
+369,11209,1977-11-16,England,Italy,2.0,0.0
+370,11210,1977-11-16,France,Bulgaria,3.0,1.0
+371,11216,1977-11-18,Iran,Hong Kong,3.0,0.0
+372,11227,1977-11-25,Egypt,Tunisia,3.0,2.0
+373,11228,1977-11-25,Iran,Australia,1.0,0.0
+374,11239,1977-11-30,Bolivia,Hungary,2.0,3.0
+375,11241,1977-11-30,Yugoslavia,Spain,0.0,1.0
+376,11244,1977-12-03,Italy,Luxembourg,3.0,0.0
+377,11245,1977-12-03,Kuwait,Iran,1.0,2.0
+378,11252,1977-12-11,Tunisia,Egypt,4.0,1.0
+379,11256,1977-12-21,Belgium,Italy,0.0,1.0
+380,11261,1978-01-25,Spain,Italy,2.0,1.0
+381,11269,1978-02-08,Italy,France,2.0,2.0
+382,11271,1978-02-15,El Salvador,Mexico,1.0,5.0
+383,11272,1978-02-15,Greece,Austria,1.0,1.0
+384,11277,1978-02-22,Israel,Netherlands,1.0,2.0
+385,11278,1978-02-22,Scotland,Bulgaria,2.0,1.0
+386,11289,1978-03-06,Morocco,Tunisia,1.0,1.0
+387,11291,1978-03-08,France,Portugal,2.0,0.0
+388,11296,1978-03-09,Tunisia,Uganda,3.0,1.0
+389,11299,1978-03-11,Congo,Tunisia,0.0,0.0
+390,11303,1978-03-14,Ghana,Tunisia,1.0,0.0
+391,11306,1978-03-19,Argentina,Peru,2.0,1.0
+392,11307,1978-03-22,Belgium,Austria,1.0,0.0
+393,11309,1978-03-22,Luxembourg,Poland,1.0,3.0
+394,11311,1978-03-23,Peru,Argentina,1.0,3.0
+395,11313,1978-03-29,Argentina,Bulgaria,3.0,1.0
+396,11314,1978-03-29,Spain,Norway,3.0,0.0
+397,11316,1978-04-01,France,Brazil,1.0,0.0
+398,11317,1978-04-01,Peru,Bulgaria,1.0,1.0
+399,11319,1978-04-04,German DR,Sweden,0.0,1.0
+400,11320,1978-04-04,Switzerland,Austria,0.0,1.0
+401,11321,1978-04-05,Argentina,Romania,2.0,0.0
+402,11322,1978-04-05,Germany,Brazil,0.0,1.0
+403,11323,1978-04-05,Iran,Yugoslavia,0.0,0.0
+404,11325,1978-04-05,Poland,Greece,5.0,2.0
+405,11327,1978-04-05,Tunisia,Netherlands,0.0,4.0
+406,11328,1978-04-11,Mexico,Peru,0.0,1.0
+407,11329,1978-04-12,Poland,Republic of Ireland,3.0,0.0
+408,11330,1978-04-15,Hungary,Czechoslovakia,2.0,1.0
+409,11332,1978-04-18,Iran,Wales,0.0,1.0
+410,11333,1978-04-19,England,Brazil,1.0,1.0
+411,11335,1978-04-19,Sweden,Germany,3.0,1.0
+412,11337,1978-04-22,Peru,China,2.0,1.0
+413,11339,1978-04-25,Uruguay,Argentina,2.0,0.0
+414,11340,1978-04-26,Iran,Bulgaria,1.0,1.0
+415,11342,1978-04-26,Poland,Bulgaria,1.0,0.0
+416,11343,1978-04-26,Spain,Mexico,2.0,0.0
+417,11346,1978-05-01,Brazil,Peru,3.0,0.0
+418,11347,1978-05-03,Argentina,Uruguay,3.0,0.0
+419,11349,1978-05-03,Finland,Mexico,0.0,1.0
+420,11354,1978-05-11,France,Iran,2.0,1.0
+421,11357,1978-05-13,Scotland,Northern Ireland,1.0,1.0
+422,11363,1978-05-17,Brazil,Czechoslovakia,2.0,0.0
+423,11364,1978-05-17,Scotland,Wales,1.0,1.0
+424,11365,1978-05-18,Italy,Yugoslavia,0.0,0.0
+425,11367,1978-05-19,France,Tunisia,2.0,0.0
+426,11368,1978-05-19,Iran,Ghana,3.0,0.0
+427,11370,1978-05-20,Austria,Netherlands,0.0,1.0
+428,11371,1978-05-20,Scotland,England,0.0,1.0
+429,11373,1978-05-21,Sweden,Czechoslovakia,0.0,0.0
+430,11376,1978-05-24,England,Hungary,4.0,1.0
+431,11378,1978-05-24,Uruguay,Spain,0.0,0.0
