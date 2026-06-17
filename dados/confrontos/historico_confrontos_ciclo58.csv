@@ -1,0 +1,302 @@
+,index,date,home_team,away_team,home_score,away_score
+0,3993,1954-08-15,Finland,Sweden,1.0,10.0
+1,3995,1954-08-24,Sweden,Iceland,3.0,2.0
+2,3999,1954-09-08,Russia,Sweden,7.0,0.0
+3,4003,1954-09-19,Hungary,Romania,5.0,1.0
+4,4004,1954-09-19,Norway,Sweden,1.0,1.0
+5,4005,1954-09-22,Wales,Yugoslavia,1.0,3.0
+6,4008,1954-09-26,Russia,Hungary,1.0,1.0
+7,4009,1954-09-26,Saarland,Yugoslavia,1.0,5.0
+8,4010,1954-10-02,Northern Ireland,England,0.0,2.0
+9,4011,1954-10-03,Austria,Yugoslavia,2.0,2.0
+10,4015,1954-10-10,Hungary,Switzerland,3.0,0.0
+11,4017,1954-10-10,Sweden,Denmark,5.0,2.0
+12,4018,1954-10-16,Germany,France,1.0,3.0
+13,4019,1954-10-16,Wales,Scotland,0.0,1.0
+14,4020,1954-10-17,Yugoslavia,Turkey,5.0,1.0
+15,4023,1954-10-24,Hungary,Czechoslovakia,4.0,1.0
+16,4026,1954-10-31,Sweden,Austria,2.0,1.0
+17,4028,1954-11-03,Scotland,Northern Ireland,2.0,2.0
+18,4031,1954-11-10,England,Wales,3.0,2.0
+19,4032,1954-11-11,France,Belgium,2.0,2.0
+20,4033,1954-11-14,Hungary,Austria,4.0,1.0
+21,4034,1954-11-28,Portugal,Argentina,1.0,3.0
+22,4035,1954-12-01,England,Germany,3.0,1.0
+23,4036,1954-12-05,Italy,Argentina,2.0,0.0
+24,4037,1954-12-08,Scotland,Hungary,2.0,4.0
+25,4050,1955-03-02,Argentina,Paraguay,5.0,3.0
+26,4052,1955-03-09,Argentina,Ecuador,4.0,0.0
+27,4053,1955-03-09,Paraguay,Uruguay,1.0,3.0
+28,4057,1955-03-16,Argentina,Peru,2.0,2.0
+29,4058,1955-03-16,Ecuador,Paraguay,0.0,2.0
+30,4059,1955-03-17,Spain,France,1.0,2.0
+31,4060,1955-03-20,Chile,Paraguay,5.0,0.0
+32,4062,1955-03-23,Paraguay,Peru,1.0,1.0
+33,4063,1955-03-27,Argentina,Uruguay,6.0,1.0
+34,4064,1955-03-27,Czechoslovakia,Austria,3.0,2.0
+35,4065,1955-03-30,Chile,Argentina,0.0,1.0
+36,4069,1955-04-02,England,Scotland,7.0,2.0
+37,4070,1955-04-03,France,Sweden,2.0,0.0
+38,4072,1955-04-20,Northern Ireland,Wales,2.0,3.0
+39,4073,1955-04-24,Austria,Hungary,2.0,2.0
+40,4075,1955-05-01,Switzerland,Austria,2.0,3.0
+41,4076,1955-05-04,Scotland,Portugal,3.0,0.0
+42,4079,1955-05-08,Norway,Hungary,0.0,5.0
+43,4080,1955-05-11,Sweden,Hungary,3.0,7.0
+44,4081,1955-05-15,Denmark,Hungary,0.0,6.0
+45,4082,1955-05-15,France,England,1.0,0.0
+46,4083,1955-05-15,Yugoslavia,Scotland,2.0,2.0
+47,4084,1955-05-18,Spain,England,1.0,1.0
+48,4085,1955-05-19,Austria,Scotland,1.0,4.0
+49,4086,1955-05-19,Finland,Hungary,1.0,9.0
+50,4089,1955-05-22,Portugal,England,3.0,1.0
+51,4093,1955-05-29,Hungary,Scotland,3.0,1.0
+52,4094,1955-05-29,Italy,Yugoslavia,0.0,4.0
+53,4097,1955-06-05,Belgium,Czechoslovakia,1.0,3.0
+54,4099,1955-06-15,Sweden,Romania,4.0,1.0
+55,4105,1955-06-26,Sweden,Russia,0.0,6.0
+56,4106,1955-06-26,Yugoslavia,Switzerland,0.0,0.0
+57,4135,1955-08-28,Sweden,Finland,3.0,0.0
+58,4142,1955-09-17,Switzerland,Hungary,4.0,5.0
+59,4143,1955-09-18,Brazil,Chile,1.0,1.0
+60,4145,1955-09-20,Brazil,Chile,2.0,1.0
+61,4147,1955-09-25,Czechoslovakia,Belgium,5.0,2.0
+62,4148,1955-09-25,Hungary,Russia,1.0,1.0
+63,4149,1955-09-25,Sweden,Norway,1.0,1.0
+64,4150,1955-09-25,Yugoslavia,Germany,3.0,1.0
+65,4153,1955-10-02,Czechoslovakia,Hungary,1.0,3.0
+66,4154,1955-10-02,Denmark,England,1.0,5.0
+67,4155,1955-10-08,Northern Ireland,Scotland,2.0,1.0
+68,4158,1955-10-09,Switzerland,France,1.0,2.0
+69,4162,1955-10-16,Denmark,Sweden,3.0,3.0
+70,4163,1955-10-16,Hungary,Austria,6.0,1.0
+71,4165,1955-10-19,Republic of Ireland,Yugoslavia,1.0,4.0
+72,4166,1955-10-22,Wales,England,2.0,1.0
+73,4167,1955-10-23,Russia,France,2.0,2.0
+74,4168,1955-10-30,Austria,Yugoslavia,2.0,1.0
+75,4170,1955-11-02,England,Northern Ireland,3.0,0.0
+76,4172,1955-11-09,Scotland,Wales,2.0,0.0
+77,4173,1955-11-11,France,Yugoslavia,1.0,1.0
+78,4174,1955-11-13,Brazil,Paraguay,3.0,0.0
+79,4175,1955-11-13,Bulgaria,Czechoslovakia,3.0,0.0
+80,4176,1955-11-13,Hungary,Sweden,4.0,2.0
+81,4179,1955-11-17,Brazil,Paraguay,3.0,3.0
+82,4181,1955-11-20,Portugal,Sweden,2.0,6.0
+83,4182,1955-11-23,Wales,Austria,1.0,2.0
+84,4183,1955-11-27,Hungary,Italy,2.0,0.0
+85,4185,1955-11-30,England,Spain,4.0,1.0
+86,4195,1955-12-25,Belgium,France,2.0,1.0
+87,4200,1956-01-21,Uruguay,Paraguay,4.0,2.0
+88,4201,1956-01-22,Argentina,Peru,2.0,1.0
+89,4202,1956-01-24,Brazil,Chile,1.0,4.0
+90,4204,1956-01-29,Argentina,Chile,2.0,0.0
+91,4205,1956-01-29,Brazil,Paraguay,0.0,0.0
+92,4206,1956-02-01,Argentina,Paraguay,1.0,0.0
+93,4207,1956-02-01,Brazil,Peru,2.0,1.0
+94,4208,1956-02-05,Argentina,Brazil,0.0,1.0
+95,4209,1956-02-05,Paraguay,Peru,1.0,1.0
+96,4212,1956-02-10,Uruguay,Brazil,0.0,0.0
+97,4213,1956-02-12,Chile,Paraguay,2.0,0.0
+98,4214,1956-02-15,Italy,France,2.0,0.0
+99,4215,1956-02-15,Uruguay,Argentina,1.0,0.0
+100,4216,1956-02-19,Turkey,Hungary,3.0,1.0
+101,4218,1956-02-26,Mexico,Costa Rica,1.0,1.0
+102,4219,1956-02-28,Argentina,Peru,0.0,0.0
+103,4220,1956-02-29,Lebanon,Hungary,1.0,4.0
+104,4221,1956-03-01,Brazil,Chile,2.0,1.0
+105,4222,1956-03-04,Mexico,Peru,0.0,2.0
+106,4223,1956-03-06,Argentina,Costa Rica,4.0,3.0
+107,4224,1956-03-06,Brazil,Peru,1.0,0.0
+108,4227,1956-03-08,Mexico,Brazil,1.0,2.0
+109,4230,1956-03-11,Argentina,Chile,3.0,0.0
+110,4233,1956-03-13,Brazil,Costa Rica,7.0,1.0
+111,4234,1956-03-13,Mexico,Argentina,0.0,0.0
+112,4241,1956-03-18,Argentina,Brazil,2.0,2.0
+113,4243,1956-03-25,France,Austria,3.0,1.0
+114,4248,1956-04-08,Portugal,Brazil,0.0,1.0
+115,4249,1956-04-11,Switzerland,Brazil,1.0,1.0
+116,4250,1956-04-11,Wales,Northern Ireland,1.0,1.0
+117,4251,1956-04-14,Scotland,England,1.0,1.0
+118,4252,1956-04-15,Austria,Brazil,2.0,3.0
+119,4253,1956-04-21,Czechoslovakia,Brazil,0.0,0.0
+120,4255,1956-04-22,Yugoslavia,Romania,0.0,1.0
+121,4257,1956-04-25,Italy,Brazil,3.0,0.0
+122,4259,1956-04-29,Hungary,Yugoslavia,2.0,2.0
+123,4261,1956-05-01,Turkey,Brazil,0.0,1.0
+124,4262,1956-05-02,Scotland,Austria,1.0,1.0
+125,4265,1956-05-09,England,Brazil,4.0,2.0
+126,4267,1956-05-10,Switzerland,Czechoslovakia,1.0,6.0
+127,4268,1956-05-16,Sweden,England,0.0,0.0
+128,4269,1956-05-20,Finland,England,1.0,5.0
+129,4271,1956-05-20,Hungary,Czechoslovakia,2.0,4.0
+130,4274,1956-05-26,Germany,England,1.0,3.0
+131,4276,1956-06-03,Belgium,Hungary,5.0,4.0
+132,4279,1956-06-09,Portugal,Hungary,2.0,2.0
+133,4280,1956-06-10,Finland,Sweden,1.0,3.0
+134,4281,1956-06-12,Paraguay,Brazil,0.0,2.0
+135,4284,1956-06-17,Paraguay,Brazil,2.0,5.0
+136,4285,1956-06-17,Romania,Sweden,0.0,2.0
+137,4286,1956-06-17,Yugoslavia,Austria,1.0,1.0
+138,4287,1956-06-24,Argentina,Italy,1.0,0.0
+139,4288,1956-06-24,Brazil,Uruguay,2.0,0.0
+140,4294,1956-06-30,Sweden,Germany,2.0,2.0
+141,4295,1956-07-01,Brazil,Italy,2.0,0.0
+142,4297,1956-07-01,Uruguay,Argentina,1.0,2.0
+143,4299,1956-07-08,Argentina,Brazil,0.0,0.0
+144,4301,1956-07-15,Hungary,Poland,4.0,1.0
+145,4302,1956-07-15,Paraguay,Uruguay,2.0,2.0
+146,4306,1956-08-05,Brazil,Czechoslovakia,0.0,1.0
+147,4308,1956-08-08,Brazil,Czechoslovakia,4.0,1.0
+148,4310,1956-08-09,Yugoslavia,China,4.0,0.0
+149,4314,1956-08-12,Uruguay,Czechoslovakia,2.0,1.0
+150,4315,1956-08-15,Paraguay,Argentina,0.0,1.0
+151,4316,1956-08-19,Argentina,Czechoslovakia,1.0,0.0
+152,4317,1956-08-26,Chile,Czechoslovakia,3.0,0.0
+153,4325,1956-09-09,Yugoslavia,Indonesia,4.0,2.0
+154,4334,1956-09-16,Norway,Sweden,3.0,1.0
+155,4335,1956-09-16,Yugoslavia,Hungary,1.0,3.0
+156,4338,1956-09-23,Russia,Hungary,0.0,1.0
+157,4341,1956-09-30,Austria,Luxembourg,7.0,0.0
+158,4343,1956-09-30,Yugoslavia,Czechoslovakia,1.0,2.0
+159,4347,1956-10-06,Northern Ireland,England,1.0,1.0
+160,4349,1956-10-07,France,Hungary,1.0,2.0
+161,4351,1956-10-10,Uruguay,Argentina,1.0,2.0
+162,4352,1956-10-14,Austria,Hungary,0.0,2.0
+163,4357,1956-10-20,Wales,Scotland,2.0,2.0
+164,4358,1956-10-21,France,Russia,2.0,1.0
+165,4359,1956-10-21,Sweden,Denmark,1.0,1.0
+166,4366,1956-11-07,Scotland,Northern Ireland,1.0,0.0
+167,4369,1956-11-11,France,Belgium,6.0,3.0
+168,4371,1956-11-14,Argentina,Uruguay,2.0,2.0
+169,4372,1956-11-14,England,Wales,3.0,1.0
+170,4377,1956-11-21,Scotland,Yugoslavia,2.0,0.0
+171,4378,1956-11-25,Czechoslovakia,Turkey,1.0,1.0
+172,4381,1956-11-28,England,Yugoslavia,3.0,0.0
+173,4385,1956-12-05,England,Denmark,5.0,2.0
+174,4386,1956-12-09,Italy,Austria,2.0,1.0
+175,4391,1956-12-23,Indonesia,Yugoslavia,1.0,5.0
+176,4392,1956-12-29,India,Yugoslavia,0.0,3.0
+177,4393,1957-01-16,Portugal,Northern Ireland,1.0,1.0
+178,4405,1957-02-24,Malta,Austria,2.0,3.0
+179,4409,1957-03-10,Austria,Germany,2.0,3.0
+180,4413,1957-03-13,Argentina,Colombia,8.0,2.0
+181,4414,1957-03-13,Brazil,Chile,4.0,2.0
+182,4417,1957-03-17,Argentina,Ecuador,3.0,0.0
+183,4419,1957-03-20,Argentina,Uruguay,4.0,0.0
+184,4421,1957-03-21,Brazil,Ecuador,7.0,1.0
+185,4424,1957-03-24,Brazil,Colombia,9.0,0.0
+186,4427,1957-03-28,Argentina,Chile,6.0,2.0
+187,4428,1957-03-28,Brazil,Uruguay,2.0,3.0
+188,4431,1957-03-31,Peru,Brazil,0.0,1.0
+189,4434,1957-04-03,Argentina,Brazil,3.0,0.0
+190,4436,1957-04-06,England,Scotland,2.0,1.0
+191,4437,1957-04-06,Peru,Argentina,2.0,1.0
+192,4438,1957-04-07,Mexico,United States,6.0,0.0
+193,4439,1957-04-09,Peru,Argentina,1.0,4.0
+194,4440,1957-04-10,Northern Ireland,Wales,0.0,0.0
+195,4441,1957-04-13,Peru,Brazil,1.0,1.0
+196,4442,1957-04-14,Austria,Switzerland,4.0,0.0
+197,4445,1957-04-21,Brazil,Peru,1.0,0.0
+198,4446,1957-04-25,Italy,Northern Ireland,1.0,0.0
+199,4448,1957-04-28,United States,Mexico,2.0,7.0
+200,4449,1957-05-01,Northern Ireland,Portugal,3.0,0.0
+201,4450,1957-05-01,Wales,Czechoslovakia,1.0,0.0
+202,4452,1957-05-05,Austria,Sweden,1.0,0.0
+203,4453,1957-05-05,Greece,Yugoslavia,0.0,0.0
+204,4454,1957-05-08,England,Republic of Ireland,5.0,1.0
+205,4455,1957-05-08,Scotland,Spain,4.0,2.0
+206,4457,1957-05-12,Yugoslavia,Italy,6.0,1.0
+207,4458,1957-05-15,Denmark,England,1.0,4.0
+208,4460,1957-05-18,Czechoslovakia,Yugoslavia,1.0,0.0
+209,4461,1957-05-19,German DR,Wales,2.0,1.0
+210,4462,1957-05-19,Republic of Ireland,England,1.0,1.0
+211,4464,1957-05-19,Switzerland,Scotland,1.0,2.0
+212,4465,1957-05-22,Germany,Scotland,1.0,3.0
+213,4467,1957-05-23,Uruguay,Argentina,0.0,0.0
+214,4469,1957-05-26,Austria,Netherlands,3.0,2.0
+215,4471,1957-05-26,Czechoslovakia,Wales,2.0,0.0
+216,4474,1957-05-26,Spain,Scotland,4.0,1.0
+217,4477,1957-06-02,France,Iceland,8.0,0.0
+218,4479,1957-06-05,Argentina,Uruguay,1.0,1.0
+219,4481,1957-06-06,Paraguay,Bolivia,5.0,2.0
+220,4482,1957-06-11,Brazil,Portugal,2.0,1.0
+221,4483,1957-06-12,Norway,Hungary,2.0,1.0
+222,4484,1957-06-13,Paraguay,Bolivia,0.0,1.0
+223,4485,1957-06-16,Brazil,Portugal,3.0,0.0
+224,4487,1957-06-16,Czechoslovakia,German DR,3.0,1.0
+225,4489,1957-06-16,Sweden,Hungary,0.0,0.0
+226,4491,1957-06-18,Norway,Sweden,0.0,0.0
+227,4493,1957-06-19,Finland,Sweden,1.0,5.0
+228,4494,1957-06-20,Colombia,Paraguay,2.0,3.0
+229,4497,1957-06-23,Colombia,Paraguay,1.0,2.0
+230,4498,1957-06-23,Hungary,Bulgaria,4.0,1.0
+231,4501,1957-06-30,Denmark,Sweden,1.0,2.0
+232,4502,1957-06-30,Mexico,Canada,3.0,0.0
+233,4504,1957-07-03,Mexico,Canada,2.0,0.0
+234,4507,1957-07-07,Brazil,Argentina,1.0,2.0
+235,4508,1957-07-07,Paraguay,Colombia,3.0,0.0
+236,4510,1957-07-10,Brazil,Argentina,2.0,0.0
+237,4513,1957-07-14,Paraguay,Uruguay,5.0,0.0
+238,4517,1957-07-28,Uruguay,Paraguay,2.0,0.0
+239,4522,1957-08-18,Bolivia,Paraguay,3.0,3.0
+240,4524,1957-08-21,Bolivia,Paraguay,2.0,1.0
+241,4536,1957-09-01,Iceland,France,1.0,5.0
+242,4555,1957-09-15,Bulgaria,Hungary,1.0,2.0
+243,4556,1957-09-15,Chile,Brazil,1.0,0.0
+244,4559,1957-09-15,Yugoslavia,Austria,3.0,3.0
+245,4560,1957-09-18,Chile,Brazil,1.0,1.0
+246,4563,1957-09-22,Hungary,Russia,1.0,2.0
+247,4565,1957-09-22,Sweden,Finland,5.0,1.0
+248,4566,1957-09-25,Netherlands,Austria,1.0,1.0
+249,4567,1957-09-25,Wales,German DR,4.0,1.0
+250,4571,1957-09-29,Luxembourg,Austria,0.0,3.0
+251,4572,1957-09-29,Romania,Yugoslavia,1.0,1.0
+252,4574,1957-10-05,Northern Ireland,Scotland,1.0,1.0
+253,4575,1957-10-06,Bolivia,Argentina,2.0,0.0
+254,4576,1957-10-06,Hungary,France,2.0,0.0
+255,4577,1957-10-13,Austria,Czechoslovakia,2.0,2.0
+256,4578,1957-10-13,Chile,Argentina,0.0,2.0
+257,4580,1957-10-13,Sweden,Norway,5.0,2.0
+258,4581,1957-10-19,Wales,England,0.0,4.0
+259,4582,1957-10-20,Argentina,Chile,4.0,0.0
+260,4584,1957-10-20,Mexico,Costa Rica,2.0,0.0
+261,4587,1957-10-27,Argentina,Bolivia,4.0,0.0
+262,4588,1957-10-27,Belgium,France,0.0,0.0
+263,4589,1957-10-27,Costa Rica,Mexico,1.0,1.0
+264,4590,1957-10-27,German DR,Czechoslovakia,1.0,4.0
+265,4597,1957-11-06,England,Northern Ireland,2.0,3.0
+266,4598,1957-11-06,Scotland,Switzerland,3.0,2.0
+267,4599,1957-11-10,Hungary,Norway,5.0,0.0
+268,4600,1957-11-10,Yugoslavia,Greece,4.0,1.0
+269,4601,1957-11-13,Scotland,Wales,1.0,1.0
+270,4603,1957-11-17,Yugoslavia,Romania,2.0,0.0
+271,4604,1957-11-20,Germany,Sweden,1.0,0.0
+272,4607,1957-11-27,England,France,4.0,0.0
+273,4608,1957-12-04,Northern Ireland,Italy,2.0,2.0
+274,4610,1957-12-13,Egypt,Czechoslovakia,1.0,2.0
+275,4611,1957-12-22,Germany,Hungary,1.0,0.0
+276,4613,1957-12-25,France,Bulgaria,2.0,2.0
+277,4614,1958-01-15,Israel,Wales,0.0,2.0
+278,4615,1958-01-15,Northern Ireland,Italy,2.0,1.0
+279,4617,1958-02-05,Wales,Israel,2.0,0.0
+280,4624,1958-03-13,France,Spain,2.0,2.0
+281,4626,1958-03-23,Austria,Italy,3.0,2.0
+282,4628,1958-04-02,Czechoslovakia,Germany,3.0,2.0
+283,4630,1958-04-06,Uruguay,Argentina,1.0,0.0
+284,4634,1958-04-16,France,Switzerland,0.0,0.0
+285,4635,1958-04-16,Wales,Northern Ireland,1.0,1.0
+286,4636,1958-04-19,Scotland,England,0.0,4.0
+287,4637,1958-04-20,Hungary,Yugoslavia,2.0,0.0
+288,4638,1958-04-20,Paraguay,Argentina,1.0,0.0
+289,4641,1958-04-26,Argentina,Paraguay,2.0,0.0
+290,4642,1958-04-30,Argentina,Uruguay,2.0,0.0
+291,4646,1958-05-04,Brazil,Paraguay,5.0,1.0
+292,4650,1958-05-07,Brazil,Paraguay,0.0,0.0
+293,4651,1958-05-07,England,Portugal,2.0,1.0
+294,4652,1958-05-07,Scotland,Hungary,1.0,1.0
+295,4653,1958-05-07,Sweden,Switzerland,3.0,2.0
+296,4658,1958-05-11,Yugoslavia,England,5.0,0.0
+297,4661,1958-05-14,Austria,Republic of Ireland,3.0,1.0
+298,4662,1958-05-14,Brazil,Bulgaria,4.0,0.0
+299,4667,1958-05-18,Brazil,Bulgaria,3.0,1.0
+300,4668,1958-05-18,Russia,England,1.0,1.0
