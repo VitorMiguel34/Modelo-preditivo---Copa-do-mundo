@@ -1,17 +1,110 @@
 team,wins,draws,loses,points,games_played,points_per_game
 Hungary,18,5,1,59,24,2.46
 Yugoslavia,18,3,5,57,26,2.19
+Sweden,16,8,11,56,35,1.6
 England,15,8,6,53,29,1.83
-France,13,5,8,44,26,1.69
+France,13,6,8,45,27,1.67
+Belgium,12,7,9,43,28,1.54
 Scotland,13,4,7,43,24,1.79
-Belgium,12,6,9,42,27,1.56
+Germany,13,3,3,42,19,2.21
+Austria,10,8,8,38,26,1.46
+Norway,10,7,12,37,29,1.28
 Brazil,12,1,3,37,16,2.31
-Austria,9,8,8,35,25,1.4
+Denmark,9,1,11,28,21,1.33
 Italy,7,5,3,26,15,1.73
+Trinidad and Tobago,8,2,1,26,11,2.36
+Paraguay,7,4,2,25,13,1.92
 Czechoslovakia,7,4,6,25,17,1.47
+Costa Rica,8,1,1,25,10,2.5
+India,8,1,1,25,10,2.5
+New Zealand,8,1,2,25,11,2.27
+Suriname,7,3,4,24,14,1.71
+Spain,6,6,3,24,15,1.6
 Uruguay,7,3,5,24,15,1.6
+Chile,7,2,10,23,19,1.21
+Romania,7,1,2,22,10,2.2
+Switzerland,6,4,14,22,24,0.92
 South Korea,6,4,4,22,14,1.57
-Switzerland,5,4,14,19,23,0.83
+Haiti,6,2,6,20,14,1.43
+Wales,6,2,9,20,17,1.18
+Finland,5,4,15,19,24,0.79
+Mauritius,6,0,0,18,6,3.0
+Peru,5,3,5,18,13,1.38
 Turkey,5,3,5,18,13,1.38
+Curaçao,5,3,5,18,13,1.38
+Republic of Ireland,5,2,6,17,13,1.31
+Kenya,5,1,3,16,9,1.78
+Argentina,5,1,1,16,7,2.29
+Taiwan,5,0,0,15,5,3.0
+Guernsey,5,0,1,15,6,2.5
 Mexico,5,0,4,15,9,1.67
-West Germany,0,0,0,0,0,
+New Caledonia,5,0,2,15,7,2.14
+Martinique,4,2,2,14,8,1.75
+Jamaica,4,2,9,14,15,0.93
+Tanzania,4,1,3,13,8,1.62
+El Salvador,4,1,3,13,8,1.62
+Poland,3,4,6,13,13,1.0
+Myanmar,3,3,4,12,10,1.2
+Uganda,4,0,3,12,7,1.71
+Honduras,4,0,2,12,6,2.0
+Zimbabwe,4,0,3,12,7,1.71
+Pakistan,3,3,1,12,7,1.71
+Guatemala,3,2,3,11,8,1.38
+Panama,3,2,11,11,16,0.69
+Netherlands,2,4,15,10,21,0.48
+Iran,3,1,1,10,5,2.0
+Singapore,2,3,3,9,8,1.12
+Barbados,3,0,2,9,5,1.8
+Greece,3,0,2,9,5,1.8
+Madagascar,3,0,3,9,6,1.5
+Jersey,3,0,3,9,6,1.5
+Guadeloupe,2,2,6,8,10,0.8
+Bulgaria,1,5,5,8,11,0.73
+Zambia,2,1,3,7,6,1.17
+Israel,2,1,7,7,10,0.7
+Hong Kong,2,1,0,7,3,2.33
+Portugal,1,4,6,7,11,0.64
+Tahiti,2,1,4,7,7,1.0
+Indonesia,2,0,4,6,6,1.0
+Albania,2,0,2,6,4,1.5
+Guinea-Bissau,2,0,0,6,2,3.0
+United States,2,0,4,6,6,1.0
+Northern Ireland,1,3,10,6,14,0.43
+Aruba,1,2,2,5,5,1.0
+Japan,1,2,4,5,7,0.71
+Bolivia,1,2,3,5,6,0.83
+Saarland,1,1,2,4,4,1.0
+Russia,1,1,0,4,2,2.0
+Silesia,1,1,1,4,3,1.33
+Luxembourg,1,1,6,4,8,0.5
+Ethiopia,1,0,0,3,1,3.0
+Grenada,1,0,1,3,2,1.5
+Venezuela,1,0,0,3,1,3.0
+Nicaragua,1,0,9,3,10,0.3
+Ghana,1,0,1,3,2,1.5
+Vietnam,1,0,1,3,2,1.5
+Guyana,1,0,6,3,7,0.43
+Iceland,1,0,3,3,4,0.75
+South Africa,1,0,1,3,2,1.5
+Zanzibar,1,0,4,3,5,0.6
+Gambia,1,0,2,3,3,1.0
+Cameroon,1,0,0,3,1,3.0
+Nigeria,1,0,1,3,2,1.5
+Ecuador,0,2,4,2,6,0.33
+Egypt,0,1,6,1,7,0.14
+Kernow,0,1,2,1,3,0.33
+German DR,0,1,4,1,5,0.2
+Malaysia,0,0,1,0,1,0.0
+Afghanistan,0,0,5,0,5,0.0
+Réunion,0,0,6,0,6,0.0
+Catalonia,0,0,1,0,1,0.0
+Sierra Leone,0,0,1,0,1,0.0
+Alderney,0,0,4,0,4,0.0
+Sri Lanka,0,0,4,0,4,0.0
+China,0,0,2,0,2,0.0
+Philippines,0,0,3,0,3,0.0
+Fiji,0,0,4,0,4,0.0
+Djibouti,0,0,1,0,1,0.0
+DR Congo,0,0,1,0,1,0.0
+Burundi,0,0,1,0,1,0.0
+Vanuatu,0,0,3,0,3,0.0

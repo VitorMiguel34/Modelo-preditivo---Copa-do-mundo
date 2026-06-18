@@ -1,17 +1,64 @@
 team,wins,draws,loses,points,games_played,points_per_game
-Austria,20,7,4,67,31,2.16
-Italy,15,5,3,50,23,2.17
-Sweden,15,5,11,50,31,1.61
-Hungary,13,9,12,48,34,1.41
-Czechoslovakia,12,6,9,42,27,1.56
-Germany,10,6,7,36,23,1.57
-Netherlands,10,1,9,31,20,1.55
-Romania,10,1,4,31,15,2.07
-France,8,4,14,28,26,1.08
-Spain,8,3,2,27,13,2.08
-Switzerland,7,5,15,26,27,0.96
-Belgium,7,5,16,26,28,0.93
-Argentina,6,2,2,20,10,2.0
-Brazil,5,0,0,15,5,3.0
-Egypt,2,1,0,7,3,2.33
-United States,1,0,1,3,2,1.5
+Austria,22,7,4,73,33,2.21
+Italy,16,6,3,54,25,2.16
+Sweden,16,5,12,53,33,1.61
+Hungary,14,9,13,51,36,1.42
+Czechoslovakia,14,6,9,48,29,1.66
+Germany,12,6,7,42,25,1.68
+England,13,2,6,41,21,1.95
+Latvia,12,4,10,40,26,1.54
+Yugoslavia,12,2,16,38,30,1.27
+Bulgaria,11,1,12,34,24,1.42
+Netherlands,10,1,10,31,21,1.48
+Romania,10,1,5,31,16,1.94
+Trinidad and Tobago,10,1,3,31,14,2.21
+Spain,9,4,2,31,15,2.07
+Poland,10,0,8,30,18,1.67
+Switzerland,8,5,16,29,29,1.0
+Estonia,9,1,16,28,26,1.08
+France,8,4,15,28,27,1.04
+Belgium,7,5,17,26,29,0.9
+Scotland,7,3,7,24,17,1.41
+Finland,7,2,10,23,19,1.21
+Guyana,7,2,4,23,13,1.77
+Denmark,7,2,7,23,16,1.44
+Norway,6,5,3,23,14,1.64
+Argentina,6,2,3,20,11,1.82
+Wales,5,4,4,19,13,1.46
+Lithuania,5,3,14,18,22,0.82
+Guernsey,6,0,1,18,7,2.57
+Brazil,5,0,1,15,6,2.5
+China,3,0,0,9,3,3.0
+Australia,3,0,0,9,3,3.0
+Mexico,3,0,1,9,4,2.25
+Curaçao,3,0,0,9,3,3.0
+Portugal,3,0,5,9,8,1.12
+Barbados,2,2,12,8,16,0.5
+Northern Ireland,2,2,8,8,12,0.67
+Egypt,2,1,1,7,4,1.75
+Cuba,2,1,3,7,6,1.17
+Martinique,2,1,2,7,5,1.4
+Jersey,2,0,3,6,5,1.2
+Uruguay,2,0,5,6,7,0.86
+Republic of Ireland,1,2,2,5,5,1.0
+Haiti,1,1,3,4,5,0.8
+Greece,1,1,10,4,12,0.33
+Dominica,1,0,0,3,1,3.0
+Indonesia,1,0,2,3,3,1.0
+Kenya,1,0,1,3,2,1.5
+Uganda,1,0,1,3,2,1.5
+Turkey,1,0,2,3,3,1.0
+Japan,1,0,2,3,3,1.0
+United States,1,0,2,3,3,1.0
+Jamaica,1,0,1,3,2,1.5
+Basque Country,1,0,0,3,1,3.0
+Philippines,1,0,2,3,3,1.0
+Paraguay,0,2,2,2,4,0.5
+Catalonia,0,0,2,0,2,0.0
+Luxembourg,0,0,2,0,2,0.0
+Israel,0,0,2,0,2,0.0
+Silesia,0,0,1,0,1,0.0
+Aruba,0,0,3,0,3,0.0
+Alderney,0,0,4,0,4,0.0
+New Zealand,0,0,3,0,3,0.0
+Guadeloupe,0,0,1,0,1,0.0

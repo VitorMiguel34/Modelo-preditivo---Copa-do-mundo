@@ -1,0 +1,18 @@
+,Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials,resultado
+18,1934.0,27 May 1934 - 16:30 ,Preliminary round,Stadio Benito Mussolini,Turin ,Austria,3.0,2.0,France,Austria win after extra time ,16000.0,0.0,0.0,VAN MOORSEL Johannes (NED),CAIRONI Camillo (ITA),BAERT Louis (BEL),204.0,1104.0,AUT,FRA,1
+19,1934.0,27 May 1934 - 16:30 ,Preliminary round,Giorgio Ascarelli,Naples ,Hungary,4.0,2.0,Egypt, ,9000.0,2.0,2.0,BARLASSINA Rinaldo (ITA),DATTILO Generoso (ITA),SASSI Otello (ITA),204.0,1119.0,HUN,EGY,1
+20,1934.0,27 May 1934 - 16:30 ,Preliminary round,San Siro,Milan ,Switzerland,3.0,2.0,Netherlands, ,33000.0,2.0,1.0,EKLIND Ivan (SWE),BERANEK Alois (AUT),BONIVENTO Ferruccio (ITA),204.0,1133.0,SUI,NED,1
+21,1934.0,27 May 1934 - 16:30 ,Preliminary round,Littorale,Bologna ,Sweden,3.0,2.0,Argentina, ,14000.0,1.0,1.0,BRAUN Eugen (AUT),CARRARO Albino (ITA),TURBIANI Giuseppe (ITA),204.0,1102.0,SWE,ARG,1
+22,1934.0,27 May 1934 - 16:30 ,Preliminary round,Giovanni Berta,Florence ,Germany,5.0,2.0,Belgium, ,8000.0,1.0,2.0,MATTEA Francesco (ITA),MELANDRI Ermenegildo (ITA),BAERT Jacques (FRA),204.0,1108.0,GER,BEL,1
+23,1934.0,27 May 1934 - 16:30 ,Preliminary round,Luigi Ferraris,Genoa ,Spain,3.0,1.0,Brazil, ,21000.0,3.0,0.0,BIRLEM Alfred (GER),CARMINATI Ettore (ITA),IVANCSICS Mihaly (HUN),204.0,1111.0,ESP,BRA,1
+24,1934.0,27 May 1934 - 16:30 ,Preliminary round,Nazionale PNF,Rome ,Italy,7.0,1.0,USA, ,25000.0,3.0,0.0,MERCET Rene (SUI),ESCARTIN Pedro (ESP),ZENISEK Bohumil (TCH),204.0,1135.0,ITA,USA,1
+25,1934.0,27 May 1934 - 16:30 ,Preliminary round,Littorio,Trieste ,Czechoslovakia,2.0,1.0,Romania, ,9000.0,0.0,1.0,LANGENUS Jean (BEL),SCARPI Giuseppe (ITA),SCORZONI Raffaele (ITA),204.0,1141.0,TCH,ROU,1
+26,1934.0,31 May 1934 - 16:30 ,Quarter-finals,Stadio Benito Mussolini,Turin ,Czechoslovakia,3.0,2.0,Switzerland, ,12000.0,1.0,1.0,BERANEK Alois (AUT),MOHAMED Youssuf (EGY),BAERT Jacques (FRA),418.0,1143.0,TCH,SUI,1
+27,1934.0,31 May 1934 - 16:30 ,Quarter-finals,San Siro,Milan ,Germany,2.0,1.0,Sweden, ,3000.0,0.0,0.0,BARLASSINA Rinaldo (ITA),MERCET Rene (SUI),VAN MOORSEL Johannes (NED),418.0,1129.0,GER,SWE,1
+28,1934.0,31 May 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,1.0,Spain, ,35000.0,0.0,0.0,BAERT Louis (BEL),ZENISEK Bohumil (TCH),IVANCSICS Mihaly (HUN),418.0,1122.0,ITA,ESP,0
+29,1934.0,31 May 1934 - 16:30 ,Quarter-finals,Littorale,Bologna ,Austria,2.0,1.0,Hungary, ,23000.0,1.0,0.0,MATTEA Francesco (ITA),ESCARTIN Pedro (ESP),BIRLEM Alfred (GER),418.0,1106.0,AUT,HUN,1
+30,1934.0,01 Jun 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,0.0,Spain, ,43000.0,1.0,0.0,MERCET Rene (SUI),IVANCSICS Mihaly (HUN),ZENISEK Bohumil (TCH),418.0,1123.0,ITA,ESP,1
+31,1934.0,03 Jun 1934 - 16:30 ,Semi-finals,San Siro,Milan ,Italy,1.0,0.0,Austria, ,35000.0,1.0,0.0,EKLIND Ivan (SWE),BAERT Louis (BEL),ZENISEK Bohumil (TCH),3492.0,1107.0,ITA,AUT,1
+32,1934.0,03 Jun 1934 - 16:30 ,Semi-finals,Nazionale PNF,Rome ,Czechoslovakia,3.0,1.0,Germany, ,15000.0,1.0,0.0,BARLASSINA Rinaldo (ITA),BERANEK Alois (AUT),ESCARTIN Pedro (ESP),3492.0,1130.0,TCH,GER,1
+33,1934.0,07 Jun 1934 - 18:00 ,Match for third place,Giorgio Ascarelli,Naples ,Germany,3.0,2.0,Austria, ,7000.0,3.0,1.0,CARRARO Albino (ITA),CAIRONI Camillo (ITA),ESCARTIN Pedro (ESP),3491.0,1105.0,GER,AUT,1
+34,1934.0,10 Jun 1934 - 17:30 ,Final,Nazionale PNF,Rome ,Italy,2.0,1.0,Czechoslovakia,Italy win after extra time ,55000.0,0.0,0.0,EKLIND Ivan (SWE),BAERT Louis (BEL),IVANCSICS Mihaly (HUN),3490.0,1134.0,ITA,TCH,1

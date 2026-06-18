@@ -1,33 +1,273 @@
 team,wins,draws,loses,points,games_played,points_per_game
-Spain,38,8,6,122,52,2.35
+Kuwait,35,24,20,129,79,1.63
+Spain,39,8,6,125,53,2.36
+Iraq,33,16,26,115,75,1.53
 Brazil,35,10,8,115,53,2.17
-Mexico,33,13,15,112,61,1.84
+Mexico,34,13,15,115,62,1.85
+Panama,33,15,16,114,64,1.78
+Jordan,30,23,17,113,70,1.61
 United States,32,11,16,107,59,1.81
-Iran,31,13,8,106,52,2.04
+Iran,31,14,8,107,53,2.02
+Uganda,28,19,14,103,61,1.69
 Germany,31,10,6,103,47,2.19
-Japan,29,11,11,98,51,1.92
+Oman,26,25,17,103,68,1.51
+Japan,30,11,11,101,52,1.94
+Egypt,31,8,12,101,51,1.98
+Philippines,27,20,17,101,64,1.58
+Zambia,26,19,16,97,61,1.59
+Sweden,30,6,14,96,50,1.92
 Argentina,27,15,7,96,49,1.96
-Ivory Coast,27,10,4,91,41,2.22
+Qatar,25,18,22,93,65,1.43
+Ivory Coast,27,10,5,91,42,2.17
 Costa Rica,24,19,22,91,65,1.4
-Nigeria,24,17,8,89,49,1.82
-Ghana,26,11,12,89,49,1.82
-France,25,11,10,86,46,1.87
-Netherlands,25,11,8,86,44,1.95
+Nigeria,24,18,8,90,50,1.8
+France,26,11,10,89,47,1.89
+Ghana,26,11,13,89,50,1.78
+United Arab Emirates,27,8,13,89,48,1.85
+Netherlands,26,11,8,89,45,1.98
+Greece,24,14,5,86,43,2.0
+Uruguay,24,14,11,86,49,1.76
 Australia,25,11,13,86,49,1.76
-Greece,24,13,5,85,42,2.02
-Italy,22,18,11,84,51,1.65
-Uruguay,23,14,11,83,48,1.73
-South Korea,24,11,14,83,49,1.69
-Russia,23,13,6,82,42,1.95
+Bahrain,20,25,23,85,68,1.25
+Italy,22,19,11,85,52,1.63
+England,24,12,5,84,41,2.05
+Palestine,24,11,16,83,51,1.63
+Russia,23,14,6,83,43,1.93
+South Korea,24,11,15,83,50,1.66
 Chile,24,9,15,81,48,1.69
-England,23,12,5,81,40,2.02
+Portugal,23,12,8,81,43,1.88
 Honduras,21,17,21,80,59,1.36
-Portugal,23,11,8,80,42,1.9
-Croatia,21,11,9,74,41,1.8
-Colombia,21,10,8,73,39,1.87
-Cameroon,19,13,7,70,39,1.79
+China,23,11,15,80,49,1.63
+Tanzania,20,18,22,78,60,1.3
+Croatia,22,11,9,77,42,1.83
+South Africa,20,16,11,76,47,1.62
+Libya,21,13,9,76,43,1.77
+Uzbekistan,21,13,16,76,50,1.52
+Tunisia,20,15,10,75,45,1.67
+Colombia,21,11,8,74,40,1.85
+Poland,19,17,14,74,50,1.48
+Republic of Ireland,20,14,15,74,49,1.51
+Kenya,21,10,24,73,55,1.33
+Ukraine,20,12,12,72,44,1.64
+Saudi Arabia,19,15,21,72,55,1.31
+North Korea,20,12,9,72,41,1.76
+Turkey,21,8,14,71,43,1.65
+Sudan,20,11,22,71,53,1.34
+Cameroon,19,13,8,70,40,1.75
+Jamaica,20,10,22,70,52,1.35
+Ecuador,18,15,13,69,46,1.5
 Belgium,19,12,8,69,39,1.77
-Ecuador,18,15,12,69,45,1.53
-Switzerland,17,11,6,62,34,1.82
-Bosnia and Herzegovina,18,7,11,61,36,1.69
-Algeria,17,6,8,57,31,1.84
+Botswana,17,17,14,68,48,1.42
+Czech Republic,18,12,12,66,42,1.57
+Angola,16,18,11,66,45,1.47
+Burkina Faso,18,12,16,66,46,1.43
+Trinidad and Tobago,19,8,17,65,44,1.48
+Romania,17,14,11,65,42,1.55
+Switzerland,18,11,6,65,35,1.86
+Peru,17,14,16,65,47,1.38
+Bosnia and Herzegovina,19,7,11,64,37,1.73
+Paraguay,17,13,16,64,46,1.39
+Thailand,18,10,15,64,43,1.49
+Hungary,18,9,10,63,37,1.7
+Denmark,18,9,13,63,40,1.58
+Ethiopia,17,11,20,62,48,1.29
+Norway,18,8,17,62,43,1.44
+El Salvador,17,11,18,62,46,1.35
+Finland,17,10,15,61,42,1.45
+India,17,10,25,61,52,1.17
+Algeria,18,6,8,60,32,1.88
+Indonesia,17,8,20,59,45,1.31
+Singapore,17,8,22,59,47,1.26
+Guatemala,17,8,19,59,44,1.34
+Estonia,16,9,27,57,52,1.1
+Serbia,16,9,16,57,41,1.39
+Malawi,13,17,16,56,46,1.22
+Venezuela,14,13,21,55,48,1.15
+Scotland,16,7,13,55,36,1.53
+Belarus,14,13,14,55,41,1.34
+Malaysia,13,14,19,53,46,1.15
+Senegal,14,11,10,53,35,1.51
+Zimbabwe,15,8,16,53,39,1.36
+Guyana,15,7,16,52,38,1.37
+Suriname,15,7,9,52,31,1.68
+Montenegro,14,9,9,51,32,1.59
+Afghanistan,14,8,8,50,30,1.67
+Rwanda,12,14,21,50,47,1.06
+Slovakia,13,11,14,50,38,1.32
+Martinique,13,11,9,50,33,1.52
+Morocco,12,13,12,49,37,1.32
+DR Congo,13,10,12,49,35,1.4
+Lebanon,12,12,25,48,49,0.98
+Guadeloupe,14,6,8,48,28,1.71
+New Caledonia,15,3,12,48,30,1.6
+Mali,13,8,17,47,38,1.24
+Guinea,13,8,9,47,30,1.57
+Slovenia,14,5,15,47,34,1.38
+Haiti,14,5,12,47,31,1.52
+Austria,13,8,15,47,36,1.31
+Albania,12,10,16,46,38,1.21
+Maldives,12,10,15,46,37,1.24
+Canada,11,12,15,45,38,1.18
+Cuba,13,6,18,45,37,1.22
+Dominican Republic,13,4,6,43,23,1.87
+Armenia,13,4,17,43,34,1.26
+Cape Verde,12,6,10,42,28,1.5
+Gabon,10,12,12,42,34,1.24
+Tajikistan,13,3,9,42,25,1.68
+Bulgaria,11,8,16,41,35,1.17
+Georgia,11,8,14,41,33,1.24
+Mozambique,10,11,12,41,33,1.24
+Israel,11,7,14,40,32,1.25
+Azerbaijan,9,13,16,40,38,1.05
+New Zealand,11,7,9,40,27,1.48
+Burundi,10,9,11,39,30,1.3
+Syria,10,9,20,39,39,1.0
+North Macedonia,10,9,20,39,39,1.0
+Tahiti,12,3,14,39,29,1.34
+Moldova,10,8,21,38,39,0.97
+Vietnam,11,5,16,38,32,1.19
+Antigua and Barbuda,10,7,14,37,31,1.19
+Namibia,8,13,13,37,34,1.09
+Wales,11,3,17,36,31,1.16
+Nepal,9,8,16,35,33,1.06
+Iceland,9,6,19,33,34,0.97
+Togo,9,6,17,33,32,1.03
+French Guiana,10,3,12,33,25,1.32
+Latvia,8,9,21,33,38,0.87
+Réunion,10,2,2,32,14,2.29
+Hong Kong,9,5,14,32,28,1.14
+Guernsey,10,1,1,31,12,2.58
+Liberia,8,7,10,31,25,1.24
+Lithuania,7,8,20,29,35,0.83
+Niger,6,11,20,29,37,0.78
+Equatorial Guinea,8,5,15,29,28,1.04
+Zanzibar,7,7,6,28,20,1.4
+Puerto Rico,8,4,11,28,23,1.22
+Myanmar,7,7,15,28,29,0.97
+Solomon Islands,8,4,10,28,22,1.27
+Laos,6,9,17,27,32,0.84
+Occitania,9,0,1,27,10,2.7
+Turkmenistan,8,3,6,27,17,1.59
+Sierra Leone,6,8,8,26,22,1.18
+Bolivia,4,14,18,26,36,0.72
+Congo,7,4,11,25,22,1.14
+Bermuda,8,1,4,25,13,1.92
+Malta,7,4,20,25,31,0.81
+Kazakhstan,6,7,17,25,30,0.83
+Pakistan,6,6,13,24,25,0.96
+Lesotho,4,12,14,24,30,0.8
+Vanuatu,7,3,4,24,14,1.71
+Saint Kitts and Nevis,5,8,4,23,17,1.35
+Taiwan,6,4,12,22,22,1.0
+Luxembourg,5,7,24,22,36,0.61
+Bangladesh,5,6,9,21,20,1.05
+Guam,6,3,12,21,21,1.0
+Belize,5,6,12,21,23,0.91
+Grenada,5,6,14,21,25,0.84
+Northern Ireland,3,11,18,20,32,0.62
+Yemen,5,5,26,20,36,0.56
+Aruba,5,5,6,20,16,1.25
+Mauritania,5,5,6,20,16,1.25
+Benin,4,8,7,20,19,1.05
+Central African Republic,5,5,12,20,22,0.91
+Fiji,6,2,4,20,12,1.67
+Kyrgyzstan,5,4,12,19,21,0.9
+Saint Lucia,5,4,15,19,24,0.79
+Curaçao,5,4,15,19,24,0.79
+Cyprus,3,8,20,17,31,0.55
+Seychelles,5,2,8,17,15,1.13
+Dominica,5,1,11,16,17,0.94
+Mayotte,4,4,5,16,13,1.23
+Jersey,5,1,4,16,10,1.6
+Saint Vincent and the Grenadines,4,4,4,16,12,1.33
+Eswatini,3,7,19,16,29,0.55
+Nicaragua,4,4,10,16,18,0.89
+Gambia,4,4,12,16,20,0.8
+Isle of Wight,5,0,0,15,5,3.0
+Liechtenstein,3,5,24,14,32,0.44
+Gibraltar,4,2,3,14,9,1.56
+Guinea-Bissau,4,2,9,14,15,0.93
+Barbados,4,2,10,14,16,0.88
+Kurdistan,4,1,0,13,5,2.6
+Chad,3,4,10,13,17,0.76
+Madagascar,3,3,11,12,17,0.71
+Cambodia,3,3,13,12,19,0.63
+Iraqi Kurdistan,4,0,0,12,4,3.0
+Sri Lanka,3,3,14,12,20,0.6
+Provence,4,0,4,12,8,1.5
+Basque Country,4,0,1,12,5,2.4
+Raetia,3,1,7,10,11,0.91
+Sealand,2,4,3,10,9,1.11
+Mauritius,2,3,11,9,16,0.56
+Falkland Islands,3,0,5,9,8,1.12
+Monaco,3,0,3,9,6,1.5
+Greenland,3,0,5,9,8,1.12
+Tamil Eelam,3,0,4,9,7,1.29
+São Tomé and Príncipe,2,2,3,8,7,1.14
+Catalonia,2,2,0,8,4,2.0
+Papua New Guinea,2,2,3,8,7,1.14
+Bonaire,2,2,4,8,8,1.0
+Faroe Islands,2,2,22,8,26,0.31
+Chagos Islands,2,1,1,7,4,1.75
+Mongolia,2,1,4,7,7,1.0
+Samoa,2,1,6,7,9,0.78
+Saint Martin,2,1,5,7,8,0.88
+Tuvalu,2,1,3,7,6,1.17
+Isle of Man,2,1,1,7,4,1.75
+United States Virgin Islands,2,1,7,7,10,0.7
+Bahamas,2,0,0,6,2,3.0
+British Virgin Islands,2,0,9,6,11,0.55
+Brunei,2,0,2,6,4,1.5
+Timor-Leste,2,0,9,6,11,0.55
+Western Sahara,2,0,6,6,8,0.75
+Quebec,2,0,1,6,3,2.0
+Northern Cyprus,2,0,2,6,4,1.5
+Ynys Môn,2,0,2,6,4,1.5
+Macau,2,0,15,6,17,0.35
+Montserrat,2,0,6,6,8,0.75
+Comoros,0,5,10,5,15,0.33
+Cayman Islands,1,2,6,5,9,0.56
+Menorca,1,1,1,4,3,1.33
+Tonga,1,1,1,4,3,1.33
+Cook Islands,1,1,5,4,7,0.57
+Artsakh,1,1,0,4,2,2.0
+Anguilla,1,1,9,4,11,0.36
+American Samoa,1,1,6,4,8,0.5
+Saare County,1,1,1,4,3,1.33
+Abkhazia,1,1,1,4,3,1.33
+Åland Islands,1,1,2,4,4,1.0
+Gotland,1,0,3,3,4,0.75
+Brittany,1,0,1,3,2,1.5
+Andalusia,1,0,0,3,1,3.0
+Rhodes,1,0,1,3,2,1.5
+Ellan Vannin,1,0,0,3,1,3.0
+Galicia,1,0,1,3,2,1.5
+Tibet,1,0,2,3,3,1.0
+Franconia,1,0,0,3,1,3.0
+Corsica,1,0,0,3,1,3.0
+Gozo,1,0,0,3,1,3.0
+Alderney,0,2,10,2,12,0.17
+South Sudan,0,2,8,2,10,0.2
+Andorra,0,2,27,2,29,0.07
+Eritrea,0,2,7,2,9,0.22
+Saugeais,0,1,0,1,1,1.0
+Somaliland,0,1,0,1,1,1.0
+Somalia,0,1,13,1,14,0.07
+Kosovo,0,1,2,1,3,0.33
+Darfur,0,0,3,0,3,0.0
+Saint Barthélemy,0,0,1,0,1,0.0
+Sápmi,0,0,1,0,1,0.0
+Madrid,0,0,1,0,1,0.0
+Saint Pierre and Miquelon,0,0,7,0,7,0.0
+Frøya,0,0,4,0,4,0.0
+San Marino,0,0,24,0,24,0.0
+Romani people,0,0,1,0,1,0.0
+Bhutan,0,0,11,0,11,0.0
+Djibouti,0,0,5,0,5,0.0
+Vatican City,0,0,4,0,4,0.0
+Cilento,0,0,1,0,1,0.0
+Northern Mariana Islands,0,0,6,0,6,0.0
+Western Isles,0,0,3,0,3,0.0
+Turks and Caicos Islands,0,0,3,0,3,0.0
+South Ossetia,0,0,1,0,1,0.0
+Kiribati,0,0,4,0,4,0.0

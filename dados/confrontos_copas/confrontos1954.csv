@@ -1,0 +1,27 @@
+,Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials,resultado
+75,1954.0,16 Jun 1954 - 18:00 ,Group 3,Wankdorf Stadium,Berne ,Uruguay,2.0,0.0,Czechoslovakia, ,20500.0,0.0,0.0,ELLIS Arthur (ENG),LING William (ENG),SCHICKER Werner (SUI),211.0,1315.0,URU,TCH,1
+76,1954.0,16 Jun 1954 - 18:00 ,Group 3,Hardturm,Zurich ,Austria,1.0,0.0,Scotland, ,25000.0,1.0,0.0,FRANKEN Laurent (BEL),VIANA Mario (BRA),GULDE Josef (SUI),211.0,1236.0,AUT,SCO,1
+77,1954.0,16 Jun 1954 - 18:00 ,Group 1,Charmilles,Geneva ,Brazil,5.0,0.0,Mexico, ,13470.0,4.0,0.0,WYSSLING Paul (SUI),SCHONHOLZER Ernest (SUI),DA COSTA VIEIRA Jose (POR),211.0,1249.0,BRA,MEX,1
+78,1954.0,16 Jun 1954 - 18:00 ,Group 1,La Pontaise,Lausanne ,Yugoslavia,1.0,0.0,France, ,16000.0,1.0,0.0,GRIFFITHS Benjamin (WAL),BAUMBERGER Rene (SUI),ASENSI Manuel (ESP),211.0,1276.0,YUG,FRA,1
+79,1954.0,17 Jun 1954 - 18:00 ,Group 2,Wankdorf Stadium,Berne ,Germany FR,4.0,1.0,Turkey, ,28000.0,1.0,1.0,DA COSTA VIEIRA Jose (POR),ZSOLT Istvan (HUN),MERLOTTI Armand (SUI),211.0,1283.0,FRG,TUR,1
+80,1954.0,17 Jun 1954 - 18:00 ,Group 2,Hardturm,Zurich ,Hungary,9.0,0.0,Korea Republic, ,13000.0,4.0,0.0,VINCENTI Raymond (FRA),VON GUNTER Albert (SUI),STEINER Carl (AUT),211.0,1294.0,HUN,KOR,1
+81,1954.0,17 Jun 1954 - 18:10 ,Group 4,St. Jakob,Basel ,England,4.0,4.0,Belgium, ,14000.0,0.0,0.0,SCHMETZER Emil (FRG),BUCHMUELLER Fritz (SUI),RUFFLI Willy (SUI),211.0,1240.0,ENG,BEL,0
+82,1954.0,17 Jun 1954 - 17:50 ,Group 4,La Pontaise,Lausanne ,Switzerland,2.0,1.0,Italy, ,43000.0,1.0,1.0,VIANA Mario (BRA),ASENSI Manuel (ESP),MARINO Esteban (URU),211.0,1300.0,SUI,ITA,1
+83,1954.0,19 Jun 1954 - 16:50 ,Group 3,St. Jakob,Basel ,Uruguay,7.0,0.0,Scotland, ,34000.0,2.0,0.0,ORLANDINI Vincenzo (ITA),WYSSLING Paul (SUI),GUIDI Denilo (SUI),211.0,1313.0,URU,SCO,1
+84,1954.0,19 Jun 1954 - 17:00 ,Group 3,Hardturm,Zurich ,Austria,5.0,0.0,Czechoslovakia, ,26000.0,4.0,0.0,STEFANOVIC Vasa (YUG),DOERFLINGER Ernst (SUI),GULDE Josef (SUI),211.0,1238.0,AUT,TCH,1
+85,1954.0,19 Jun 1954 - 17:10 ,Group 1,Charmilles,Geneva ,France,3.0,2.0,Mexico, ,19000.0,1.0,0.0,ASENSI Manuel (ESP),FRANKEN Laurent (BEL),BAUMBERGER Rene (SUI),211.0,1275.0,FRA,MEX,1
+86,1954.0,19 Jun 1954 - 17:00 ,Group 1,La Pontaise,Lausanne ,Brazil,1.0,1.0,Yugoslavia, ,24637.0,0.0,0.0,FAULTLESS Charlie (SCO),ELLIS Arthur (ENG),VON GUNTER Albert (SUI),211.0,1252.0,BRA,YUG,0
+87,1954.0,20 Jun 1954 - 16:50 ,Group 2,St. Jakob,Basel ,Hungary,8.0,3.0,Germany FR, ,56000.0,3.0,1.0,LING William (ENG),SCHICKER Werner (SUI),GRIFFITHS Benjamin (WAL),211.0,1277.0,HUN,FRG,1
+88,1954.0,20 Jun 1954 - 17:00 ,Group 2,Charmilles,Geneva ,Turkey,7.0,0.0,Korea Republic, ,4000.0,4.0,0.0,MARINO Esteban (URU),ORLANDINI Vincenzo (ITA),SCHONHOLZER Ernest (SUI),211.0,1304.0,TUR,KOR,1
+89,1954.0,20 Jun 1954 - 17:10 ,Group 4,Wankdorf Stadium,Berne ,England,2.0,0.0,Switzerland, ,43500.0,1.0,0.0,ZSOLT Istvan (HUN),DA COSTA VIEIRA Jose (POR),STEFANOVIC Vasa (YUG),211.0,1263.0,ENG,SUI,1
+90,1954.0,20 Jun 1954 - 17:00 ,Group 4,Comunale di Cornaredo,Lugano ,Italy,4.0,1.0,Belgium, ,24000.0,1.0,0.0,STEINER Carl (AUT),VINCENTI Raymond (FRA),SCHMETZER Emil (FRG),211.0,1243.0,ITA,BEL,1
+91,1954.0,23 Jun 1954 - 18:00 ,Group 2,Hardturm,Zurich ,Germany FR,7.0,2.0,Turkey, ,17000.0,3.0,1.0,VINCENTI Raymond (FRA),FAULTLESS Charlie (SCO),DOERFLINGER Ernst (SUI),211.0,1284.0,FRG,TUR,1
+92,1954.0,23 Jun 1954 - 18:00 ,Group 4,St. Jakob,Basel ,Switzerland,4.0,1.0,Italy, ,30000.0,1.0,0.0,GRIFFITHS Benjamin (WAL),DA COSTA VIEIRA Jose (POR),LING William (ENG),211.0,1301.0,SUI,ITA,1
+93,1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,St. Jakob,Basel ,Uruguay,4.0,2.0,England, ,28000.0,2.0,1.0,STEINER Carl (AUT),STEFANOVIC Vasa (YUG),ORLANDINI Vincenzo (ITA),212.0,1264.0,URU,ENG,1
+94,1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,La Pontaise,Lausanne ,Austria,7.0,5.0,Switzerland, ,35000.0,5.0,4.0,FAULTLESS Charlie (SCO),ASENSI Manuel (ESP),SCHMETZER Emil (FRG),212.0,1237.0,AUT,SUI,1
+95,1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Charmilles,Geneva ,Germany FR,2.0,0.0,Yugoslavia, ,17000.0,1.0,0.0,ZSOLT Istvan (HUN),FRANKEN Laurent (BEL),BUCHMUELLER Fritz (SUI),212.0,1285.0,FRG,YUG,1
+96,1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Wankdorf Stadium,Berne ,Hungary,4.0,2.0,Brazil, ,40000.0,2.0,1.0,ELLIS Arthur (ENG),LING William (ENG),WYSSLING Paul (SUI),212.0,1248.0,HUN,BRA,1
+97,1954.0,30 Jun 1954 - 18:00 ,Semi-finals,St. Jakob,Basel ,Germany FR,6.0,1.0,Austria, ,58000.0,1.0,0.0,ORLANDINI Vincenzo (ITA),ELLIS Arthur (ENG),BUCHMUELLER Fritz (SUI),462.0,1233.0,FRG,AUT,1
+98,1954.0,30 Jun 1954 - 18:00 ,Semi-finals,La Pontaise,Lausanne ,Hungary,4.0,2.0,Uruguay,Hungary win after extra time ,45000.0,0.0,0.0,GRIFFITHS Benjamin (WAL),FAULTLESS Charlie (SCO),VINCENTI Raymond (FRA),462.0,1295.0,HUN,URU,1
+99,1954.0,03 Jul 1954 - 17:00 ,Match for third place,Hardturm,Zurich ,Austria,3.0,1.0,Uruguay, ,32000.0,1.0,1.0,WYSSLING Paul (SUI),ZSOLT Istvan (HUN),ELLIS Arthur (ENG),3485.0,1239.0,AUT,URU,1
+100,1954.0,04 Jul 1954 - 17:00 ,Final,Wankdorf Stadium,Berne ,Germany FR,3.0,2.0,Hungary, ,62500.0,2.0,2.0,LING William (ENG),ORLANDINI Vincenzo (ITA),GRIFFITHS Benjamin (WAL),3484.0,1278.0,FRG,HUN,1
