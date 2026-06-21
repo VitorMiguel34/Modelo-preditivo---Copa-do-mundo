@@ -1,331 +1,331 @@
-,index,date,home_team,away_team,home_score,away_score
-0,6776,1966-09-18,Norway,Sweden,2.0,4.0
-1,6778,1966-09-21,German DR,Romania,2.0,0.0
-2,6789,1966-10-05,Sweden,Austria,4.0,1.0
-3,6796,1966-10-19,Yugoslavia,Czechoslovakia,1.0,0.0
-4,6797,1966-10-22,Belgium,Switzerland,1.0,0.0
-5,6799,1966-10-22,Northern Ireland,England,0.0,2.0
-6,6806,1966-11-01,Italy,Russia,1.0,0.0
-7,6809,1966-11-02,England,Czechoslovakia,0.0,0.0
-8,6810,1966-11-02,Romania,Switzerland,4.0,2.0
-9,6817,1966-11-06,Netherlands,Czechoslovakia,1.0,2.0
-10,6818,1966-11-06,Sweden,Denmark,2.0,1.0
-11,6822,1966-11-11,Belgium,France,2.0,1.0
-12,6826,1966-11-13,Portugal,Sweden,1.0,2.0
-13,6827,1966-11-16,England,Wales,5.0,1.0
-14,6830,1966-11-17,Romania,Poland,4.0,3.0
-15,6834,1966-11-24,Algeria,Morocco,2.0,2.0
-16,6839,1966-11-26,Italy,Romania,3.0,1.0
-17,6855,1966-12-03,Cyprus,Romania,1.0,5.0
-18,6859,1966-12-07,Israel,Romania,1.0,2.0
-19,6903,1967-01-04,Uruguay,Romania,1.0,1.0
-20,6904,1967-01-05,Mexico,Switzerland,3.0,0.0
-21,6905,1967-01-08,Mexico,Switzerland,0.0,2.0
-22,6911,1967-01-17,Uruguay,Bolivia,4.0,0.0
-23,6923,1967-01-21,Uruguay,Venezuela,4.0,0.0
-24,6933,1967-01-26,Uruguay,Chile,2.0,2.0
-25,6940,1967-01-29,Uruguay,Paraguay,2.0,0.0
-26,6945,1967-02-02,Uruguay,Argentina,1.0,0.0
-27,6961,1967-02-22,Germany,Morocco,5.0,1.0
-28,6976,1967-03-06,Mexico,Nicaragua,4.0,0.0
-29,6978,1967-03-08,Greece,Romania,1.0,2.0
-30,6981,1967-03-10,Guatemala,Mexico,1.0,0.0
-31,6987,1967-03-12,Mexico,Trinidad and Tobago,4.0,0.0
-32,6990,1967-03-14,Haiti,Mexico,0.0,1.0
-33,6996,1967-03-19,Honduras,Mexico,0.0,1.0
-34,6998,1967-03-19,Luxembourg,Belgium,0.0,5.0
-35,7001,1967-03-22,Cyprus,Italy,0.0,2.0
-36,7002,1967-03-22,France,Romania,1.0,2.0
-37,7007,1967-03-27,Italy,Portugal,1.0,1.0
-38,7020,1967-04-15,England,Scotland,2.0,3.0
-39,7022,1967-04-16,Belgium,Netherlands,1.0,0.0
-40,7026,1967-04-23,Romania,Cyprus,7.0,0.0
-41,7028,1967-05-03,Switzerland,Czechoslovakia,1.0,2.0
-42,7040,1967-05-17,Sweden,German DR,0.0,1.0
-43,7042,1967-05-21,Republic of Ireland,Czechoslovakia,0.0,2.0
-44,7043,1967-05-21,Poland,Belgium,3.0,1.0
-45,7045,1967-05-24,England,Spain,2.0,0.0
-46,7047,1967-05-24,Switzerland,Romania,7.0,1.0
-47,7048,1967-05-27,Austria,England,0.0,1.0
-48,7049,1967-05-28,Russia,Mexico,2.0,0.0
-49,7052,1967-06-01,Sweden,Portugal,1.0,1.0
-50,7054,1967-06-04,Belarus,Mexico,2.0,1.0
-51,7059,1967-06-11,Sweden,Bulgaria,0.0,2.0
-52,7060,1967-06-18,Czechoslovakia,Turkey,3.0,0.0
-53,7062,1967-06-25,Denmark,Sweden,1.0,1.0
-54,7063,1967-06-25,Romania,Italy,0.0,1.0
-55,7064,1967-06-25,Uruguay,Brazil,0.0,0.0
-56,7065,1967-06-28,Uruguay,Brazil,2.0,2.0
-57,7067,1967-07-01,Uruguay,Brazil,1.0,1.0
-58,7073,1967-07-28,Peru,Uruguay,0.0,1.0
-59,7074,1967-07-28,Peru,Japan,1.0,0.0
-60,7077,1967-07-30,Peru,Uruguay,1.0,2.0
-61,7078,1967-07-30,Peru,Japan,0.0,0.0
-62,7093,1967-08-10,Sweden,Finland,2.0,0.0
-63,7125,1967-08-22,Mexico,Argentina,2.0,1.0
-64,7137,1967-09-03,Norway,Sweden,3.0,1.0
-65,7143,1967-09-19,Chile,Brazil,0.0,1.0
-66,7151,1967-10-01,Czechoslovakia,Spain,1.0,0.0
-67,7162,1967-10-08,Belgium,Poland,2.0,4.0
-68,7165,1967-10-10,El Salvador,Haiti,2.0,0.0
-69,7175,1967-10-21,Wales,England,0.0,3.0
-70,7177,1967-10-22,Guatemala,El Salvador,1.0,0.0
-71,7178,1967-10-22,Spain,Czechoslovakia,2.0,1.0
-72,7180,1967-10-28,France,Belgium,1.0,1.0
-73,7181,1967-10-29,El Salvador,Costa Rica,3.0,1.0
-74,7183,1967-10-29,Poland,Romania,0.0,0.0
-75,7186,1967-11-01,Italy,Cyprus,5.0,0.0
-76,7192,1967-11-05,El Salvador,Guatemala,1.0,3.0
-77,7195,1967-11-05,Sweden,Norway,5.0,2.0
-78,7210,1967-11-12,Bulgaria,Sweden,3.0,0.0
-79,7220,1967-11-15,Turkey,Czechoslovakia,0.0,0.0
-80,7223,1967-11-18,Switzerland,Italy,2.0,2.0
-81,7225,1967-11-22,Belgium,Luxembourg,3.0,0.0
-82,7226,1967-11-22,Czechoslovakia,Republic of Ireland,1.0,2.0
-83,7227,1967-11-22,England,Northern Ireland,2.0,0.0
-84,7228,1967-11-22,Romania,Germany,1.0,0.0
-85,7249,1967-12-06,England,Russia,2.0,2.0
-86,7251,1967-12-06,Mexico,Hungary,2.0,1.0
-87,7252,1967-12-08,Mexico,Hungary,0.0,2.0
-88,7268,1967-12-23,Italy,Switzerland,4.0,0.0
-89,7270,1967-12-24,DR Congo,Romania,1.0,1.0
-90,7272,1968-01-10,Israel,Belgium,0.0,2.0
-91,7292,1968-02-19,Israel,Sweden,0.0,3.0
-92,7293,1968-02-24,Scotland,England,1.0,1.0
-93,7295,1968-02-28,Spain,Sweden,3.0,1.0
-94,7297,1968-03-03,Mexico,Russia,0.0,0.0
-95,7298,1968-03-06,Belgium,Germany,1.0,3.0
-96,7300,1968-03-07,Mexico,Russia,1.0,1.0
-97,7301,1968-03-10,Mexico,Russia,0.0,0.0
-98,7303,1968-03-17,Morocco,Algeria,0.0,0.0
-99,7304,1968-03-26,Mexico,Japan,4.0,0.0
-100,7310,1968-04-03,England,Spain,1.0,0.0
-101,7313,1968-04-06,Bulgaria,Italy,3.0,2.0
-102,7315,1968-04-07,Netherlands,Belgium,1.0,2.0
-103,7322,1968-04-20,Italy,Bulgaria,2.0,0.0
-104,7324,1968-04-24,Russia,Belgium,1.0,0.0
-105,7326,1968-04-27,Czechoslovakia,Yugoslavia,3.0,0.0
-106,7327,1968-05-01,Austria,Romania,1.0,1.0
-107,7330,1968-05-02,Sweden,Spain,1.0,1.0
-108,7332,1968-05-07,El Salvador,Guatemala,3.0,0.0
-109,7334,1968-05-08,Spain,England,1.0,2.0
-110,7352,1968-05-21,Mexico,Uruguay,3.0,3.0
-111,7353,1968-05-22,England,Sweden,3.0,1.0
-112,7354,1968-05-28,Mexico,Uruguay,2.0,2.0
-113,7356,1968-06-01,Germany,England,1.0,0.0
-114,7357,1968-06-02,Paraguay,Uruguay,0.0,0.0
-115,7359,1968-06-05,Argentina,Uruguay,2.0,0.0
-116,7360,1968-06-05,England,Yugoslavia,0.0,1.0
-117,7361,1968-06-05,Italy,Russia,0.0,0.0
-118,7362,1968-06-05,Romania,Netherlands,0.0,0.0
-119,7363,1968-06-08,England,Russia,2.0,0.0
-120,7364,1968-06-08,Italy,Yugoslavia,1.0,1.0
-121,7365,1968-06-09,Brazil,Uruguay,2.0,0.0
-122,7367,1968-06-10,Italy,Yugoslavia,2.0,0.0
-123,7368,1968-06-12,Brazil,Uruguay,4.0,0.0
-124,7369,1968-06-16,Germany,Brazil,2.0,1.0
-125,7371,1968-06-19,Finland,Belgium,1.0,2.0
-126,7372,1968-06-20,Poland,Brazil,3.0,6.0
-127,7373,1968-06-20,Uruguay,Argentina,2.0,1.0
-128,7374,1968-06-23,Czechoslovakia,Brazil,3.0,2.0
-129,7376,1968-06-25,Yugoslavia,Brazil,0.0,2.0
-130,7377,1968-06-27,Sweden,Denmark,2.0,1.0
-131,7379,1968-06-30,Portugal,Brazil,0.0,2.0
-132,7384,1968-07-07,Mexico,Brazil,0.0,2.0
-133,7385,1968-07-10,Mexico,Brazil,2.0,1.0
-134,7387,1968-07-14,Peru,Brazil,3.0,4.0
-135,7388,1968-07-17,Honduras,El Salvador,0.0,0.0
-136,7389,1968-07-17,Peru,Brazil,0.0,4.0
-137,7392,1968-07-25,Paraguay,Brazil,0.0,4.0
-138,7393,1968-07-28,Paraguay,Brazil,1.0,0.0
-139,7394,1968-07-31,El Salvador,Honduras,2.0,1.0
-140,7395,1968-08-01,Sweden,Russia,2.0,2.0
-141,7396,1968-08-07,Brazil,Argentina,4.0,1.0
-142,7400,1968-08-11,Brazil,Argentina,3.0,2.0
-143,7411,1968-08-15,El Salvador,Guatemala,1.0,0.0
-144,7422,1968-08-18,Peru,Chile,1.0,2.0
-145,7428,1968-08-21,Peru,Chile,0.0,0.0
-146,7436,1968-08-29,Peru,Argentina,2.0,2.0
-147,7439,1968-09-01,Peru,Argentina,1.0,1.0
-148,7443,1968-09-11,El Salvador,Costa Rica,1.0,1.0
-149,7444,1968-09-11,Finland,Sweden,0.0,3.0
-150,7445,1968-09-15,Norway,Sweden,1.0,1.0
-151,7451,1968-09-25,Denmark,Czechoslovakia,0.0,3.0
-152,7457,1968-09-29,Mexico,Ethiopia,3.0,0.0
-153,7467,1968-10-09,Belgium,Finland,6.0,1.0
-154,7468,1968-10-09,Sweden,Norway,5.0,0.0
-155,7477,1968-10-16,Belgium,Yugoslavia,3.0,0.0
-156,7478,1968-10-16,Colombia,Mexico,0.0,1.0
-157,7482,1968-10-20,Czechoslovakia,Denmark,1.0,0.0
-158,7484,1968-10-20,Peru,Mexico,3.0,3.0
-159,7488,1968-10-23,Chile,Mexico,3.0,1.0
-160,7491,1968-10-23,Wales,Italy,0.0,1.0
-161,7493,1968-10-26,Uruguay,Mexico,0.0,2.0
-162,7496,1968-10-27,Portugal,Romania,3.0,0.0
-163,7501,1968-10-31,Brazil,Mexico,1.0,2.0
-164,7503,1968-11-03,Brazil,Mexico,2.0,1.0
-165,7504,1968-11-03,Morocco,Senegal,1.0,0.0
-166,7506,1968-11-06,Romania,England,0.0,0.0
-167,7512,1968-11-14,Costa Rica,El Salvador,3.0,0.0
-168,7531,1968-11-23,Romania,Switzerland,2.0,0.0
-169,7545,1968-12-01,El Salvador,Suriname,6.0,0.0
-170,7559,1968-12-11,England,Bulgaria,1.0,1.0
-171,7561,1968-12-11,Spain,Belgium,1.0,1.0
-172,7563,1968-12-12,El Salvador,Curaçao,1.0,0.0
-173,7565,1968-12-14,Brazil,Germany,2.0,2.0
-174,7567,1968-12-15,El Salvador,Curaçao,2.0,1.0
-175,7570,1968-12-17,Brazil,Yugoslavia,3.0,3.0
-176,7572,1968-12-19,Brazil,Yugoslavia,3.0,2.0
-177,7576,1968-12-22,Mexico,Germany,0.0,0.0
-178,7577,1968-12-22,Suriname,El Salvador,4.0,1.0
-179,7580,1969-01-01,Mexico,Italy,2.0,3.0
-180,7582,1969-01-05,Mexico,Italy,1.0,1.0
-181,7583,1969-01-05,Senegal,Morocco,2.0,1.0
-182,7591,1969-01-15,England,Romania,1.0,1.0
-183,7596,1969-01-22,Mexico,Denmark,3.0,0.0
-184,7605,1969-02-04,Mexico,Colombia,1.0,0.0
-185,7610,1969-02-09,Morocco,Hungary,1.0,4.0
-186,7613,1969-02-13,Morocco,Senegal,2.0,0.0
-187,7616,1969-02-23,Belgium,Spain,2.0,1.0
-188,7618,1969-02-26,Yugoslavia,Sweden,2.0,1.0
-189,7621,1969-03-09,Algeria,Morocco,2.0,0.0
-190,7623,1969-03-12,England,France,5.0,0.0
-191,7627,1969-03-22,Morocco,Algeria,2.0,0.0
-192,7633,1969-03-29,German DR,Italy,2.0,2.0
-193,7634,1969-04-06,Portugal,Mexico,0.0,0.0
-194,7635,1969-04-07,Brazil,Peru,2.0,1.0
-195,7636,1969-04-09,Brazil,Peru,3.0,2.0
-196,7638,1969-04-10,Luxembourg,Mexico,2.0,1.0
-197,7639,1969-04-16,Belgium,Mexico,2.0,0.0
-198,7641,1969-04-16,Greece,Romania,2.0,2.0
-199,7642,1969-04-16,Netherlands,Czechoslovakia,2.0,0.0
-200,7650,1969-04-23,Spain,Mexico,0.0,0.0
-201,7653,1969-04-27,Tunisia,Morocco,0.0,0.0
-202,7654,1969-04-30,France,Romania,1.0,0.0
-203,7657,1969-05-01,Sweden,Mexico,1.0,0.0
-204,7658,1969-05-03,Northern Ireland,England,1.0,3.0
-205,7661,1969-05-04,Republic of Ireland,Czechoslovakia,1.0,2.0
-206,7663,1969-05-06,Denmark,Mexico,3.0,1.0
-207,7665,1969-05-07,England,Wales,2.0,1.0
-208,7667,1969-05-08,Colombia,Peru,1.0,3.0
-209,7668,1969-05-08,Norway,Mexico,0.0,2.0
-210,7670,1969-05-10,England,Scotland,4.0,1.0
-211,7676,1969-05-14,El Salvador,Peru,1.0,4.0
-212,7677,1969-05-14,Switzerland,Romania,0.0,1.0
-213,7680,1969-05-18,Morocco,Tunisia,0.0,0.0
-214,7681,1969-05-20,Mexico,Peru,0.0,1.0
-215,7684,1969-05-22,Mexico,Peru,3.0,0.0
-216,7685,1969-05-22,Sweden,Finland,4.0,0.0
-217,7686,1969-05-24,Italy,Bulgaria,0.0,0.0
-218,7688,1969-05-25,Hungary,Czechoslovakia,2.0,0.0
-219,7692,1969-06-01,Mexico,England,0.0,0.0
-220,7693,1969-06-01,Sweden,Norway,4.0,2.0
-221,7694,1969-06-03,Mexico,England,0.0,4.0
-222,7696,1969-06-08,Honduras,El Salvador,1.0,0.0
-223,7699,1969-06-08,Uruguay,England,1.0,2.0
-224,7701,1969-06-12,Brazil,England,2.0,1.0
-225,7702,1969-06-13,Tunisia,Morocco,2.0,2.0
-226,7706,1969-06-15,El Salvador,Honduras,3.0,0.0
-227,7707,1969-06-18,Peru,Colombia,1.0,1.0
-228,7708,1969-06-19,Norway,Sweden,2.0,5.0
-229,7712,1969-06-25,Denmark,Sweden,0.0,1.0
-230,7715,1969-06-27,Honduras,El Salvador,2.0,3.0
-231,7716,1969-06-27,Peru,Uruguay,1.0,0.0
-232,7721,1969-07-02,Colombia,Uruguay,0.0,1.0
-233,7724,1969-07-06,Ecuador,Uruguay,0.0,2.0
-234,7727,1969-07-09,Peru,Paraguay,2.0,1.0
-235,7728,1969-07-13,Chile,Uruguay,0.0,0.0
-236,7729,1969-07-18,Peru,Paraguay,2.0,1.0
-237,7730,1969-07-20,Uruguay,Ecuador,1.0,0.0
-238,7744,1969-08-03,Peru,Argentina,1.0,0.0
-239,7745,1969-08-06,Colombia,Brazil,0.0,2.0
-240,7746,1969-08-06,Russia,Sweden,0.0,1.0
-241,7748,1969-08-10,Bolivia,Peru,2.0,1.0
-242,7750,1969-08-10,Uruguay,Chile,2.0,0.0
-243,7751,1969-08-10,Venezuela,Brazil,0.0,5.0
-244,7764,1969-08-17,Paraguay,Brazil,0.0,3.0
-245,7765,1969-08-17,Peru,Bolivia,3.0,0.0
-246,7771,1969-08-21,Brazil,Colombia,6.0,2.0
-247,7778,1969-08-24,Brazil,Venezuela,6.0,0.0
-248,7781,1969-08-25,Sweden,Israel,3.0,1.0
-249,7784,1969-08-31,Argentina,Peru,2.0,2.0
-250,7785,1969-08-31,Brazil,Paraguay,1.0,0.0
-251,7788,1969-09-03,Yugoslavia,Romania,1.0,1.0
-252,7796,1969-09-14,Czechoslovakia,Hungary,3.0,3.0
-253,7797,1969-09-14,El Salvador,Costa Rica,2.0,1.0
-254,7802,1969-09-21,Haiti,El Salvador,1.0,2.0
-255,7804,1969-09-21,Morocco,Nigeria,2.0,1.0
-256,7808,1969-09-24,Sweden,Hungary,2.0,0.0
-257,7813,1969-09-28,El Salvador,Haiti,0.0,3.0
-258,7823,1969-10-07,Czechoslovakia,Republic of Ireland,3.0,0.0
-259,7824,1969-10-08,Haiti,El Salvador,0.0,1.0
-260,7827,1969-10-10,Sudan,Morocco,0.0,0.0
-261,7832,1969-10-12,Romania,Portugal,1.0,0.0
-262,7839,1969-10-15,Sweden,France,2.0,0.0
-263,7844,1969-10-19,Yugoslavia,Belgium,4.0,0.0
-264,7846,1969-10-21,Mexico,Bermuda,3.0,0.0
-265,7856,1969-10-26,Morocco,Sudan,3.0,0.0
-266,7857,1969-10-30,Algeria,Morocco,1.0,0.0
-267,7861,1969-11-01,France,Sweden,3.0,0.0
-268,7864,1969-11-02,Bermuda,Mexico,2.0,1.0
-269,7873,1969-11-04,Italy,Wales,4.0,1.0
-270,7877,1969-11-05,Mexico,Belgium,1.0,0.0
-271,7878,1969-11-05,Netherlands,England,0.0,1.0
-272,7886,1969-11-08,Nigeria,Morocco,2.0,0.0
-273,7888,1969-11-09,Ivory Coast,Morocco,1.0,0.0
-274,7895,1969-11-11,Mexico,Norway,4.0,0.0
-275,7903,1969-11-16,Romania,Greece,1.0,1.0
-276,7915,1969-11-22,Italy,German DR,3.0,0.0
-277,7926,1969-11-27,Mexico,Jamaica,2.0,0.0
-278,7933,1969-11-30,Costa Rica,Mexico,2.0,0.0
-279,7936,1969-12-02,Mexico,Guatemala,0.0,1.0
-280,7937,1969-12-03,Czechoslovakia,Hungary,4.0,1.0
-281,7941,1969-12-04,Mexico,Curaçao,2.0,2.0
-282,7945,1969-12-07,Mexico,Trinidad and Tobago,0.0,0.0
-283,7952,1969-12-10,England,Portugal,1.0,0.0
-284,7959,1969-12-28,Morocco,Bulgaria,3.0,0.0
-285,7961,1970-01-14,England,Netherlands,0.0,0.0
-286,7963,1970-02-04,Peru,Czechoslovakia,0.0,2.0
-287,7968,1970-02-07,Peru,Czechoslovakia,2.0,1.0
-288,7973,1970-02-09,Peru,Romania,1.0,1.0
-289,7980,1970-02-14,Peru,Russia,0.0,0.0
-290,7982,1970-02-15,Mexico,Bulgaria,1.0,1.0
-291,7985,1970-02-18,Mexico,Bulgaria,2.0,0.0
-292,7986,1970-02-20,Peru,Russia,0.0,2.0
-293,7987,1970-02-21,Peru,Bulgaria,1.0,3.0
-294,7988,1970-02-21,Spain,Italy,2.0,2.0
-295,7989,1970-02-22,El Salvador,Russia,0.0,2.0
-296,7990,1970-02-22,Mexico,Sweden,0.0,0.0
-297,7991,1970-02-24,Peru,Bulgaria,5.0,3.0
-298,7992,1970-02-25,Belgium,England,1.0,3.0
-299,7993,1970-02-26,Costa Rica,El Salvador,2.0,0.0
-300,7994,1970-02-26,Mexico,Russia,0.0,0.0
-301,7995,1970-03-01,Mexico,Sweden,0.0,1.0
-302,7996,1970-03-04,Brazil,Argentina,0.0,2.0
-303,7997,1970-03-05,Peru,Mexico,0.0,1.0
-304,7998,1970-03-08,Brazil,Argentina,2.0,1.0
-305,7999,1970-03-08,Peru,Mexico,1.0,0.0
-306,8000,1970-03-15,Mexico,Peru,3.0,1.0
-307,8001,1970-03-18,Mexico,Peru,3.0,3.0
-308,8002,1970-03-22,Brazil,Chile,5.0,0.0
-309,8006,1970-03-26,Brazil,Chile,2.0,1.0
-310,8012,1970-03-31,Uruguay,Peru,2.0,0.0
-311,8016,1970-04-08,Argentina,Uruguay,2.0,1.0
-312,8018,1970-04-08,Germany,Romania,1.0,1.0
-313,8020,1970-04-12,Austria,Czechoslovakia,1.0,3.0
-314,8021,1970-04-12,Brazil,Paraguay,0.0,0.0
-315,8025,1970-04-15,Uruguay,Argentina,2.0,1.0
-316,8027,1970-04-18,Wales,England,1.0,1.0
-317,8029,1970-04-21,England,Northern Ireland,3.0,1.0
-318,8030,1970-04-21,Peru,El Salvador,3.0,0.0
-319,8033,1970-04-25,Scotland,England,0.0,0.0
-320,8035,1970-04-28,France,Romania,2.0,0.0
-321,8036,1970-04-29,Brazil,Austria,1.0,0.0
-322,8037,1970-04-29,Mexico,Ecuador,4.0,2.0
-323,8043,1970-05-06,Romania,Yugoslavia,0.0,0.0
-324,8045,1970-05-09,Luxembourg,Czechoslovakia,0.0,1.0
-325,8047,1970-05-10,Portugal,Italy,1.0,2.0
-326,8049,1970-05-13,Norway,Czechoslovakia,0.0,2.0
-327,8051,1970-05-16,Hungary,Sweden,1.0,2.0
-328,8055,1970-05-20,Colombia,England,0.0,4.0
-329,8056,1970-05-24,Ecuador,England,0.0,2.0
+,index,date,home_team,away_team,home_score,away_score,resultado
+0,6776,1966-09-18,Norway,Sweden,2.0,4.0,2
+1,6778,1966-09-21,German DR,Romania,2.0,0.0,1
+2,6789,1966-10-05,Sweden,Austria,4.0,1.0,1
+3,6796,1966-10-19,Yugoslavia,Czechoslovakia,1.0,0.0,1
+4,6797,1966-10-22,Belgium,Switzerland,1.0,0.0,1
+5,6799,1966-10-22,Northern Ireland,England,0.0,2.0,2
+6,6806,1966-11-01,Italy,Russia,1.0,0.0,1
+7,6809,1966-11-02,England,Czechoslovakia,0.0,0.0,0
+8,6810,1966-11-02,Romania,Switzerland,4.0,2.0,1
+9,6817,1966-11-06,Netherlands,Czechoslovakia,1.0,2.0,2
+10,6818,1966-11-06,Sweden,Denmark,2.0,1.0,1
+11,6822,1966-11-11,Belgium,France,2.0,1.0,1
+12,6826,1966-11-13,Portugal,Sweden,1.0,2.0,2
+13,6827,1966-11-16,England,Wales,5.0,1.0,1
+14,6830,1966-11-17,Romania,Poland,4.0,3.0,1
+15,6834,1966-11-24,Algeria,Morocco,2.0,2.0,0
+16,6839,1966-11-26,Italy,Romania,3.0,1.0,1
+17,6855,1966-12-03,Cyprus,Romania,1.0,5.0,2
+18,6859,1966-12-07,Israel,Romania,1.0,2.0,2
+19,6903,1967-01-04,Uruguay,Romania,1.0,1.0,0
+20,6904,1967-01-05,Mexico,Switzerland,3.0,0.0,1
+21,6905,1967-01-08,Mexico,Switzerland,0.0,2.0,2
+22,6911,1967-01-17,Uruguay,Bolivia,4.0,0.0,1
+23,6923,1967-01-21,Uruguay,Venezuela,4.0,0.0,1
+24,6933,1967-01-26,Uruguay,Chile,2.0,2.0,0
+25,6940,1967-01-29,Uruguay,Paraguay,2.0,0.0,1
+26,6945,1967-02-02,Uruguay,Argentina,1.0,0.0,1
+27,6961,1967-02-22,Germany,Morocco,5.0,1.0,1
+28,6976,1967-03-06,Mexico,Nicaragua,4.0,0.0,1
+29,6978,1967-03-08,Greece,Romania,1.0,2.0,2
+30,6981,1967-03-10,Guatemala,Mexico,1.0,0.0,1
+31,6987,1967-03-12,Mexico,Trinidad and Tobago,4.0,0.0,1
+32,6990,1967-03-14,Haiti,Mexico,0.0,1.0,2
+33,6996,1967-03-19,Honduras,Mexico,0.0,1.0,2
+34,6998,1967-03-19,Luxembourg,Belgium,0.0,5.0,2
+35,7001,1967-03-22,Cyprus,Italy,0.0,2.0,2
+36,7002,1967-03-22,France,Romania,1.0,2.0,2
+37,7007,1967-03-27,Italy,Portugal,1.0,1.0,0
+38,7020,1967-04-15,England,Scotland,2.0,3.0,2
+39,7022,1967-04-16,Belgium,Netherlands,1.0,0.0,1
+40,7026,1967-04-23,Romania,Cyprus,7.0,0.0,1
+41,7028,1967-05-03,Switzerland,Czechoslovakia,1.0,2.0,2
+42,7040,1967-05-17,Sweden,German DR,0.0,1.0,2
+43,7042,1967-05-21,Republic of Ireland,Czechoslovakia,0.0,2.0,2
+44,7043,1967-05-21,Poland,Belgium,3.0,1.0,1
+45,7045,1967-05-24,England,Spain,2.0,0.0,1
+46,7047,1967-05-24,Switzerland,Romania,7.0,1.0,1
+47,7048,1967-05-27,Austria,England,0.0,1.0,2
+48,7049,1967-05-28,Russia,Mexico,2.0,0.0,1
+49,7052,1967-06-01,Sweden,Portugal,1.0,1.0,0
+50,7054,1967-06-04,Belarus,Mexico,2.0,1.0,1
+51,7059,1967-06-11,Sweden,Bulgaria,0.0,2.0,2
+52,7060,1967-06-18,Czechoslovakia,Turkey,3.0,0.0,1
+53,7062,1967-06-25,Denmark,Sweden,1.0,1.0,0
+54,7063,1967-06-25,Romania,Italy,0.0,1.0,2
+55,7064,1967-06-25,Uruguay,Brazil,0.0,0.0,0
+56,7065,1967-06-28,Uruguay,Brazil,2.0,2.0,0
+57,7067,1967-07-01,Uruguay,Brazil,1.0,1.0,0
+58,7073,1967-07-28,Peru,Uruguay,0.0,1.0,2
+59,7074,1967-07-28,Peru,Japan,1.0,0.0,1
+60,7077,1967-07-30,Peru,Uruguay,1.0,2.0,2
+61,7078,1967-07-30,Peru,Japan,0.0,0.0,0
+62,7093,1967-08-10,Sweden,Finland,2.0,0.0,1
+63,7125,1967-08-22,Mexico,Argentina,2.0,1.0,1
+64,7137,1967-09-03,Norway,Sweden,3.0,1.0,1
+65,7143,1967-09-19,Chile,Brazil,0.0,1.0,2
+66,7151,1967-10-01,Czechoslovakia,Spain,1.0,0.0,1
+67,7162,1967-10-08,Belgium,Poland,2.0,4.0,2
+68,7165,1967-10-10,El Salvador,Haiti,2.0,0.0,1
+69,7175,1967-10-21,Wales,England,0.0,3.0,2
+70,7177,1967-10-22,Guatemala,El Salvador,1.0,0.0,1
+71,7178,1967-10-22,Spain,Czechoslovakia,2.0,1.0,1
+72,7180,1967-10-28,France,Belgium,1.0,1.0,0
+73,7181,1967-10-29,El Salvador,Costa Rica,3.0,1.0,1
+74,7183,1967-10-29,Poland,Romania,0.0,0.0,0
+75,7186,1967-11-01,Italy,Cyprus,5.0,0.0,1
+76,7192,1967-11-05,El Salvador,Guatemala,1.0,3.0,2
+77,7195,1967-11-05,Sweden,Norway,5.0,2.0,1
+78,7210,1967-11-12,Bulgaria,Sweden,3.0,0.0,1
+79,7220,1967-11-15,Turkey,Czechoslovakia,0.0,0.0,0
+80,7223,1967-11-18,Switzerland,Italy,2.0,2.0,0
+81,7225,1967-11-22,Belgium,Luxembourg,3.0,0.0,1
+82,7226,1967-11-22,Czechoslovakia,Republic of Ireland,1.0,2.0,2
+83,7227,1967-11-22,England,Northern Ireland,2.0,0.0,1
+84,7228,1967-11-22,Romania,Germany,1.0,0.0,1
+85,7249,1967-12-06,England,Russia,2.0,2.0,0
+86,7251,1967-12-06,Mexico,Hungary,2.0,1.0,1
+87,7252,1967-12-08,Mexico,Hungary,0.0,2.0,2
+88,7268,1967-12-23,Italy,Switzerland,4.0,0.0,1
+89,7270,1967-12-24,DR Congo,Romania,1.0,1.0,0
+90,7272,1968-01-10,Israel,Belgium,0.0,2.0,2
+91,7292,1968-02-19,Israel,Sweden,0.0,3.0,2
+92,7293,1968-02-24,Scotland,England,1.0,1.0,0
+93,7295,1968-02-28,Spain,Sweden,3.0,1.0,1
+94,7297,1968-03-03,Mexico,Russia,0.0,0.0,0
+95,7298,1968-03-06,Belgium,Germany,1.0,3.0,2
+96,7300,1968-03-07,Mexico,Russia,1.0,1.0,0
+97,7301,1968-03-10,Mexico,Russia,0.0,0.0,0
+98,7303,1968-03-17,Morocco,Algeria,0.0,0.0,0
+99,7304,1968-03-26,Mexico,Japan,4.0,0.0,1
+100,7310,1968-04-03,England,Spain,1.0,0.0,1
+101,7313,1968-04-06,Bulgaria,Italy,3.0,2.0,1
+102,7315,1968-04-07,Netherlands,Belgium,1.0,2.0,2
+103,7322,1968-04-20,Italy,Bulgaria,2.0,0.0,1
+104,7324,1968-04-24,Russia,Belgium,1.0,0.0,1
+105,7326,1968-04-27,Czechoslovakia,Yugoslavia,3.0,0.0,1
+106,7327,1968-05-01,Austria,Romania,1.0,1.0,0
+107,7330,1968-05-02,Sweden,Spain,1.0,1.0,0
+108,7332,1968-05-07,El Salvador,Guatemala,3.0,0.0,1
+109,7334,1968-05-08,Spain,England,1.0,2.0,2
+110,7352,1968-05-21,Mexico,Uruguay,3.0,3.0,0
+111,7353,1968-05-22,England,Sweden,3.0,1.0,1
+112,7354,1968-05-28,Mexico,Uruguay,2.0,2.0,0
+113,7356,1968-06-01,Germany,England,1.0,0.0,1
+114,7357,1968-06-02,Paraguay,Uruguay,0.0,0.0,0
+115,7359,1968-06-05,Argentina,Uruguay,2.0,0.0,1
+116,7360,1968-06-05,England,Yugoslavia,0.0,1.0,2
+117,7361,1968-06-05,Italy,Russia,0.0,0.0,0
+118,7362,1968-06-05,Romania,Netherlands,0.0,0.0,0
+119,7363,1968-06-08,England,Russia,2.0,0.0,1
+120,7364,1968-06-08,Italy,Yugoslavia,1.0,1.0,0
+121,7365,1968-06-09,Brazil,Uruguay,2.0,0.0,1
+122,7367,1968-06-10,Italy,Yugoslavia,2.0,0.0,1
+123,7368,1968-06-12,Brazil,Uruguay,4.0,0.0,1
+124,7369,1968-06-16,Germany,Brazil,2.0,1.0,1
+125,7371,1968-06-19,Finland,Belgium,1.0,2.0,2
+126,7372,1968-06-20,Poland,Brazil,3.0,6.0,2
+127,7373,1968-06-20,Uruguay,Argentina,2.0,1.0,1
+128,7374,1968-06-23,Czechoslovakia,Brazil,3.0,2.0,1
+129,7376,1968-06-25,Yugoslavia,Brazil,0.0,2.0,2
+130,7377,1968-06-27,Sweden,Denmark,2.0,1.0,1
+131,7379,1968-06-30,Portugal,Brazil,0.0,2.0,2
+132,7384,1968-07-07,Mexico,Brazil,0.0,2.0,2
+133,7385,1968-07-10,Mexico,Brazil,2.0,1.0,1
+134,7387,1968-07-14,Peru,Brazil,3.0,4.0,2
+135,7388,1968-07-17,Honduras,El Salvador,0.0,0.0,0
+136,7389,1968-07-17,Peru,Brazil,0.0,4.0,2
+137,7392,1968-07-25,Paraguay,Brazil,0.0,4.0,2
+138,7393,1968-07-28,Paraguay,Brazil,1.0,0.0,1
+139,7394,1968-07-31,El Salvador,Honduras,2.0,1.0,1
+140,7395,1968-08-01,Sweden,Russia,2.0,2.0,0
+141,7396,1968-08-07,Brazil,Argentina,4.0,1.0,1
+142,7400,1968-08-11,Brazil,Argentina,3.0,2.0,1
+143,7411,1968-08-15,El Salvador,Guatemala,1.0,0.0,1
+144,7422,1968-08-18,Peru,Chile,1.0,2.0,2
+145,7428,1968-08-21,Peru,Chile,0.0,0.0,0
+146,7436,1968-08-29,Peru,Argentina,2.0,2.0,0
+147,7439,1968-09-01,Peru,Argentina,1.0,1.0,0
+148,7443,1968-09-11,El Salvador,Costa Rica,1.0,1.0,0
+149,7444,1968-09-11,Finland,Sweden,0.0,3.0,2
+150,7445,1968-09-15,Norway,Sweden,1.0,1.0,0
+151,7451,1968-09-25,Denmark,Czechoslovakia,0.0,3.0,2
+152,7457,1968-09-29,Mexico,Ethiopia,3.0,0.0,1
+153,7467,1968-10-09,Belgium,Finland,6.0,1.0,1
+154,7468,1968-10-09,Sweden,Norway,5.0,0.0,1
+155,7477,1968-10-16,Belgium,Yugoslavia,3.0,0.0,1
+156,7478,1968-10-16,Colombia,Mexico,0.0,1.0,2
+157,7482,1968-10-20,Czechoslovakia,Denmark,1.0,0.0,1
+158,7484,1968-10-20,Peru,Mexico,3.0,3.0,0
+159,7488,1968-10-23,Chile,Mexico,3.0,1.0,1
+160,7491,1968-10-23,Wales,Italy,0.0,1.0,2
+161,7493,1968-10-26,Uruguay,Mexico,0.0,2.0,2
+162,7496,1968-10-27,Portugal,Romania,3.0,0.0,1
+163,7501,1968-10-31,Brazil,Mexico,1.0,2.0,2
+164,7503,1968-11-03,Brazil,Mexico,2.0,1.0,1
+165,7504,1968-11-03,Morocco,Senegal,1.0,0.0,1
+166,7506,1968-11-06,Romania,England,0.0,0.0,0
+167,7512,1968-11-14,Costa Rica,El Salvador,3.0,0.0,1
+168,7531,1968-11-23,Romania,Switzerland,2.0,0.0,1
+169,7545,1968-12-01,El Salvador,Suriname,6.0,0.0,1
+170,7559,1968-12-11,England,Bulgaria,1.0,1.0,0
+171,7561,1968-12-11,Spain,Belgium,1.0,1.0,0
+172,7563,1968-12-12,El Salvador,Curaçao,1.0,0.0,1
+173,7565,1968-12-14,Brazil,Germany,2.0,2.0,0
+174,7567,1968-12-15,El Salvador,Curaçao,2.0,1.0,1
+175,7570,1968-12-17,Brazil,Yugoslavia,3.0,3.0,0
+176,7572,1968-12-19,Brazil,Yugoslavia,3.0,2.0,1
+177,7576,1968-12-22,Mexico,Germany,0.0,0.0,0
+178,7577,1968-12-22,Suriname,El Salvador,4.0,1.0,1
+179,7580,1969-01-01,Mexico,Italy,2.0,3.0,2
+180,7582,1969-01-05,Mexico,Italy,1.0,1.0,0
+181,7583,1969-01-05,Senegal,Morocco,2.0,1.0,1
+182,7591,1969-01-15,England,Romania,1.0,1.0,0
+183,7596,1969-01-22,Mexico,Denmark,3.0,0.0,1
+184,7605,1969-02-04,Mexico,Colombia,1.0,0.0,1
+185,7610,1969-02-09,Morocco,Hungary,1.0,4.0,2
+186,7613,1969-02-13,Morocco,Senegal,2.0,0.0,1
+187,7616,1969-02-23,Belgium,Spain,2.0,1.0,1
+188,7618,1969-02-26,Yugoslavia,Sweden,2.0,1.0,1
+189,7621,1969-03-09,Algeria,Morocco,2.0,0.0,1
+190,7623,1969-03-12,England,France,5.0,0.0,1
+191,7627,1969-03-22,Morocco,Algeria,2.0,0.0,1
+192,7633,1969-03-29,German DR,Italy,2.0,2.0,0
+193,7634,1969-04-06,Portugal,Mexico,0.0,0.0,0
+194,7635,1969-04-07,Brazil,Peru,2.0,1.0,1
+195,7636,1969-04-09,Brazil,Peru,3.0,2.0,1
+196,7638,1969-04-10,Luxembourg,Mexico,2.0,1.0,1
+197,7639,1969-04-16,Belgium,Mexico,2.0,0.0,1
+198,7641,1969-04-16,Greece,Romania,2.0,2.0,0
+199,7642,1969-04-16,Netherlands,Czechoslovakia,2.0,0.0,1
+200,7650,1969-04-23,Spain,Mexico,0.0,0.0,0
+201,7653,1969-04-27,Tunisia,Morocco,0.0,0.0,0
+202,7654,1969-04-30,France,Romania,1.0,0.0,1
+203,7657,1969-05-01,Sweden,Mexico,1.0,0.0,1
+204,7658,1969-05-03,Northern Ireland,England,1.0,3.0,2
+205,7661,1969-05-04,Republic of Ireland,Czechoslovakia,1.0,2.0,2
+206,7663,1969-05-06,Denmark,Mexico,3.0,1.0,1
+207,7665,1969-05-07,England,Wales,2.0,1.0,1
+208,7667,1969-05-08,Colombia,Peru,1.0,3.0,2
+209,7668,1969-05-08,Norway,Mexico,0.0,2.0,2
+210,7670,1969-05-10,England,Scotland,4.0,1.0,1
+211,7676,1969-05-14,El Salvador,Peru,1.0,4.0,2
+212,7677,1969-05-14,Switzerland,Romania,0.0,1.0,2
+213,7680,1969-05-18,Morocco,Tunisia,0.0,0.0,0
+214,7681,1969-05-20,Mexico,Peru,0.0,1.0,2
+215,7684,1969-05-22,Mexico,Peru,3.0,0.0,1
+216,7685,1969-05-22,Sweden,Finland,4.0,0.0,1
+217,7686,1969-05-24,Italy,Bulgaria,0.0,0.0,0
+218,7688,1969-05-25,Hungary,Czechoslovakia,2.0,0.0,1
+219,7692,1969-06-01,Mexico,England,0.0,0.0,0
+220,7693,1969-06-01,Sweden,Norway,4.0,2.0,1
+221,7694,1969-06-03,Mexico,England,0.0,4.0,2
+222,7696,1969-06-08,Honduras,El Salvador,1.0,0.0,1
+223,7699,1969-06-08,Uruguay,England,1.0,2.0,2
+224,7701,1969-06-12,Brazil,England,2.0,1.0,1
+225,7702,1969-06-13,Tunisia,Morocco,2.0,2.0,0
+226,7706,1969-06-15,El Salvador,Honduras,3.0,0.0,1
+227,7707,1969-06-18,Peru,Colombia,1.0,1.0,0
+228,7708,1969-06-19,Norway,Sweden,2.0,5.0,2
+229,7712,1969-06-25,Denmark,Sweden,0.0,1.0,2
+230,7715,1969-06-27,Honduras,El Salvador,2.0,3.0,2
+231,7716,1969-06-27,Peru,Uruguay,1.0,0.0,1
+232,7721,1969-07-02,Colombia,Uruguay,0.0,1.0,2
+233,7724,1969-07-06,Ecuador,Uruguay,0.0,2.0,2
+234,7727,1969-07-09,Peru,Paraguay,2.0,1.0,1
+235,7728,1969-07-13,Chile,Uruguay,0.0,0.0,0
+236,7729,1969-07-18,Peru,Paraguay,2.0,1.0,1
+237,7730,1969-07-20,Uruguay,Ecuador,1.0,0.0,1
+238,7744,1969-08-03,Peru,Argentina,1.0,0.0,1
+239,7745,1969-08-06,Colombia,Brazil,0.0,2.0,2
+240,7746,1969-08-06,Russia,Sweden,0.0,1.0,2
+241,7748,1969-08-10,Bolivia,Peru,2.0,1.0,1
+242,7750,1969-08-10,Uruguay,Chile,2.0,0.0,1
+243,7751,1969-08-10,Venezuela,Brazil,0.0,5.0,2
+244,7764,1969-08-17,Paraguay,Brazil,0.0,3.0,2
+245,7765,1969-08-17,Peru,Bolivia,3.0,0.0,1
+246,7771,1969-08-21,Brazil,Colombia,6.0,2.0,1
+247,7778,1969-08-24,Brazil,Venezuela,6.0,0.0,1
+248,7781,1969-08-25,Sweden,Israel,3.0,1.0,1
+249,7784,1969-08-31,Argentina,Peru,2.0,2.0,0
+250,7785,1969-08-31,Brazil,Paraguay,1.0,0.0,1
+251,7788,1969-09-03,Yugoslavia,Romania,1.0,1.0,0
+252,7796,1969-09-14,Czechoslovakia,Hungary,3.0,3.0,0
+253,7797,1969-09-14,El Salvador,Costa Rica,2.0,1.0,1
+254,7802,1969-09-21,Haiti,El Salvador,1.0,2.0,2
+255,7804,1969-09-21,Morocco,Nigeria,2.0,1.0,1
+256,7808,1969-09-24,Sweden,Hungary,2.0,0.0,1
+257,7813,1969-09-28,El Salvador,Haiti,0.0,3.0,2
+258,7823,1969-10-07,Czechoslovakia,Republic of Ireland,3.0,0.0,1
+259,7824,1969-10-08,Haiti,El Salvador,0.0,1.0,2
+260,7827,1969-10-10,Sudan,Morocco,0.0,0.0,0
+261,7832,1969-10-12,Romania,Portugal,1.0,0.0,1
+262,7839,1969-10-15,Sweden,France,2.0,0.0,1
+263,7844,1969-10-19,Yugoslavia,Belgium,4.0,0.0,1
+264,7846,1969-10-21,Mexico,Bermuda,3.0,0.0,1
+265,7856,1969-10-26,Morocco,Sudan,3.0,0.0,1
+266,7857,1969-10-30,Algeria,Morocco,1.0,0.0,1
+267,7861,1969-11-01,France,Sweden,3.0,0.0,1
+268,7864,1969-11-02,Bermuda,Mexico,2.0,1.0,1
+269,7873,1969-11-04,Italy,Wales,4.0,1.0,1
+270,7877,1969-11-05,Mexico,Belgium,1.0,0.0,1
+271,7878,1969-11-05,Netherlands,England,0.0,1.0,2
+272,7886,1969-11-08,Nigeria,Morocco,2.0,0.0,1
+273,7888,1969-11-09,Ivory Coast,Morocco,1.0,0.0,1
+274,7895,1969-11-11,Mexico,Norway,4.0,0.0,1
+275,7903,1969-11-16,Romania,Greece,1.0,1.0,0
+276,7915,1969-11-22,Italy,German DR,3.0,0.0,1
+277,7926,1969-11-27,Mexico,Jamaica,2.0,0.0,1
+278,7933,1969-11-30,Costa Rica,Mexico,2.0,0.0,1
+279,7936,1969-12-02,Mexico,Guatemala,0.0,1.0,2
+280,7937,1969-12-03,Czechoslovakia,Hungary,4.0,1.0,1
+281,7941,1969-12-04,Mexico,Curaçao,2.0,2.0,0
+282,7945,1969-12-07,Mexico,Trinidad and Tobago,0.0,0.0,0
+283,7952,1969-12-10,England,Portugal,1.0,0.0,1
+284,7959,1969-12-28,Morocco,Bulgaria,3.0,0.0,1
+285,7961,1970-01-14,England,Netherlands,0.0,0.0,0
+286,7963,1970-02-04,Peru,Czechoslovakia,0.0,2.0,2
+287,7968,1970-02-07,Peru,Czechoslovakia,2.0,1.0,1
+288,7973,1970-02-09,Peru,Romania,1.0,1.0,0
+289,7980,1970-02-14,Peru,Russia,0.0,0.0,0
+290,7982,1970-02-15,Mexico,Bulgaria,1.0,1.0,0
+291,7985,1970-02-18,Mexico,Bulgaria,2.0,0.0,1
+292,7986,1970-02-20,Peru,Russia,0.0,2.0,2
+293,7987,1970-02-21,Peru,Bulgaria,1.0,3.0,2
+294,7988,1970-02-21,Spain,Italy,2.0,2.0,0
+295,7989,1970-02-22,El Salvador,Russia,0.0,2.0,2
+296,7990,1970-02-22,Mexico,Sweden,0.0,0.0,0
+297,7991,1970-02-24,Peru,Bulgaria,5.0,3.0,1
+298,7992,1970-02-25,Belgium,England,1.0,3.0,2
+299,7993,1970-02-26,Costa Rica,El Salvador,2.0,0.0,1
+300,7994,1970-02-26,Mexico,Russia,0.0,0.0,0
+301,7995,1970-03-01,Mexico,Sweden,0.0,1.0,2
+302,7996,1970-03-04,Brazil,Argentina,0.0,2.0,2
+303,7997,1970-03-05,Peru,Mexico,0.0,1.0,2
+304,7998,1970-03-08,Brazil,Argentina,2.0,1.0,1
+305,7999,1970-03-08,Peru,Mexico,1.0,0.0,1
+306,8000,1970-03-15,Mexico,Peru,3.0,1.0,1
+307,8001,1970-03-18,Mexico,Peru,3.0,3.0,0
+308,8002,1970-03-22,Brazil,Chile,5.0,0.0,1
+309,8006,1970-03-26,Brazil,Chile,2.0,1.0,1
+310,8012,1970-03-31,Uruguay,Peru,2.0,0.0,1
+311,8016,1970-04-08,Argentina,Uruguay,2.0,1.0,1
+312,8018,1970-04-08,Germany,Romania,1.0,1.0,0
+313,8020,1970-04-12,Austria,Czechoslovakia,1.0,3.0,2
+314,8021,1970-04-12,Brazil,Paraguay,0.0,0.0,0
+315,8025,1970-04-15,Uruguay,Argentina,2.0,1.0,1
+316,8027,1970-04-18,Wales,England,1.0,1.0,0
+317,8029,1970-04-21,England,Northern Ireland,3.0,1.0,1
+318,8030,1970-04-21,Peru,El Salvador,3.0,0.0,1
+319,8033,1970-04-25,Scotland,England,0.0,0.0,0
+320,8035,1970-04-28,France,Romania,2.0,0.0,1
+321,8036,1970-04-29,Brazil,Austria,1.0,0.0,1
+322,8037,1970-04-29,Mexico,Ecuador,4.0,2.0,1
+323,8043,1970-05-06,Romania,Yugoslavia,0.0,0.0,0
+324,8045,1970-05-09,Luxembourg,Czechoslovakia,0.0,1.0,2
+325,8047,1970-05-10,Portugal,Italy,1.0,2.0,2
+326,8049,1970-05-13,Norway,Czechoslovakia,0.0,2.0,2
+327,8051,1970-05-16,Hungary,Sweden,1.0,2.0,2
+328,8055,1970-05-20,Colombia,England,0.0,4.0,2
+329,8056,1970-05-24,Ecuador,England,0.0,2.0,2

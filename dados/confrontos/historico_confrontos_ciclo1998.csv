@@ -1,1188 +1,1188 @@
-,index,date,home_team,away_team,home_score,away_score
-0,19841,1994-08-17,Austria,Russia,0.0,3.0
-1,19842,1994-08-17,Denmark,Finland,2.0,1.0
-2,19843,1994-08-17,France,Czech Republic,2.0,2.0
-3,19844,1994-08-17,Israel,Croatia,0.0,4.0
-4,19866,1994-09-04,Burkina Faso,Morocco,2.0,1.0
-5,19868,1994-09-04,Estonia,Croatia,0.0,2.0
-6,19878,1994-09-07,Belgium,Armenia,2.0,0.0
-7,19879,1994-09-07,Cyprus,Spain,1.0,2.0
-8,19880,1994-09-07,England,United States,2.0,0.0
-9,19882,1994-09-07,Finland,Scotland,0.0,2.0
-10,19887,1994-09-07,Liechtenstein,Austria,0.0,4.0
-11,19888,1994-09-07,Luxembourg,Netherlands,0.0,4.0
-12,19889,1994-09-07,North Macedonia,Denmark,1.0,1.0
-13,19891,1994-09-07,Norway,Belarus,1.0,0.0
-14,19892,1994-09-07,Romania,Azerbaijan,3.0,0.0
-15,19893,1994-09-07,Russia,Germany,0.0,1.0
-16,19894,1994-09-07,Slovakia,France,0.0,0.0
-17,19895,1994-09-07,Slovenia,Italy,1.0,1.0
-18,19899,1994-09-11,South Korea,Ukraine,1.0,0.0
-19,19901,1994-09-13,South Korea,Ukraine,2.0,0.0
-20,19907,1994-09-19,South Korea,United Arab Emirates,0.0,0.0
-21,19908,1994-09-21,Chile,Bolivia,1.0,2.0
-22,19913,1994-09-27,Japan,Australia,0.0,0.0
-23,19916,1994-10-01,Saudi Arabia,Uzbekistan,1.0,4.0
-24,19918,1994-10-01,South Korea,Nepal,11.0,0.0
-25,19921,1994-10-03,Iran,Bahrain,0.0,0.0
-26,19926,1994-10-03,Japan,United Arab Emirates,1.0,1.0
-27,19928,1994-10-05,Iran,Turkmenistan,1.0,1.0
-28,19930,1994-10-05,Thailand,Saudi Arabia,2.0,4.0
-29,19931,1994-10-05,South Korea,Oman,2.0,1.0
-30,19933,1994-10-05,Japan,Qatar,1.0,1.0
-31,19934,1994-10-07,Iran,China,0.0,1.0
-32,19937,1994-10-07,Malaysia,Saudi Arabia,1.0,2.0
-33,19938,1994-10-07,South Korea,Kuwait,0.0,1.0
-34,19940,1994-10-08,Estonia,Italy,0.0,2.0
-35,19941,1994-10-08,France,Romania,0.0,0.0
-36,19942,1994-10-09,Croatia,Lithuania,2.0,0.0
-37,19947,1994-10-09,Iran,Yemen,4.0,0.0
-38,19948,1994-10-09,Hong Kong,Saudi Arabia,1.0,2.0
-39,19952,1994-10-09,Japan,Myanmar,5.0,0.0
-40,19953,1994-10-11,China,Saudi Arabia,2.0,0.0
-41,19956,1994-10-11,Japan,South Korea,2.0,3.0
-42,19957,1994-10-12,Austria,Northern Ireland,1.0,2.0
-43,19959,1994-10-12,Bulgaria,Georgia,2.0,0.0
-44,19960,1994-10-12,Denmark,Belgium,3.0,1.0
-45,19961,1994-10-12,England,Romania,1.0,1.0
-46,19963,1994-10-12,Hungary,Germany,0.0,0.0
-47,19966,1994-10-12,North Macedonia,Spain,0.0,2.0
-48,19969,1994-10-12,Norway,Netherlands,1.0,1.0
-49,19972,1994-10-12,Scotland,Faroe Islands,5.0,1.0
-50,19977,1994-10-13,Uzbekistan,South Korea,1.0,0.0
-51,19983,1994-10-15,Kuwait,South Korea,2.0,1.0
-52,19984,1994-10-16,Cameroon,DR Congo,1.0,0.0
-53,19991,1994-10-19,Saudi Arabia,United States,2.0,1.0
-54,19995,1994-10-26,Saudi Arabia,Trinidad and Tobago,1.0,0.0
-55,20001,1994-11-04,Oman,Saudi Arabia,1.0,2.0
-56,20003,1994-11-06,United Arab Emirates,Saudi Arabia,1.0,1.0
-57,20006,1994-11-07,Morocco,Cameroon,1.0,1.0
-58,20007,1994-11-08,Tunisia,Ivory Coast,2.0,0.0
-59,20010,1994-11-10,Saudi Arabia,Bahrain,3.0,1.0
-60,20013,1994-11-12,Qatar,Saudi Arabia,1.0,2.0
-61,20014,1994-11-12,Romania,Slovakia,3.0,2.0
-62,20020,1994-11-13,Morocco,Ivory Coast,1.0,0.0
-63,20023,1994-11-13,Tunisia,Togo,1.0,1.0
-64,20025,1994-11-13,Portugal,Austria,1.0,0.0
-65,20031,1994-11-16,Albania,Germany,1.0,2.0
-66,20033,1994-11-16,Belarus,Norway,0.0,4.0
-67,20034,1994-11-16,Belgium,North Macedonia,1.0,1.0
-68,20035,1994-11-16,Bulgaria,Moldova,4.0,1.0
-69,20036,1994-11-16,Chile,Argentina,0.0,3.0
-70,20038,1994-11-16,England,Nigeria,1.0,0.0
-71,20042,1994-11-16,Italy,Croatia,1.0,2.0
-72,20043,1994-11-16,Kuwait,Saudi Arabia,0.0,2.0
-73,20044,1994-11-16,Netherlands,Czech Republic,0.0,0.0
-74,20046,1994-11-16,Poland,France,0.0,0.0
-75,20047,1994-11-16,Scotland,Russia,1.0,1.0
-76,20049,1994-11-16,Spain,Denmark,3.0,0.0
-77,20053,1994-11-19,Trinidad and Tobago,United States,1.0,0.0
-78,20055,1994-11-22,Jamaica,United States,0.0,3.0
-79,20060,1994-11-26,Cameroon,Ivory Coast,1.0,2.0
-80,20067,1994-11-30,Cameroon,Ghana,0.0,1.0
-81,20068,1994-11-30,South Africa,Ivory Coast,0.0,0.0
-82,20069,1994-11-30,Spain,Finland,2.0,0.0
-83,20076,1994-12-04,South Africa,Cameroon,1.0,1.0
-84,20081,1994-12-08,Saudi Arabia,Poland,0.0,2.0
-85,20084,1994-12-10,Saudi Arabia,Poland,1.0,2.0
-86,20085,1994-12-11,United States,Honduras,1.0,1.0
-87,20086,1994-12-13,Azerbaijan,France,0.0,2.0
-88,20089,1994-12-14,Israel,Romania,1.0,1.0
-89,20090,1994-12-14,Malta,Norway,0.0,1.0
-90,20091,1994-12-14,Mexico,Hungary,5.0,1.0
-91,20092,1994-12-14,Moldova,Germany,0.0,3.0
-92,20093,1994-12-14,Netherlands,Luxembourg,5.0,0.0
-93,20095,1994-12-14,Wales,Bulgaria,0.0,3.0
-94,20096,1994-12-16,Tunisia,Algeria,1.0,0.0
-95,20097,1994-12-17,Belgium,Spain,1.0,4.0
-96,20099,1994-12-17,Saudi Arabia,Costa Rica,1.0,3.0
-97,20100,1994-12-18,Cameroon,Togo,1.0,1.0
-98,20101,1994-12-18,Germany,Albania,2.0,1.0
-99,20102,1994-12-18,Greece,Scotland,1.0,0.0
-100,20104,1994-12-21,Italy,Turkey,3.0,1.0
-101,20105,1994-12-23,Brazil,Serbia,2.0,0.0
-102,20108,1994-12-27,Argentina,Serbia,1.0,0.0
-103,20111,1994-12-29,Saudi Arabia,Zambia,1.0,0.0
-104,20114,1995-01-02,Tunisia,Egypt,2.0,0.0
-105,20116,1995-01-06,Japan,Nigeria,0.0,3.0
-106,20117,1995-01-06,Saudi Arabia,Mexico,0.0,2.0
-107,20119,1995-01-07,Senegal,Tunisia,0.0,0.0
-108,20122,1995-01-08,Cameroon,Malawi,0.0,0.0
-109,20125,1995-01-08,Japan,Argentina,1.0,5.0
-110,20126,1995-01-08,Saudi Arabia,Denmark,0.0,2.0
-111,20130,1995-01-10,Denmark,Mexico,1.0,1.0
-112,20131,1995-01-10,Nigeria,Argentina,0.0,0.0
-113,20132,1995-01-13,Denmark,Argentina,2.0,0.0
-114,20133,1995-01-13,Mexico,Nigeria,1.0,1.0
-115,20135,1995-01-18,Netherlands,France,0.0,1.0
-116,20136,1995-01-18,Spain,Uruguay,2.0,2.0
-117,20145,1995-01-22,Zimbabwe,Cameroon,4.0,1.0
-118,20148,1995-01-29,Tunisia,Mauritania,1.0,0.0
-119,20149,1995-01-31,South Korea,Colombia,1.0,0.0
-120,20150,1995-02-01,Mexico,Uruguay,1.0,0.0
-121,20151,1995-02-04,South Korea,Serbia,0.0,1.0
-122,20152,1995-02-06,Estonia,Norway,0.0,7.0
-123,20153,1995-02-08,Cyprus,Norway,0.0,2.0
-124,20154,1995-02-08,Greece,Romania,1.0,0.0
-125,20155,1995-02-10,Tunisia,Liberia,0.0,0.0
-126,20156,1995-02-11,Australia,Colombia,0.0,1.0
-127,20157,1995-02-14,Argentina,Bulgaria,4.0,1.0
-128,20159,1995-02-15,Australia,Japan,2.0,1.0
-129,20161,1995-02-15,Republic of Ireland,England,1.0,0.0
-130,20163,1995-02-15,Turkey,Romania,1.0,1.0
-131,20165,1995-02-19,China,South Korea,0.0,0.0
-132,20166,1995-02-19,Hong Kong,Japan,0.0,3.0
-133,20168,1995-02-21,Japan,South Korea,1.0,1.0
-134,20170,1995-02-22,Brazil,Slovakia,5.0,0.0
-135,20172,1995-02-22,Netherlands,Portugal,0.0,1.0
-136,20173,1995-02-22,Spain,Germany,0.0,0.0
-137,20174,1995-02-22,Thailand,Japan,3.0,2.0
-138,20175,1995-02-23,China,Japan,1.0,2.0
-139,20176,1995-02-23,Hong Kong,South Korea,2.0,3.0
-140,20178,1995-02-26,Japan,South Korea,2.0,2.0
-141,20179,1995-03-01,Morocco,Senegal,2.0,0.0
-142,20190,1995-03-12,Jamaica,Cuba,0.0,0.0
-143,20198,1995-03-22,Colombia,Uruguay,2.0,1.0
-144,20199,1995-03-23,Morocco,Mali,3.0,0.0
-145,20201,1995-03-25,Croatia,Ukraine,4.0,0.0
-146,20202,1995-03-25,Italy,Estonia,4.0,1.0
-147,20205,1995-03-25,United States,Uruguay,2.0,2.0
-148,20211,1995-03-29,Austria,Latvia,5.0,0.0
-149,20212,1995-03-29,Brazil,Honduras,1.0,1.0
-150,20213,1995-03-29,Bulgaria,Wales,3.0,1.0
-151,20214,1995-03-29,Cyprus,Denmark,1.0,1.0
-152,20216,1995-03-29,England,Uruguay,0.0,0.0
-153,20217,1995-03-29,Georgia,Germany,0.0,2.0
-154,20220,1995-03-29,Israel,France,0.0,0.0
-155,20221,1995-03-29,Lithuania,Croatia,0.0,0.0
-156,20222,1995-03-29,Luxembourg,Norway,0.0,2.0
-157,20223,1995-03-29,Mexico,Chile,1.0,2.0
-158,20225,1995-03-29,Netherlands,Malta,4.0,0.0
-159,20226,1995-03-29,Romania,Poland,2.0,1.0
-160,20227,1995-03-29,Russia,Scotland,0.0,0.0
-161,20231,1995-03-29,Spain,Belgium,1.0,1.0
-162,20234,1995-03-29,Ukraine,Italy,0.0,2.0
-163,20254,1995-04-09,Morocco,Burkina Faso,0.0,0.0
-164,20259,1995-04-12,North Macedonia,Bulgaria,0.0,0.0
-165,20260,1995-04-14,Egypt,Tunisia,1.0,0.0
-166,20261,1995-04-19,Peru,Chile,6.0,0.0
-167,20262,1995-04-22,Belgium,United States,1.0,0.0
-168,20263,1995-04-22,Chile,Iceland,1.0,1.0
-169,20269,1995-04-23,DR Congo,Cameroon,2.0,1.0
-170,20271,1995-04-23,Liberia,Tunisia,1.0,0.0
-171,20276,1995-04-26,Armenia,Spain,0.0,2.0
-172,20277,1995-04-26,Austria,Liechtenstein,7.0,0.0
-173,20278,1995-04-26,Azerbaijan,Romania,1.0,4.0
-174,20280,1995-04-26,Belgium,Cyprus,2.0,0.0
-175,20281,1995-04-26,Croatia,Slovenia,2.0,0.0
-176,20282,1995-04-26,Czech Republic,Netherlands,3.0,1.0
-177,20283,1995-04-26,Denmark,North Macedonia,1.0,0.0
-178,20286,1995-04-26,France,Slovakia,4.0,0.0
-179,20288,1995-04-26,Germany,Wales,1.0,1.0
-180,20294,1995-04-26,Lithuania,Italy,0.0,1.0
-181,20295,1995-04-26,Moldova,Bulgaria,0.0,3.0
-182,20296,1995-04-26,Norway,Luxembourg,5.0,0.0
-183,20297,1995-04-26,San Marino,Scotland,0.0,2.0
-184,20315,1995-05-13,South Africa,Argentina,1.0,1.0
-185,20317,1995-05-14,Bolivia,Paraguay,1.0,1.0
-186,20319,1995-05-17,Israel,Brazil,1.0,2.0
-187,20321,1995-05-18,Morocco,Egypt,0.0,0.0
-188,20325,1995-05-21,Japan,Scotland,0.0,0.0
-189,20330,1995-05-24,Ecuador,Scotland,1.0,2.0
-190,20331,1995-05-25,Chile,Northern Ireland,2.0,1.0
-191,20336,1995-05-25,Norway,Ghana,3.0,2.0
-192,20339,1995-05-28,Canada,Chile,1.0,2.0
-193,20341,1995-05-28,Japan,Ecuador,3.0,0.0
-194,20342,1995-05-28,United States,Costa Rica,1.0,2.0
-195,20343,1995-05-31,Argentina,Peru,1.0,0.0
-196,20344,1995-05-31,Finland,Denmark,0.0,1.0
-197,20348,1995-06-03,England,Japan,2.0,1.0
-198,20354,1995-06-04,Brazil,Sweden,1.0,0.0
-199,20360,1995-06-04,Ivory Coast,Morocco,2.0,0.0
-200,20363,1995-06-04,Togo,Tunisia,0.0,1.0
-201,20364,1995-06-05,South Korea,Costa Rica,1.0,0.0
-202,20365,1995-06-06,Brazil,Japan,3.0,0.0
-203,20366,1995-06-07,Belarus,Netherlands,1.0,0.0
-204,20367,1995-06-07,Bulgaria,Germany,3.0,2.0
-205,20369,1995-06-07,Denmark,Cyprus,4.0,0.0
-206,20370,1995-06-07,Faroe Islands,Scotland,0.0,2.0
-207,20373,1995-06-07,North Macedonia,Belgium,0.0,5.0
-208,20376,1995-06-07,Norway,Malta,2.0,0.0
-209,20378,1995-06-07,Romania,Israel,2.0,1.0
-210,20380,1995-06-07,Spain,Armenia,1.0,0.0
-211,20382,1995-06-08,England,Sweden,3.0,3.0
-212,20383,1995-06-09,Paraguay,Bolivia,0.0,0.0
-213,20386,1995-06-10,South Korea,Zambia,2.0,3.0
-214,20387,1995-06-10,Sweden,Japan,2.0,2.0
-215,20388,1995-06-11,England,Brazil,1.0,3.0
-216,20393,1995-06-11,Republic of Ireland,Austria,1.0,3.0
-217,20394,1995-06-11,Ukraine,Croatia,1.0,0.0
-218,20395,1995-06-11,United States,Nigeria,3.0,2.0
-219,20397,1995-06-14,Argentina,Paraguay,2.0,1.0
-220,20398,1995-06-17,Colombia,Nigeria,1.0,0.0
-221,20400,1995-06-18,United States,Mexico,4.0,0.0
-222,20402,1995-06-19,Chile,Paraguay,0.0,1.0
-223,20403,1995-06-19,Switzerland,Italy,0.0,1.0
-224,20406,1995-06-21,Germany,Italy,2.0,0.0
-225,20407,1995-06-21,Mexico,Colombia,0.0,0.0
-226,20408,1995-06-22,Chile,Turkey,0.0,0.0
-227,20409,1995-06-22,Paraguay,New Zealand,3.0,2.0
-228,20410,1995-06-23,Switzerland,Germany,1.0,2.0
-229,20412,1995-06-24,Mexico,Nigeria,2.0,1.0
-230,20415,1995-06-25,United States,Colombia,0.0,0.0
-231,20418,1995-06-29,Brazil,Poland,2.0,1.0
-232,20419,1995-06-30,Argentina,Australia,2.0,0.0
-233,20420,1995-06-30,Paraguay,Ecuador,1.0,0.0
-234,20425,1995-07-06,Mexico,Paraguay,1.0,2.0
-235,20426,1995-07-07,Brazil,Ecuador,1.0,0.0
-236,20427,1995-07-07,Colombia,Peru,1.0,1.0
-237,20428,1995-07-08,Argentina,Bolivia,2.0,1.0
-238,20429,1995-07-08,United States,Chile,2.0,1.0
-239,20430,1995-07-09,Mexico,Venezuela,3.0,1.0
-240,20432,1995-07-09,Uruguay,Paraguay,1.0,0.0
-241,20433,1995-07-10,Brazil,Peru,2.0,0.0
-242,20434,1995-07-10,Colombia,Ecuador,1.0,0.0
-243,20435,1995-07-11,Argentina,Chile,4.0,0.0
-244,20436,1995-07-11,United States,Bolivia,0.0,1.0
-245,20437,1995-07-12,Paraguay,Venezuela,3.0,2.0
-246,20438,1995-07-13,Brazil,Colombia,3.0,0.0
-247,20440,1995-07-13,Uruguay,Mexico,1.0,1.0
-248,20441,1995-07-14,Argentina,United States,0.0,3.0
-249,20442,1995-07-14,Chile,Bolivia,2.0,2.0
-250,20446,1995-07-15,Tunisia,Senegal,4.0,0.0
-251,20449,1995-07-16,Malawi,Cameroon,1.0,3.0
-252,20453,1995-07-16,Paraguay,Colombia,1.0,1.0
-253,20459,1995-07-17,Brazil,Argentina,2.0,2.0
-254,20460,1995-07-17,United States,Mexico,0.0,0.0
-255,20469,1995-07-19,Jamaica,Saint Lucia,2.0,1.0
-256,20471,1995-07-19,Uruguay,Colombia,2.0,0.0
-257,20472,1995-07-20,United States,Brazil,0.0,1.0
-258,20477,1995-07-21,Jamaica,Cuba,1.0,2.0
-259,20483,1995-07-22,Algeria,Tunisia,2.0,1.0
-260,20484,1995-07-22,Colombia,United States,4.0,1.0
-261,20485,1995-07-22,Norway,France,0.0,0.0
-262,20489,1995-07-23,Jamaica,Trinidad and Tobago,1.0,0.0
-263,20492,1995-07-23,Uruguay,Brazil,1.0,1.0
-264,20499,1995-07-30,Cameroon,Zimbabwe,1.0,0.0
-265,20504,1995-07-30,Mauritania,Tunisia,0.0,0.0
-266,20508,1995-08-01,Canada,Jamaica,3.0,1.0
-267,20511,1995-08-06,Jamaica,Trinidad and Tobago,1.0,0.0
-268,20512,1995-08-06,Japan,Costa Rica,3.0,0.0
-269,20513,1995-08-09,Japan,Brazil,1.0,5.0
-270,20514,1995-08-12,South Korea,Brazil,0.0,1.0
-271,20516,1995-08-16,Armenia,Denmark,0.0,2.0
-272,20522,1995-08-16,France,Poland,1.0,1.0
-273,20526,1995-08-16,Latvia,Austria,3.0,2.0
-274,20528,1995-08-16,Norway,Czech Republic,1.0,1.0
-275,20529,1995-08-16,Scotland,Greece,1.0,0.0
-276,20531,1995-08-16,Sweden,United States,1.0,0.0
-277,20533,1995-08-18,Jamaica,Zambia,1.0,1.0
-278,20538,1995-08-20,Jamaica,Zambia,3.0,1.0
-279,20546,1995-08-23,Belgium,Germany,1.0,2.0
-280,20552,1995-09-03,Croatia,Estonia,7.0,1.0
-281,20554,1995-09-06,Albania,Bulgaria,1.0,1.0
-282,20555,1995-09-06,Austria,Republic of Ireland,3.0,1.0
-283,20556,1995-09-06,Belgium,Denmark,1.0,3.0
-284,20557,1995-09-06,Czech Republic,Norway,2.0,0.0
-285,20558,1995-09-06,England,Colombia,0.0,0.0
-286,20560,1995-09-06,France,Azerbaijan,10.0,0.0
-287,20561,1995-09-06,Germany,Georgia,4.0,1.0
-288,20562,1995-09-06,Italy,Slovenia,1.0,0.0
-289,20567,1995-09-06,Netherlands,Belarus,1.0,0.0
-290,20568,1995-09-06,Poland,Romania,0.0,0.0
-291,20570,1995-09-06,Scotland,Finland,1.0,0.0
-292,20572,1995-09-06,Spain,Cyprus,6.0,0.0
-293,20578,1995-09-20,Japan,Paraguay,1.0,2.0
-294,20579,1995-09-20,Spain,Argentina,2.0,1.0
-295,20580,1995-09-24,Trinidad and Tobago,Jamaica,1.0,0.0
-296,20581,1995-09-27,Jamaica,Costa Rica,2.0,0.0
-297,20582,1995-09-30,South Africa,Mozambique,3.0,2.0
-298,20584,1995-10-07,Armenia,Belgium,0.0,2.0
-299,20586,1995-10-07,Bulgaria,Albania,3.0,0.0
-300,20587,1995-10-08,Croatia,Italy,1.0,1.0
-301,20588,1995-10-08,Germany,Moldova,6.0,1.0
-302,20589,1995-10-08,United States,Saudi Arabia,4.0,3.0
-303,20590,1995-10-11,Argentina,Colombia,0.0,0.0
-304,20591,1995-10-11,Austria,Portugal,1.0,1.0
-305,20592,1995-10-11,Brazil,Uruguay,2.0,0.0
-306,20593,1995-10-11,Chile,Canada,2.0,0.0
-307,20595,1995-10-11,Denmark,Spain,1.0,1.0
-308,20596,1995-10-11,Georgia,Bulgaria,2.0,1.0
-309,20603,1995-10-11,Malta,Netherlands,0.0,4.0
-310,20604,1995-10-11,Mexico,Saudi Arabia,2.0,1.0
-311,20605,1995-10-11,Norway,England,0.0,0.0
-312,20606,1995-10-11,Romania,France,1.0,3.0
-313,20611,1995-10-11,Sweden,Scotland,2.0,0.0
-314,20613,1995-10-11,Wales,Germany,1.0,2.0
-315,20614,1995-10-18,Jamaica,Honduras,1.0,0.0
-316,20615,1995-10-20,Jamaica,Trinidad and Tobago,1.0,0.0
-317,20617,1995-10-21,Uzbekistan,Nigeria,2.0,3.0
-318,20618,1995-10-22,Burkina Faso,Tunisia,2.0,2.0
-319,20619,1995-10-22,Cayman Islands,Jamaica,1.0,5.0
-320,20623,1995-10-24,Japan,Saudi Arabia,2.0,1.0
-321,20626,1995-10-26,China,Colombia,2.0,1.0
-322,20627,1995-10-28,Japan,Saudi Arabia,2.0,1.0
-323,20630,1995-10-31,South Korea,Saudi Arabia,1.0,1.0
-324,20634,1995-11-05,Tunisia,Algeria,2.0,0.0
-325,20635,1995-11-05,Zambia,Jamaica,4.0,2.0
-326,20636,1995-11-07,Tunisia,Mauritania,2.0,1.0
-327,20637,1995-11-08,Argentina,Brazil,0.0,1.0
-328,20639,1995-11-10,Nigeria,Uzbekistan,1.0,0.0
-329,20641,1995-11-11,Italy,Ukraine,3.0,1.0
-330,20647,1995-11-15,Cyprus,Belgium,1.0,1.0
-331,20649,1995-11-15,Denmark,Armenia,3.0,1.0
-332,20650,1995-11-15,England,Switzerland,3.0,1.0
-333,20651,1995-11-15,France,Israel,2.0,0.0
-334,20652,1995-11-15,Germany,Bulgaria,3.0,1.0
-335,20654,1995-11-15,Italy,Lithuania,4.0,0.0
-336,20656,1995-11-15,Morocco,Mali,2.0,0.0
-337,20657,1995-11-15,Netherlands,Norway,3.0,0.0
-338,20658,1995-11-15,Northern Ireland,Austria,5.0,3.0
-339,20661,1995-11-15,Scotland,San Marino,5.0,0.0
-340,20662,1995-11-15,Slovakia,Romania,0.0,2.0
-341,20663,1995-11-15,Slovenia,Croatia,1.0,2.0
-342,20664,1995-11-15,Spain,North Macedonia,3.0,0.0
-343,20666,1995-11-16,Mexico,Serbia,1.0,4.0
-344,20681,1995-11-22,South Africa,Zambia,2.0,2.0
-345,20684,1995-11-24,South Africa,Egypt,2.0,0.0
-346,20690,1995-11-26,Gabon,Cameroon,1.0,2.0
-347,20691,1995-11-26,Jamaica,Norway,1.0,1.0
-348,20692,1995-11-26,South Africa,Zimbabwe,2.0,0.0
-349,20697,1995-11-28,Algeria,Cameroon,4.0,0.0
-350,20703,1995-11-29,Mexico,Colombia,2.0,2.0
-351,20704,1995-11-29,Trinidad and Tobago,Norway,3.0,2.0
-352,20705,1995-11-29,Tunisia,Burkina Faso,3.0,0.0
-353,20709,1995-11-30,Ivory Coast,Cameroon,2.0,1.0
-354,20716,1995-12-02,Gabon,Cameroon,0.0,0.0
-355,20718,1995-12-03,Antigua and Barbuda,Jamaica,1.0,2.0
-356,20728,1995-12-06,Mexico,Slovenia,1.0,2.0
-357,20729,1995-12-06,Saint Kitts and Nevis,Jamaica,0.0,3.0
-358,20749,1995-12-12,England,Portugal,1.0,1.0
-359,20754,1995-12-13,Republic of Ireland,Netherlands,0.0,2.0
-360,20758,1995-12-15,South Africa,Germany,0.0,0.0
-361,20763,1995-12-20,Brazil,Colombia,3.0,1.0
-362,20764,1995-12-20,Jamaica,Mexico,2.0,1.0
-363,20765,1995-12-21,Argentina,Venezuela,6.0,0.0
-364,20768,1995-12-22,Basque Country,Paraguay,1.0,1.0
-365,20769,1995-12-23,Zambia,Tunisia,2.0,0.0
-366,20772,1995-12-24,Cameroon,Liberia,1.0,0.0
-367,20780,1995-12-29,Saudi Arabia,Kazakhstan,3.0,0.0
-368,20782,1996-01-03,Morocco,Tunisia,3.0,1.0
-369,20783,1996-01-05,Saudi Arabia,Ghana,1.0,1.0
-370,20788,1996-01-08,Egypt,Tunisia,2.0,1.0
-371,20792,1996-01-11,Mexico,Saint Vincent and the Grenadines,5.0,0.0
-372,20794,1996-01-12,Brazil,Canada,4.0,1.0
-373,20795,1996-01-13,South Africa,Cameroon,3.0,0.0
-374,20796,1996-01-13,United States,Trinidad and Tobago,3.0,2.0
-375,20797,1996-01-14,Guatemala,Mexico,0.0,1.0
-376,20798,1996-01-14,Honduras,Brazil,0.0,5.0
-377,20800,1996-01-14,Jamaica,Cuba,1.0,1.0
-378,20807,1996-01-16,Tunisia,Mozambique,1.0,1.0
-379,20808,1996-01-16,United States,El Salvador,2.0,0.0
-380,20809,1996-01-17,Armenia,Morocco,0.0,6.0
-381,20811,1996-01-18,Cameroon,Egypt,2.0,1.0
-382,20812,1996-01-18,United States,Brazil,0.0,1.0
-383,20814,1996-01-19,Ghana,Tunisia,2.0,1.0
-384,20815,1996-01-19,Mexico,Guatemala,1.0,0.0
-385,20817,1996-01-20,South Africa,Angola,1.0,0.0
-386,20818,1996-01-21,Mexico,Brazil,2.0,0.0
-387,20820,1996-01-21,United States,Guatemala,3.0,0.0
-388,20821,1996-01-24,Angola,Cameroon,3.0,3.0
-389,20824,1996-01-24,Saudi Arabia,Kyrgyzstan,3.0,0.0
-390,20826,1996-01-24,South Africa,Egypt,0.0,1.0
-391,20829,1996-01-25,Tunisia,Ivory Coast,3.0,1.0
-392,20831,1996-01-27,South Africa,Algeria,2.0,1.0
-393,20833,1996-01-28,Gabon,Tunisia,1.0,1.0
-394,20835,1996-01-28,Saudi Arabia,Yemen,4.0,0.0
-395,20838,1996-01-31,Saudi Arabia,Kyrgyzstan,2.0,0.0
-396,20839,1996-01-31,South Africa,Ghana,3.0,0.0
-397,20840,1996-01-31,Zambia,Tunisia,2.0,4.0
-398,20845,1996-02-03,South Africa,Tunisia,2.0,0.0
-399,20847,1996-02-04,Bolivia,Chile,1.0,1.0
-400,20850,1996-02-04,Saudi Arabia,Yemen,1.0,0.0
-401,20852,1996-02-07,Chile,Mexico,2.0,1.0
-402,20855,1996-02-07,Morocco,Luxembourg,2.0,0.0
-403,20856,1996-02-07,Spain,Norway,1.0,0.0
-404,20860,1996-02-10,Australia,Japan,1.0,4.0
-405,20865,1996-02-14,Australia,Japan,3.0,0.0
-406,20866,1996-02-14,Bolivia,Paraguay,4.0,1.0
-407,20867,1996-02-14,Chile,Peru,4.0,0.0
-408,20873,1996-02-19,Japan,Poland,5.0,0.0
-409,20875,1996-02-21,France,Greece,3.0,1.0
-410,20877,1996-02-21,Portugal,Germany,1.0,2.0
-411,20878,1996-02-22,Japan,Sweden,1.0,1.0
-412,20887,1996-02-28,Croatia,Poland,2.0,1.0
-413,20890,1996-03-03,Jamaica,Guatemala,2.0,0.0
-414,20893,1996-03-06,Colombia,Honduras,2.0,1.0
-415,20900,1996-03-13,Croatia,South Korea,3.0,0.0
-416,20905,1996-03-19,United Arab Emirates,South Korea,3.0,2.0
-417,20906,1996-03-20,Egypt,Morocco,0.0,2.0
-418,20907,1996-03-21,Colombia,Trinidad and Tobago,3.0,0.0
-419,20911,1996-03-23,South Korea,Morocco,2.0,2.0
-420,20914,1996-03-25,Egypt,South Korea,1.0,1.0
-421,20915,1996-03-26,Croatia,Israel,2.0,0.0
-422,20917,1996-03-26,United Arab Emirates,Morocco,1.0,0.0
-423,20918,1996-03-27,England,Bulgaria,1.0,0.0
-424,20919,1996-03-27,Austria,Switzerland,1.0,0.0
-425,20920,1996-03-27,Belgium,France,0.0,2.0
-426,20921,1996-03-27,Brazil,Ghana,8.0,2.0
-427,20923,1996-03-27,Germany,Denmark,2.0,0.0
-428,20928,1996-03-27,Northern Ireland,Norway,0.0,2.0
-429,20931,1996-03-27,Scotland,Australia,1.0,0.0
-430,20932,1996-03-27,Serbia,Romania,1.0,0.0
-431,20935,1996-03-28,Colombia,Bolivia,4.0,1.0
-432,20941,1996-03-31,Suriname,Jamaica,0.0,1.0
-433,20946,1996-04-10,Croatia,Hungary,4.0,1.0
-434,20950,1996-04-21,Jamaica,Suriname,1.0,0.0
-435,20951,1996-04-21,Paraguay,Bosnia and Herzegovina,3.0,0.0
-436,20954,1996-04-24,Argentina,Bolivia,3.0,1.0
-437,20955,1996-04-24,Belgium,Russia,0.0,0.0
-438,20957,1996-04-24,Colombia,Paraguay,1.0,0.0
-439,20959,1996-04-24,Denmark,Scotland,2.0,0.0
-440,20961,1996-04-24,England,Croatia,0.0,0.0
-441,20964,1996-04-24,Hungary,Austria,0.0,2.0
-442,20965,1996-04-24,Jamaica,Barbados,2.0,0.0
-443,20968,1996-04-24,Netherlands,Germany,0.0,1.0
-444,20970,1996-04-24,Norway,Spain,0.0,0.0
-445,20971,1996-04-24,Romania,Georgia,5.0,0.0
-446,20973,1996-04-24,Slovakia,Bulgaria,0.0,0.0
-447,20974,1996-04-24,South Africa,Brazil,2.0,3.0
-448,20979,1996-04-26,Turkmenistan,Iran,1.0,1.0
-449,20980,1996-04-28,Barbados,Jamaica,2.0,0.0
-450,20985,1996-04-28,Turkmenistan,Iran,0.0,1.0
-451,20986,1996-04-30,Israel,South Korea,4.0,5.0
-452,21012,1996-05-16,South Korea,Sweden,0.0,2.0
-453,21013,1996-05-17,Iran,Qatar,2.0,0.0
-454,21015,1996-05-18,England,Hungary,3.0,0.0
-455,21017,1996-05-18,Mexico,Slovakia,5.0,2.0
-456,21025,1996-05-23,China,England,0.0,3.0
-457,21027,1996-05-23,Mexico,Serbia,0.0,0.0
-458,21028,1996-05-24,Trinidad and Tobago,Jamaica,1.0,0.0
-459,21034,1996-05-26,Chile,Bolivia,2.0,0.0
-460,21037,1996-05-26,Jamaica,Saint Kitts and Nevis,4.0,1.0
-461,21038,1996-05-26,Japan,Serbia,1.0,0.0
-462,21041,1996-05-26,Tunisia,Senegal,2.0,0.0
-463,21044,1996-05-26,United States,Scotland,2.0,1.0
-464,21047,1996-05-28,Bulgaria,North Macedonia,3.0,0.0
-465,21048,1996-05-28,Suriname,Jamaica,3.0,1.0
-466,21050,1996-05-29,Austria,Czech Republic,1.0,0.0
-467,21051,1996-05-29,Colombia,Scotland,1.0,0.0
-468,21054,1996-05-29,France,Finland,2.0,0.0
-469,21056,1996-05-29,Italy,Belgium,2.0,2.0
-470,21057,1996-05-29,Japan,Mexico,3.0,2.0
-471,21058,1996-05-29,Netherlands,China,2.0,0.0
-472,21059,1996-05-29,Northern Ireland,Germany,1.0,1.0
-473,21064,1996-06-01,Germany,France,0.0,1.0
-474,21066,1996-06-01,Hungary,Italy,0.0,2.0
-475,21068,1996-06-01,Malawi,South Africa,0.0,1.0
-476,21070,1996-06-01,Qatar,Iran,0.0,1.0
-477,21071,1996-06-01,Romania,Moldova,3.0,1.0
-478,21077,1996-06-02,Bulgaria,United Arab Emirates,4.0,1.0
-479,21080,1996-06-02,Denmark,Ghana,1.0,0.0
-480,21081,1996-06-02,Ecuador,Argentina,2.0,0.0
-481,21083,1996-06-02,Republic of Ireland,Croatia,2.0,2.0
-482,21087,1996-06-02,Norway,Azerbaijan,5.0,0.0
-483,21088,1996-06-02,Peru,Colombia,1.0,1.0
-484,21090,1996-06-02,Rwanda,Tunisia,1.0,3.0
-485,21096,1996-06-02,Uruguay,Paraguay,0.0,2.0
-486,21097,1996-06-02,Venezuela,Chile,1.0,1.0
-487,21100,1996-06-04,Germany,Liechtenstein,9.0,1.0
-488,21101,1996-06-04,Netherlands,Republic of Ireland,3.0,1.0
-489,21103,1996-06-05,France,Armenia,2.0,0.0
-490,21107,1996-06-08,England,Switzerland,1.0,1.0
-491,21108,1996-06-08,Mexico,Bolivia,1.0,0.0
-492,21110,1996-06-09,Denmark,Portugal,1.0,1.0
-493,21111,1996-06-09,Germany,Czech Republic,2.0,0.0
-494,21114,1996-06-09,Nigeria,Togo,1.0,3.0
-495,21116,1996-06-09,Spain,Bulgaria,1.0,1.0
-496,21117,1996-06-09,United States,Republic of Ireland,2.0,1.0
-497,21118,1996-06-10,Iran,Nepal,8.0,0.0
-498,21119,1996-06-10,Netherlands,Scotland,0.0,0.0
-499,21120,1996-06-10,Romania,France,0.0,1.0
-500,21122,1996-06-11,Italy,Russia,2.0,1.0
-501,21123,1996-06-11,Turkey,Croatia,0.0,1.0
-502,21124,1996-06-12,Iran,Sri Lanka,7.0,0.0
-503,21125,1996-06-12,Mexico,Republic of Ireland,2.0,2.0
-504,21128,1996-06-12,United States,Bolivia,0.0,2.0
-505,21130,1996-06-13,Bulgaria,Romania,1.0,0.0
-506,21131,1996-06-13,Switzerland,Netherlands,0.0,2.0
-507,21133,1996-06-14,Czech Republic,Italy,2.0,1.0
-508,21134,1996-06-14,Iran,Oman,2.0,0.0
-509,21140,1996-06-15,England,Scotland,2.0,0.0
-510,21141,1996-06-15,France,Spain,1.0,1.0
-511,21142,1996-06-15,South Africa,Malawi,3.0,0.0
-512,21147,1996-06-16,Croatia,Denmark,3.0,0.0
-513,21152,1996-06-16,Russia,Germany,0.0,3.0
-514,21154,1996-06-16,Tunisia,Rwanda,2.0,0.0
-515,21155,1996-06-16,United States,Mexico,2.0,2.0
-516,21160,1996-06-17,Sri Lanka,Iran,0.0,4.0
-517,21161,1996-06-18,England,Netherlands,4.0,1.0
-518,21162,1996-06-18,France,Bulgaria,3.0,1.0
-519,21163,1996-06-18,Romania,Spain,1.0,2.0
-520,21164,1996-06-18,Scotland,Switzerland,1.0,0.0
-521,21165,1996-06-19,Croatia,Portugal,0.0,3.0
-522,21166,1996-06-19,Italy,Germany,0.0,0.0
-523,21167,1996-06-19,Nepal,Iran,0.0,4.0
-524,21170,1996-06-19,Turkey,Denmark,0.0,3.0
-525,21175,1996-06-21,Oman,Iran,1.0,2.0
-526,21177,1996-06-22,England,Spain,0.0,0.0
-527,21178,1996-06-22,France,Netherlands,0.0,0.0
-528,21181,1996-06-23,Barbados,Jamaica,0.0,1.0
-529,21183,1996-06-23,Germany,Croatia,2.0,1.0
-530,21187,1996-06-25,Paraguay,Armenia,1.0,2.0
-531,21188,1996-06-26,England,Germany,1.0,1.0
-532,21189,1996-06-26,France,Czech Republic,0.0,0.0
-533,21196,1996-06-30,Czech Republic,Germany,1.0,2.0
-534,21199,1996-06-30,Jamaica,Barbados,2.0,0.0
-535,21206,1996-07-06,Chile,Ecuador,4.0,1.0
-536,21210,1996-07-07,Colombia,Uruguay,3.0,1.0
-537,21212,1996-07-07,Peru,Argentina,0.0,0.0
-538,21225,1996-07-26,Paraguay,Bolivia,2.0,0.0
-539,21227,1996-07-28,Jamaica,Panama,0.0,0.0
-540,21233,1996-08-05,South Korea,Guam,9.0,0.0
-541,21237,1996-08-08,China,Paraguay,0.0,2.0
-542,21238,1996-08-08,South Korea,Taiwan,4.0,0.0
-543,21246,1996-08-11,Vietnam,South Korea,0.0,4.0
-544,21256,1996-08-14,Romania,Israel,2.0,0.0
-545,21257,1996-08-14,Sweden,Denmark,0.0,1.0
-546,21267,1996-08-24,Panama,Jamaica,2.0,0.0
-547,21271,1996-08-25,Japan,Uruguay,5.0,3.0
-548,21274,1996-08-27,Guatemala,Jamaica,2.0,1.0
-549,21278,1996-08-28,Russia,Brazil,2.0,2.0
-550,21279,1996-08-29,Morocco,DR Congo,7.0,0.0
-551,21283,1996-08-30,United States,El Salvador,3.0,1.0
-552,21285,1996-08-31,Austria,Scotland,0.0,0.0
-553,21288,1996-08-31,Belgium,Turkey,2.0,1.0
-554,21290,1996-08-31,France,Mexico,2.0,0.0
-555,21292,1996-08-31,Netherlands,Brazil,2.0,2.0
-556,21295,1996-08-31,Romania,Lithuania,3.0,0.0
-557,21297,1996-09-01,Argentina,Paraguay,1.0,1.0
-558,21299,1996-09-01,Colombia,Chile,4.0,1.0
-559,21303,1996-09-01,Israel,Bulgaria,2.0,1.0
-560,21305,1996-09-01,Moldova,England,0.0,3.0
-561,21306,1996-09-01,Norway,Georgia,1.0,0.0
-562,21309,1996-09-01,Slovenia,Denmark,0.0,2.0
-563,21315,1996-09-04,Faroe Islands,Spain,2.0,6.0
-564,21316,1996-09-04,Jamaica,Costa Rica,2.0,0.0
-565,21318,1996-09-04,Poland,Germany,0.0,2.0
-566,21334,1996-09-11,Japan,Uzbekistan,1.0,0.0
-567,21340,1996-09-14,South Africa,Kenya,1.0,0.0
-568,21341,1996-09-15,Saint Vincent and the Grenadines,Mexico,0.0,3.0
-569,21343,1996-09-15,Jamaica,Honduras,3.0,0.0
-570,21350,1996-09-18,Romania,United Arab Emirates,1.0,2.0
-571,21352,1996-09-18,South Africa,Australia,2.0,0.0
-572,21357,1996-09-21,Honduras,Mexico,2.0,1.0
-573,21359,1996-09-21,South Africa,Ghana,0.0,0.0
-574,21362,1996-09-22,Saudi Arabia,Zambia,2.0,1.0
-575,21364,1996-09-23,Saint Vincent and the Grenadines,Jamaica,1.0,2.0
-576,21369,1996-09-25,South Korea,China,3.0,1.0
-577,21372,1996-09-25,Saudi Arabia,Zambia,1.0,3.0
-578,21382,1996-10-03,Saudi Arabia,New Zealand,3.0,0.0
-579,21383,1996-10-04,Ecuador,Jamaica,2.0,1.0
-580,21384,1996-10-04,Kuwait,Iran,0.0,1.0
-581,21386,1996-10-05,Latvia,Scotland,0.0,2.0
-582,21388,1996-10-05,Moldova,Italy,1.0,3.0
-583,21393,1996-10-05,Wales,Netherlands,1.0,3.0
-584,21400,1996-10-06,Gabon,Cameroon,0.0,0.0
-585,21405,1996-10-06,Tunisia,Sierra Leone,2.0,0.0
-586,21408,1996-10-08,Bosnia and Herzegovina,Croatia,1.0,4.0
-587,21410,1996-10-08,Luxembourg,Bulgaria,1.0,2.0
-588,21413,1996-10-09,Armenia,Germany,1.0,5.0
-589,21415,1996-10-09,Costa Rica,Jamaica,0.0,0.0
-590,21416,1996-10-09,Czech Republic,Spain,0.0,0.0
-591,21417,1996-10-09,Denmark,Greece,2.0,1.0
-592,21418,1996-10-09,Ecuador,Colombia,0.0,1.0
-593,21419,1996-10-09,England,Poland,2.0,1.0
-594,21420,1996-10-09,France,Turkey,4.0,0.0
-595,21421,1996-10-09,Iceland,Romania,0.0,4.0
-596,21424,1996-10-09,Italy,Georgia,1.0,0.0
-597,21427,1996-10-09,Norway,Hungary,3.0,0.0
-598,21428,1996-10-09,Paraguay,Chile,2.0,1.0
-599,21429,1996-10-09,San Marino,Belgium,0.0,3.0
-600,21430,1996-10-09,Saudi Arabia,Australia,0.0,0.0
-601,21431,1996-10-09,Sweden,Austria,0.0,1.0
-602,21432,1996-10-09,Venezuela,Argentina,2.0,5.0
-603,21436,1996-10-13,Japan,Tunisia,1.0,0.0
-604,21437,1996-10-15,Oman,Saudi Arabia,0.0,1.0
-605,21438,1996-10-16,Brazil,Lithuania,3.0,1.0
-606,21440,1996-10-16,Mexico,Jamaica,2.0,1.0
-607,21441,1996-10-16,Peru,United States,4.0,1.0
-608,21446,1996-10-19,Qatar,Saudi Arabia,2.0,2.0
-609,21449,1996-10-21,Saudi Arabia,Bahrain,3.0,1.0
-610,21451,1996-10-23,Mexico,Ecuador,0.0,1.0
-611,21453,1996-10-24,Kuwait,Saudi Arabia,1.0,0.0
-612,21456,1996-10-26,Honduras,Jamaica,0.0,0.0
-613,21459,1996-10-27,United Arab Emirates,Saudi Arabia,2.0,2.0
-614,21462,1996-10-30,Mexico,Saint Vincent and the Grenadines,5.0,1.0
-615,21466,1996-11-01,Honduras,Colombia,1.0,2.0
-616,21470,1996-11-03,United States,Guatemala,2.0,0.0
-617,21471,1996-11-06,Bosnia and Herzegovina,Italy,2.0,1.0
-618,21472,1996-11-06,Mexico,Honduras,3.0,1.0
-619,21473,1996-11-06,Saudi Arabia,Bulgaria,1.0,0.0
-620,21477,1996-11-08,Thailand,Bulgaria,0.0,4.0
-621,21480,1996-11-09,Austria,Latvia,2.0,1.0
-622,21481,1996-11-09,Denmark,France,1.0,0.0
-623,21482,1996-11-09,Georgia,England,0.0,2.0
-624,21483,1996-11-09,Germany,Northern Ireland,1.0,1.0
-625,21485,1996-11-09,Morocco,Sierra Leone,4.0,0.0
-626,21486,1996-11-09,Netherlands,Wales,7.0,1.0
-627,21487,1996-11-09,Nigeria,Burkina Faso,2.0,0.0
-628,21489,1996-11-09,South Africa,DR Congo,1.0,0.0
-629,21491,1996-11-10,Jamaica,Saint Vincent and the Grenadines,5.0,0.0
-630,21494,1996-11-10,Bolivia,Colombia,2.0,2.0
-631,21496,1996-11-10,Croatia,Greece,1.0,1.0
-632,21502,1996-11-10,Liberia,Tunisia,0.0,1.0
-633,21504,1996-11-10,Paraguay,Ecuador,1.0,0.0
-634,21507,1996-11-10,Scotland,Sweden,1.0,0.0
-635,21510,1996-11-10,Switzerland,Norway,0.0,1.0
-636,21511,1996-11-10,Togo,Cameroon,2.0,4.0
-637,21513,1996-11-10,United States,Trinidad and Tobago,2.0,0.0
-638,21515,1996-11-12,Chile,Uruguay,1.0,0.0
-639,21518,1996-11-13,Brazil,Cameroon,2.0,0.0
-640,21519,1996-11-13,Lebanon,Iran,0.0,0.0
-641,21520,1996-11-13,Spain,Slovakia,4.0,1.0
-642,21524,1996-11-16,Saudi Arabia,Syria,3.0,1.0
-643,21526,1996-11-17,Jamaica,Mexico,1.0,0.0
-644,21530,1996-11-19,Saudi Arabia,Mali,1.0,3.0
-645,21532,1996-11-20,El Salvador,Mexico,1.0,3.0
-646,21537,1996-11-23,South Korea,Colombia,4.0,1.0
-647,21543,1996-11-24,Trinidad and Tobago,United States,0.0,1.0
-648,21544,1996-11-25,Iran,Turkmenistan,0.0,1.0
-649,21545,1996-11-26,China,South Korea,2.0,3.0
-650,21550,1996-11-29,Saudi Arabia,Indonesia,4.0,1.0
-651,21552,1996-12-01,Costa Rica,United States,2.0,1.0
-652,21555,1996-12-04,United Arab Emirates,South Korea,1.0,1.0
-653,21556,1996-12-05,Iran,Iraq,1.0,2.0
-654,21558,1996-12-05,Saudi Arabia,Thailand,6.0,0.0
-655,21560,1996-12-06,Japan,Syria,2.0,1.0
-656,21561,1996-12-07,South Korea,Indonesia,4.0,2.0
-657,21565,1996-12-08,Saudi Arabia,Iraq,1.0,0.0
-658,21566,1996-12-08,Thailand,Iran,1.0,3.0
-659,21567,1996-12-09,Japan,Uzbekistan,4.0,0.0
-660,21569,1996-12-10,Kuwait,South Korea,2.0,0.0
-661,21571,1996-12-11,Czech Republic,Nigeria,2.0,1.0
-662,21573,1996-12-11,Morocco,Croatia,2.0,2.0
-663,21574,1996-12-11,Saudi Arabia,Iran,0.0,3.0
-664,21575,1996-12-12,Croatia,Czech Republic,1.0,1.0
-665,21576,1996-12-12,Japan,China,1.0,0.0
-666,21577,1996-12-12,Morocco,Nigeria,2.0,0.0
-667,21579,1996-12-14,Belgium,Netherlands,0.0,3.0
-668,21580,1996-12-14,Cyprus,Bulgaria,1.0,3.0
-669,21582,1996-12-14,North Macedonia,Romania,0.0,3.0
-670,21584,1996-12-14,Portugal,Germany,0.0,0.0
-671,21585,1996-12-14,Spain,Serbia,2.0,0.0
-672,21586,1996-12-14,United States,Costa Rica,2.0,1.0
-673,21588,1996-12-15,Argentina,Chile,1.0,1.0
-674,21589,1996-12-15,Bolivia,Paraguay,0.0,0.0
-675,21593,1996-12-15,Kuwait,Japan,2.0,0.0
-676,21597,1996-12-15,Venezuela,Colombia,0.0,2.0
-677,21598,1996-12-16,South Korea,Iran,2.0,6.0
-678,21599,1996-12-16,Saudi Arabia,China,4.0,3.0
-679,21600,1996-12-18,Brazil,Bosnia and Herzegovina,1.0,0.0
-680,21601,1996-12-18,Malta,Spain,0.0,3.0
-681,21602,1996-12-19,Iran,Saudi Arabia,0.0,0.0
-682,21606,1996-12-21,Guatemala,United States,2.0,2.0
-683,21607,1996-12-21,Iran,Kuwait,1.0,1.0
-684,21608,1996-12-21,United Arab Emirates,Saudi Arabia,0.0,0.0
-685,21617,1996-12-28,Argentina,Serbia,2.0,3.0
-686,21618,1997-01-04,Chile,Armenia,7.0,0.0
-687,21619,1997-01-04,Tunisia,Algeria,0.0,0.0
-688,21621,1997-01-06,Paraguay,Armenia,2.0,0.0
-689,21626,1997-01-11,Zambia,South Africa,0.0,0.0
-690,21629,1997-01-12,Cameroon,Angola,0.0,0.0
-691,21631,1997-01-12,Ghana,Morocco,2.0,2.0
-692,21632,1997-01-12,Kenya,Nigeria,1.0,1.0
-693,21634,1997-01-12,Peru,Chile,2.0,1.0
-694,21635,1997-01-12,Tunisia,Egypt,1.0,0.0
-695,21636,1997-01-12,Uruguay,Argentina,0.0,0.0
-696,21637,1997-01-12,Venezuela,Paraguay,0.0,2.0
-697,21639,1997-01-17,United States,Peru,0.0,1.0
-698,21641,1997-01-18,South Korea,Norway,1.0,0.0
-699,21644,1997-01-19,United States,Mexico,0.0,2.0
-700,21645,1997-01-22,Australia,South Korea,2.0,1.0
-701,21647,1997-01-22,Italy,Northern Ireland,2.0,0.0
-702,21648,1997-01-22,Mexico,Peru,0.0,0.0
-703,21649,1997-01-22,New Zealand,Norway,0.0,3.0
-704,21650,1997-01-22,Portugal,France,0.0,2.0
-705,21651,1997-01-25,Australia,Norway,1.0,0.0
-706,21652,1997-01-25,South Korea,New Zealand,3.0,1.0
-707,21654,1997-01-26,Cameroon,Namibia,4.0,0.0
-708,21655,1997-01-26,Chile,Honduras,3.0,2.0
-709,21656,1997-01-26,Guinea,Tunisia,1.0,0.0
-710,21665,1997-01-29,China,United States,2.0,1.0
-711,21666,1997-02-01,China,United States,1.0,1.0
-712,21670,1997-02-05,Mexico,Ecuador,3.0,1.0
-713,21673,1997-02-08,Colombia,Slovakia,1.0,0.0
-714,21675,1997-02-09,Thailand,Japan,1.0,1.0
-715,21678,1997-02-11,Estonia,Scotland,0.0,0.0
-716,21679,1997-02-11,Northern Ireland,Belgium,3.0,0.0
-717,21682,1997-02-12,Bolivia,Chile,1.0,1.0
-718,21683,1997-02-12,Colombia,Argentina,0.0,1.0
-719,21684,1997-02-12,England,Italy,0.0,1.0
-720,21685,1997-02-12,Jamaica,Venezuela,0.0,0.0
-721,21686,1997-02-12,Paraguay,Peru,2.0,1.0
-722,21687,1997-02-12,Spain,Malta,4.0,0.0
-723,21689,1997-02-13,Japan,Sweden,0.0,1.0
-724,21708,1997-02-21,Jamaica,Bermuda,1.0,0.0
-725,21711,1997-02-22,Hong Kong,South Korea,0.0,2.0
-726,21720,1997-02-23,Jamaica,Bermuda,3.0,2.0
-727,21732,1997-02-26,Brazil,Poland,4.0,2.0
-728,21733,1997-02-26,France,Netherlands,2.0,1.0
-729,21734,1997-02-26,Israel,Germany,0.0,1.0
-730,21742,1997-03-02,Jamaica,United States,0.0,0.0
-731,21744,1997-03-02,Mexico,Canada,4.0,0.0
-732,21745,1997-03-02,Saudi Arabia,Syria,3.0,0.0
-733,21746,1997-03-02,Thailand,South Korea,1.0,3.0
-734,21750,1997-03-09,Costa Rica,Cameroon,5.0,0.0
-735,21751,1997-03-09,Saudi Arabia,Indonesia,2.0,0.0
-736,21758,1997-03-12,Saudi Arabia,Indonesia,3.0,1.0
-737,21762,1997-03-15,Thailand,Japan,3.0,1.0
-738,21763,1997-03-16,Taiwan,Saudi Arabia,0.0,2.0
-739,21764,1997-03-16,Costa Rica,Mexico,0.0,0.0
-740,21767,1997-03-16,United States,Canada,3.0,0.0
-741,21768,1997-03-18,Austria,Slovenia,0.0,2.0
-742,21771,1997-03-18,Malaysia,Saudi Arabia,0.0,0.0
-743,21774,1997-03-20,Bangladesh,Saudi Arabia,1.0,4.0
-744,21778,1997-03-23,Bolivia,Jamaica,6.0,0.0
-745,21779,1997-03-23,Costa Rica,United States,3.0,2.0
-746,21781,1997-03-23,Oman,Japan,0.0,1.0
-747,21784,1997-03-25,Macau,Japan,0.0,10.0
-748,21786,1997-03-27,Nepal,Japan,0.0,6.0
-749,21788,1997-03-27,Saudi Arabia,Bangladesh,3.0,0.0
-750,21791,1997-03-29,Croatia,Denmark,1.0,1.0
-751,21793,1997-03-29,England,Mexico,2.0,0.0
-752,21794,1997-03-29,Italy,Moldova,3.0,0.0
-753,21795,1997-03-29,Netherlands,San Marino,4.0,0.0
-754,21797,1997-03-29,Romania,Liechtenstein,8.0,0.0
-755,21798,1997-03-29,Saudi Arabia,Malaysia,3.0,0.0
-756,21799,1997-03-29,Scotland,Estonia,2.0,0.0
-757,21802,1997-03-29,United Arab Emirates,Norway,1.0,4.0
-758,21803,1997-03-29,Wales,Belgium,1.0,2.0
-759,21812,1997-03-31,Saudi Arabia,Taiwan,6.0,0.0
-760,21814,1997-04-02,Albania,Germany,2.0,3.0
-761,21817,1997-04-02,Bolivia,Argentina,2.0,1.0
-762,21819,1997-04-02,Brazil,Chile,4.0,0.0
-763,21820,1997-04-02,Bulgaria,Cyprus,4.0,1.0
-764,21821,1997-04-02,Croatia,Slovenia,3.0,3.0
-765,21824,1997-04-02,France,Sweden,1.0,0.0
-766,21826,1997-04-02,Lithuania,Romania,0.0,1.0
-767,21828,1997-04-02,Paraguay,Colombia,2.0,1.0
-768,21830,1997-04-02,Poland,Italy,0.0,0.0
-769,21831,1997-04-02,Scotland,Austria,2.0,0.0
-770,21835,1997-04-02,Turkey,Netherlands,1.0,0.0
-771,21843,1997-04-05,Nigeria,Guinea,2.0,1.0
-772,21846,1997-04-06,Cameroon,Zimbabwe,1.0,0.0
-773,21848,1997-04-06,Congo,South Africa,2.0,0.0
-774,21850,1997-04-06,Gabon,Morocco,0.0,4.0
-775,21856,1997-04-06,Namibia,Tunisia,1.0,2.0
-776,21865,1997-04-11,Kuwait,Iran,0.0,2.0
-777,21870,1997-04-13,Mexico,Jamaica,6.0,0.0
-778,21880,1997-04-20,Cameroon,Congo,2.0,0.0
-779,21883,1997-04-20,United States,Mexico,2.0,2.0
-780,21885,1997-04-21,Iran,Kenya,3.0,0.0
-781,21887,1997-04-23,China,South Korea,0.0,2.0
-782,21894,1997-04-26,Sierra Leone,Morocco,0.0,1.0
-783,21897,1997-04-27,Burkina Faso,Nigeria,1.0,2.0
-784,21899,1997-04-27,Cameroon,Togo,2.0,0.0
-785,21900,1997-04-27,Canada,Jamaica,0.0,0.0
-786,21901,1997-04-27,China,Iran,0.0,0.0
-787,21902,1997-04-27,DR Congo,South Africa,1.0,2.0
-788,21909,1997-04-27,Tunisia,Liberia,2.0,0.0
-789,21913,1997-04-29,Chile,Venezuela,6.0,0.0
-790,21915,1997-04-30,Argentina,Ecuador,2.0,1.0
-791,21917,1997-04-30,Austria,Estonia,2.0,0.0
-792,21918,1997-04-30,Brazil,Mexico,4.0,0.0
-793,21919,1997-04-30,Colombia,Peru,0.0,1.0
-794,21920,1997-04-30,Denmark,Slovenia,4.0,0.0
-795,21921,1997-04-30,England,Georgia,2.0,0.0
-796,21922,1997-04-30,Germany,Ukraine,2.0,0.0
-797,21923,1997-04-30,Greece,Croatia,0.0,1.0
-798,21925,1997-04-30,Italy,Poland,3.0,0.0
-799,21929,1997-04-30,Norway,Finland,1.0,1.0
-800,21930,1997-04-30,Paraguay,Uruguay,3.0,1.0
-801,21931,1997-04-30,Romania,Republic of Ireland,1.0,0.0
-802,21933,1997-04-30,San Marino,Netherlands,0.0,6.0
-803,21934,1997-04-30,Serbia,Spain,1.0,1.0
-804,21935,1997-04-30,Sweden,Scotland,2.0,1.0
-805,21938,1997-04-30,Turkey,Belgium,1.0,3.0
-806,21940,1997-05-01,Trinidad and Tobago,Jamaica,1.0,1.0
-807,21941,1997-05-04,Aruba,Jamaica,0.0,6.0
-808,21951,1997-05-11,Costa Rica,Jamaica,3.0,1.0
-809,21956,1997-05-11,Guam,Japan,0.0,12.0
-810,21958,1997-05-13,Japan,Mongolia,5.0,0.0
-811,21960,1997-05-15,Kazakhstan,Japan,2.0,2.0
-812,21963,1997-05-17,China,Japan,2.0,0.0
-813,21965,1997-05-18,Jamaica,El Salvador,1.0,0.0
-814,21969,1997-05-21,Japan,South Korea,1.0,1.0
-815,21973,1997-05-24,England,South Africa,2.0,1.0
-816,21979,1997-05-27,Scotland,Wales,0.0,1.0
-817,21981,1997-05-28,South Korea,Hong Kong,4.0,0.0
-818,21982,1997-05-30,Norway,Brazil,4.0,2.0
-819,21984,1997-05-31,Morocco,Ethiopia,4.0,0.0
-820,21986,1997-05-31,Poland,England,0.0,2.0
-821,21988,1997-05-31,Tunisia,Algeria,0.0,1.0
-822,21992,1997-06-01,South Korea,Thailand,0.0,0.0
-823,21993,1997-06-01,Malta,Scotland,2.0,3.0
-824,21995,1997-06-01,Zambia,Cameroon,3.0,0.0
-825,21996,1997-06-02,Maldives,Iran,0.0,17.0
-826,21997,1997-06-03,France,Brazil,1.0,1.0
-827,21998,1997-06-04,England,Italy,2.0,0.0
-828,22000,1997-06-04,Kyrgyzstan,Iran,0.0,7.0
-829,22001,1997-06-04,South Africa,Netherlands,0.0,2.0
-830,22004,1997-06-04,United States,Paraguay,0.0,0.0
-831,22010,1997-06-06,Syria,Iran,0.0,1.0
-832,22011,1997-06-07,Belgium,San Marino,6.0,0.0
-833,22013,1997-06-07,France,England,0.0,1.0
-834,22016,1997-06-07,Nigeria,Kenya,3.0,0.0
-835,22018,1997-06-07,Ukraine,Germany,0.0,0.0
-836,22019,1997-06-08,Morocco,Ghana,1.0,0.0
-837,22020,1997-06-08,Angola,Cameroon,1.0,1.0
-838,22021,1997-06-08,Argentina,Peru,2.0,0.0
-839,22022,1997-06-08,Belarus,Scotland,0.0,1.0
-840,22023,1997-06-08,Bulgaria,Luxembourg,4.0,0.0
-841,22026,1997-06-08,Denmark,Bosnia and Herzegovina,2.0,0.0
-842,22027,1997-06-08,Ecuador,Chile,1.0,1.0
-843,22028,1997-06-08,Egypt,Tunisia,0.0,0.0
-844,22029,1997-06-08,El Salvador,Mexico,0.0,1.0
-845,22034,1997-06-08,Hungary,Norway,1.0,1.0
-846,22035,1997-06-08,Italy,Brazil,3.0,3.0
-847,22036,1997-06-08,Japan,Croatia,4.0,3.0
-848,22037,1997-06-08,Latvia,Austria,1.0,3.0
-849,22041,1997-06-08,South Africa,Zambia,3.0,0.0
-850,22042,1997-06-08,Spain,Czech Republic,1.0,0.0
-851,22044,1997-06-08,Uruguay,Colombia,1.0,1.0
-852,22047,1997-06-09,Iran,Kyrgyzstan,3.0,1.0
-853,22049,1997-06-10,England,Brazil,0.0,1.0
-854,22050,1997-06-11,Argentina,Ecuador,0.0,0.0
-855,22052,1997-06-11,Chile,Paraguay,0.0,1.0
-856,22053,1997-06-11,France,Italy,2.0,2.0
-857,22055,1997-06-11,Iran,Maldives,9.0,0.0
-858,22060,1997-06-12,Croatia,Turkey,1.0,1.0
-859,22062,1997-06-12,South Korea,Egypt,3.0,1.0
-860,22065,1997-06-13,Brazil,Costa Rica,5.0,0.0
-861,22066,1997-06-13,Iran,Syria,2.0,2.0
-862,22068,1997-06-13,Mexico,Colombia,2.0,1.0
-863,22070,1997-06-14,Argentina,Chile,2.0,0.0
-864,22072,1997-06-14,South Korea,Ghana,3.0,0.0
-865,22073,1997-06-14,Paraguay,Ecuador,0.0,2.0
-866,22077,1997-06-15,Japan,Turkey,1.0,0.0
-867,22081,1997-06-16,Brazil,Mexico,3.0,2.0
-868,22082,1997-06-16,Colombia,Costa Rica,4.0,1.0
-869,22084,1997-06-16,South Korea,Serbia,1.0,1.0
-870,22085,1997-06-17,Argentina,Paraguay,1.0,1.0
-871,22087,1997-06-17,Chile,Ecuador,1.0,2.0
-872,22088,1997-06-17,United States,Israel,2.0,1.0
-873,22093,1997-06-19,Brazil,Colombia,2.0,0.0
-874,22094,1997-06-19,Mexico,Costa Rica,1.0,1.0
-875,22098,1997-06-21,Bolivia,Colombia,2.0,1.0
-876,22100,1997-06-21,Morocco,Egypt,1.0,0.0
-877,22102,1997-06-21,Peru,Argentina,2.0,1.0
-878,22106,1997-06-22,Brazil,Paraguay,2.0,0.0
-879,22107,1997-06-22,Cameroon,Gabon,2.0,2.0
-880,22109,1997-06-22,Ecuador,Mexico,1.0,1.0
-881,22112,1997-06-22,Japan,Macau,10.0,0.0
-882,22121,1997-06-25,Bolivia,Mexico,3.0,1.0
-883,22122,1997-06-25,Japan,Nepal,3.0,0.0
-884,22125,1997-06-26,Brazil,Peru,7.0,0.0
-885,22127,1997-06-28,Japan,Oman,1.0,1.0
-886,22129,1997-06-28,Mexico,Peru,1.0,0.0
-887,22132,1997-06-29,Bolivia,Brazil,1.0,3.0
-888,22134,1997-06-29,El Salvador,United States,1.0,1.0
-889,22135,1997-06-29,Jamaica,Cuba,3.0,0.0
-890,22158,1997-07-04,Jamaica,Grenada,1.0,1.0
-891,22160,1997-07-05,Chile,Colombia,4.0,1.0
-892,22162,1997-07-05,Tunisia,Mali,1.0,0.0
-893,22166,1997-07-06,Paraguay,Argentina,1.0,2.0
-894,22170,1997-07-08,Antigua and Barbuda,Jamaica,0.0,2.0
-895,22175,1997-07-10,Trinidad and Tobago,Jamaica,1.0,1.0
-896,22182,1997-07-13,Ethiopia,Morocco,0.0,1.0
-897,22185,1997-07-13,Jamaica,Grenada,4.0,1.0
-898,22189,1997-07-13,Tunisia,Guinea,1.0,0.0
-899,22190,1997-07-20,Argentina,Venezuela,2.0,0.0
-900,22192,1997-07-20,Chile,Paraguay,2.0,1.0
-901,22193,1997-07-20,Colombia,Ecuador,1.0,0.0
-902,22194,1997-07-20,Iceland,Norway,0.0,1.0
-903,22198,1997-07-27,Cameroon,Kenya,1.0,1.0
-904,22205,1997-07-27,Morocco,Senegal,3.0,0.0
-905,22212,1997-08-06,Jamaica,Colombia,1.0,0.0
-906,22215,1997-08-07,Cameroon,Nigeria,0.0,1.0
-907,22216,1997-08-07,Tunisia,Zambia,3.0,1.0
-908,22217,1997-08-07,United States,Ecuador,0.0,1.0
-909,22218,1997-08-09,Cameroon,Zambia,3.0,3.0
-910,22220,1997-08-09,Tunisia,Nigeria,2.0,0.0
-911,22222,1997-08-10,South Korea,Brazil,1.0,2.0
-912,22223,1997-08-13,Japan,Brazil,0.0,3.0
-913,22224,1997-08-16,Guinea,Nigeria,1.0,0.0
-914,22226,1997-08-16,Morocco,Gabon,2.0,0.0
-915,22227,1997-08-16,South Africa,Congo,1.0,0.0
-916,22229,1997-08-17,Canada,Iran,0.0,1.0
-917,22233,1997-08-17,Tunisia,Namibia,4.0,0.0
-918,22234,1997-08-17,Zimbabwe,Cameroon,1.0,2.0
-919,22238,1997-08-20,Bosnia and Herzegovina,Denmark,3.0,0.0
-920,22239,1997-08-20,Bulgaria,Israel,1.0,0.0
-921,22240,1997-08-20,Colombia,Bolivia,3.0,0.0
-922,22242,1997-08-20,Ecuador,Paraguay,2.0,1.0
-923,22243,1997-08-20,Estonia,Austria,0.0,3.0
-924,22244,1997-08-20,Finland,Norway,0.0,4.0
-925,22248,1997-08-20,Northern Ireland,Germany,1.0,3.0
-926,22250,1997-08-20,Romania,North Macedonia,4.0,2.0
-927,22254,1997-08-20,Uruguay,Chile,1.0,0.0
-928,22257,1997-08-24,South Korea,Tajikistan,4.0,1.0
-929,22258,1997-08-24,Peru,Colombia,2.0,1.0
-930,22261,1997-08-30,South Korea,China,0.0,0.0
-931,22262,1997-08-31,Jamaica,Trinidad and Tobago,6.0,1.0
-932,22265,1997-09-02,United Arab Emirates,Iran,3.0,1.0
-933,22269,1997-09-06,Austria,Sweden,1.0,0.0
-934,22270,1997-09-06,Azerbaijan,Norway,0.0,1.0
-935,22271,1997-09-06,Croatia,Bosnia and Herzegovina,3.0,2.0
-936,22272,1997-09-06,El Salvador,Colombia,2.0,2.0
-937,22274,1997-09-06,Germany,Portugal,1.0,1.0
-938,22276,1997-09-06,South Korea,Kazakhstan,3.0,0.0
-939,22278,1997-09-06,Liechtenstein,Romania,1.0,8.0
-940,22280,1997-09-06,Netherlands,Belgium,3.0,1.0
-941,22286,1997-09-07,Jamaica,Canada,1.0,0.0
-942,22287,1997-09-07,Japan,Uzbekistan,6.0,3.0
-943,22289,1997-09-07,Scotland,Belarus,4.0,1.0
-944,22290,1997-09-07,United States,Costa Rica,1.0,0.0
-945,22294,1997-09-10,Belarus,Austria,0.0,1.0
-946,22296,1997-09-10,Brazil,Ecuador,4.0,2.0
-947,22297,1997-09-10,Bulgaria,Russia,1.0,0.0
-948,22298,1997-09-10,Chile,Argentina,1.0,2.0
-949,22299,1997-09-10,Colombia,Venezuela,1.0,0.0
-950,22300,1997-09-10,Denmark,Croatia,3.0,1.0
-951,22301,1997-09-10,England,Moldova,4.0,0.0
-952,22302,1997-09-10,Georgia,Italy,0.0,0.0
-953,22303,1997-09-10,Germany,Armenia,4.0,0.0
-954,22306,1997-09-10,Norway,Switzerland,5.0,0.0
-955,22307,1997-09-10,Paraguay,Bolivia,2.0,1.0
-956,22309,1997-09-10,Romania,Iceland,4.0,0.0
-957,22315,1997-09-12,South Korea,Uzbekistan,2.0,1.0
-958,22317,1997-09-13,China,Iran,2.0,4.0
-959,22322,1997-09-14,Jamaica,Costa Rica,1.0,0.0
-960,22323,1997-09-14,Saudi Arabia,Kuwait,2.0,1.0
-961,22324,1997-09-19,Iran,Saudi Arabia,1.0,1.0
-962,22326,1997-09-19,United Arab Emirates,Japan,0.0,0.0
-963,22334,1997-09-24,Slovakia,Spain,1.0,2.0
-964,22337,1997-09-25,Saudi Arabia,Mali,5.0,1.0
-965,22338,1997-09-26,Kuwait,Iran,1.0,1.0
-966,22343,1997-09-28,Japan,South Korea,1.0,2.0
-967,22346,1997-10-03,China,Saudi Arabia,1.0,0.0
-968,22347,1997-10-03,Iran,Qatar,3.0,0.0
-969,22349,1997-10-03,United States,Jamaica,1.0,1.0
-970,22350,1997-10-04,Kazakhstan,Japan,1.0,1.0
-971,22351,1997-10-04,South Korea,United Arab Emirates,3.0,0.0
-972,22354,1997-10-05,Mexico,El Salvador,5.0,0.0
-973,22364,1997-10-08,Norway,Colombia,0.0,0.0
-974,22365,1997-10-09,Brazil,Morocco,2.0,0.0
-975,22372,1997-10-11,Austria,Belarus,4.0,0.0
-976,22373,1997-10-11,Belgium,Wales,3.0,2.0
-977,22377,1997-10-11,France,South Africa,2.0,1.0
-978,22379,1997-10-11,Germany,Albania,4.0,3.0
-979,22380,1997-10-11,Greece,Denmark,0.0,0.0
-980,22382,1997-10-11,Republic of Ireland,Romania,1.0,1.0
-981,22383,1997-10-11,Italy,England,0.0,0.0
-982,22384,1997-10-11,Kazakhstan,South Korea,1.0,1.0
-983,22387,1997-10-11,Netherlands,Turkey,0.0,0.0
-984,22389,1997-10-11,Russia,Bulgaria,4.0,2.0
-985,22390,1997-10-11,Saudi Arabia,Qatar,1.0,0.0
-986,22391,1997-10-11,Scotland,Latvia,2.0,0.0
-987,22392,1997-10-11,Slovenia,Croatia,1.0,3.0
-988,22393,1997-10-11,Spain,Faroe Islands,3.0,1.0
-989,22396,1997-10-11,Uzbekistan,Japan,1.0,1.0
-990,22397,1997-10-12,Argentina,Uruguay,0.0,0.0
-991,22398,1997-10-12,Canada,Mexico,2.0,2.0
-992,22400,1997-10-12,Paraguay,Venezuela,1.0,0.0
-993,22401,1997-10-12,Peru,Chile,0.0,4.0
-994,22412,1997-10-17,Iran,China,4.0,1.0
-995,22413,1997-10-17,Kuwait,Saudi Arabia,2.0,1.0
-996,22414,1997-10-18,Haiti,Jamaica,0.0,1.0
-997,22416,1997-10-18,Uzbekistan,South Korea,1.0,5.0
-998,22420,1997-10-20,Martinique,Cameroon,2.0,1.0
-999,22421,1997-10-22,Cuba,Cameroon,1.0,1.0
-1000,22424,1997-10-24,Saudi Arabia,Iran,1.0,0.0
-1001,22425,1997-10-24,Saint Lucia,Jamaica,1.0,3.0
-1002,22427,1997-10-26,Antigua and Barbuda,Jamaica,0.0,3.0
-1003,22428,1997-10-26,Japan,United Arab Emirates,1.0,1.0
-1004,22429,1997-10-29,Croatia,Ukraine,2.0,0.0
-1005,22431,1997-10-29,Republic of Ireland,Belgium,1.0,1.0
-1006,22432,1997-10-29,Russia,Italy,1.0,1.0
-1007,22433,1997-10-29,Saint Kitts and Nevis,Jamaica,1.0,1.0
-1008,22435,1997-10-31,Iran,Kuwait,0.0,0.0
-1009,22436,1997-11-01,South Korea,Japan,0.0,2.0
-1010,22438,1997-11-02,Mexico,United States,0.0,0.0
-1011,22441,1997-11-05,Tunisia,Bosnia and Herzegovina,2.0,1.0
-1012,22442,1997-11-06,Saudi Arabia,China,1.0,1.0
-1013,22443,1997-11-07,Chile,Guatemala,4.0,1.0
-1014,22444,1997-11-07,Qatar,Iran,2.0,0.0
-1015,22445,1997-11-08,Japan,Kazakhstan,5.0,1.0
-1016,22446,1997-11-09,Canada,United States,0.0,3.0
-1017,22447,1997-11-09,El Salvador,Jamaica,2.0,2.0
-1018,22448,1997-11-09,Mexico,Costa Rica,3.0,3.0
-1019,22449,1997-11-09,United Arab Emirates,South Korea,1.0,3.0
-1020,22450,1997-11-11,Brazil,Wales,3.0,0.0
-1021,22452,1997-11-12,France,Scotland,2.0,1.0
-1022,22453,1997-11-12,Qatar,Saudi Arabia,0.0,1.0
-1023,22455,1997-11-15,Belgium,Republic of Ireland,2.0,1.0
-1024,22456,1997-11-15,England,Cameroon,2.0,0.0
-1025,22457,1997-11-15,Germany,South Africa,3.0,0.0
-1026,22458,1997-11-15,Italy,Russia,1.0,0.0
-1027,22460,1997-11-15,Ukraine,Croatia,1.0,1.0
-1028,22461,1997-11-16,Argentina,Colombia,1.0,1.0
-1029,22462,1997-11-16,Chile,Bolivia,3.0,0.0
-1030,22464,1997-11-16,Jamaica,Mexico,0.0,0.0
-1031,22465,1997-11-16,Japan,Iran,3.0,2.0
-1032,22466,1997-11-16,Peru,Paraguay,1.0,0.0
-1033,22468,1997-11-16,United States,El Salvador,4.0,2.0
-1034,22470,1997-11-19,Spain,Romania,1.0,1.0
-1035,22471,1997-11-22,Iran,Australia,1.0,1.0
-1036,22472,1997-11-26,Morocco,Togo,3.0,0.0
-1037,22476,1997-11-29,Australia,Iran,2.0,2.0
-1038,22492,1997-12-07,Saudi Arabia,Iceland,0.0,0.0
-1039,22493,1997-12-07,South Africa,Brazil,1.0,2.0
-1040,22494,1997-12-12,Mexico,Australia,1.0,3.0
-1041,22495,1997-12-12,Saudi Arabia,Brazil,0.0,3.0
-1042,22496,1997-12-13,South Africa,Czech Republic,2.0,2.0
-1043,22498,1997-12-14,Australia,Brazil,0.0,0.0
-1044,22499,1997-12-14,Saudi Arabia,Mexico,0.0,5.0
-1045,22501,1997-12-15,United Arab Emirates,South Africa,1.0,0.0
-1046,22502,1997-12-16,Brazil,Mexico,3.0,2.0
-1047,22503,1997-12-16,Saudi Arabia,Australia,1.0,0.0
-1048,22506,1997-12-17,Uruguay,South Africa,4.0,3.0
-1049,22507,1997-12-17,Zambia,Nigeria,0.0,0.0
-1050,22511,1997-12-19,Brazil,Czech Republic,2.0,0.0
-1051,22514,1997-12-21,Brazil,Australia,6.0,0.0
-1052,22518,1997-12-22,Egypt,Cameroon,2.0,0.0
-1053,22519,1997-12-23,Catalonia,Bulgaria,1.0,1.0
-1054,22520,1997-12-24,Cameroon,Togo,3.0,1.0
-1055,22531,1998-01-07,Trinidad and Tobago,Jamaica,0.0,0.0
-1056,22538,1998-01-14,Morocco,Angola,2.0,1.0
-1057,22545,1998-01-24,Namibia,South Africa,3.0,2.0
-1058,22546,1998-01-24,United States,Sweden,1.0,0.0
-1059,22549,1998-01-27,Egypt,South Korea,0.0,2.0
-1060,22551,1998-01-28,Cameroon,Angola,1.0,0.0
-1061,22552,1998-01-28,France,Spain,1.0,0.0
-1062,22553,1998-01-28,Iran,Nigeria,0.0,1.0
-1063,22554,1998-01-28,Italy,Slovakia,3.0,0.0
-1064,22555,1998-01-28,Tunisia,Serbia,0.0,3.0
-1065,22557,1998-01-29,Jamaica,Sweden,0.0,0.0
-1066,22558,1998-01-29,Thailand,South Korea,0.0,2.0
-1067,22561,1998-01-31,Egypt,South Korea,1.0,1.0
-1068,22562,1998-01-31,Iran,Chile,1.0,1.0
-1069,22563,1998-01-31,Tunisia,Guinea,4.0,1.0
-1070,22567,1998-02-01,Ivory Coast,Cameroon,1.0,0.0
-1071,22569,1998-02-01,United States,Cuba,3.0,0.0
-1072,22570,1998-02-03,Brazil,Jamaica,0.0,0.0
-1073,22572,1998-02-04,Mali,Tunisia,0.0,1.0
-1074,22573,1998-02-04,New Zealand,Chile,0.0,0.0
-1075,22574,1998-02-04,Trinidad and Tobago,Mexico,2.0,4.0
-1076,22575,1998-02-05,Brazil,Guatemala,1.0,1.0
-1077,22578,1998-02-05,Morocco,Niger,3.0,0.0
-1078,22582,1998-02-07,Australia,Chile,0.0,1.0
-1079,22583,1998-02-07,Burkina Faso,Cameroon,0.0,1.0
-1080,22585,1998-02-07,Mexico,Honduras,2.0,0.0
-1081,22586,1998-02-07,New Zealand,South Korea,0.0,1.0
-1082,22587,1998-02-07,United States,Costa Rica,2.0,1.0
-1083,22590,1998-02-08,El Salvador,Brazil,0.0,4.0
-1084,22591,1998-02-08,Guatemala,Jamaica,2.0,3.0
-1085,22594,1998-02-08,Paraguay,Poland,4.0,0.0
-1086,22595,1998-02-08,South Africa,Angola,0.0,0.0
-1087,22599,1998-02-09,Ghana,Tunisia,2.0,0.0
-1088,22600,1998-02-09,Jamaica,El Salvador,2.0,0.0
-1089,22601,1998-02-09,Zambia,Morocco,1.0,1.0
-1090,22605,1998-02-10,United States,Brazil,1.0,0.0
-1091,22606,1998-02-11,Australia,South Korea,1.0,0.0
-1092,22608,1998-02-11,Cameroon,Guinea,2.0,2.0
-1093,22609,1998-02-11,England,Chile,0.0,2.0
-1094,22610,1998-02-11,South Africa,Ivory Coast,1.0,1.0
-1095,22613,1998-02-12,Jamaica,Mexico,0.0,1.0
-1096,22614,1998-02-12,Tunisia,DR Congo,2.0,1.0
-1097,22615,1998-02-13,Morocco,Mozambique,3.0,0.0
-1098,22617,1998-02-15,Australia,Japan,0.0,3.0
-1099,22618,1998-02-15,Brazil,Jamaica,1.0,0.0
-1100,22620,1998-02-15,Cameroon,Algeria,2.0,1.0
-1101,22621,1998-02-15,United States,Mexico,0.0,1.0
-1102,22624,1998-02-16,South Africa,Namibia,4.0,1.0
-1103,22625,1998-02-16,Tunisia,Togo,3.0,1.0
-1104,22626,1998-02-17,Egypt,Morocco,0.0,1.0
-1105,22630,1998-02-18,Oman,Germany,0.0,2.0
-1106,22631,1998-02-20,Cameroon,DR Congo,0.0,1.0
-1107,22632,1998-02-21,Burkina Faso,Tunisia,1.0,1.0
-1108,22634,1998-02-21,United States,Netherlands,0.0,2.0
-1109,22636,1998-02-22,Jamaica,Nigeria,2.0,2.0
-1110,22637,1998-02-22,Morocco,South Africa,1.0,2.0
-1111,22638,1998-02-22,Saudi Arabia,Germany,0.0,3.0
-1112,22639,1998-02-24,Argentina,Serbia,3.0,1.0
-1113,22640,1998-02-24,Mexico,Netherlands,2.0,3.0
-1114,22641,1998-02-25,Belgium,United States,2.0,0.0
-1115,22643,1998-02-25,DR Congo,South Africa,1.0,2.0
-1116,22644,1998-02-25,France,Norway,3.0,3.0
-1117,22647,1998-02-28,South Africa,Egypt,0.0,2.0
-1118,22650,1998-03-01,Japan,South Korea,2.0,1.0
-1119,22654,1998-03-04,China,South Korea,1.0,2.0
-1120,22655,1998-03-04,Japan,Hong Kong,5.0,1.0
-1121,22661,1998-03-07,Japan,China,0.0,2.0
-1122,22662,1998-03-08,Hong Kong,South Korea,0.0,1.0
-1123,22664,1998-03-10,Argentina,Bulgaria,2.0,0.0
-1124,22668,1998-03-14,United States,Paraguay,2.0,2.0
-1125,22673,1998-03-18,Mexico,Paraguay,1.0,1.0
-1126,22674,1998-03-18,Romania,Israel,0.0,1.0
-1127,22682,1998-03-25,Austria,Hungary,2.0,3.0
-1128,22683,1998-03-25,Belgium,Norway,2.0,2.0
-1129,22684,1998-03-25,Colombia,Serbia,0.0,0.0
-1130,22686,1998-03-25,Germany,Brazil,1.0,2.0
-1131,22687,1998-03-25,North Macedonia,Bulgaria,1.0,0.0
-1132,22691,1998-03-25,Russia,France,1.0,0.0
-1133,22692,1998-03-25,Scotland,Denmark,0.0,1.0
-1134,22693,1998-03-25,Spain,Sweden,4.0,0.0
-1135,22694,1998-03-25,Switzerland,England,1.0,1.0
-1136,22695,1998-03-25,Wales,Jamaica,0.0,0.0
-1137,22698,1998-03-29,Colombia,Paraguay,1.0,1.0
-1138,22701,1998-04-01,South Korea,Japan,2.0,1.0
-1139,22707,1998-04-08,Romania,Greece,2.0,1.0
-1140,22708,1998-04-14,Iran,Kuwait,1.0,1.0
-1141,22710,1998-04-15,Israel,Argentina,2.0,1.0
-1142,22711,1998-04-15,Mexico,Peru,1.0,0.0
-1143,22712,1998-04-15,Slovakia,South Korea,0.0,0.0
-1144,22713,1998-04-18,North Macedonia,South Korea,2.0,2.0
-1145,22717,1998-04-20,Iran,Hungary,0.0,2.0
-1146,22718,1998-04-20,Jamaica,North Macedonia,1.0,2.0
-1147,22720,1998-04-22,Austria,United States,0.0,3.0
-1148,22721,1998-04-22,Belgium,Romania,1.0,1.0
-1149,22722,1998-04-22,Bulgaria,Morocco,2.0,1.0
-1150,22723,1998-04-22,Chile,Colombia,2.0,2.0
-1151,22724,1998-04-22,Croatia,Poland,4.0,1.0
-1152,22725,1998-04-22,Denmark,Norway,0.0,2.0
-1153,22726,1998-04-22,England,Portugal,3.0,0.0
-1154,22727,1998-04-22,Germany,Nigeria,1.0,0.0
-1155,22729,1998-04-22,Iran,Jamaica,1.0,0.0
-1156,22730,1998-04-22,Republic of Ireland,Argentina,0.0,2.0
-1157,22731,1998-04-22,Italy,Paraguay,3.0,1.0
-1158,22734,1998-04-22,Scotland,Finland,1.0,1.0
-1159,22735,1998-04-22,Serbia,South Korea,3.0,1.0
-1160,22737,1998-04-22,Sweden,France,0.0,0.0
-1161,22739,1998-04-29,Brazil,Argentina,0.0,1.0
-1162,22740,1998-04-29,Chile,Lithuania,1.0,0.0
-1163,22741,1998-05-02,Tunisia,Georgia,1.0,1.0
-1164,22743,1998-05-04,Jamaica,Saudi Arabia,0.0,0.0
-1165,22747,1998-05-09,Estonia,Mexico,0.0,6.0
-1166,22748,1998-05-09,Saudi Arabia,Trinidad and Tobago,2.0,1.0
-1167,22750,1998-05-13,Iceland,Saudi Arabia,1.0,1.0
-1168,22751,1998-05-14,Argentina,Bosnia and Herzegovina,5.0,0.0
-1169,22752,1998-05-14,Corsica,Cameroon,0.0,1.0
-1170,22754,1998-05-16,South Korea,Jamaica,2.0,1.0
-1171,22755,1998-05-16,United States,North Macedonia,0.0,0.0
-1172,22757,1998-05-17,Japan,Paraguay,1.0,1.0
-1173,22759,1998-05-17,Saudi Arabia,Namibia,2.0,1.0
-1174,22761,1998-05-19,Argentina,Chile,1.0,0.0
-1175,22762,1998-05-19,Cameroon,Burkina Faso,2.0,0.0
-1176,22763,1998-05-19,South Korea,Jamaica,0.0,0.0
-1177,22764,1998-05-20,Norway,Mexico,5.0,2.0
-1178,22765,1998-05-20,South Africa,Zambia,1.0,1.0
-1179,22766,1998-05-21,Czech Republic,Paraguay,1.0,0.0
-1180,22767,1998-05-21,Brittany,Cameroon,1.0,1.0
-1181,22768,1998-05-23,England,Saudi Arabia,0.0,0.0
-1182,22769,1998-05-23,Republic of Ireland,Mexico,0.0,0.0
-1183,22770,1998-05-24,Chile,Uruguay,2.0,2.0
-1184,22771,1998-05-24,Japan,Czech Republic,0.0,0.0
-1185,22773,1998-05-24,United States,Kuwait,2.0,0.0
-1186,22774,1998-05-25,Argentina,South Africa,2.0,0.0
+,index,date,home_team,away_team,home_score,away_score,resultado
+0,19841,1994-08-17,Austria,Russia,0.0,3.0,2
+1,19842,1994-08-17,Denmark,Finland,2.0,1.0,1
+2,19843,1994-08-17,France,Czech Republic,2.0,2.0,0
+3,19844,1994-08-17,Israel,Croatia,0.0,4.0,2
+4,19866,1994-09-04,Burkina Faso,Morocco,2.0,1.0,1
+5,19868,1994-09-04,Estonia,Croatia,0.0,2.0,2
+6,19878,1994-09-07,Belgium,Armenia,2.0,0.0,1
+7,19879,1994-09-07,Cyprus,Spain,1.0,2.0,2
+8,19880,1994-09-07,England,United States,2.0,0.0,1
+9,19882,1994-09-07,Finland,Scotland,0.0,2.0,2
+10,19887,1994-09-07,Liechtenstein,Austria,0.0,4.0,2
+11,19888,1994-09-07,Luxembourg,Netherlands,0.0,4.0,2
+12,19889,1994-09-07,North Macedonia,Denmark,1.0,1.0,0
+13,19891,1994-09-07,Norway,Belarus,1.0,0.0,1
+14,19892,1994-09-07,Romania,Azerbaijan,3.0,0.0,1
+15,19893,1994-09-07,Russia,Germany,0.0,1.0,2
+16,19894,1994-09-07,Slovakia,France,0.0,0.0,0
+17,19895,1994-09-07,Slovenia,Italy,1.0,1.0,0
+18,19899,1994-09-11,South Korea,Ukraine,1.0,0.0,1
+19,19901,1994-09-13,South Korea,Ukraine,2.0,0.0,1
+20,19907,1994-09-19,South Korea,United Arab Emirates,0.0,0.0,0
+21,19908,1994-09-21,Chile,Bolivia,1.0,2.0,2
+22,19913,1994-09-27,Japan,Australia,0.0,0.0,0
+23,19916,1994-10-01,Saudi Arabia,Uzbekistan,1.0,4.0,2
+24,19918,1994-10-01,South Korea,Nepal,11.0,0.0,1
+25,19921,1994-10-03,Iran,Bahrain,0.0,0.0,0
+26,19926,1994-10-03,Japan,United Arab Emirates,1.0,1.0,0
+27,19928,1994-10-05,Iran,Turkmenistan,1.0,1.0,0
+28,19930,1994-10-05,Thailand,Saudi Arabia,2.0,4.0,2
+29,19931,1994-10-05,South Korea,Oman,2.0,1.0,1
+30,19933,1994-10-05,Japan,Qatar,1.0,1.0,0
+31,19934,1994-10-07,Iran,China,0.0,1.0,2
+32,19937,1994-10-07,Malaysia,Saudi Arabia,1.0,2.0,2
+33,19938,1994-10-07,South Korea,Kuwait,0.0,1.0,2
+34,19940,1994-10-08,Estonia,Italy,0.0,2.0,2
+35,19941,1994-10-08,France,Romania,0.0,0.0,0
+36,19942,1994-10-09,Croatia,Lithuania,2.0,0.0,1
+37,19947,1994-10-09,Iran,Yemen,4.0,0.0,1
+38,19948,1994-10-09,Hong Kong,Saudi Arabia,1.0,2.0,2
+39,19952,1994-10-09,Japan,Myanmar,5.0,0.0,1
+40,19953,1994-10-11,China,Saudi Arabia,2.0,0.0,1
+41,19956,1994-10-11,Japan,South Korea,2.0,3.0,2
+42,19957,1994-10-12,Austria,Northern Ireland,1.0,2.0,2
+43,19959,1994-10-12,Bulgaria,Georgia,2.0,0.0,1
+44,19960,1994-10-12,Denmark,Belgium,3.0,1.0,1
+45,19961,1994-10-12,England,Romania,1.0,1.0,0
+46,19963,1994-10-12,Hungary,Germany,0.0,0.0,0
+47,19966,1994-10-12,North Macedonia,Spain,0.0,2.0,2
+48,19969,1994-10-12,Norway,Netherlands,1.0,1.0,0
+49,19972,1994-10-12,Scotland,Faroe Islands,5.0,1.0,1
+50,19977,1994-10-13,Uzbekistan,South Korea,1.0,0.0,1
+51,19983,1994-10-15,Kuwait,South Korea,2.0,1.0,1
+52,19984,1994-10-16,Cameroon,DR Congo,1.0,0.0,1
+53,19991,1994-10-19,Saudi Arabia,United States,2.0,1.0,1
+54,19995,1994-10-26,Saudi Arabia,Trinidad and Tobago,1.0,0.0,1
+55,20001,1994-11-04,Oman,Saudi Arabia,1.0,2.0,2
+56,20003,1994-11-06,United Arab Emirates,Saudi Arabia,1.0,1.0,0
+57,20006,1994-11-07,Morocco,Cameroon,1.0,1.0,0
+58,20007,1994-11-08,Tunisia,Ivory Coast,2.0,0.0,1
+59,20010,1994-11-10,Saudi Arabia,Bahrain,3.0,1.0,1
+60,20013,1994-11-12,Qatar,Saudi Arabia,1.0,2.0,2
+61,20014,1994-11-12,Romania,Slovakia,3.0,2.0,1
+62,20020,1994-11-13,Morocco,Ivory Coast,1.0,0.0,1
+63,20023,1994-11-13,Tunisia,Togo,1.0,1.0,0
+64,20025,1994-11-13,Portugal,Austria,1.0,0.0,1
+65,20031,1994-11-16,Albania,Germany,1.0,2.0,2
+66,20033,1994-11-16,Belarus,Norway,0.0,4.0,2
+67,20034,1994-11-16,Belgium,North Macedonia,1.0,1.0,0
+68,20035,1994-11-16,Bulgaria,Moldova,4.0,1.0,1
+69,20036,1994-11-16,Chile,Argentina,0.0,3.0,2
+70,20038,1994-11-16,England,Nigeria,1.0,0.0,1
+71,20042,1994-11-16,Italy,Croatia,1.0,2.0,2
+72,20043,1994-11-16,Kuwait,Saudi Arabia,0.0,2.0,2
+73,20044,1994-11-16,Netherlands,Czech Republic,0.0,0.0,0
+74,20046,1994-11-16,Poland,France,0.0,0.0,0
+75,20047,1994-11-16,Scotland,Russia,1.0,1.0,0
+76,20049,1994-11-16,Spain,Denmark,3.0,0.0,1
+77,20053,1994-11-19,Trinidad and Tobago,United States,1.0,0.0,1
+78,20055,1994-11-22,Jamaica,United States,0.0,3.0,2
+79,20060,1994-11-26,Cameroon,Ivory Coast,1.0,2.0,2
+80,20067,1994-11-30,Cameroon,Ghana,0.0,1.0,2
+81,20068,1994-11-30,South Africa,Ivory Coast,0.0,0.0,0
+82,20069,1994-11-30,Spain,Finland,2.0,0.0,1
+83,20076,1994-12-04,South Africa,Cameroon,1.0,1.0,0
+84,20081,1994-12-08,Saudi Arabia,Poland,0.0,2.0,2
+85,20084,1994-12-10,Saudi Arabia,Poland,1.0,2.0,2
+86,20085,1994-12-11,United States,Honduras,1.0,1.0,0
+87,20086,1994-12-13,Azerbaijan,France,0.0,2.0,2
+88,20089,1994-12-14,Israel,Romania,1.0,1.0,0
+89,20090,1994-12-14,Malta,Norway,0.0,1.0,2
+90,20091,1994-12-14,Mexico,Hungary,5.0,1.0,1
+91,20092,1994-12-14,Moldova,Germany,0.0,3.0,2
+92,20093,1994-12-14,Netherlands,Luxembourg,5.0,0.0,1
+93,20095,1994-12-14,Wales,Bulgaria,0.0,3.0,2
+94,20096,1994-12-16,Tunisia,Algeria,1.0,0.0,1
+95,20097,1994-12-17,Belgium,Spain,1.0,4.0,2
+96,20099,1994-12-17,Saudi Arabia,Costa Rica,1.0,3.0,2
+97,20100,1994-12-18,Cameroon,Togo,1.0,1.0,0
+98,20101,1994-12-18,Germany,Albania,2.0,1.0,1
+99,20102,1994-12-18,Greece,Scotland,1.0,0.0,1
+100,20104,1994-12-21,Italy,Turkey,3.0,1.0,1
+101,20105,1994-12-23,Brazil,Serbia,2.0,0.0,1
+102,20108,1994-12-27,Argentina,Serbia,1.0,0.0,1
+103,20111,1994-12-29,Saudi Arabia,Zambia,1.0,0.0,1
+104,20114,1995-01-02,Tunisia,Egypt,2.0,0.0,1
+105,20116,1995-01-06,Japan,Nigeria,0.0,3.0,2
+106,20117,1995-01-06,Saudi Arabia,Mexico,0.0,2.0,2
+107,20119,1995-01-07,Senegal,Tunisia,0.0,0.0,0
+108,20122,1995-01-08,Cameroon,Malawi,0.0,0.0,0
+109,20125,1995-01-08,Japan,Argentina,1.0,5.0,2
+110,20126,1995-01-08,Saudi Arabia,Denmark,0.0,2.0,2
+111,20130,1995-01-10,Denmark,Mexico,1.0,1.0,0
+112,20131,1995-01-10,Nigeria,Argentina,0.0,0.0,0
+113,20132,1995-01-13,Denmark,Argentina,2.0,0.0,1
+114,20133,1995-01-13,Mexico,Nigeria,1.0,1.0,0
+115,20135,1995-01-18,Netherlands,France,0.0,1.0,2
+116,20136,1995-01-18,Spain,Uruguay,2.0,2.0,0
+117,20145,1995-01-22,Zimbabwe,Cameroon,4.0,1.0,1
+118,20148,1995-01-29,Tunisia,Mauritania,1.0,0.0,1
+119,20149,1995-01-31,South Korea,Colombia,1.0,0.0,1
+120,20150,1995-02-01,Mexico,Uruguay,1.0,0.0,1
+121,20151,1995-02-04,South Korea,Serbia,0.0,1.0,2
+122,20152,1995-02-06,Estonia,Norway,0.0,7.0,2
+123,20153,1995-02-08,Cyprus,Norway,0.0,2.0,2
+124,20154,1995-02-08,Greece,Romania,1.0,0.0,1
+125,20155,1995-02-10,Tunisia,Liberia,0.0,0.0,0
+126,20156,1995-02-11,Australia,Colombia,0.0,1.0,2
+127,20157,1995-02-14,Argentina,Bulgaria,4.0,1.0,1
+128,20159,1995-02-15,Australia,Japan,2.0,1.0,1
+129,20161,1995-02-15,Republic of Ireland,England,1.0,0.0,1
+130,20163,1995-02-15,Turkey,Romania,1.0,1.0,0
+131,20165,1995-02-19,China,South Korea,0.0,0.0,0
+132,20166,1995-02-19,Hong Kong,Japan,0.0,3.0,2
+133,20168,1995-02-21,Japan,South Korea,1.0,1.0,0
+134,20170,1995-02-22,Brazil,Slovakia,5.0,0.0,1
+135,20172,1995-02-22,Netherlands,Portugal,0.0,1.0,2
+136,20173,1995-02-22,Spain,Germany,0.0,0.0,0
+137,20174,1995-02-22,Thailand,Japan,3.0,2.0,1
+138,20175,1995-02-23,China,Japan,1.0,2.0,2
+139,20176,1995-02-23,Hong Kong,South Korea,2.0,3.0,2
+140,20178,1995-02-26,Japan,South Korea,2.0,2.0,0
+141,20179,1995-03-01,Morocco,Senegal,2.0,0.0,1
+142,20190,1995-03-12,Jamaica,Cuba,0.0,0.0,0
+143,20198,1995-03-22,Colombia,Uruguay,2.0,1.0,1
+144,20199,1995-03-23,Morocco,Mali,3.0,0.0,1
+145,20201,1995-03-25,Croatia,Ukraine,4.0,0.0,1
+146,20202,1995-03-25,Italy,Estonia,4.0,1.0,1
+147,20205,1995-03-25,United States,Uruguay,2.0,2.0,0
+148,20211,1995-03-29,Austria,Latvia,5.0,0.0,1
+149,20212,1995-03-29,Brazil,Honduras,1.0,1.0,0
+150,20213,1995-03-29,Bulgaria,Wales,3.0,1.0,1
+151,20214,1995-03-29,Cyprus,Denmark,1.0,1.0,0
+152,20216,1995-03-29,England,Uruguay,0.0,0.0,0
+153,20217,1995-03-29,Georgia,Germany,0.0,2.0,2
+154,20220,1995-03-29,Israel,France,0.0,0.0,0
+155,20221,1995-03-29,Lithuania,Croatia,0.0,0.0,0
+156,20222,1995-03-29,Luxembourg,Norway,0.0,2.0,2
+157,20223,1995-03-29,Mexico,Chile,1.0,2.0,2
+158,20225,1995-03-29,Netherlands,Malta,4.0,0.0,1
+159,20226,1995-03-29,Romania,Poland,2.0,1.0,1
+160,20227,1995-03-29,Russia,Scotland,0.0,0.0,0
+161,20231,1995-03-29,Spain,Belgium,1.0,1.0,0
+162,20234,1995-03-29,Ukraine,Italy,0.0,2.0,2
+163,20254,1995-04-09,Morocco,Burkina Faso,0.0,0.0,0
+164,20259,1995-04-12,North Macedonia,Bulgaria,0.0,0.0,0
+165,20260,1995-04-14,Egypt,Tunisia,1.0,0.0,1
+166,20261,1995-04-19,Peru,Chile,6.0,0.0,1
+167,20262,1995-04-22,Belgium,United States,1.0,0.0,1
+168,20263,1995-04-22,Chile,Iceland,1.0,1.0,0
+169,20269,1995-04-23,DR Congo,Cameroon,2.0,1.0,1
+170,20271,1995-04-23,Liberia,Tunisia,1.0,0.0,1
+171,20276,1995-04-26,Armenia,Spain,0.0,2.0,2
+172,20277,1995-04-26,Austria,Liechtenstein,7.0,0.0,1
+173,20278,1995-04-26,Azerbaijan,Romania,1.0,4.0,2
+174,20280,1995-04-26,Belgium,Cyprus,2.0,0.0,1
+175,20281,1995-04-26,Croatia,Slovenia,2.0,0.0,1
+176,20282,1995-04-26,Czech Republic,Netherlands,3.0,1.0,1
+177,20283,1995-04-26,Denmark,North Macedonia,1.0,0.0,1
+178,20286,1995-04-26,France,Slovakia,4.0,0.0,1
+179,20288,1995-04-26,Germany,Wales,1.0,1.0,0
+180,20294,1995-04-26,Lithuania,Italy,0.0,1.0,2
+181,20295,1995-04-26,Moldova,Bulgaria,0.0,3.0,2
+182,20296,1995-04-26,Norway,Luxembourg,5.0,0.0,1
+183,20297,1995-04-26,San Marino,Scotland,0.0,2.0,2
+184,20315,1995-05-13,South Africa,Argentina,1.0,1.0,0
+185,20317,1995-05-14,Bolivia,Paraguay,1.0,1.0,0
+186,20319,1995-05-17,Israel,Brazil,1.0,2.0,2
+187,20321,1995-05-18,Morocco,Egypt,0.0,0.0,0
+188,20325,1995-05-21,Japan,Scotland,0.0,0.0,0
+189,20330,1995-05-24,Ecuador,Scotland,1.0,2.0,2
+190,20331,1995-05-25,Chile,Northern Ireland,2.0,1.0,1
+191,20336,1995-05-25,Norway,Ghana,3.0,2.0,1
+192,20339,1995-05-28,Canada,Chile,1.0,2.0,2
+193,20341,1995-05-28,Japan,Ecuador,3.0,0.0,1
+194,20342,1995-05-28,United States,Costa Rica,1.0,2.0,2
+195,20343,1995-05-31,Argentina,Peru,1.0,0.0,1
+196,20344,1995-05-31,Finland,Denmark,0.0,1.0,2
+197,20348,1995-06-03,England,Japan,2.0,1.0,1
+198,20354,1995-06-04,Brazil,Sweden,1.0,0.0,1
+199,20360,1995-06-04,Ivory Coast,Morocco,2.0,0.0,1
+200,20363,1995-06-04,Togo,Tunisia,0.0,1.0,2
+201,20364,1995-06-05,South Korea,Costa Rica,1.0,0.0,1
+202,20365,1995-06-06,Brazil,Japan,3.0,0.0,1
+203,20366,1995-06-07,Belarus,Netherlands,1.0,0.0,1
+204,20367,1995-06-07,Bulgaria,Germany,3.0,2.0,1
+205,20369,1995-06-07,Denmark,Cyprus,4.0,0.0,1
+206,20370,1995-06-07,Faroe Islands,Scotland,0.0,2.0,2
+207,20373,1995-06-07,North Macedonia,Belgium,0.0,5.0,2
+208,20376,1995-06-07,Norway,Malta,2.0,0.0,1
+209,20378,1995-06-07,Romania,Israel,2.0,1.0,1
+210,20380,1995-06-07,Spain,Armenia,1.0,0.0,1
+211,20382,1995-06-08,England,Sweden,3.0,3.0,0
+212,20383,1995-06-09,Paraguay,Bolivia,0.0,0.0,0
+213,20386,1995-06-10,South Korea,Zambia,2.0,3.0,2
+214,20387,1995-06-10,Sweden,Japan,2.0,2.0,0
+215,20388,1995-06-11,England,Brazil,1.0,3.0,2
+216,20393,1995-06-11,Republic of Ireland,Austria,1.0,3.0,2
+217,20394,1995-06-11,Ukraine,Croatia,1.0,0.0,1
+218,20395,1995-06-11,United States,Nigeria,3.0,2.0,1
+219,20397,1995-06-14,Argentina,Paraguay,2.0,1.0,1
+220,20398,1995-06-17,Colombia,Nigeria,1.0,0.0,1
+221,20400,1995-06-18,United States,Mexico,4.0,0.0,1
+222,20402,1995-06-19,Chile,Paraguay,0.0,1.0,2
+223,20403,1995-06-19,Switzerland,Italy,0.0,1.0,2
+224,20406,1995-06-21,Germany,Italy,2.0,0.0,1
+225,20407,1995-06-21,Mexico,Colombia,0.0,0.0,0
+226,20408,1995-06-22,Chile,Turkey,0.0,0.0,0
+227,20409,1995-06-22,Paraguay,New Zealand,3.0,2.0,1
+228,20410,1995-06-23,Switzerland,Germany,1.0,2.0,2
+229,20412,1995-06-24,Mexico,Nigeria,2.0,1.0,1
+230,20415,1995-06-25,United States,Colombia,0.0,0.0,0
+231,20418,1995-06-29,Brazil,Poland,2.0,1.0,1
+232,20419,1995-06-30,Argentina,Australia,2.0,0.0,1
+233,20420,1995-06-30,Paraguay,Ecuador,1.0,0.0,1
+234,20425,1995-07-06,Mexico,Paraguay,1.0,2.0,2
+235,20426,1995-07-07,Brazil,Ecuador,1.0,0.0,1
+236,20427,1995-07-07,Colombia,Peru,1.0,1.0,0
+237,20428,1995-07-08,Argentina,Bolivia,2.0,1.0,1
+238,20429,1995-07-08,United States,Chile,2.0,1.0,1
+239,20430,1995-07-09,Mexico,Venezuela,3.0,1.0,1
+240,20432,1995-07-09,Uruguay,Paraguay,1.0,0.0,1
+241,20433,1995-07-10,Brazil,Peru,2.0,0.0,1
+242,20434,1995-07-10,Colombia,Ecuador,1.0,0.0,1
+243,20435,1995-07-11,Argentina,Chile,4.0,0.0,1
+244,20436,1995-07-11,United States,Bolivia,0.0,1.0,2
+245,20437,1995-07-12,Paraguay,Venezuela,3.0,2.0,1
+246,20438,1995-07-13,Brazil,Colombia,3.0,0.0,1
+247,20440,1995-07-13,Uruguay,Mexico,1.0,1.0,0
+248,20441,1995-07-14,Argentina,United States,0.0,3.0,2
+249,20442,1995-07-14,Chile,Bolivia,2.0,2.0,0
+250,20446,1995-07-15,Tunisia,Senegal,4.0,0.0,1
+251,20449,1995-07-16,Malawi,Cameroon,1.0,3.0,2
+252,20453,1995-07-16,Paraguay,Colombia,1.0,1.0,0
+253,20459,1995-07-17,Brazil,Argentina,2.0,2.0,0
+254,20460,1995-07-17,United States,Mexico,0.0,0.0,0
+255,20469,1995-07-19,Jamaica,Saint Lucia,2.0,1.0,1
+256,20471,1995-07-19,Uruguay,Colombia,2.0,0.0,1
+257,20472,1995-07-20,United States,Brazil,0.0,1.0,2
+258,20477,1995-07-21,Jamaica,Cuba,1.0,2.0,2
+259,20483,1995-07-22,Algeria,Tunisia,2.0,1.0,1
+260,20484,1995-07-22,Colombia,United States,4.0,1.0,1
+261,20485,1995-07-22,Norway,France,0.0,0.0,0
+262,20489,1995-07-23,Jamaica,Trinidad and Tobago,1.0,0.0,1
+263,20492,1995-07-23,Uruguay,Brazil,1.0,1.0,0
+264,20499,1995-07-30,Cameroon,Zimbabwe,1.0,0.0,1
+265,20504,1995-07-30,Mauritania,Tunisia,0.0,0.0,0
+266,20508,1995-08-01,Canada,Jamaica,3.0,1.0,1
+267,20511,1995-08-06,Jamaica,Trinidad and Tobago,1.0,0.0,1
+268,20512,1995-08-06,Japan,Costa Rica,3.0,0.0,1
+269,20513,1995-08-09,Japan,Brazil,1.0,5.0,2
+270,20514,1995-08-12,South Korea,Brazil,0.0,1.0,2
+271,20516,1995-08-16,Armenia,Denmark,0.0,2.0,2
+272,20522,1995-08-16,France,Poland,1.0,1.0,0
+273,20526,1995-08-16,Latvia,Austria,3.0,2.0,1
+274,20528,1995-08-16,Norway,Czech Republic,1.0,1.0,0
+275,20529,1995-08-16,Scotland,Greece,1.0,0.0,1
+276,20531,1995-08-16,Sweden,United States,1.0,0.0,1
+277,20533,1995-08-18,Jamaica,Zambia,1.0,1.0,0
+278,20538,1995-08-20,Jamaica,Zambia,3.0,1.0,1
+279,20546,1995-08-23,Belgium,Germany,1.0,2.0,2
+280,20552,1995-09-03,Croatia,Estonia,7.0,1.0,1
+281,20554,1995-09-06,Albania,Bulgaria,1.0,1.0,0
+282,20555,1995-09-06,Austria,Republic of Ireland,3.0,1.0,1
+283,20556,1995-09-06,Belgium,Denmark,1.0,3.0,2
+284,20557,1995-09-06,Czech Republic,Norway,2.0,0.0,1
+285,20558,1995-09-06,England,Colombia,0.0,0.0,0
+286,20560,1995-09-06,France,Azerbaijan,10.0,0.0,1
+287,20561,1995-09-06,Germany,Georgia,4.0,1.0,1
+288,20562,1995-09-06,Italy,Slovenia,1.0,0.0,1
+289,20567,1995-09-06,Netherlands,Belarus,1.0,0.0,1
+290,20568,1995-09-06,Poland,Romania,0.0,0.0,0
+291,20570,1995-09-06,Scotland,Finland,1.0,0.0,1
+292,20572,1995-09-06,Spain,Cyprus,6.0,0.0,1
+293,20578,1995-09-20,Japan,Paraguay,1.0,2.0,2
+294,20579,1995-09-20,Spain,Argentina,2.0,1.0,1
+295,20580,1995-09-24,Trinidad and Tobago,Jamaica,1.0,0.0,1
+296,20581,1995-09-27,Jamaica,Costa Rica,2.0,0.0,1
+297,20582,1995-09-30,South Africa,Mozambique,3.0,2.0,1
+298,20584,1995-10-07,Armenia,Belgium,0.0,2.0,2
+299,20586,1995-10-07,Bulgaria,Albania,3.0,0.0,1
+300,20587,1995-10-08,Croatia,Italy,1.0,1.0,0
+301,20588,1995-10-08,Germany,Moldova,6.0,1.0,1
+302,20589,1995-10-08,United States,Saudi Arabia,4.0,3.0,1
+303,20590,1995-10-11,Argentina,Colombia,0.0,0.0,0
+304,20591,1995-10-11,Austria,Portugal,1.0,1.0,0
+305,20592,1995-10-11,Brazil,Uruguay,2.0,0.0,1
+306,20593,1995-10-11,Chile,Canada,2.0,0.0,1
+307,20595,1995-10-11,Denmark,Spain,1.0,1.0,0
+308,20596,1995-10-11,Georgia,Bulgaria,2.0,1.0,1
+309,20603,1995-10-11,Malta,Netherlands,0.0,4.0,2
+310,20604,1995-10-11,Mexico,Saudi Arabia,2.0,1.0,1
+311,20605,1995-10-11,Norway,England,0.0,0.0,0
+312,20606,1995-10-11,Romania,France,1.0,3.0,2
+313,20611,1995-10-11,Sweden,Scotland,2.0,0.0,1
+314,20613,1995-10-11,Wales,Germany,1.0,2.0,2
+315,20614,1995-10-18,Jamaica,Honduras,1.0,0.0,1
+316,20615,1995-10-20,Jamaica,Trinidad and Tobago,1.0,0.0,1
+317,20617,1995-10-21,Uzbekistan,Nigeria,2.0,3.0,2
+318,20618,1995-10-22,Burkina Faso,Tunisia,2.0,2.0,0
+319,20619,1995-10-22,Cayman Islands,Jamaica,1.0,5.0,2
+320,20623,1995-10-24,Japan,Saudi Arabia,2.0,1.0,1
+321,20626,1995-10-26,China,Colombia,2.0,1.0,1
+322,20627,1995-10-28,Japan,Saudi Arabia,2.0,1.0,1
+323,20630,1995-10-31,South Korea,Saudi Arabia,1.0,1.0,0
+324,20634,1995-11-05,Tunisia,Algeria,2.0,0.0,1
+325,20635,1995-11-05,Zambia,Jamaica,4.0,2.0,1
+326,20636,1995-11-07,Tunisia,Mauritania,2.0,1.0,1
+327,20637,1995-11-08,Argentina,Brazil,0.0,1.0,2
+328,20639,1995-11-10,Nigeria,Uzbekistan,1.0,0.0,1
+329,20641,1995-11-11,Italy,Ukraine,3.0,1.0,1
+330,20647,1995-11-15,Cyprus,Belgium,1.0,1.0,0
+331,20649,1995-11-15,Denmark,Armenia,3.0,1.0,1
+332,20650,1995-11-15,England,Switzerland,3.0,1.0,1
+333,20651,1995-11-15,France,Israel,2.0,0.0,1
+334,20652,1995-11-15,Germany,Bulgaria,3.0,1.0,1
+335,20654,1995-11-15,Italy,Lithuania,4.0,0.0,1
+336,20656,1995-11-15,Morocco,Mali,2.0,0.0,1
+337,20657,1995-11-15,Netherlands,Norway,3.0,0.0,1
+338,20658,1995-11-15,Northern Ireland,Austria,5.0,3.0,1
+339,20661,1995-11-15,Scotland,San Marino,5.0,0.0,1
+340,20662,1995-11-15,Slovakia,Romania,0.0,2.0,2
+341,20663,1995-11-15,Slovenia,Croatia,1.0,2.0,2
+342,20664,1995-11-15,Spain,North Macedonia,3.0,0.0,1
+343,20666,1995-11-16,Mexico,Serbia,1.0,4.0,2
+344,20681,1995-11-22,South Africa,Zambia,2.0,2.0,0
+345,20684,1995-11-24,South Africa,Egypt,2.0,0.0,1
+346,20690,1995-11-26,Gabon,Cameroon,1.0,2.0,2
+347,20691,1995-11-26,Jamaica,Norway,1.0,1.0,0
+348,20692,1995-11-26,South Africa,Zimbabwe,2.0,0.0,1
+349,20697,1995-11-28,Algeria,Cameroon,4.0,0.0,1
+350,20703,1995-11-29,Mexico,Colombia,2.0,2.0,0
+351,20704,1995-11-29,Trinidad and Tobago,Norway,3.0,2.0,1
+352,20705,1995-11-29,Tunisia,Burkina Faso,3.0,0.0,1
+353,20709,1995-11-30,Ivory Coast,Cameroon,2.0,1.0,1
+354,20716,1995-12-02,Gabon,Cameroon,0.0,0.0,0
+355,20718,1995-12-03,Antigua and Barbuda,Jamaica,1.0,2.0,2
+356,20728,1995-12-06,Mexico,Slovenia,1.0,2.0,2
+357,20729,1995-12-06,Saint Kitts and Nevis,Jamaica,0.0,3.0,2
+358,20749,1995-12-12,England,Portugal,1.0,1.0,0
+359,20754,1995-12-13,Republic of Ireland,Netherlands,0.0,2.0,2
+360,20758,1995-12-15,South Africa,Germany,0.0,0.0,0
+361,20763,1995-12-20,Brazil,Colombia,3.0,1.0,1
+362,20764,1995-12-20,Jamaica,Mexico,2.0,1.0,1
+363,20765,1995-12-21,Argentina,Venezuela,6.0,0.0,1
+364,20768,1995-12-22,Basque Country,Paraguay,1.0,1.0,0
+365,20769,1995-12-23,Zambia,Tunisia,2.0,0.0,1
+366,20772,1995-12-24,Cameroon,Liberia,1.0,0.0,1
+367,20780,1995-12-29,Saudi Arabia,Kazakhstan,3.0,0.0,1
+368,20782,1996-01-03,Morocco,Tunisia,3.0,1.0,1
+369,20783,1996-01-05,Saudi Arabia,Ghana,1.0,1.0,0
+370,20788,1996-01-08,Egypt,Tunisia,2.0,1.0,1
+371,20792,1996-01-11,Mexico,Saint Vincent and the Grenadines,5.0,0.0,1
+372,20794,1996-01-12,Brazil,Canada,4.0,1.0,1
+373,20795,1996-01-13,South Africa,Cameroon,3.0,0.0,1
+374,20796,1996-01-13,United States,Trinidad and Tobago,3.0,2.0,1
+375,20797,1996-01-14,Guatemala,Mexico,0.0,1.0,2
+376,20798,1996-01-14,Honduras,Brazil,0.0,5.0,2
+377,20800,1996-01-14,Jamaica,Cuba,1.0,1.0,0
+378,20807,1996-01-16,Tunisia,Mozambique,1.0,1.0,0
+379,20808,1996-01-16,United States,El Salvador,2.0,0.0,1
+380,20809,1996-01-17,Armenia,Morocco,0.0,6.0,2
+381,20811,1996-01-18,Cameroon,Egypt,2.0,1.0,1
+382,20812,1996-01-18,United States,Brazil,0.0,1.0,2
+383,20814,1996-01-19,Ghana,Tunisia,2.0,1.0,1
+384,20815,1996-01-19,Mexico,Guatemala,1.0,0.0,1
+385,20817,1996-01-20,South Africa,Angola,1.0,0.0,1
+386,20818,1996-01-21,Mexico,Brazil,2.0,0.0,1
+387,20820,1996-01-21,United States,Guatemala,3.0,0.0,1
+388,20821,1996-01-24,Angola,Cameroon,3.0,3.0,0
+389,20824,1996-01-24,Saudi Arabia,Kyrgyzstan,3.0,0.0,1
+390,20826,1996-01-24,South Africa,Egypt,0.0,1.0,2
+391,20829,1996-01-25,Tunisia,Ivory Coast,3.0,1.0,1
+392,20831,1996-01-27,South Africa,Algeria,2.0,1.0,1
+393,20833,1996-01-28,Gabon,Tunisia,1.0,1.0,0
+394,20835,1996-01-28,Saudi Arabia,Yemen,4.0,0.0,1
+395,20838,1996-01-31,Saudi Arabia,Kyrgyzstan,2.0,0.0,1
+396,20839,1996-01-31,South Africa,Ghana,3.0,0.0,1
+397,20840,1996-01-31,Zambia,Tunisia,2.0,4.0,2
+398,20845,1996-02-03,South Africa,Tunisia,2.0,0.0,1
+399,20847,1996-02-04,Bolivia,Chile,1.0,1.0,0
+400,20850,1996-02-04,Saudi Arabia,Yemen,1.0,0.0,1
+401,20852,1996-02-07,Chile,Mexico,2.0,1.0,1
+402,20855,1996-02-07,Morocco,Luxembourg,2.0,0.0,1
+403,20856,1996-02-07,Spain,Norway,1.0,0.0,1
+404,20860,1996-02-10,Australia,Japan,1.0,4.0,2
+405,20865,1996-02-14,Australia,Japan,3.0,0.0,1
+406,20866,1996-02-14,Bolivia,Paraguay,4.0,1.0,1
+407,20867,1996-02-14,Chile,Peru,4.0,0.0,1
+408,20873,1996-02-19,Japan,Poland,5.0,0.0,1
+409,20875,1996-02-21,France,Greece,3.0,1.0,1
+410,20877,1996-02-21,Portugal,Germany,1.0,2.0,2
+411,20878,1996-02-22,Japan,Sweden,1.0,1.0,0
+412,20887,1996-02-28,Croatia,Poland,2.0,1.0,1
+413,20890,1996-03-03,Jamaica,Guatemala,2.0,0.0,1
+414,20893,1996-03-06,Colombia,Honduras,2.0,1.0,1
+415,20900,1996-03-13,Croatia,South Korea,3.0,0.0,1
+416,20905,1996-03-19,United Arab Emirates,South Korea,3.0,2.0,1
+417,20906,1996-03-20,Egypt,Morocco,0.0,2.0,2
+418,20907,1996-03-21,Colombia,Trinidad and Tobago,3.0,0.0,1
+419,20911,1996-03-23,South Korea,Morocco,2.0,2.0,0
+420,20914,1996-03-25,Egypt,South Korea,1.0,1.0,0
+421,20915,1996-03-26,Croatia,Israel,2.0,0.0,1
+422,20917,1996-03-26,United Arab Emirates,Morocco,1.0,0.0,1
+423,20918,1996-03-27,England,Bulgaria,1.0,0.0,1
+424,20919,1996-03-27,Austria,Switzerland,1.0,0.0,1
+425,20920,1996-03-27,Belgium,France,0.0,2.0,2
+426,20921,1996-03-27,Brazil,Ghana,8.0,2.0,1
+427,20923,1996-03-27,Germany,Denmark,2.0,0.0,1
+428,20928,1996-03-27,Northern Ireland,Norway,0.0,2.0,2
+429,20931,1996-03-27,Scotland,Australia,1.0,0.0,1
+430,20932,1996-03-27,Serbia,Romania,1.0,0.0,1
+431,20935,1996-03-28,Colombia,Bolivia,4.0,1.0,1
+432,20941,1996-03-31,Suriname,Jamaica,0.0,1.0,2
+433,20946,1996-04-10,Croatia,Hungary,4.0,1.0,1
+434,20950,1996-04-21,Jamaica,Suriname,1.0,0.0,1
+435,20951,1996-04-21,Paraguay,Bosnia and Herzegovina,3.0,0.0,1
+436,20954,1996-04-24,Argentina,Bolivia,3.0,1.0,1
+437,20955,1996-04-24,Belgium,Russia,0.0,0.0,0
+438,20957,1996-04-24,Colombia,Paraguay,1.0,0.0,1
+439,20959,1996-04-24,Denmark,Scotland,2.0,0.0,1
+440,20961,1996-04-24,England,Croatia,0.0,0.0,0
+441,20964,1996-04-24,Hungary,Austria,0.0,2.0,2
+442,20965,1996-04-24,Jamaica,Barbados,2.0,0.0,1
+443,20968,1996-04-24,Netherlands,Germany,0.0,1.0,2
+444,20970,1996-04-24,Norway,Spain,0.0,0.0,0
+445,20971,1996-04-24,Romania,Georgia,5.0,0.0,1
+446,20973,1996-04-24,Slovakia,Bulgaria,0.0,0.0,0
+447,20974,1996-04-24,South Africa,Brazil,2.0,3.0,2
+448,20979,1996-04-26,Turkmenistan,Iran,1.0,1.0,0
+449,20980,1996-04-28,Barbados,Jamaica,2.0,0.0,1
+450,20985,1996-04-28,Turkmenistan,Iran,0.0,1.0,2
+451,20986,1996-04-30,Israel,South Korea,4.0,5.0,2
+452,21012,1996-05-16,South Korea,Sweden,0.0,2.0,2
+453,21013,1996-05-17,Iran,Qatar,2.0,0.0,1
+454,21015,1996-05-18,England,Hungary,3.0,0.0,1
+455,21017,1996-05-18,Mexico,Slovakia,5.0,2.0,1
+456,21025,1996-05-23,China,England,0.0,3.0,2
+457,21027,1996-05-23,Mexico,Serbia,0.0,0.0,0
+458,21028,1996-05-24,Trinidad and Tobago,Jamaica,1.0,0.0,1
+459,21034,1996-05-26,Chile,Bolivia,2.0,0.0,1
+460,21037,1996-05-26,Jamaica,Saint Kitts and Nevis,4.0,1.0,1
+461,21038,1996-05-26,Japan,Serbia,1.0,0.0,1
+462,21041,1996-05-26,Tunisia,Senegal,2.0,0.0,1
+463,21044,1996-05-26,United States,Scotland,2.0,1.0,1
+464,21047,1996-05-28,Bulgaria,North Macedonia,3.0,0.0,1
+465,21048,1996-05-28,Suriname,Jamaica,3.0,1.0,1
+466,21050,1996-05-29,Austria,Czech Republic,1.0,0.0,1
+467,21051,1996-05-29,Colombia,Scotland,1.0,0.0,1
+468,21054,1996-05-29,France,Finland,2.0,0.0,1
+469,21056,1996-05-29,Italy,Belgium,2.0,2.0,0
+470,21057,1996-05-29,Japan,Mexico,3.0,2.0,1
+471,21058,1996-05-29,Netherlands,China,2.0,0.0,1
+472,21059,1996-05-29,Northern Ireland,Germany,1.0,1.0,0
+473,21064,1996-06-01,Germany,France,0.0,1.0,2
+474,21066,1996-06-01,Hungary,Italy,0.0,2.0,2
+475,21068,1996-06-01,Malawi,South Africa,0.0,1.0,2
+476,21070,1996-06-01,Qatar,Iran,0.0,1.0,2
+477,21071,1996-06-01,Romania,Moldova,3.0,1.0,1
+478,21077,1996-06-02,Bulgaria,United Arab Emirates,4.0,1.0,1
+479,21080,1996-06-02,Denmark,Ghana,1.0,0.0,1
+480,21081,1996-06-02,Ecuador,Argentina,2.0,0.0,1
+481,21083,1996-06-02,Republic of Ireland,Croatia,2.0,2.0,0
+482,21087,1996-06-02,Norway,Azerbaijan,5.0,0.0,1
+483,21088,1996-06-02,Peru,Colombia,1.0,1.0,0
+484,21090,1996-06-02,Rwanda,Tunisia,1.0,3.0,2
+485,21096,1996-06-02,Uruguay,Paraguay,0.0,2.0,2
+486,21097,1996-06-02,Venezuela,Chile,1.0,1.0,0
+487,21100,1996-06-04,Germany,Liechtenstein,9.0,1.0,1
+488,21101,1996-06-04,Netherlands,Republic of Ireland,3.0,1.0,1
+489,21103,1996-06-05,France,Armenia,2.0,0.0,1
+490,21107,1996-06-08,England,Switzerland,1.0,1.0,0
+491,21108,1996-06-08,Mexico,Bolivia,1.0,0.0,1
+492,21110,1996-06-09,Denmark,Portugal,1.0,1.0,0
+493,21111,1996-06-09,Germany,Czech Republic,2.0,0.0,1
+494,21114,1996-06-09,Nigeria,Togo,1.0,3.0,2
+495,21116,1996-06-09,Spain,Bulgaria,1.0,1.0,0
+496,21117,1996-06-09,United States,Republic of Ireland,2.0,1.0,1
+497,21118,1996-06-10,Iran,Nepal,8.0,0.0,1
+498,21119,1996-06-10,Netherlands,Scotland,0.0,0.0,0
+499,21120,1996-06-10,Romania,France,0.0,1.0,2
+500,21122,1996-06-11,Italy,Russia,2.0,1.0,1
+501,21123,1996-06-11,Turkey,Croatia,0.0,1.0,2
+502,21124,1996-06-12,Iran,Sri Lanka,7.0,0.0,1
+503,21125,1996-06-12,Mexico,Republic of Ireland,2.0,2.0,0
+504,21128,1996-06-12,United States,Bolivia,0.0,2.0,2
+505,21130,1996-06-13,Bulgaria,Romania,1.0,0.0,1
+506,21131,1996-06-13,Switzerland,Netherlands,0.0,2.0,2
+507,21133,1996-06-14,Czech Republic,Italy,2.0,1.0,1
+508,21134,1996-06-14,Iran,Oman,2.0,0.0,1
+509,21140,1996-06-15,England,Scotland,2.0,0.0,1
+510,21141,1996-06-15,France,Spain,1.0,1.0,0
+511,21142,1996-06-15,South Africa,Malawi,3.0,0.0,1
+512,21147,1996-06-16,Croatia,Denmark,3.0,0.0,1
+513,21152,1996-06-16,Russia,Germany,0.0,3.0,2
+514,21154,1996-06-16,Tunisia,Rwanda,2.0,0.0,1
+515,21155,1996-06-16,United States,Mexico,2.0,2.0,0
+516,21160,1996-06-17,Sri Lanka,Iran,0.0,4.0,2
+517,21161,1996-06-18,England,Netherlands,4.0,1.0,1
+518,21162,1996-06-18,France,Bulgaria,3.0,1.0,1
+519,21163,1996-06-18,Romania,Spain,1.0,2.0,2
+520,21164,1996-06-18,Scotland,Switzerland,1.0,0.0,1
+521,21165,1996-06-19,Croatia,Portugal,0.0,3.0,2
+522,21166,1996-06-19,Italy,Germany,0.0,0.0,0
+523,21167,1996-06-19,Nepal,Iran,0.0,4.0,2
+524,21170,1996-06-19,Turkey,Denmark,0.0,3.0,2
+525,21175,1996-06-21,Oman,Iran,1.0,2.0,2
+526,21177,1996-06-22,England,Spain,0.0,0.0,0
+527,21178,1996-06-22,France,Netherlands,0.0,0.0,0
+528,21181,1996-06-23,Barbados,Jamaica,0.0,1.0,2
+529,21183,1996-06-23,Germany,Croatia,2.0,1.0,1
+530,21187,1996-06-25,Paraguay,Armenia,1.0,2.0,2
+531,21188,1996-06-26,England,Germany,1.0,1.0,0
+532,21189,1996-06-26,France,Czech Republic,0.0,0.0,0
+533,21196,1996-06-30,Czech Republic,Germany,1.0,2.0,2
+534,21199,1996-06-30,Jamaica,Barbados,2.0,0.0,1
+535,21206,1996-07-06,Chile,Ecuador,4.0,1.0,1
+536,21210,1996-07-07,Colombia,Uruguay,3.0,1.0,1
+537,21212,1996-07-07,Peru,Argentina,0.0,0.0,0
+538,21225,1996-07-26,Paraguay,Bolivia,2.0,0.0,1
+539,21227,1996-07-28,Jamaica,Panama,0.0,0.0,0
+540,21233,1996-08-05,South Korea,Guam,9.0,0.0,1
+541,21237,1996-08-08,China,Paraguay,0.0,2.0,2
+542,21238,1996-08-08,South Korea,Taiwan,4.0,0.0,1
+543,21246,1996-08-11,Vietnam,South Korea,0.0,4.0,2
+544,21256,1996-08-14,Romania,Israel,2.0,0.0,1
+545,21257,1996-08-14,Sweden,Denmark,0.0,1.0,2
+546,21267,1996-08-24,Panama,Jamaica,2.0,0.0,1
+547,21271,1996-08-25,Japan,Uruguay,5.0,3.0,1
+548,21274,1996-08-27,Guatemala,Jamaica,2.0,1.0,1
+549,21278,1996-08-28,Russia,Brazil,2.0,2.0,0
+550,21279,1996-08-29,Morocco,DR Congo,7.0,0.0,1
+551,21283,1996-08-30,United States,El Salvador,3.0,1.0,1
+552,21285,1996-08-31,Austria,Scotland,0.0,0.0,0
+553,21288,1996-08-31,Belgium,Turkey,2.0,1.0,1
+554,21290,1996-08-31,France,Mexico,2.0,0.0,1
+555,21292,1996-08-31,Netherlands,Brazil,2.0,2.0,0
+556,21295,1996-08-31,Romania,Lithuania,3.0,0.0,1
+557,21297,1996-09-01,Argentina,Paraguay,1.0,1.0,0
+558,21299,1996-09-01,Colombia,Chile,4.0,1.0,1
+559,21303,1996-09-01,Israel,Bulgaria,2.0,1.0,1
+560,21305,1996-09-01,Moldova,England,0.0,3.0,2
+561,21306,1996-09-01,Norway,Georgia,1.0,0.0,1
+562,21309,1996-09-01,Slovenia,Denmark,0.0,2.0,2
+563,21315,1996-09-04,Faroe Islands,Spain,2.0,6.0,2
+564,21316,1996-09-04,Jamaica,Costa Rica,2.0,0.0,1
+565,21318,1996-09-04,Poland,Germany,0.0,2.0,2
+566,21334,1996-09-11,Japan,Uzbekistan,1.0,0.0,1
+567,21340,1996-09-14,South Africa,Kenya,1.0,0.0,1
+568,21341,1996-09-15,Saint Vincent and the Grenadines,Mexico,0.0,3.0,2
+569,21343,1996-09-15,Jamaica,Honduras,3.0,0.0,1
+570,21350,1996-09-18,Romania,United Arab Emirates,1.0,2.0,2
+571,21352,1996-09-18,South Africa,Australia,2.0,0.0,1
+572,21357,1996-09-21,Honduras,Mexico,2.0,1.0,1
+573,21359,1996-09-21,South Africa,Ghana,0.0,0.0,0
+574,21362,1996-09-22,Saudi Arabia,Zambia,2.0,1.0,1
+575,21364,1996-09-23,Saint Vincent and the Grenadines,Jamaica,1.0,2.0,2
+576,21369,1996-09-25,South Korea,China,3.0,1.0,1
+577,21372,1996-09-25,Saudi Arabia,Zambia,1.0,3.0,2
+578,21382,1996-10-03,Saudi Arabia,New Zealand,3.0,0.0,1
+579,21383,1996-10-04,Ecuador,Jamaica,2.0,1.0,1
+580,21384,1996-10-04,Kuwait,Iran,0.0,1.0,2
+581,21386,1996-10-05,Latvia,Scotland,0.0,2.0,2
+582,21388,1996-10-05,Moldova,Italy,1.0,3.0,2
+583,21393,1996-10-05,Wales,Netherlands,1.0,3.0,2
+584,21400,1996-10-06,Gabon,Cameroon,0.0,0.0,0
+585,21405,1996-10-06,Tunisia,Sierra Leone,2.0,0.0,1
+586,21408,1996-10-08,Bosnia and Herzegovina,Croatia,1.0,4.0,2
+587,21410,1996-10-08,Luxembourg,Bulgaria,1.0,2.0,2
+588,21413,1996-10-09,Armenia,Germany,1.0,5.0,2
+589,21415,1996-10-09,Costa Rica,Jamaica,0.0,0.0,0
+590,21416,1996-10-09,Czech Republic,Spain,0.0,0.0,0
+591,21417,1996-10-09,Denmark,Greece,2.0,1.0,1
+592,21418,1996-10-09,Ecuador,Colombia,0.0,1.0,2
+593,21419,1996-10-09,England,Poland,2.0,1.0,1
+594,21420,1996-10-09,France,Turkey,4.0,0.0,1
+595,21421,1996-10-09,Iceland,Romania,0.0,4.0,2
+596,21424,1996-10-09,Italy,Georgia,1.0,0.0,1
+597,21427,1996-10-09,Norway,Hungary,3.0,0.0,1
+598,21428,1996-10-09,Paraguay,Chile,2.0,1.0,1
+599,21429,1996-10-09,San Marino,Belgium,0.0,3.0,2
+600,21430,1996-10-09,Saudi Arabia,Australia,0.0,0.0,0
+601,21431,1996-10-09,Sweden,Austria,0.0,1.0,2
+602,21432,1996-10-09,Venezuela,Argentina,2.0,5.0,2
+603,21436,1996-10-13,Japan,Tunisia,1.0,0.0,1
+604,21437,1996-10-15,Oman,Saudi Arabia,0.0,1.0,2
+605,21438,1996-10-16,Brazil,Lithuania,3.0,1.0,1
+606,21440,1996-10-16,Mexico,Jamaica,2.0,1.0,1
+607,21441,1996-10-16,Peru,United States,4.0,1.0,1
+608,21446,1996-10-19,Qatar,Saudi Arabia,2.0,2.0,0
+609,21449,1996-10-21,Saudi Arabia,Bahrain,3.0,1.0,1
+610,21451,1996-10-23,Mexico,Ecuador,0.0,1.0,2
+611,21453,1996-10-24,Kuwait,Saudi Arabia,1.0,0.0,1
+612,21456,1996-10-26,Honduras,Jamaica,0.0,0.0,0
+613,21459,1996-10-27,United Arab Emirates,Saudi Arabia,2.0,2.0,0
+614,21462,1996-10-30,Mexico,Saint Vincent and the Grenadines,5.0,1.0,1
+615,21466,1996-11-01,Honduras,Colombia,1.0,2.0,2
+616,21470,1996-11-03,United States,Guatemala,2.0,0.0,1
+617,21471,1996-11-06,Bosnia and Herzegovina,Italy,2.0,1.0,1
+618,21472,1996-11-06,Mexico,Honduras,3.0,1.0,1
+619,21473,1996-11-06,Saudi Arabia,Bulgaria,1.0,0.0,1
+620,21477,1996-11-08,Thailand,Bulgaria,0.0,4.0,2
+621,21480,1996-11-09,Austria,Latvia,2.0,1.0,1
+622,21481,1996-11-09,Denmark,France,1.0,0.0,1
+623,21482,1996-11-09,Georgia,England,0.0,2.0,2
+624,21483,1996-11-09,Germany,Northern Ireland,1.0,1.0,0
+625,21485,1996-11-09,Morocco,Sierra Leone,4.0,0.0,1
+626,21486,1996-11-09,Netherlands,Wales,7.0,1.0,1
+627,21487,1996-11-09,Nigeria,Burkina Faso,2.0,0.0,1
+628,21489,1996-11-09,South Africa,DR Congo,1.0,0.0,1
+629,21491,1996-11-10,Jamaica,Saint Vincent and the Grenadines,5.0,0.0,1
+630,21494,1996-11-10,Bolivia,Colombia,2.0,2.0,0
+631,21496,1996-11-10,Croatia,Greece,1.0,1.0,0
+632,21502,1996-11-10,Liberia,Tunisia,0.0,1.0,2
+633,21504,1996-11-10,Paraguay,Ecuador,1.0,0.0,1
+634,21507,1996-11-10,Scotland,Sweden,1.0,0.0,1
+635,21510,1996-11-10,Switzerland,Norway,0.0,1.0,2
+636,21511,1996-11-10,Togo,Cameroon,2.0,4.0,2
+637,21513,1996-11-10,United States,Trinidad and Tobago,2.0,0.0,1
+638,21515,1996-11-12,Chile,Uruguay,1.0,0.0,1
+639,21518,1996-11-13,Brazil,Cameroon,2.0,0.0,1
+640,21519,1996-11-13,Lebanon,Iran,0.0,0.0,0
+641,21520,1996-11-13,Spain,Slovakia,4.0,1.0,1
+642,21524,1996-11-16,Saudi Arabia,Syria,3.0,1.0,1
+643,21526,1996-11-17,Jamaica,Mexico,1.0,0.0,1
+644,21530,1996-11-19,Saudi Arabia,Mali,1.0,3.0,2
+645,21532,1996-11-20,El Salvador,Mexico,1.0,3.0,2
+646,21537,1996-11-23,South Korea,Colombia,4.0,1.0,1
+647,21543,1996-11-24,Trinidad and Tobago,United States,0.0,1.0,2
+648,21544,1996-11-25,Iran,Turkmenistan,0.0,1.0,2
+649,21545,1996-11-26,China,South Korea,2.0,3.0,2
+650,21550,1996-11-29,Saudi Arabia,Indonesia,4.0,1.0,1
+651,21552,1996-12-01,Costa Rica,United States,2.0,1.0,1
+652,21555,1996-12-04,United Arab Emirates,South Korea,1.0,1.0,0
+653,21556,1996-12-05,Iran,Iraq,1.0,2.0,2
+654,21558,1996-12-05,Saudi Arabia,Thailand,6.0,0.0,1
+655,21560,1996-12-06,Japan,Syria,2.0,1.0,1
+656,21561,1996-12-07,South Korea,Indonesia,4.0,2.0,1
+657,21565,1996-12-08,Saudi Arabia,Iraq,1.0,0.0,1
+658,21566,1996-12-08,Thailand,Iran,1.0,3.0,2
+659,21567,1996-12-09,Japan,Uzbekistan,4.0,0.0,1
+660,21569,1996-12-10,Kuwait,South Korea,2.0,0.0,1
+661,21571,1996-12-11,Czech Republic,Nigeria,2.0,1.0,1
+662,21573,1996-12-11,Morocco,Croatia,2.0,2.0,0
+663,21574,1996-12-11,Saudi Arabia,Iran,0.0,3.0,2
+664,21575,1996-12-12,Croatia,Czech Republic,1.0,1.0,0
+665,21576,1996-12-12,Japan,China,1.0,0.0,1
+666,21577,1996-12-12,Morocco,Nigeria,2.0,0.0,1
+667,21579,1996-12-14,Belgium,Netherlands,0.0,3.0,2
+668,21580,1996-12-14,Cyprus,Bulgaria,1.0,3.0,2
+669,21582,1996-12-14,North Macedonia,Romania,0.0,3.0,2
+670,21584,1996-12-14,Portugal,Germany,0.0,0.0,0
+671,21585,1996-12-14,Spain,Serbia,2.0,0.0,1
+672,21586,1996-12-14,United States,Costa Rica,2.0,1.0,1
+673,21588,1996-12-15,Argentina,Chile,1.0,1.0,0
+674,21589,1996-12-15,Bolivia,Paraguay,0.0,0.0,0
+675,21593,1996-12-15,Kuwait,Japan,2.0,0.0,1
+676,21597,1996-12-15,Venezuela,Colombia,0.0,2.0,2
+677,21598,1996-12-16,South Korea,Iran,2.0,6.0,2
+678,21599,1996-12-16,Saudi Arabia,China,4.0,3.0,1
+679,21600,1996-12-18,Brazil,Bosnia and Herzegovina,1.0,0.0,1
+680,21601,1996-12-18,Malta,Spain,0.0,3.0,2
+681,21602,1996-12-19,Iran,Saudi Arabia,0.0,0.0,0
+682,21606,1996-12-21,Guatemala,United States,2.0,2.0,0
+683,21607,1996-12-21,Iran,Kuwait,1.0,1.0,0
+684,21608,1996-12-21,United Arab Emirates,Saudi Arabia,0.0,0.0,0
+685,21617,1996-12-28,Argentina,Serbia,2.0,3.0,2
+686,21618,1997-01-04,Chile,Armenia,7.0,0.0,1
+687,21619,1997-01-04,Tunisia,Algeria,0.0,0.0,0
+688,21621,1997-01-06,Paraguay,Armenia,2.0,0.0,1
+689,21626,1997-01-11,Zambia,South Africa,0.0,0.0,0
+690,21629,1997-01-12,Cameroon,Angola,0.0,0.0,0
+691,21631,1997-01-12,Ghana,Morocco,2.0,2.0,0
+692,21632,1997-01-12,Kenya,Nigeria,1.0,1.0,0
+693,21634,1997-01-12,Peru,Chile,2.0,1.0,1
+694,21635,1997-01-12,Tunisia,Egypt,1.0,0.0,1
+695,21636,1997-01-12,Uruguay,Argentina,0.0,0.0,0
+696,21637,1997-01-12,Venezuela,Paraguay,0.0,2.0,2
+697,21639,1997-01-17,United States,Peru,0.0,1.0,2
+698,21641,1997-01-18,South Korea,Norway,1.0,0.0,1
+699,21644,1997-01-19,United States,Mexico,0.0,2.0,2
+700,21645,1997-01-22,Australia,South Korea,2.0,1.0,1
+701,21647,1997-01-22,Italy,Northern Ireland,2.0,0.0,1
+702,21648,1997-01-22,Mexico,Peru,0.0,0.0,0
+703,21649,1997-01-22,New Zealand,Norway,0.0,3.0,2
+704,21650,1997-01-22,Portugal,France,0.0,2.0,2
+705,21651,1997-01-25,Australia,Norway,1.0,0.0,1
+706,21652,1997-01-25,South Korea,New Zealand,3.0,1.0,1
+707,21654,1997-01-26,Cameroon,Namibia,4.0,0.0,1
+708,21655,1997-01-26,Chile,Honduras,3.0,2.0,1
+709,21656,1997-01-26,Guinea,Tunisia,1.0,0.0,1
+710,21665,1997-01-29,China,United States,2.0,1.0,1
+711,21666,1997-02-01,China,United States,1.0,1.0,0
+712,21670,1997-02-05,Mexico,Ecuador,3.0,1.0,1
+713,21673,1997-02-08,Colombia,Slovakia,1.0,0.0,1
+714,21675,1997-02-09,Thailand,Japan,1.0,1.0,0
+715,21678,1997-02-11,Estonia,Scotland,0.0,0.0,0
+716,21679,1997-02-11,Northern Ireland,Belgium,3.0,0.0,1
+717,21682,1997-02-12,Bolivia,Chile,1.0,1.0,0
+718,21683,1997-02-12,Colombia,Argentina,0.0,1.0,2
+719,21684,1997-02-12,England,Italy,0.0,1.0,2
+720,21685,1997-02-12,Jamaica,Venezuela,0.0,0.0,0
+721,21686,1997-02-12,Paraguay,Peru,2.0,1.0,1
+722,21687,1997-02-12,Spain,Malta,4.0,0.0,1
+723,21689,1997-02-13,Japan,Sweden,0.0,1.0,2
+724,21708,1997-02-21,Jamaica,Bermuda,1.0,0.0,1
+725,21711,1997-02-22,Hong Kong,South Korea,0.0,2.0,2
+726,21720,1997-02-23,Jamaica,Bermuda,3.0,2.0,1
+727,21732,1997-02-26,Brazil,Poland,4.0,2.0,1
+728,21733,1997-02-26,France,Netherlands,2.0,1.0,1
+729,21734,1997-02-26,Israel,Germany,0.0,1.0,2
+730,21742,1997-03-02,Jamaica,United States,0.0,0.0,0
+731,21744,1997-03-02,Mexico,Canada,4.0,0.0,1
+732,21745,1997-03-02,Saudi Arabia,Syria,3.0,0.0,1
+733,21746,1997-03-02,Thailand,South Korea,1.0,3.0,2
+734,21750,1997-03-09,Costa Rica,Cameroon,5.0,0.0,1
+735,21751,1997-03-09,Saudi Arabia,Indonesia,2.0,0.0,1
+736,21758,1997-03-12,Saudi Arabia,Indonesia,3.0,1.0,1
+737,21762,1997-03-15,Thailand,Japan,3.0,1.0,1
+738,21763,1997-03-16,Taiwan,Saudi Arabia,0.0,2.0,2
+739,21764,1997-03-16,Costa Rica,Mexico,0.0,0.0,0
+740,21767,1997-03-16,United States,Canada,3.0,0.0,1
+741,21768,1997-03-18,Austria,Slovenia,0.0,2.0,2
+742,21771,1997-03-18,Malaysia,Saudi Arabia,0.0,0.0,0
+743,21774,1997-03-20,Bangladesh,Saudi Arabia,1.0,4.0,2
+744,21778,1997-03-23,Bolivia,Jamaica,6.0,0.0,1
+745,21779,1997-03-23,Costa Rica,United States,3.0,2.0,1
+746,21781,1997-03-23,Oman,Japan,0.0,1.0,2
+747,21784,1997-03-25,Macau,Japan,0.0,10.0,2
+748,21786,1997-03-27,Nepal,Japan,0.0,6.0,2
+749,21788,1997-03-27,Saudi Arabia,Bangladesh,3.0,0.0,1
+750,21791,1997-03-29,Croatia,Denmark,1.0,1.0,0
+751,21793,1997-03-29,England,Mexico,2.0,0.0,1
+752,21794,1997-03-29,Italy,Moldova,3.0,0.0,1
+753,21795,1997-03-29,Netherlands,San Marino,4.0,0.0,1
+754,21797,1997-03-29,Romania,Liechtenstein,8.0,0.0,1
+755,21798,1997-03-29,Saudi Arabia,Malaysia,3.0,0.0,1
+756,21799,1997-03-29,Scotland,Estonia,2.0,0.0,1
+757,21802,1997-03-29,United Arab Emirates,Norway,1.0,4.0,2
+758,21803,1997-03-29,Wales,Belgium,1.0,2.0,2
+759,21812,1997-03-31,Saudi Arabia,Taiwan,6.0,0.0,1
+760,21814,1997-04-02,Albania,Germany,2.0,3.0,2
+761,21817,1997-04-02,Bolivia,Argentina,2.0,1.0,1
+762,21819,1997-04-02,Brazil,Chile,4.0,0.0,1
+763,21820,1997-04-02,Bulgaria,Cyprus,4.0,1.0,1
+764,21821,1997-04-02,Croatia,Slovenia,3.0,3.0,0
+765,21824,1997-04-02,France,Sweden,1.0,0.0,1
+766,21826,1997-04-02,Lithuania,Romania,0.0,1.0,2
+767,21828,1997-04-02,Paraguay,Colombia,2.0,1.0,1
+768,21830,1997-04-02,Poland,Italy,0.0,0.0,0
+769,21831,1997-04-02,Scotland,Austria,2.0,0.0,1
+770,21835,1997-04-02,Turkey,Netherlands,1.0,0.0,1
+771,21843,1997-04-05,Nigeria,Guinea,2.0,1.0,1
+772,21846,1997-04-06,Cameroon,Zimbabwe,1.0,0.0,1
+773,21848,1997-04-06,Congo,South Africa,2.0,0.0,1
+774,21850,1997-04-06,Gabon,Morocco,0.0,4.0,2
+775,21856,1997-04-06,Namibia,Tunisia,1.0,2.0,2
+776,21865,1997-04-11,Kuwait,Iran,0.0,2.0,2
+777,21870,1997-04-13,Mexico,Jamaica,6.0,0.0,1
+778,21880,1997-04-20,Cameroon,Congo,2.0,0.0,1
+779,21883,1997-04-20,United States,Mexico,2.0,2.0,0
+780,21885,1997-04-21,Iran,Kenya,3.0,0.0,1
+781,21887,1997-04-23,China,South Korea,0.0,2.0,2
+782,21894,1997-04-26,Sierra Leone,Morocco,0.0,1.0,2
+783,21897,1997-04-27,Burkina Faso,Nigeria,1.0,2.0,2
+784,21899,1997-04-27,Cameroon,Togo,2.0,0.0,1
+785,21900,1997-04-27,Canada,Jamaica,0.0,0.0,0
+786,21901,1997-04-27,China,Iran,0.0,0.0,0
+787,21902,1997-04-27,DR Congo,South Africa,1.0,2.0,2
+788,21909,1997-04-27,Tunisia,Liberia,2.0,0.0,1
+789,21913,1997-04-29,Chile,Venezuela,6.0,0.0,1
+790,21915,1997-04-30,Argentina,Ecuador,2.0,1.0,1
+791,21917,1997-04-30,Austria,Estonia,2.0,0.0,1
+792,21918,1997-04-30,Brazil,Mexico,4.0,0.0,1
+793,21919,1997-04-30,Colombia,Peru,0.0,1.0,2
+794,21920,1997-04-30,Denmark,Slovenia,4.0,0.0,1
+795,21921,1997-04-30,England,Georgia,2.0,0.0,1
+796,21922,1997-04-30,Germany,Ukraine,2.0,0.0,1
+797,21923,1997-04-30,Greece,Croatia,0.0,1.0,2
+798,21925,1997-04-30,Italy,Poland,3.0,0.0,1
+799,21929,1997-04-30,Norway,Finland,1.0,1.0,0
+800,21930,1997-04-30,Paraguay,Uruguay,3.0,1.0,1
+801,21931,1997-04-30,Romania,Republic of Ireland,1.0,0.0,1
+802,21933,1997-04-30,San Marino,Netherlands,0.0,6.0,2
+803,21934,1997-04-30,Serbia,Spain,1.0,1.0,0
+804,21935,1997-04-30,Sweden,Scotland,2.0,1.0,1
+805,21938,1997-04-30,Turkey,Belgium,1.0,3.0,2
+806,21940,1997-05-01,Trinidad and Tobago,Jamaica,1.0,1.0,0
+807,21941,1997-05-04,Aruba,Jamaica,0.0,6.0,2
+808,21951,1997-05-11,Costa Rica,Jamaica,3.0,1.0,1
+809,21956,1997-05-11,Guam,Japan,0.0,12.0,2
+810,21958,1997-05-13,Japan,Mongolia,5.0,0.0,1
+811,21960,1997-05-15,Kazakhstan,Japan,2.0,2.0,0
+812,21963,1997-05-17,China,Japan,2.0,0.0,1
+813,21965,1997-05-18,Jamaica,El Salvador,1.0,0.0,1
+814,21969,1997-05-21,Japan,South Korea,1.0,1.0,0
+815,21973,1997-05-24,England,South Africa,2.0,1.0,1
+816,21979,1997-05-27,Scotland,Wales,0.0,1.0,2
+817,21981,1997-05-28,South Korea,Hong Kong,4.0,0.0,1
+818,21982,1997-05-30,Norway,Brazil,4.0,2.0,1
+819,21984,1997-05-31,Morocco,Ethiopia,4.0,0.0,1
+820,21986,1997-05-31,Poland,England,0.0,2.0,2
+821,21988,1997-05-31,Tunisia,Algeria,0.0,1.0,2
+822,21992,1997-06-01,South Korea,Thailand,0.0,0.0,0
+823,21993,1997-06-01,Malta,Scotland,2.0,3.0,2
+824,21995,1997-06-01,Zambia,Cameroon,3.0,0.0,1
+825,21996,1997-06-02,Maldives,Iran,0.0,17.0,2
+826,21997,1997-06-03,France,Brazil,1.0,1.0,0
+827,21998,1997-06-04,England,Italy,2.0,0.0,1
+828,22000,1997-06-04,Kyrgyzstan,Iran,0.0,7.0,2
+829,22001,1997-06-04,South Africa,Netherlands,0.0,2.0,2
+830,22004,1997-06-04,United States,Paraguay,0.0,0.0,0
+831,22010,1997-06-06,Syria,Iran,0.0,1.0,2
+832,22011,1997-06-07,Belgium,San Marino,6.0,0.0,1
+833,22013,1997-06-07,France,England,0.0,1.0,2
+834,22016,1997-06-07,Nigeria,Kenya,3.0,0.0,1
+835,22018,1997-06-07,Ukraine,Germany,0.0,0.0,0
+836,22019,1997-06-08,Morocco,Ghana,1.0,0.0,1
+837,22020,1997-06-08,Angola,Cameroon,1.0,1.0,0
+838,22021,1997-06-08,Argentina,Peru,2.0,0.0,1
+839,22022,1997-06-08,Belarus,Scotland,0.0,1.0,2
+840,22023,1997-06-08,Bulgaria,Luxembourg,4.0,0.0,1
+841,22026,1997-06-08,Denmark,Bosnia and Herzegovina,2.0,0.0,1
+842,22027,1997-06-08,Ecuador,Chile,1.0,1.0,0
+843,22028,1997-06-08,Egypt,Tunisia,0.0,0.0,0
+844,22029,1997-06-08,El Salvador,Mexico,0.0,1.0,2
+845,22034,1997-06-08,Hungary,Norway,1.0,1.0,0
+846,22035,1997-06-08,Italy,Brazil,3.0,3.0,0
+847,22036,1997-06-08,Japan,Croatia,4.0,3.0,1
+848,22037,1997-06-08,Latvia,Austria,1.0,3.0,2
+849,22041,1997-06-08,South Africa,Zambia,3.0,0.0,1
+850,22042,1997-06-08,Spain,Czech Republic,1.0,0.0,1
+851,22044,1997-06-08,Uruguay,Colombia,1.0,1.0,0
+852,22047,1997-06-09,Iran,Kyrgyzstan,3.0,1.0,1
+853,22049,1997-06-10,England,Brazil,0.0,1.0,2
+854,22050,1997-06-11,Argentina,Ecuador,0.0,0.0,0
+855,22052,1997-06-11,Chile,Paraguay,0.0,1.0,2
+856,22053,1997-06-11,France,Italy,2.0,2.0,0
+857,22055,1997-06-11,Iran,Maldives,9.0,0.0,1
+858,22060,1997-06-12,Croatia,Turkey,1.0,1.0,0
+859,22062,1997-06-12,South Korea,Egypt,3.0,1.0,1
+860,22065,1997-06-13,Brazil,Costa Rica,5.0,0.0,1
+861,22066,1997-06-13,Iran,Syria,2.0,2.0,0
+862,22068,1997-06-13,Mexico,Colombia,2.0,1.0,1
+863,22070,1997-06-14,Argentina,Chile,2.0,0.0,1
+864,22072,1997-06-14,South Korea,Ghana,3.0,0.0,1
+865,22073,1997-06-14,Paraguay,Ecuador,0.0,2.0,2
+866,22077,1997-06-15,Japan,Turkey,1.0,0.0,1
+867,22081,1997-06-16,Brazil,Mexico,3.0,2.0,1
+868,22082,1997-06-16,Colombia,Costa Rica,4.0,1.0,1
+869,22084,1997-06-16,South Korea,Serbia,1.0,1.0,0
+870,22085,1997-06-17,Argentina,Paraguay,1.0,1.0,0
+871,22087,1997-06-17,Chile,Ecuador,1.0,2.0,2
+872,22088,1997-06-17,United States,Israel,2.0,1.0,1
+873,22093,1997-06-19,Brazil,Colombia,2.0,0.0,1
+874,22094,1997-06-19,Mexico,Costa Rica,1.0,1.0,0
+875,22098,1997-06-21,Bolivia,Colombia,2.0,1.0,1
+876,22100,1997-06-21,Morocco,Egypt,1.0,0.0,1
+877,22102,1997-06-21,Peru,Argentina,2.0,1.0,1
+878,22106,1997-06-22,Brazil,Paraguay,2.0,0.0,1
+879,22107,1997-06-22,Cameroon,Gabon,2.0,2.0,0
+880,22109,1997-06-22,Ecuador,Mexico,1.0,1.0,0
+881,22112,1997-06-22,Japan,Macau,10.0,0.0,1
+882,22121,1997-06-25,Bolivia,Mexico,3.0,1.0,1
+883,22122,1997-06-25,Japan,Nepal,3.0,0.0,1
+884,22125,1997-06-26,Brazil,Peru,7.0,0.0,1
+885,22127,1997-06-28,Japan,Oman,1.0,1.0,0
+886,22129,1997-06-28,Mexico,Peru,1.0,0.0,1
+887,22132,1997-06-29,Bolivia,Brazil,1.0,3.0,2
+888,22134,1997-06-29,El Salvador,United States,1.0,1.0,0
+889,22135,1997-06-29,Jamaica,Cuba,3.0,0.0,1
+890,22158,1997-07-04,Jamaica,Grenada,1.0,1.0,0
+891,22160,1997-07-05,Chile,Colombia,4.0,1.0,1
+892,22162,1997-07-05,Tunisia,Mali,1.0,0.0,1
+893,22166,1997-07-06,Paraguay,Argentina,1.0,2.0,2
+894,22170,1997-07-08,Antigua and Barbuda,Jamaica,0.0,2.0,2
+895,22175,1997-07-10,Trinidad and Tobago,Jamaica,1.0,1.0,0
+896,22182,1997-07-13,Ethiopia,Morocco,0.0,1.0,2
+897,22185,1997-07-13,Jamaica,Grenada,4.0,1.0,1
+898,22189,1997-07-13,Tunisia,Guinea,1.0,0.0,1
+899,22190,1997-07-20,Argentina,Venezuela,2.0,0.0,1
+900,22192,1997-07-20,Chile,Paraguay,2.0,1.0,1
+901,22193,1997-07-20,Colombia,Ecuador,1.0,0.0,1
+902,22194,1997-07-20,Iceland,Norway,0.0,1.0,2
+903,22198,1997-07-27,Cameroon,Kenya,1.0,1.0,0
+904,22205,1997-07-27,Morocco,Senegal,3.0,0.0,1
+905,22212,1997-08-06,Jamaica,Colombia,1.0,0.0,1
+906,22215,1997-08-07,Cameroon,Nigeria,0.0,1.0,2
+907,22216,1997-08-07,Tunisia,Zambia,3.0,1.0,1
+908,22217,1997-08-07,United States,Ecuador,0.0,1.0,2
+909,22218,1997-08-09,Cameroon,Zambia,3.0,3.0,0
+910,22220,1997-08-09,Tunisia,Nigeria,2.0,0.0,1
+911,22222,1997-08-10,South Korea,Brazil,1.0,2.0,2
+912,22223,1997-08-13,Japan,Brazil,0.0,3.0,2
+913,22224,1997-08-16,Guinea,Nigeria,1.0,0.0,1
+914,22226,1997-08-16,Morocco,Gabon,2.0,0.0,1
+915,22227,1997-08-16,South Africa,Congo,1.0,0.0,1
+916,22229,1997-08-17,Canada,Iran,0.0,1.0,2
+917,22233,1997-08-17,Tunisia,Namibia,4.0,0.0,1
+918,22234,1997-08-17,Zimbabwe,Cameroon,1.0,2.0,2
+919,22238,1997-08-20,Bosnia and Herzegovina,Denmark,3.0,0.0,1
+920,22239,1997-08-20,Bulgaria,Israel,1.0,0.0,1
+921,22240,1997-08-20,Colombia,Bolivia,3.0,0.0,1
+922,22242,1997-08-20,Ecuador,Paraguay,2.0,1.0,1
+923,22243,1997-08-20,Estonia,Austria,0.0,3.0,2
+924,22244,1997-08-20,Finland,Norway,0.0,4.0,2
+925,22248,1997-08-20,Northern Ireland,Germany,1.0,3.0,2
+926,22250,1997-08-20,Romania,North Macedonia,4.0,2.0,1
+927,22254,1997-08-20,Uruguay,Chile,1.0,0.0,1
+928,22257,1997-08-24,South Korea,Tajikistan,4.0,1.0,1
+929,22258,1997-08-24,Peru,Colombia,2.0,1.0,1
+930,22261,1997-08-30,South Korea,China,0.0,0.0,0
+931,22262,1997-08-31,Jamaica,Trinidad and Tobago,6.0,1.0,1
+932,22265,1997-09-02,United Arab Emirates,Iran,3.0,1.0,1
+933,22269,1997-09-06,Austria,Sweden,1.0,0.0,1
+934,22270,1997-09-06,Azerbaijan,Norway,0.0,1.0,2
+935,22271,1997-09-06,Croatia,Bosnia and Herzegovina,3.0,2.0,1
+936,22272,1997-09-06,El Salvador,Colombia,2.0,2.0,0
+937,22274,1997-09-06,Germany,Portugal,1.0,1.0,0
+938,22276,1997-09-06,South Korea,Kazakhstan,3.0,0.0,1
+939,22278,1997-09-06,Liechtenstein,Romania,1.0,8.0,2
+940,22280,1997-09-06,Netherlands,Belgium,3.0,1.0,1
+941,22286,1997-09-07,Jamaica,Canada,1.0,0.0,1
+942,22287,1997-09-07,Japan,Uzbekistan,6.0,3.0,1
+943,22289,1997-09-07,Scotland,Belarus,4.0,1.0,1
+944,22290,1997-09-07,United States,Costa Rica,1.0,0.0,1
+945,22294,1997-09-10,Belarus,Austria,0.0,1.0,2
+946,22296,1997-09-10,Brazil,Ecuador,4.0,2.0,1
+947,22297,1997-09-10,Bulgaria,Russia,1.0,0.0,1
+948,22298,1997-09-10,Chile,Argentina,1.0,2.0,2
+949,22299,1997-09-10,Colombia,Venezuela,1.0,0.0,1
+950,22300,1997-09-10,Denmark,Croatia,3.0,1.0,1
+951,22301,1997-09-10,England,Moldova,4.0,0.0,1
+952,22302,1997-09-10,Georgia,Italy,0.0,0.0,0
+953,22303,1997-09-10,Germany,Armenia,4.0,0.0,1
+954,22306,1997-09-10,Norway,Switzerland,5.0,0.0,1
+955,22307,1997-09-10,Paraguay,Bolivia,2.0,1.0,1
+956,22309,1997-09-10,Romania,Iceland,4.0,0.0,1
+957,22315,1997-09-12,South Korea,Uzbekistan,2.0,1.0,1
+958,22317,1997-09-13,China,Iran,2.0,4.0,2
+959,22322,1997-09-14,Jamaica,Costa Rica,1.0,0.0,1
+960,22323,1997-09-14,Saudi Arabia,Kuwait,2.0,1.0,1
+961,22324,1997-09-19,Iran,Saudi Arabia,1.0,1.0,0
+962,22326,1997-09-19,United Arab Emirates,Japan,0.0,0.0,0
+963,22334,1997-09-24,Slovakia,Spain,1.0,2.0,2
+964,22337,1997-09-25,Saudi Arabia,Mali,5.0,1.0,1
+965,22338,1997-09-26,Kuwait,Iran,1.0,1.0,0
+966,22343,1997-09-28,Japan,South Korea,1.0,2.0,2
+967,22346,1997-10-03,China,Saudi Arabia,1.0,0.0,1
+968,22347,1997-10-03,Iran,Qatar,3.0,0.0,1
+969,22349,1997-10-03,United States,Jamaica,1.0,1.0,0
+970,22350,1997-10-04,Kazakhstan,Japan,1.0,1.0,0
+971,22351,1997-10-04,South Korea,United Arab Emirates,3.0,0.0,1
+972,22354,1997-10-05,Mexico,El Salvador,5.0,0.0,1
+973,22364,1997-10-08,Norway,Colombia,0.0,0.0,0
+974,22365,1997-10-09,Brazil,Morocco,2.0,0.0,1
+975,22372,1997-10-11,Austria,Belarus,4.0,0.0,1
+976,22373,1997-10-11,Belgium,Wales,3.0,2.0,1
+977,22377,1997-10-11,France,South Africa,2.0,1.0,1
+978,22379,1997-10-11,Germany,Albania,4.0,3.0,1
+979,22380,1997-10-11,Greece,Denmark,0.0,0.0,0
+980,22382,1997-10-11,Republic of Ireland,Romania,1.0,1.0,0
+981,22383,1997-10-11,Italy,England,0.0,0.0,0
+982,22384,1997-10-11,Kazakhstan,South Korea,1.0,1.0,0
+983,22387,1997-10-11,Netherlands,Turkey,0.0,0.0,0
+984,22389,1997-10-11,Russia,Bulgaria,4.0,2.0,1
+985,22390,1997-10-11,Saudi Arabia,Qatar,1.0,0.0,1
+986,22391,1997-10-11,Scotland,Latvia,2.0,0.0,1
+987,22392,1997-10-11,Slovenia,Croatia,1.0,3.0,2
+988,22393,1997-10-11,Spain,Faroe Islands,3.0,1.0,1
+989,22396,1997-10-11,Uzbekistan,Japan,1.0,1.0,0
+990,22397,1997-10-12,Argentina,Uruguay,0.0,0.0,0
+991,22398,1997-10-12,Canada,Mexico,2.0,2.0,0
+992,22400,1997-10-12,Paraguay,Venezuela,1.0,0.0,1
+993,22401,1997-10-12,Peru,Chile,0.0,4.0,2
+994,22412,1997-10-17,Iran,China,4.0,1.0,1
+995,22413,1997-10-17,Kuwait,Saudi Arabia,2.0,1.0,1
+996,22414,1997-10-18,Haiti,Jamaica,0.0,1.0,2
+997,22416,1997-10-18,Uzbekistan,South Korea,1.0,5.0,2
+998,22420,1997-10-20,Martinique,Cameroon,2.0,1.0,1
+999,22421,1997-10-22,Cuba,Cameroon,1.0,1.0,0
+1000,22424,1997-10-24,Saudi Arabia,Iran,1.0,0.0,1
+1001,22425,1997-10-24,Saint Lucia,Jamaica,1.0,3.0,2
+1002,22427,1997-10-26,Antigua and Barbuda,Jamaica,0.0,3.0,2
+1003,22428,1997-10-26,Japan,United Arab Emirates,1.0,1.0,0
+1004,22429,1997-10-29,Croatia,Ukraine,2.0,0.0,1
+1005,22431,1997-10-29,Republic of Ireland,Belgium,1.0,1.0,0
+1006,22432,1997-10-29,Russia,Italy,1.0,1.0,0
+1007,22433,1997-10-29,Saint Kitts and Nevis,Jamaica,1.0,1.0,0
+1008,22435,1997-10-31,Iran,Kuwait,0.0,0.0,0
+1009,22436,1997-11-01,South Korea,Japan,0.0,2.0,2
+1010,22438,1997-11-02,Mexico,United States,0.0,0.0,0
+1011,22441,1997-11-05,Tunisia,Bosnia and Herzegovina,2.0,1.0,1
+1012,22442,1997-11-06,Saudi Arabia,China,1.0,1.0,0
+1013,22443,1997-11-07,Chile,Guatemala,4.0,1.0,1
+1014,22444,1997-11-07,Qatar,Iran,2.0,0.0,1
+1015,22445,1997-11-08,Japan,Kazakhstan,5.0,1.0,1
+1016,22446,1997-11-09,Canada,United States,0.0,3.0,2
+1017,22447,1997-11-09,El Salvador,Jamaica,2.0,2.0,0
+1018,22448,1997-11-09,Mexico,Costa Rica,3.0,3.0,0
+1019,22449,1997-11-09,United Arab Emirates,South Korea,1.0,3.0,2
+1020,22450,1997-11-11,Brazil,Wales,3.0,0.0,1
+1021,22452,1997-11-12,France,Scotland,2.0,1.0,1
+1022,22453,1997-11-12,Qatar,Saudi Arabia,0.0,1.0,2
+1023,22455,1997-11-15,Belgium,Republic of Ireland,2.0,1.0,1
+1024,22456,1997-11-15,England,Cameroon,2.0,0.0,1
+1025,22457,1997-11-15,Germany,South Africa,3.0,0.0,1
+1026,22458,1997-11-15,Italy,Russia,1.0,0.0,1
+1027,22460,1997-11-15,Ukraine,Croatia,1.0,1.0,0
+1028,22461,1997-11-16,Argentina,Colombia,1.0,1.0,0
+1029,22462,1997-11-16,Chile,Bolivia,3.0,0.0,1
+1030,22464,1997-11-16,Jamaica,Mexico,0.0,0.0,0
+1031,22465,1997-11-16,Japan,Iran,3.0,2.0,1
+1032,22466,1997-11-16,Peru,Paraguay,1.0,0.0,1
+1033,22468,1997-11-16,United States,El Salvador,4.0,2.0,1
+1034,22470,1997-11-19,Spain,Romania,1.0,1.0,0
+1035,22471,1997-11-22,Iran,Australia,1.0,1.0,0
+1036,22472,1997-11-26,Morocco,Togo,3.0,0.0,1
+1037,22476,1997-11-29,Australia,Iran,2.0,2.0,0
+1038,22492,1997-12-07,Saudi Arabia,Iceland,0.0,0.0,0
+1039,22493,1997-12-07,South Africa,Brazil,1.0,2.0,2
+1040,22494,1997-12-12,Mexico,Australia,1.0,3.0,2
+1041,22495,1997-12-12,Saudi Arabia,Brazil,0.0,3.0,2
+1042,22496,1997-12-13,South Africa,Czech Republic,2.0,2.0,0
+1043,22498,1997-12-14,Australia,Brazil,0.0,0.0,0
+1044,22499,1997-12-14,Saudi Arabia,Mexico,0.0,5.0,2
+1045,22501,1997-12-15,United Arab Emirates,South Africa,1.0,0.0,1
+1046,22502,1997-12-16,Brazil,Mexico,3.0,2.0,1
+1047,22503,1997-12-16,Saudi Arabia,Australia,1.0,0.0,1
+1048,22506,1997-12-17,Uruguay,South Africa,4.0,3.0,1
+1049,22507,1997-12-17,Zambia,Nigeria,0.0,0.0,0
+1050,22511,1997-12-19,Brazil,Czech Republic,2.0,0.0,1
+1051,22514,1997-12-21,Brazil,Australia,6.0,0.0,1
+1052,22518,1997-12-22,Egypt,Cameroon,2.0,0.0,1
+1053,22519,1997-12-23,Catalonia,Bulgaria,1.0,1.0,0
+1054,22520,1997-12-24,Cameroon,Togo,3.0,1.0,1
+1055,22531,1998-01-07,Trinidad and Tobago,Jamaica,0.0,0.0,0
+1056,22538,1998-01-14,Morocco,Angola,2.0,1.0,1
+1057,22545,1998-01-24,Namibia,South Africa,3.0,2.0,1
+1058,22546,1998-01-24,United States,Sweden,1.0,0.0,1
+1059,22549,1998-01-27,Egypt,South Korea,0.0,2.0,2
+1060,22551,1998-01-28,Cameroon,Angola,1.0,0.0,1
+1061,22552,1998-01-28,France,Spain,1.0,0.0,1
+1062,22553,1998-01-28,Iran,Nigeria,0.0,1.0,2
+1063,22554,1998-01-28,Italy,Slovakia,3.0,0.0,1
+1064,22555,1998-01-28,Tunisia,Serbia,0.0,3.0,2
+1065,22557,1998-01-29,Jamaica,Sweden,0.0,0.0,0
+1066,22558,1998-01-29,Thailand,South Korea,0.0,2.0,2
+1067,22561,1998-01-31,Egypt,South Korea,1.0,1.0,0
+1068,22562,1998-01-31,Iran,Chile,1.0,1.0,0
+1069,22563,1998-01-31,Tunisia,Guinea,4.0,1.0,1
+1070,22567,1998-02-01,Ivory Coast,Cameroon,1.0,0.0,1
+1071,22569,1998-02-01,United States,Cuba,3.0,0.0,1
+1072,22570,1998-02-03,Brazil,Jamaica,0.0,0.0,0
+1073,22572,1998-02-04,Mali,Tunisia,0.0,1.0,2
+1074,22573,1998-02-04,New Zealand,Chile,0.0,0.0,0
+1075,22574,1998-02-04,Trinidad and Tobago,Mexico,2.0,4.0,2
+1076,22575,1998-02-05,Brazil,Guatemala,1.0,1.0,0
+1077,22578,1998-02-05,Morocco,Niger,3.0,0.0,1
+1078,22582,1998-02-07,Australia,Chile,0.0,1.0,2
+1079,22583,1998-02-07,Burkina Faso,Cameroon,0.0,1.0,2
+1080,22585,1998-02-07,Mexico,Honduras,2.0,0.0,1
+1081,22586,1998-02-07,New Zealand,South Korea,0.0,1.0,2
+1082,22587,1998-02-07,United States,Costa Rica,2.0,1.0,1
+1083,22590,1998-02-08,El Salvador,Brazil,0.0,4.0,2
+1084,22591,1998-02-08,Guatemala,Jamaica,2.0,3.0,2
+1085,22594,1998-02-08,Paraguay,Poland,4.0,0.0,1
+1086,22595,1998-02-08,South Africa,Angola,0.0,0.0,0
+1087,22599,1998-02-09,Ghana,Tunisia,2.0,0.0,1
+1088,22600,1998-02-09,Jamaica,El Salvador,2.0,0.0,1
+1089,22601,1998-02-09,Zambia,Morocco,1.0,1.0,0
+1090,22605,1998-02-10,United States,Brazil,1.0,0.0,1
+1091,22606,1998-02-11,Australia,South Korea,1.0,0.0,1
+1092,22608,1998-02-11,Cameroon,Guinea,2.0,2.0,0
+1093,22609,1998-02-11,England,Chile,0.0,2.0,2
+1094,22610,1998-02-11,South Africa,Ivory Coast,1.0,1.0,0
+1095,22613,1998-02-12,Jamaica,Mexico,0.0,1.0,2
+1096,22614,1998-02-12,Tunisia,DR Congo,2.0,1.0,1
+1097,22615,1998-02-13,Morocco,Mozambique,3.0,0.0,1
+1098,22617,1998-02-15,Australia,Japan,0.0,3.0,2
+1099,22618,1998-02-15,Brazil,Jamaica,1.0,0.0,1
+1100,22620,1998-02-15,Cameroon,Algeria,2.0,1.0,1
+1101,22621,1998-02-15,United States,Mexico,0.0,1.0,2
+1102,22624,1998-02-16,South Africa,Namibia,4.0,1.0,1
+1103,22625,1998-02-16,Tunisia,Togo,3.0,1.0,1
+1104,22626,1998-02-17,Egypt,Morocco,0.0,1.0,2
+1105,22630,1998-02-18,Oman,Germany,0.0,2.0,2
+1106,22631,1998-02-20,Cameroon,DR Congo,0.0,1.0,2
+1107,22632,1998-02-21,Burkina Faso,Tunisia,1.0,1.0,0
+1108,22634,1998-02-21,United States,Netherlands,0.0,2.0,2
+1109,22636,1998-02-22,Jamaica,Nigeria,2.0,2.0,0
+1110,22637,1998-02-22,Morocco,South Africa,1.0,2.0,2
+1111,22638,1998-02-22,Saudi Arabia,Germany,0.0,3.0,2
+1112,22639,1998-02-24,Argentina,Serbia,3.0,1.0,1
+1113,22640,1998-02-24,Mexico,Netherlands,2.0,3.0,2
+1114,22641,1998-02-25,Belgium,United States,2.0,0.0,1
+1115,22643,1998-02-25,DR Congo,South Africa,1.0,2.0,2
+1116,22644,1998-02-25,France,Norway,3.0,3.0,0
+1117,22647,1998-02-28,South Africa,Egypt,0.0,2.0,2
+1118,22650,1998-03-01,Japan,South Korea,2.0,1.0,1
+1119,22654,1998-03-04,China,South Korea,1.0,2.0,2
+1120,22655,1998-03-04,Japan,Hong Kong,5.0,1.0,1
+1121,22661,1998-03-07,Japan,China,0.0,2.0,2
+1122,22662,1998-03-08,Hong Kong,South Korea,0.0,1.0,2
+1123,22664,1998-03-10,Argentina,Bulgaria,2.0,0.0,1
+1124,22668,1998-03-14,United States,Paraguay,2.0,2.0,0
+1125,22673,1998-03-18,Mexico,Paraguay,1.0,1.0,0
+1126,22674,1998-03-18,Romania,Israel,0.0,1.0,2
+1127,22682,1998-03-25,Austria,Hungary,2.0,3.0,2
+1128,22683,1998-03-25,Belgium,Norway,2.0,2.0,0
+1129,22684,1998-03-25,Colombia,Serbia,0.0,0.0,0
+1130,22686,1998-03-25,Germany,Brazil,1.0,2.0,2
+1131,22687,1998-03-25,North Macedonia,Bulgaria,1.0,0.0,1
+1132,22691,1998-03-25,Russia,France,1.0,0.0,1
+1133,22692,1998-03-25,Scotland,Denmark,0.0,1.0,2
+1134,22693,1998-03-25,Spain,Sweden,4.0,0.0,1
+1135,22694,1998-03-25,Switzerland,England,1.0,1.0,0
+1136,22695,1998-03-25,Wales,Jamaica,0.0,0.0,0
+1137,22698,1998-03-29,Colombia,Paraguay,1.0,1.0,0
+1138,22701,1998-04-01,South Korea,Japan,2.0,1.0,1
+1139,22707,1998-04-08,Romania,Greece,2.0,1.0,1
+1140,22708,1998-04-14,Iran,Kuwait,1.0,1.0,0
+1141,22710,1998-04-15,Israel,Argentina,2.0,1.0,1
+1142,22711,1998-04-15,Mexico,Peru,1.0,0.0,1
+1143,22712,1998-04-15,Slovakia,South Korea,0.0,0.0,0
+1144,22713,1998-04-18,North Macedonia,South Korea,2.0,2.0,0
+1145,22717,1998-04-20,Iran,Hungary,0.0,2.0,2
+1146,22718,1998-04-20,Jamaica,North Macedonia,1.0,2.0,2
+1147,22720,1998-04-22,Austria,United States,0.0,3.0,2
+1148,22721,1998-04-22,Belgium,Romania,1.0,1.0,0
+1149,22722,1998-04-22,Bulgaria,Morocco,2.0,1.0,1
+1150,22723,1998-04-22,Chile,Colombia,2.0,2.0,0
+1151,22724,1998-04-22,Croatia,Poland,4.0,1.0,1
+1152,22725,1998-04-22,Denmark,Norway,0.0,2.0,2
+1153,22726,1998-04-22,England,Portugal,3.0,0.0,1
+1154,22727,1998-04-22,Germany,Nigeria,1.0,0.0,1
+1155,22729,1998-04-22,Iran,Jamaica,1.0,0.0,1
+1156,22730,1998-04-22,Republic of Ireland,Argentina,0.0,2.0,2
+1157,22731,1998-04-22,Italy,Paraguay,3.0,1.0,1
+1158,22734,1998-04-22,Scotland,Finland,1.0,1.0,0
+1159,22735,1998-04-22,Serbia,South Korea,3.0,1.0,1
+1160,22737,1998-04-22,Sweden,France,0.0,0.0,0
+1161,22739,1998-04-29,Brazil,Argentina,0.0,1.0,2
+1162,22740,1998-04-29,Chile,Lithuania,1.0,0.0,1
+1163,22741,1998-05-02,Tunisia,Georgia,1.0,1.0,0
+1164,22743,1998-05-04,Jamaica,Saudi Arabia,0.0,0.0,0
+1165,22747,1998-05-09,Estonia,Mexico,0.0,6.0,2
+1166,22748,1998-05-09,Saudi Arabia,Trinidad and Tobago,2.0,1.0,1
+1167,22750,1998-05-13,Iceland,Saudi Arabia,1.0,1.0,0
+1168,22751,1998-05-14,Argentina,Bosnia and Herzegovina,5.0,0.0,1
+1169,22752,1998-05-14,Corsica,Cameroon,0.0,1.0,2
+1170,22754,1998-05-16,South Korea,Jamaica,2.0,1.0,1
+1171,22755,1998-05-16,United States,North Macedonia,0.0,0.0,0
+1172,22757,1998-05-17,Japan,Paraguay,1.0,1.0,0
+1173,22759,1998-05-17,Saudi Arabia,Namibia,2.0,1.0,1
+1174,22761,1998-05-19,Argentina,Chile,1.0,0.0,1
+1175,22762,1998-05-19,Cameroon,Burkina Faso,2.0,0.0,1
+1176,22763,1998-05-19,South Korea,Jamaica,0.0,0.0,0
+1177,22764,1998-05-20,Norway,Mexico,5.0,2.0,1
+1178,22765,1998-05-20,South Africa,Zambia,1.0,1.0,0
+1179,22766,1998-05-21,Czech Republic,Paraguay,1.0,0.0,1
+1180,22767,1998-05-21,Brittany,Cameroon,1.0,1.0,0
+1181,22768,1998-05-23,England,Saudi Arabia,0.0,0.0,0
+1182,22769,1998-05-23,Republic of Ireland,Mexico,0.0,0.0,0
+1183,22770,1998-05-24,Chile,Uruguay,2.0,2.0,0
+1184,22771,1998-05-24,Japan,Czech Republic,0.0,0.0,0
+1185,22773,1998-05-24,United States,Kuwait,2.0,0.0,1
+1186,22774,1998-05-25,Argentina,South Africa,2.0,0.0,1

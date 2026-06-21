@@ -1,19 +1,19 @@
 ,Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials,resultado
-0,1930.0,13 Jul 1930 - 15:00 ,Group 1,Pocitos,Montevideo ,France,4.0,1.0,Mexico, ,4444.0,3.0,0.0,LOMBARDI Domingo (URU),CRISTOPHE Henry (BEL),REGO Gilberto (BRA),201.0,1096.0,FRA,MEX,1
-1,1930.0,13 Jul 1930 - 15:00 ,Group 4,Parque Central,Montevideo ,USA,3.0,0.0,Belgium, ,18346.0,2.0,0.0,MACIAS Jose (ARG),MATEUCCI Francisco (URU),WARNKEN Alberto (CHI),201.0,1090.0,USA,BEL,1
-2,1930.0,14 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,2.0,1.0,Brazil, ,24059.0,2.0,0.0,TEJADA Anibal (URU),VALLARINO Ricardo (URU),BALWAY Thomas (FRA),201.0,1093.0,YUG,BRA,1
-3,1930.0,14 Jul 1930 - 14:50 ,Group 3,Pocitos,Montevideo ,Romania,3.0,1.0,Peru, ,2549.0,1.0,0.0,WARNKEN Alberto (CHI),LANGENUS Jean (BEL),MATEUCCI Francisco (URU),201.0,1098.0,ROU,PER,1
-4,1930.0,15 Jul 1930 - 16:00 ,Group 1,Parque Central,Montevideo ,Argentina,1.0,0.0,France, ,23409.0,0.0,0.0,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),RADULESCU Constantin (ROU),201.0,1085.0,ARG,FRA,1
-5,1930.0,16 Jul 1930 - 14:45 ,Group 1,Parque Central,Montevideo ,Chile,3.0,0.0,Mexico, ,9249.0,1.0,0.0,CRISTOPHE Henry (BEL),APHESTEGUY Martin (URU),LANGENUS Jean (BEL),201.0,1095.0,CHI,MEX,1
-6,1930.0,17 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,4.0,0.0,Bolivia, ,18306.0,0.0,0.0,MATEUCCI Francisco (URU),LOMBARDI Domingo (URU),WARNKEN Alberto (CHI),201.0,1092.0,YUG,BOL,1
-7,1930.0,17 Jul 1930 - 14:45 ,Group 4,Parque Central,Montevideo ,USA,3.0,0.0,Paraguay, ,18306.0,2.0,0.0,MACIAS Jose (ARG),APHESTEGUY Martin (URU),TEJADA Anibal (URU),201.0,1097.0,USA,PAR,1
-8,1930.0,18 Jul 1930 - 14:30 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,1.0,0.0,Peru, ,57735.0,0.0,0.0,LANGENUS Jean (BEL),BALWAY Thomas (FRA),CRISTOPHE Henry (BEL),201.0,1099.0,URU,PER,1
-9,1930.0,19 Jul 1930 - 12:50 ,Group 1,Estadio Centenario,Montevideo ,Chile,1.0,0.0,France, ,2000.0,0.0,0.0,TEJADA Anibal (URU),LOMBARDI Domingo (URU),REGO Gilberto (BRA),201.0,1094.0,CHI,FRA,1
-10,1930.0,19 Jul 1930 - 15:00 ,Group 1,Estadio Centenario,Montevideo ,Argentina,6.0,3.0,Mexico, ,42100.0,3.0,1.0,SAUCEDO Ulises (BOL),ALONSO Gualberto (URU),RADULESCU Constantin (ROU),201.0,1086.0,ARG,MEX,1
-11,1930.0,20 Jul 1930 - 13:00 ,Group 2,Estadio Centenario,Montevideo ,Brazil,4.0,0.0,Bolivia, ,25466.0,1.0,0.0,BALWAY Thomas (FRA),MATEUCCI Francisco (URU),VALLEJO Gaspar (MEX),201.0,1091.0,BRA,BOL,1
-12,1930.0,20 Jul 1930 - 15:00 ,Group 4,Estadio Centenario,Montevideo ,Paraguay,1.0,0.0,Belgium, ,12000.0,1.0,0.0,VALLARINO Ricardo (URU),MACIAS Jose (ARG),LOMBARDI Domingo (URU),201.0,1089.0,PAR,BEL,1
-13,1930.0,21 Jul 1930 - 14:50 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,4.0,0.0,Romania, ,70022.0,4.0,0.0,REGO Gilberto (BRA),WARNKEN Alberto (CHI),SAUCEDO Ulises (BOL),201.0,1100.0,URU,ROU,1
-14,1930.0,22 Jul 1930 - 14:45 ,Group 1,Estadio Centenario,Montevideo ,Argentina,3.0,1.0,Chile, ,41459.0,2.0,1.0,LANGENUS Jean (BEL),CRISTOPHE Henry (BEL),SAUCEDO Ulises (BOL),201.0,1084.0,ARG,CHI,1
-15,1930.0,26 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Argentina,6.0,1.0,USA, ,72886.0,1.0,0.0,LANGENUS Jean (BEL),VALLEJO Gaspar (MEX),WARNKEN Alberto (CHI),202.0,1088.0,ARG,USA,1
-16,1930.0,27 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Uruguay,6.0,1.0,Yugoslavia, ,79867.0,3.0,1.0,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),BALWAY Thomas (FRA),202.0,1101.0,URU,YUG,1
-17,1930.0,30 Jul 1930 - 14:15 ,Final,Estadio Centenario,Montevideo ,Uruguay,4.0,2.0,Argentina, ,68346.0,1.0,2.0,LANGENUS Jean (BEL),SAUCEDO Ulises (BOL),CRISTOPHE Henry (BEL),405.0,1087.0,URU,ARG,1
+0,1930,13 Jul 1930 - 15:00 ,Group 1,Pocitos,Montevideo ,France,4.0,1.0,Mexico, ,4444.0,3.0,0.0,LOMBARDI Domingo (URU),CRISTOPHE Henry (BEL),REGO Gilberto (BRA),201.0,1096.0,FRA,MEX,1
+1,1930,13 Jul 1930 - 15:00 ,Group 4,Parque Central,Montevideo ,United States,3.0,0.0,Belgium, ,18346.0,2.0,0.0,MACIAS Jose (ARG),MATEUCCI Francisco (URU),WARNKEN Alberto (CHI),201.0,1090.0,USA,BEL,1
+2,1930,14 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,2.0,1.0,Brazil, ,24059.0,2.0,0.0,TEJADA Anibal (URU),VALLARINO Ricardo (URU),BALWAY Thomas (FRA),201.0,1093.0,YUG,BRA,1
+3,1930,14 Jul 1930 - 14:50 ,Group 3,Pocitos,Montevideo ,Romania,3.0,1.0,Peru, ,2549.0,1.0,0.0,WARNKEN Alberto (CHI),LANGENUS Jean (BEL),MATEUCCI Francisco (URU),201.0,1098.0,ROU,PER,1
+4,1930,15 Jul 1930 - 16:00 ,Group 1,Parque Central,Montevideo ,Argentina,1.0,0.0,France, ,23409.0,0.0,0.0,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),RADULESCU Constantin (ROU),201.0,1085.0,ARG,FRA,1
+5,1930,16 Jul 1930 - 14:45 ,Group 1,Parque Central,Montevideo ,Chile,3.0,0.0,Mexico, ,9249.0,1.0,0.0,CRISTOPHE Henry (BEL),APHESTEGUY Martin (URU),LANGENUS Jean (BEL),201.0,1095.0,CHI,MEX,1
+6,1930,17 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,4.0,0.0,"Bolivia, Plurinational State of", ,18306.0,0.0,0.0,MATEUCCI Francisco (URU),LOMBARDI Domingo (URU),WARNKEN Alberto (CHI),201.0,1092.0,YUG,BOL,1
+7,1930,17 Jul 1930 - 14:45 ,Group 4,Parque Central,Montevideo ,United States,3.0,0.0,Paraguay, ,18306.0,2.0,0.0,MACIAS Jose (ARG),APHESTEGUY Martin (URU),TEJADA Anibal (URU),201.0,1097.0,USA,PAR,1
+8,1930,18 Jul 1930 - 14:30 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,1.0,0.0,Peru, ,57735.0,0.0,0.0,LANGENUS Jean (BEL),BALWAY Thomas (FRA),CRISTOPHE Henry (BEL),201.0,1099.0,URU,PER,1
+9,1930,19 Jul 1930 - 12:50 ,Group 1,Estadio Centenario,Montevideo ,Chile,1.0,0.0,France, ,2000.0,0.0,0.0,TEJADA Anibal (URU),LOMBARDI Domingo (URU),REGO Gilberto (BRA),201.0,1094.0,CHI,FRA,1
+10,1930,19 Jul 1930 - 15:00 ,Group 1,Estadio Centenario,Montevideo ,Argentina,6.0,3.0,Mexico, ,42100.0,3.0,1.0,SAUCEDO Ulises (BOL),ALONSO Gualberto (URU),RADULESCU Constantin (ROU),201.0,1086.0,ARG,MEX,1
+11,1930,20 Jul 1930 - 13:00 ,Group 2,Estadio Centenario,Montevideo ,Brazil,4.0,0.0,"Bolivia, Plurinational State of", ,25466.0,1.0,0.0,BALWAY Thomas (FRA),MATEUCCI Francisco (URU),VALLEJO Gaspar (MEX),201.0,1091.0,BRA,BOL,1
+12,1930,20 Jul 1930 - 15:00 ,Group 4,Estadio Centenario,Montevideo ,Paraguay,1.0,0.0,Belgium, ,12000.0,1.0,0.0,VALLARINO Ricardo (URU),MACIAS Jose (ARG),LOMBARDI Domingo (URU),201.0,1089.0,PAR,BEL,1
+13,1930,21 Jul 1930 - 14:50 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,4.0,0.0,Romania, ,70022.0,4.0,0.0,REGO Gilberto (BRA),WARNKEN Alberto (CHI),SAUCEDO Ulises (BOL),201.0,1100.0,URU,ROU,1
+14,1930,22 Jul 1930 - 14:45 ,Group 1,Estadio Centenario,Montevideo ,Argentina,3.0,1.0,Chile, ,41459.0,2.0,1.0,LANGENUS Jean (BEL),CRISTOPHE Henry (BEL),SAUCEDO Ulises (BOL),201.0,1084.0,ARG,CHI,1
+15,1930,26 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Argentina,6.0,1.0,United States, ,72886.0,1.0,0.0,LANGENUS Jean (BEL),VALLEJO Gaspar (MEX),WARNKEN Alberto (CHI),202.0,1088.0,ARG,USA,1
+16,1930,27 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Uruguay,6.0,1.0,Yugoslavia, ,79867.0,3.0,1.0,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),BALWAY Thomas (FRA),202.0,1101.0,URU,YUG,1
+17,1930,30 Jul 1930 - 14:15 ,Final,Estadio Centenario,Montevideo ,Uruguay,4.0,2.0,Argentina, ,68346.0,1.0,2.0,LANGENUS Jean (BEL),SAUCEDO Ulises (BOL),CRISTOPHE Henry (BEL),405.0,1087.0,URU,ARG,1

@@ -1,1261 +1,1261 @@
-,index,date,home_team,away_team,home_score,away_score
-0,30129,2006-08-09,Japan,Trinidad and Tobago,2.0,0.0
-1,30136,2006-08-15,Algeria,Gabon,0.0,2.0
-2,30137,2006-08-15,Ghana,Togo,2.0,0.0
-3,30138,2006-08-15,Iceland,Spain,0.0,0.0
-4,30139,2006-08-15,Slovakia,Malta,3.0,0.0
-5,30140,2006-08-15,Slovenia,Israel,1.0,1.0
-6,30143,2006-08-16,Australia,Kuwait,2.0,0.0
-7,30148,2006-08-16,Bosnia and Herzegovina,France,1.0,2.0
-8,30149,2006-08-16,Cameroon,Guinea,1.0,1.0
-9,30150,2006-08-16,Chile,Colombia,1.0,2.0
-10,30152,2006-08-16,Czech Republic,Serbia,1.0,3.0
-11,30153,2006-08-16,Denmark,Poland,2.0,0.0
-12,30154,2006-08-16,Egypt,Uruguay,0.0,2.0
-13,30155,2006-08-16,England,Greece,4.0,0.0
-14,30159,2006-08-16,Germany,Sweden,3.0,0.0
-15,30163,2006-08-16,Republic of Ireland,Netherlands,0.0,4.0
-16,30164,2006-08-16,Italy,Croatia,0.0,2.0
-17,30165,2006-08-16,Ivory Coast,Senegal,0.0,1.0
-18,30166,2006-08-16,Japan,Yemen,2.0,0.0
-19,30169,2006-08-16,Liechtenstein,Switzerland,0.0,3.0
-20,30173,2006-08-16,Namibia,South Africa,0.0,1.0
-21,30174,2006-08-16,Norway,Brazil,1.0,1.0
-22,30182,2006-08-16,Venezuela,Honduras,0.0,0.0
-23,30196,2006-09-01,Denmark,Portugal,4.0,2.0
-24,30205,2006-09-02,England,Andorra,5.0,0.0
-25,30208,2006-09-02,Georgia,France,0.0,3.0
-26,30209,2006-09-02,Germany,Republic of Ireland,1.0,0.0
-27,30211,2006-09-02,Italy,Lithuania,1.0,1.0
-28,30213,2006-09-02,South Korea,Iran,1.0,1.0
-29,30215,2006-09-02,Luxembourg,Netherlands,0.0,1.0
-30,30217,2006-09-02,Moldova,Greece,0.0,1.0
-31,30218,2006-09-02,Nigeria,Niger,2.0,0.0
-32,30224,2006-09-02,Serbia,Azerbaijan,1.0,0.0
-33,30225,2006-09-02,Slovakia,Cyprus,6.0,1.0
-34,30226,2006-09-02,South Africa,Congo,0.0,0.0
-35,30227,2006-09-02,Spain,Liechtenstein,4.0,0.0
-36,30228,2006-09-02,Switzerland,Venezuela,1.0,0.0
-37,30232,2006-09-03,Argentina,Brazil,0.0,3.0
-38,30238,2006-09-03,Guinea,Algeria,0.0,0.0
-39,30240,2006-09-03,Rwanda,Cameroon,0.0,3.0
-40,30241,2006-09-03,Saudi Arabia,Japan,1.0,0.0
-41,30249,2006-09-05,Wales,Brazil,0.0,2.0
-42,30255,2006-09-06,Bulgaria,Slovenia,3.0,0.0
-43,30259,2006-09-06,Finland,Portugal,1.0,1.0
-44,30260,2006-09-06,France,Italy,3.0,1.0
-45,30262,2006-09-06,Honduras,El Salvador,2.0,0.0
-46,30264,2006-09-06,Iceland,Denmark,0.0,2.0
-47,30267,2006-09-06,South Korea,Taiwan,8.0,0.0
-48,30268,2006-09-06,Kuwait,Australia,2.0,0.0
-49,30271,2006-09-06,North Macedonia,England,0.0,1.0
-50,30272,2006-09-06,Netherlands,Belarus,3.0,0.0
-51,30273,2006-09-06,Northern Ireland,Spain,3.0,2.0
-52,30276,2006-09-06,Poland,Serbia,1.0,1.0
-53,30279,2006-09-06,San Marino,Germany,0.0,13.0
-54,30282,2006-09-06,Slovakia,Czech Republic,0.0,3.0
-55,30285,2006-09-06,Switzerland,Costa Rica,2.0,0.0
-56,30290,2006-09-06,Yemen,Japan,0.0,1.0
-57,30312,2006-09-27,Venezuela,Uruguay,1.0,0.0
-58,30324,2006-10-04,Japan,Ghana,0.0,1.0
-59,30327,2006-10-07,Algeria,Gambia,1.0,0.0
-60,30329,2006-10-07,Australia,Paraguay,1.0,1.0
-61,30331,2006-10-07,Bulgaria,Netherlands,1.0,1.0
-62,30333,2006-10-07,Cameroon,Equatorial Guinea,3.0,0.0
-63,30335,2006-10-07,Chile,Peru,3.0,2.0
-64,30339,2006-10-07,Denmark,Northern Ireland,0.0,0.0
-65,30340,2006-10-07,England,North Macedonia,0.0,0.0
-66,30343,2006-10-07,Germany,Georgia,2.0,0.0
-67,30344,2006-10-07,Greece,Norway,1.0,0.0
-68,30345,2006-10-07,Guatemala,Honduras,2.0,3.0
-69,30347,2006-10-07,Italy,Ukraine,2.0,0.0
-70,30354,2006-10-07,Portugal,Azerbaijan,3.0,0.0
-71,30357,2006-10-07,Scotland,France,1.0,0.0
-72,30358,2006-10-07,Serbia,Belgium,1.0,0.0
-73,30360,2006-10-07,Slovenia,Luxembourg,2.0,0.0
-74,30361,2006-10-07,Sweden,Spain,2.0,0.0
-75,30363,2006-10-07,Wales,Slovakia,1.0,5.0
-76,30368,2006-10-08,Ivory Coast,Gabon,5.0,0.0
-77,30370,2006-10-08,South Korea,Ghana,1.0,3.0
-78,30371,2006-10-08,Lesotho,Nigeria,0.0,1.0
-79,30377,2006-10-08,Zambia,South Africa,0.0,1.0
-80,30379,2006-10-10,Brazil,Ecuador,2.0,1.0
-81,30380,2006-10-10,Honduras,Guatemala,2.0,1.0
-82,30382,2006-10-11,Australia,Bahrain,2.0,0.0
-83,30383,2006-10-11,Austria,Switzerland,2.0,1.0
-84,30385,2006-10-11,Belarus,Slovenia,4.0,2.0
-85,30387,2006-10-11,Bosnia and Herzegovina,Greece,0.0,4.0
-86,30388,2006-10-11,Croatia,England,2.0,0.0
-87,30389,2006-10-11,France,Faroe Islands,5.0,0.0
-88,30390,2006-10-11,Georgia,Italy,1.0,3.0
-89,30392,2006-10-11,India,Japan,0.0,3.0
-90,30396,2006-10-11,South Korea,Syria,1.0,1.0
-91,30398,2006-10-11,Liechtenstein,Denmark,0.0,4.0
-92,30401,2006-10-11,Netherlands,Albania,2.0,1.0
-93,30406,2006-10-11,Peru,Chile,0.0,1.0
-94,30407,2006-10-11,Poland,Portugal,2.0,1.0
-95,30411,2006-10-11,Serbia,Armenia,3.0,0.0
-96,30412,2006-10-11,Slovakia,Germany,1.0,4.0
-97,30413,2006-10-11,Spain,Argentina,2.0,1.0
-98,30419,2006-10-18,Uruguay,Venezuela,4.0,0.0
-99,30437,2006-11-14,Australia,Ghana,1.0,1.0
-100,30442,2006-11-15,Algeria,Burkina Faso,1.0,2.0
-101,30448,2006-11-15,Chile,Paraguay,3.0,2.0
-102,30450,2006-11-15,Cyprus,Germany,1.0,1.0
-103,30451,2006-11-15,Czech Republic,Denmark,1.0,1.0
-104,30452,2006-11-15,Egypt,South Africa,1.0,0.0
-105,30455,2006-11-15,France,Greece,1.0,0.0
-106,30456,2006-11-15,Georgia,Uruguay,2.0,0.0
-107,30459,2006-11-15,Iran,South Korea,2.0,0.0
-108,30462,2006-11-15,Italy,Turkey,1.0,1.0
-109,30463,2006-11-15,Ivory Coast,Sweden,1.0,0.0
-110,30465,2006-11-15,Japan,Saudi Arabia,3.0,1.0
-111,30471,2006-11-15,Netherlands,England,1.0,1.0
-112,30472,2006-11-15,Portugal,Kazakhstan,3.0,0.0
-113,30473,2006-11-15,Serbia,Norway,1.0,1.0
-114,30474,2006-11-15,Slovakia,Bulgaria,3.0,1.0
-115,30475,2006-11-15,Spain,Romania,0.0,1.0
-116,30476,2006-11-15,Switzerland,Brazil,1.0,2.0
-117,30551,2006-12-10,United Arab Emirates,Slovakia,1.0,2.0
-118,30567,2006-12-27,Basque Country,Serbia,4.0,0.0
-119,30638,2007-02-06,Australia,Denmark,1.0,3.0
-120,30641,2007-02-06,Greece,South Korea,0.0,1.0
-121,30642,2007-02-06,Ivory Coast,Guinea,1.0,0.0
-122,30645,2007-02-06,Nigeria,Ghana,1.0,4.0
-123,30647,2007-02-06,Portugal,Brazil,2.0,0.0
-124,30649,2007-02-07,Algeria,Libya,2.0,1.0
-125,30653,2007-02-07,Colombia,Uruguay,1.0,3.0
-126,30657,2007-02-07,England,Spain,0.0,1.0
-127,30658,2007-02-07,France,Argentina,0.0,1.0
-128,30660,2007-02-07,Germany,Switzerland,3.0,1.0
-129,30667,2007-02-07,Netherlands,Russia,4.0,1.0
-130,30668,2007-02-07,Poland,Slovakia,2.0,2.0
-131,30672,2007-02-07,Slovenia,Estonia,1.0,0.0
-132,30673,2007-02-07,Togo,Cameroon,2.0,2.0
-133,30674,2007-02-07,United States,Mexico,2.0,0.0
-134,30676,2007-02-07,Venezuela,Chile,0.0,1.0
-135,30679,2007-02-09,Costa Rica,Honduras,3.0,1.0
-136,30682,2007-02-11,Honduras,Panama,1.0,1.0
-137,30687,2007-02-15,Nicaragua,Honduras,1.0,9.0
-138,30693,2007-02-28,Mexico,Venezuela,3.0,1.0
-139,30703,2007-03-21,Mauritius,Ivory Coast,0.0,3.0
-140,30704,2007-03-22,Jamaica,Switzerland,0.0,2.0
-141,30705,2007-03-24,Albania,Slovenia,0.0,0.0
-142,30706,2007-03-24,Algeria,Cape Verde,2.0,0.0
-143,30707,2007-03-24,Austria,Ghana,1.0,1.0
-144,30708,2007-03-24,Brazil,Chile,4.0,0.0
-145,30710,2007-03-24,Cameroon,Liberia,3.0,1.0
-146,30711,2007-03-24,Chad,South Africa,0.0,3.0
-147,30712,2007-03-24,China,Australia,0.0,2.0
-148,30713,2007-03-24,Costa Rica,New Zealand,4.0,0.0
-149,30715,2007-03-24,Cyprus,Slovakia,1.0,3.0
-150,30716,2007-03-24,Czech Republic,Germany,1.0,2.0
-151,30717,2007-03-24,El Salvador,Honduras,0.0,2.0
-152,30721,2007-03-24,Greece,Turkey,1.0,4.0
-153,30725,2007-03-24,Israel,England,0.0,0.0
-154,30726,2007-03-24,Japan,Peru,2.0,0.0
-155,30727,2007-03-24,Kazakhstan,Serbia,2.0,1.0
-156,30728,2007-03-24,South Korea,Uruguay,0.0,2.0
-157,30730,2007-03-24,Lithuania,France,0.0,1.0
-158,30734,2007-03-24,Netherlands,Romania,0.0,0.0
-159,30735,2007-03-24,Nigeria,Uganda,1.0,0.0
-160,30738,2007-03-24,Portugal,Belgium,4.0,0.0
-161,30743,2007-03-24,Spain,Denmark,2.0,1.0
-162,30751,2007-03-25,Colombia,Switzerland,3.0,1.0
-163,30758,2007-03-25,Madagascar,Ivory Coast,0.0,3.0
-164,30761,2007-03-25,Mexico,Paraguay,2.0,1.0
-165,30763,2007-03-25,United States,Ecuador,3.0,1.0
-166,30766,2007-03-27,Brazil,Ghana,1.0,0.0
-167,30768,2007-03-27,El Salvador,Honduras,0.0,2.0
-168,30769,2007-03-28,Andorra,England,0.0,3.0
-169,30772,2007-03-28,Chile,Costa Rica,1.0,1.0
-170,30773,2007-03-28,Colombia,Paraguay,2.0,0.0
-171,30775,2007-03-28,France,Austria,1.0,0.0
-172,30777,2007-03-28,Germany,Denmark,0.0,1.0
-173,30779,2007-03-28,Republic of Ireland,Slovakia,1.0,0.0
-174,30781,2007-03-28,Italy,Scotland,2.0,0.0
-175,30783,2007-03-28,Malta,Greece,0.0,1.0
-176,30784,2007-03-28,Mexico,Ecuador,4.0,2.0
-177,30788,2007-03-28,Serbia,Portugal,1.0,1.0
-178,30789,2007-03-28,Slovenia,Netherlands,0.0,1.0
-179,30790,2007-03-28,South Africa,Bolivia,0.0,1.0
-180,30791,2007-03-28,Spain,Iceland,1.0,0.0
-181,30794,2007-03-28,United States,Guatemala,0.0,0.0
-182,30795,2007-03-28,Venezuela,New Zealand,5.0,0.0
-183,30800,2007-04-18,Argentina,Chile,0.0,0.0
-184,30801,2007-04-19,Honduras,Haiti,1.0,3.0
-185,30810,2007-05-09,Chile,Cuba,3.0,0.0
-186,30812,2007-05-16,Chile,Cuba,2.0,0.0
-187,30818,2007-05-23,Haiti,Chile,0.0,0.0
-188,30819,2007-05-25,Venezuela,Honduras,2.0,1.0
-189,30823,2007-05-26,Malawi,South Africa,0.0,0.0
-190,30827,2007-05-26,Wales,New Zealand,2.0,2.0
-191,30829,2007-05-27,Kenya,Nigeria,0.0,1.0
-192,30830,2007-05-27,Mauritius,South Africa,0.0,2.0
-193,30838,2007-06-01,England,Brazil,1.0,1.0
-194,30841,2007-06-01,Japan,Montenegro,2.0,0.0
-195,30844,2007-06-02,Australia,Uruguay,1.0,2.0
-196,30845,2007-06-02,Austria,Paraguay,0.0,0.0
-197,30848,2007-06-02,Belgium,Portugal,1.0,2.0
-198,30850,2007-06-02,Cape Verde,Algeria,2.0,2.0
-199,30851,2007-06-02,Costa Rica,Chile,2.0,0.0
-200,30852,2007-06-02,Denmark,Sweden,0.0,3.0
-201,30855,2007-06-02,Faroe Islands,Italy,1.0,2.0
-202,30856,2007-06-02,Finland,Serbia,0.0,2.0
-203,30857,2007-06-02,France,Ukraine,2.0,0.0
-204,30858,2007-06-02,Germany,San Marino,6.0,0.0
-205,30859,2007-06-02,Greece,Hungary,2.0,0.0
-206,30860,2007-06-02,Honduras,Trinidad and Tobago,3.0,1.0
-207,30863,2007-06-02,South Korea,Netherlands,0.0,2.0
-208,30864,2007-06-02,Latvia,Spain,0.0,2.0
-209,30867,2007-06-02,Mexico,Iran,4.0,0.0
-210,30873,2007-06-02,Slovenia,Romania,1.0,2.0
-211,30874,2007-06-02,South Africa,Chad,4.0,0.0
-212,30876,2007-06-02,Switzerland,Argentina,1.0,1.0
-213,30879,2007-06-02,Uganda,Nigeria,2.0,1.0
-214,30880,2007-06-02,United States,China,4.0,1.0
-215,30888,2007-06-03,Ivory Coast,Madagascar,5.0,0.0
-216,30889,2007-06-03,Liberia,Cameroon,1.0,2.0
-217,30895,2007-06-05,Algeria,Argentina,3.0,4.0
-218,30896,2007-06-05,Jamaica,Chile,0.0,1.0
-219,30897,2007-06-05,Japan,Colombia,0.0,0.0
-220,30898,2007-06-05,Kuwait,Portugal,1.0,1.0
-221,30899,2007-06-05,Mexico,Paraguay,0.0,1.0
-222,30900,2007-06-05,Turkey,Brazil,0.0,0.0
-223,30908,2007-06-06,Estonia,England,0.0,3.0
-224,30911,2007-06-06,France,Georgia,1.0,0.0
-225,30912,2007-06-06,Germany,Slovakia,2.0,1.0
-226,30913,2007-06-06,Greece,Moldova,2.0,1.0
-227,30916,2007-06-06,Latvia,Denmark,0.0,2.0
-228,30917,2007-06-06,Liechtenstein,Spain,0.0,2.0
-229,30918,2007-06-06,Lithuania,Italy,0.0,2.0
-230,30921,2007-06-06,Romania,Slovenia,2.0,0.0
-231,30923,2007-06-06,Thailand,Netherlands,1.0,3.0
-232,30925,2007-06-07,United States,Guatemala,1.0,0.0
-233,30928,2007-06-08,Mexico,Cuba,2.0,1.0
-234,30929,2007-06-08,Panama,Honduras,3.0,2.0
-235,30935,2007-06-09,United States,Trinidad and Tobago,2.0,0.0
-236,30936,2007-06-10,Honduras,Mexico,2.0,1.0
-237,30947,2007-06-12,United States,El Salvador,4.0,0.0
-238,30948,2007-06-13,Cuba,Honduras,0.0,5.0
-239,30949,2007-06-13,Mexico,Panama,1.0,0.0
-240,30950,2007-06-16,Algeria,Guinea,0.0,2.0
-241,30962,2007-06-16,United States,Panama,2.0,1.0
-242,30966,2007-06-17,Cameroon,Rwanda,2.0,1.0
-243,30967,2007-06-17,Congo,South Africa,1.0,1.0
-244,30969,2007-06-17,Honduras,Guadeloupe,1.0,2.0
-245,30975,2007-06-17,Mexico,Costa Rica,1.0,0.0
-246,30977,2007-06-17,Niger,Nigeria,1.0,3.0
-247,30982,2007-06-19,North Korea,Mongolia,7.0,0.0
-248,30984,2007-06-20,Bolivia,Paraguay,0.0,0.0
-249,30990,2007-06-21,Macau,North Korea,1.0,7.0
-250,30992,2007-06-21,Mexico,Guadeloupe,1.0,0.0
-251,30993,2007-06-21,United States,Canada,2.0,1.0
-252,31000,2007-06-24,North Korea,Hong Kong,1.0,0.0
-253,31002,2007-06-24,United States,Mexico,2.0,1.0
-254,31005,2007-06-26,Uruguay,Peru,0.0,3.0
-255,31007,2007-06-27,Brazil,Mexico,0.0,2.0
-256,31008,2007-06-27,Ecuador,Chile,2.0,3.0
-257,31011,2007-06-28,Argentina,United States,4.0,1.0
-258,31013,2007-06-28,Oman,North Korea,2.0,2.0
-259,31014,2007-06-28,Paraguay,Colombia,5.0,0.0
-260,31015,2007-06-29,South Korea,Iraq,3.0,0.0
-261,31016,2007-06-30,Bolivia,Uruguay,0.0,1.0
-262,31017,2007-06-30,Singapore,Australia,0.0,3.0
-263,31024,2007-07-01,Brazil,Chile,3.0,0.0
-264,31025,2007-07-01,Mexico,Ecuador,2.0,1.0
-265,31027,2007-07-01,United Arab Emirates,North Korea,1.0,0.0
-266,31032,2007-07-02,Argentina,Colombia,4.0,2.0
-267,31036,2007-07-02,United States,Paraguay,1.0,3.0
-268,31042,2007-07-03,Venezuela,Uruguay,0.0,0.0
-269,31043,2007-07-04,Brazil,Ecuador,1.0,0.0
-270,31044,2007-07-04,Mexico,Chile,0.0,0.0
-271,31045,2007-07-04,Saudi Arabia,North Korea,1.0,1.0
-272,31051,2007-07-05,Argentina,Paraguay,1.0,0.0
-273,31052,2007-07-05,Colombia,United States,1.0,0.0
-274,31053,2007-07-05,South Korea,Uzbekistan,2.0,1.0
-275,31060,2007-07-07,Chile,Brazil,1.0,6.0
-276,31062,2007-07-07,Venezuela,Uruguay,1.0,4.0
-277,31063,2007-07-08,Argentina,Peru,4.0,0.0
-278,31064,2007-07-08,Australia,Oman,1.0,1.0
-279,31065,2007-07-08,Mexico,Paraguay,6.0,0.0
-280,31067,2007-07-09,Japan,Qatar,1.0,1.0
-281,31070,2007-07-10,Uruguay,Brazil,2.0,2.0
-282,31072,2007-07-11,South Korea,Saudi Arabia,1.0,1.0
-283,31073,2007-07-11,Mexico,Argentina,0.0,3.0
-284,31076,2007-07-13,Iraq,Australia,3.0,1.0
-285,31078,2007-07-13,United Arab Emirates,Japan,1.0,3.0
-286,31081,2007-07-14,Mexico,Uruguay,3.0,1.0
-287,31082,2007-07-15,Bahrain,South Korea,2.0,1.0
-288,31083,2007-07-15,Brazil,Argentina,3.0,0.0
-289,31087,2007-07-16,Thailand,Australia,0.0,4.0
-290,31088,2007-07-16,Vietnam,Japan,1.0,4.0
-291,31090,2007-07-18,Indonesia,South Korea,0.0,1.0
-292,31097,2007-07-21,Japan,Australia,1.0,1.0
-293,31098,2007-07-22,Iran,South Korea,0.0,0.0
-294,31101,2007-07-25,Iraq,South Korea,0.0,0.0
-295,31102,2007-07-25,Japan,Saudi Arabia,2.0,3.0
-296,31105,2007-07-28,South Korea,Japan,0.0,0.0
-297,31128,2007-08-21,Ghana,Senegal,1.0,1.0
-298,31131,2007-08-22,Algeria,Brazil,0.0,2.0
-299,31132,2007-08-22,Armenia,Portugal,1.0,1.0
-300,31136,2007-08-22,Belgium,Serbia,3.0,2.0
-301,31141,2007-08-22,Denmark,Republic of Ireland,0.0,4.0
-302,31143,2007-08-22,El Salvador,Honduras,2.0,0.0
-303,31144,2007-08-22,England,Germany,1.0,2.0
-304,31147,2007-08-22,Greece,Spain,2.0,3.0
-305,31148,2007-08-22,Hungary,Italy,3.0,1.0
-306,31150,2007-08-22,Ivory Coast,Egypt,0.0,0.0
-307,31151,2007-08-22,Japan,Cameroon,2.0,0.0
-308,31156,2007-08-22,North Macedonia,Nigeria,0.0,0.0
-309,31158,2007-08-22,Mexico,Colombia,0.0,1.0
-310,31159,2007-08-22,Montenegro,Slovenia,1.0,1.0
-311,31161,2007-08-22,Norway,Argentina,2.0,1.0
-312,31163,2007-08-22,Paraguay,Venezuela,1.0,1.0
-313,31167,2007-08-22,Scotland,South Africa,1.0,0.0
-314,31168,2007-08-22,Slovakia,France,0.0,1.0
-315,31170,2007-08-22,Sweden,United States,1.0,0.0
-316,31171,2007-08-22,Switzerland,Netherlands,2.0,1.0
-317,31208,2007-09-07,Austria,Japan,0.0,0.0
-318,31212,2007-09-07,Switzerland,Chile,2.0,1.0
-319,31218,2007-09-08,England,Israel,3.0,0.0
-320,31220,2007-09-08,Gabon,Ivory Coast,0.0,0.0
-321,31223,2007-09-08,Iceland,Spain,1.0,1.0
-322,31224,2007-09-08,Italy,France,0.0,0.0
-323,31228,2007-09-08,Luxembourg,Slovenia,0.0,3.0
-324,31231,2007-09-08,Morocco,Ghana,0.0,2.0
-325,31232,2007-09-08,Netherlands,Bulgaria,2.0,0.0
-326,31233,2007-09-08,Nigeria,Lesotho,2.0,0.0
-327,31235,2007-09-08,Portugal,Poland,2.0,2.0
-328,31241,2007-09-08,Serbia,Finland,0.0,0.0
-329,31242,2007-09-08,Slovakia,Republic of Ireland,2.0,2.0
-330,31243,2007-09-08,Sweden,Denmark,0.0,0.0
-331,31246,2007-09-08,Venezuela,Paraguay,3.0,2.0
-332,31247,2007-09-08,Wales,Germany,0.0,2.0
-333,31250,2007-09-09,Costa Rica,Honduras,0.0,0.0
-334,31251,2007-09-09,Equatorial Guinea,Cameroon,1.0,0.0
-335,31252,2007-09-09,Gambia,Algeria,2.0,1.0
-336,31255,2007-09-09,Mexico,Panama,1.0,0.0
-337,31256,2007-09-09,South Africa,Zambia,1.0,3.0
-338,31259,2007-09-09,United States,Brazil,2.0,4.0
-339,31261,2007-09-11,Australia,Argentina,0.0,1.0
-340,31262,2007-09-11,Austria,Chile,0.0,2.0
-341,31263,2007-09-11,Saudi Arabia,Ghana,5.0,0.0
-342,31264,2007-09-11,Switzerland,Japan,3.0,4.0
-343,31265,2007-09-12,Albania,Netherlands,0.0,1.0
-344,31271,2007-09-12,Colombia,Paraguay,1.0,0.0
-345,31274,2007-09-12,Denmark,Liechtenstein,4.0,0.0
-346,31275,2007-09-12,England,Russia,3.0,0.0
-347,31277,2007-09-12,France,Scotland,0.0,1.0
-348,31278,2007-09-12,Germany,Romania,3.0,1.0
-349,31279,2007-09-12,Honduras,Ecuador,2.0,1.0
-350,31285,2007-09-12,Mexico,Brazil,1.0,3.0
-351,31287,2007-09-12,Norway,Greece,2.0,2.0
-352,31289,2007-09-12,Portugal,Serbia,1.0,1.0
-353,31291,2007-09-12,Slovakia,Wales,2.0,5.0
-354,31292,2007-09-12,Slovenia,Belarus,1.0,0.0
-355,31293,2007-09-12,South Africa,Uruguay,0.0,0.0
-356,31294,2007-09-12,Spain,Latvia,2.0,0.0
-357,31296,2007-09-12,Ukraine,Italy,1.0,2.0
-358,31301,2007-09-29,South Africa,Botswana,1.0,0.0
-359,31316,2007-10-13,Argentina,Chile,2.0,0.0
-360,31317,2007-10-13,Armenia,Serbia,0.0,0.0
-361,31318,2007-10-13,Azerbaijan,Portugal,0.0,2.0
-362,31323,2007-10-13,Denmark,Spain,1.0,3.0
-363,31327,2007-10-13,England,Estonia,3.0,0.0
-364,31328,2007-10-13,Faroe Islands,France,0.0,6.0
-365,31329,2007-10-13,Greece,Bosnia and Herzegovina,3.0,2.0
-366,31332,2007-10-13,Republic of Ireland,Germany,0.0,0.0
-367,31333,2007-10-13,Italy,Georgia,2.0,0.0
-368,31337,2007-10-13,Peru,Paraguay,0.0,0.0
-369,31339,2007-10-13,Romania,Netherlands,1.0,0.0
-370,31341,2007-10-13,Slovakia,San Marino,7.0,0.0
-371,31342,2007-10-13,Slovenia,Albania,0.0,0.0
-372,31343,2007-10-13,Switzerland,Austria,3.0,1.0
-373,31344,2007-10-13,Uruguay,Bolivia,5.0,0.0
-374,31346,2007-10-14,Colombia,Brazil,0.0,0.0
-375,31347,2007-10-14,Honduras,Panama,1.0,0.0
-376,31349,2007-10-14,Mexico,Nigeria,2.0,2.0
-377,31353,2007-10-16,Croatia,Slovakia,3.0,0.0
-378,31355,2007-10-16,Venezuela,Argentina,0.0,2.0
-379,31357,2007-10-17,Austria,Ivory Coast,3.0,2.0
-380,31358,2007-10-17,Azerbaijan,Serbia,1.0,6.0
-381,31362,2007-10-17,Brazil,Ecuador,5.0,0.0
-382,31363,2007-10-17,Chile,Peru,2.0,0.0
-383,31365,2007-10-17,Denmark,Latvia,3.0,1.0
-384,31368,2007-10-17,Fiji,New Zealand,0.0,2.0
-385,31369,2007-10-17,Finland,Spain,0.0,0.0
-386,31370,2007-10-17,France,Lithuania,2.0,0.0
-387,31372,2007-10-17,Germany,Czech Republic,0.0,3.0
-388,31375,2007-10-17,Italy,South Africa,2.0,0.0
-389,31376,2007-10-17,Japan,Egypt,4.0,1.0
-390,31377,2007-10-17,Kazakhstan,Portugal,1.0,2.0
-391,31382,2007-10-17,Mexico,Guatemala,2.0,3.0
-392,31384,2007-10-17,Netherlands,Slovenia,2.0,0.0
-393,31385,2007-10-17,Paraguay,Uruguay,1.0,0.0
-394,31387,2007-10-17,Russia,England,2.0,1.0
-395,31391,2007-10-17,Switzerland,United States,0.0,1.0
-396,31392,2007-10-17,Turkey,Greece,0.0,1.0
-397,31399,2007-10-21,Mongolia,North Korea,1.0,4.0
-398,31402,2007-10-24,South Africa,Zambia,0.0,0.0
-399,31408,2007-10-28,North Korea,Mongolia,5.0,1.0
-400,31427,2007-11-16,Austria,England,0.0,1.0
-401,31429,2007-11-16,France,Morocco,2.0,2.0
-402,31433,2007-11-17,Angola,Ivory Coast,2.0,1.0
-403,31434,2007-11-17,Argentina,Bolivia,3.0,0.0
-404,31435,2007-11-17,Australia,Nigeria,1.0,0.0
-405,31440,2007-11-17,Czech Republic,Slovakia,3.0,1.0
-406,31443,2007-11-17,Germany,Cyprus,4.0,0.0
-407,31444,2007-11-17,Greece,Malta,5.0,0.0
-408,31445,2007-11-17,Guatemala,Honduras,0.0,1.0
-409,31452,2007-11-17,Netherlands,Luxembourg,1.0,0.0
-410,31453,2007-11-17,Northern Ireland,Denmark,2.0,1.0
-411,31455,2007-11-17,Paraguay,Ecuador,5.0,1.0
-412,31457,2007-11-17,Portugal,Armenia,1.0,0.0
-413,31458,2007-11-17,Scotland,Italy,1.0,2.0
-414,31460,2007-11-17,South Africa,United States,0.0,1.0
-415,31461,2007-11-17,Spain,Sweden,3.0,0.0
-416,31463,2007-11-17,Vanuatu,New Zealand,1.0,2.0
-417,31465,2007-11-18,Ghana,Togo,2.0,0.0
-418,31467,2007-11-18,Peru,Brazil,1.0,1.0
-419,31474,2007-11-18,Uruguay,Chile,2.0,2.0
-420,31475,2007-11-20,Algeria,Mali,3.0,2.0
-421,31477,2007-11-20,Colombia,Argentina,2.0,1.0
-422,31478,2007-11-20,South Africa,Canada,2.0,0.0
-423,31479,2007-11-20,Switzerland,Nigeria,0.0,1.0
-424,31485,2007-11-21,Belarus,Netherlands,2.0,1.0
-425,31486,2007-11-21,Brazil,Uruguay,2.0,1.0
-426,31487,2007-11-21,Chile,Paraguay,0.0,3.0
-427,31489,2007-11-21,Denmark,Iceland,3.0,0.0
-428,31491,2007-11-21,England,Croatia,2.0,3.0
-429,31494,2007-11-21,Germany,Wales,0.0,0.0
-430,31495,2007-11-21,Ghana,Benin,4.0,2.0
-431,31496,2007-11-21,Hungary,Greece,1.0,2.0
-432,31498,2007-11-21,Italy,Faroe Islands,3.0,1.0
-433,31503,2007-11-21,New Zealand,Vanuatu,4.0,1.0
-434,31506,2007-11-21,Portugal,Finland,0.0,0.0
-435,31507,2007-11-21,Qatar,Ivory Coast,1.0,6.0
-436,31509,2007-11-21,San Marino,Slovakia,0.0,5.0
-437,31510,2007-11-21,Serbia,Poland,2.0,2.0
-438,31511,2007-11-21,Slovenia,Bulgaria,0.0,2.0
-439,31512,2007-11-21,Spain,Northern Ireland,1.0,0.0
-440,31516,2007-11-21,Ukraine,France,2.0,2.0
-441,31520,2007-11-24,Serbia,Kazakhstan,1.0,0.0
-442,31556,2007-12-24,North Korea,Uzbekistan,2.0,2.0
-443,31557,2007-12-26,Thailand,North Korea,1.0,0.0
-444,31558,2007-12-27,Galicia,Cameroon,1.0,1.0
-445,31566,2008-01-09,Nigeria,Sudan,2.0,0.0
-446,31571,2008-01-12,Kuwait,Ivory Coast,0.0,2.0
-447,31577,2008-01-13,South Africa,Mozambique,2.0,0.0
-448,31583,2008-01-16,South Africa,Botswana,2.0,1.0
-449,31586,2008-01-19,United States,Sweden,2.0,0.0
-450,31588,2008-01-20,Ghana,Guinea,2.0,1.0
-451,31592,2008-01-21,Nigeria,Ivory Coast,0.0,1.0
-452,31594,2008-01-22,Egypt,Cameroon,4.0,2.0
-453,31597,2008-01-23,South Africa,Angola,1.0,1.0
-454,31599,2008-01-24,Ghana,Namibia,1.0,0.0
-455,31603,2008-01-25,Ivory Coast,Benin,4.0,1.0
-456,31604,2008-01-25,Nigeria,Mali,0.0,0.0
-457,31606,2008-01-26,Cameroon,Zambia,5.0,1.0
-458,31609,2008-01-26,Japan,Chile,0.0,0.0
-459,31614,2008-01-27,Tunisia,South Africa,3.0,1.0
-460,31615,2008-01-28,Ghana,Morocco,2.0,0.0
-461,31619,2008-01-29,Ivory Coast,Mali,3.0,0.0
-462,31620,2008-01-29,Nigeria,Benin,2.0,0.0
-463,31622,2008-01-30,Cameroon,Sudan,3.0,0.0
-464,31625,2008-01-30,Japan,Bosnia and Herzegovina,3.0,0.0
-465,31626,2008-01-30,South Korea,Chile,0.0,1.0
-466,31631,2008-01-31,Senegal,South Africa,1.0,1.0
-467,31638,2008-02-03,Ghana,Nigeria,2.0,1.0
-468,31639,2008-02-03,Ivory Coast,Guinea,5.0,0.0
-469,31644,2008-02-04,Tunisia,Cameroon,2.0,3.0
-470,31647,2008-02-06,Australia,Qatar,3.0,0.0
-471,31648,2008-02-06,Austria,Germany,0.0,3.0
-472,31652,2008-02-06,Croatia,Netherlands,0.0,3.0
-473,31657,2008-02-06,England,Switzerland,2.0,1.0
-474,31659,2008-02-06,Greece,Finland,2.0,1.0
-475,31660,2008-02-06,Honduras,Paraguay,2.0,0.0
-476,31661,2008-02-06,Hungary,Slovakia,1.0,1.0
-477,31664,2008-02-06,Republic of Ireland,Brazil,0.0,1.0
-478,31666,2008-02-06,Italy,Portugal,3.0,1.0
-479,31668,2008-02-06,Japan,Thailand,4.0,1.0
-480,31669,2008-02-06,Jordan,North Korea,0.0,1.0
-481,31671,2008-02-06,South Korea,Turkmenistan,4.0,0.0
-482,31673,2008-02-06,North Macedonia,Serbia,1.0,1.0
-483,31679,2008-02-06,Slovenia,Denmark,1.0,2.0
-484,31680,2008-02-06,Spain,France,1.0,0.0
-485,31685,2008-02-06,Uruguay,Colombia,2.0,2.0
-486,31686,2008-02-06,United States,Mexico,2.0,2.0
-487,31689,2008-02-07,Ghana,Cameroon,0.0,1.0
-488,31690,2008-02-07,Ivory Coast,Egypt,1.0,4.0
-489,31691,2008-02-09,Ghana,Ivory Coast,4.0,2.0
-490,31695,2008-02-10,Cameroon,Egypt,0.0,1.0
-491,31697,2008-02-17,China,South Korea,2.0,3.0
-492,31698,2008-02-17,Japan,North Korea,1.0,1.0
-493,31699,2008-02-20,China,Japan,0.0,1.0
-494,31700,2008-02-20,South Korea,North Korea,1.0,1.0
-495,31701,2008-02-23,China,North Korea,3.0,1.0
-496,31702,2008-02-23,Japan,South Korea,1.0,1.0
-497,31710,2008-03-11,South Africa,Zimbabwe,2.0,1.0
-498,31720,2008-03-22,Singapore,Australia,0.0,0.0
-499,31726,2008-03-26,Algeria,DR Congo,1.0,1.0
-500,31731,2008-03-26,Austria,Netherlands,3.0,4.0
-501,31733,2008-03-26,Bahrain,Japan,1.0,0.0
-502,31739,2008-03-26,Brazil,Sweden,1.0,0.0
-503,31741,2008-03-26,China,Australia,0.0,0.0
-504,31743,2008-03-26,Denmark,Czech Republic,1.0,1.0
-505,31745,2008-03-26,Egypt,Argentina,0.0,2.0
-506,31747,2008-03-26,France,England,1.0,0.0
-507,31748,2008-03-26,Ghana,Mexico,1.0,2.0
-508,31750,2008-03-26,Honduras,Colombia,2.0,1.0
-509,31751,2008-03-26,Hungary,Slovenia,0.0,1.0
-510,31752,2008-03-26,Israel,Chile,1.0,0.0
-511,31753,2008-03-26,Ivory Coast,Tunisia,0.0,2.0
-512,31755,2008-03-26,North Korea,South Korea,0.0,0.0
-513,31765,2008-03-26,Poland,United States,0.0,3.0
-514,31766,2008-03-26,Portugal,Greece,1.0,2.0
-515,31772,2008-03-26,Slovakia,Iceland,1.0,2.0
-516,31773,2008-03-26,South Africa,Paraguay,3.0,0.0
-517,31774,2008-03-26,Spain,Italy,1.0,0.0
-518,31778,2008-03-26,Switzerland,Germany,0.0,4.0
-519,31783,2008-03-26,Ukraine,Serbia,2.0,0.0
-520,31796,2008-04-16,Mexico,China,1.0,0.0
-521,31823,2008-05-19,Greece,Cyprus,2.0,0.0
-522,31825,2008-05-20,Turkey,Slovakia,1.0,0.0
-523,31829,2008-05-22,Ivory Coast,Paraguay,1.0,1.0
-524,31832,2008-05-23,Australia,Ghana,1.0,0.0
-525,31833,2008-05-23,Honduras,Belize,2.0,0.0
-526,31839,2008-05-24,Hungary,Greece,3.0,2.0
-527,31841,2008-05-24,Republic of Ireland,Serbia,1.0,1.0
-528,31842,2008-05-24,Japan,Ivory Coast,1.0,0.0
-529,31844,2008-05-24,Netherlands,Ukraine,3.0,0.0
-530,31846,2008-05-24,Switzerland,Slovakia,2.0,0.0
-531,31847,2008-05-24,Catalonia,Argentina,0.0,1.0
-532,31852,2008-05-25,Turkey,Uruguay,2.0,3.0
-533,31855,2008-05-26,Sweden,Slovenia,1.0,0.0
-534,31857,2008-05-27,Austria,Nigeria,1.0,1.0
-535,31860,2008-05-27,France,Ecuador,2.0,0.0
-536,31861,2008-05-27,Germany,Belarus,2.0,2.0
-537,31863,2008-05-27,Japan,Paraguay,0.0,0.0
-538,31870,2008-05-28,England,United States,2.0,0.0
-539,31873,2008-05-28,Norway,Uruguay,2.0,2.0
-540,31874,2008-05-28,Russia,Serbia,2.0,1.0
-541,31878,2008-05-29,Netherlands,Denmark,1.0,1.0
-542,31882,2008-05-30,Italy,Belgium,3.0,1.0
-543,31884,2008-05-30,Switzerland,Liechtenstein,3.0,0.0
-544,31885,2008-05-30,Venezuela,Honduras,1.0,1.0
-545,31887,2008-05-31,Brazil,Canada,3.0,2.0
-546,31888,2008-05-31,Cameroon,Cape Verde,2.0,0.0
-547,31890,2008-05-31,France,Paraguay,0.0,0.0
-548,31891,2008-05-31,Germany,Serbia,2.0,1.0
-549,31893,2008-05-31,South Korea,Jordan,2.0,2.0
-550,31896,2008-05-31,Portugal,Georgia,2.0,0.0
-551,31899,2008-05-31,Senegal,Algeria,1.0,0.0
-552,31900,2008-05-31,Spain,Peru,2.0,1.0
-553,31905,2008-06-01,Armenia,Greece,0.0,0.0
-554,31906,2008-06-01,Australia,Iraq,1.0,0.0
-555,31911,2008-06-01,Ghana,Libya,3.0,0.0
-556,31914,2008-06-01,Ivory Coast,Mozambique,1.0,0.0
-557,31918,2008-06-01,Netherlands,Wales,2.0,0.0
-558,31919,2008-06-01,Nigeria,South Africa,2.0,0.0
-559,31920,2008-06-01,Poland,Denmark,1.0,1.0
-560,31922,2008-06-01,Trinidad and Tobago,England,0.0,3.0
-561,31926,2008-06-02,Japan,Oman,3.0,0.0
-562,31932,2008-06-02,Turkmenistan,North Korea,0.0,0.0
-563,31933,2008-06-03,France,Colombia,1.0,0.0
-564,31938,2008-06-04,Chile,Guatemala,2.0,0.0
-565,31940,2008-06-04,Honduras,Puerto Rico,4.0,0.0
-566,31942,2008-06-04,Mexico,Argentina,1.0,4.0
-567,31944,2008-06-04,Spain,United States,1.0,0.0
-568,31948,2008-06-06,Algeria,Liberia,3.0,0.0
-569,31951,2008-06-06,Brazil,Venezuela,0.0,2.0
-570,31959,2008-06-07,Chile,Panama,0.0,0.0
-571,31962,2008-06-07,Honduras,Haiti,3.0,1.0
-572,31963,2008-06-07,Iraq,Australia,1.0,0.0
-573,31964,2008-06-07,Jordan,South Korea,0.0,1.0
-574,31966,2008-06-07,North Korea,Turkmenistan,1.0,0.0
-575,31970,2008-06-07,Oman,Japan,1.0,1.0
-576,31972,2008-06-07,Portugal,Turkey,2.0,0.0
-577,31975,2008-06-07,Sierra Leone,Nigeria,0.0,1.0
-578,31976,2008-06-07,Switzerland,Czech Republic,0.0,1.0
-579,31980,2008-06-07,South Africa,Equatorial Guinea,4.0,1.0
-580,31988,2008-06-08,Germany,Poland,2.0,0.0
-581,31990,2008-06-08,Lesotho,Ghana,2.0,3.0
-582,31991,2008-06-08,Madagascar,Ivory Coast,0.0,0.0
-583,31992,2008-06-08,Mauritius,Cameroon,0.0,3.0
-584,31993,2008-06-08,Mexico,Peru,4.0,0.0
-585,31998,2008-06-08,United States,Argentina,0.0,0.0
-586,32002,2008-06-09,Netherlands,Italy,3.0,0.0
-587,32003,2008-06-09,Romania,France,0.0,0.0
-588,32004,2008-06-10,Greece,Sweden,0.0,2.0
-589,32006,2008-06-10,Spain,Russia,4.0,1.0
-590,32007,2008-06-11,Czech Republic,Portugal,1.0,3.0
-591,32011,2008-06-11,Switzerland,Turkey,1.0,2.0
-592,32013,2008-06-12,Croatia,Germany,2.0,1.0
-593,32015,2008-06-13,Italy,Romania,1.0,1.0
-594,32016,2008-06-13,Netherlands,France,4.0,1.0
-595,32018,2008-06-14,Botswana,Ivory Coast,1.0,1.0
-596,32021,2008-06-14,Gabon,Ghana,2.0,0.0
-597,32022,2008-06-14,Gambia,Algeria,1.0,0.0
-598,32023,2008-06-14,Greece,Russia,0.0,1.0
-599,32028,2008-06-14,North Korea,Jordan,2.0,0.0
-600,32034,2008-06-14,Puerto Rico,Honduras,2.0,2.0
-601,32035,2008-06-14,Qatar,Australia,1.0,3.0
-602,32038,2008-06-14,Sierra Leone,South Africa,1.0,0.0
-603,32042,2008-06-14,Sweden,Spain,1.0,2.0
-604,32044,2008-06-14,Tanzania,Cameroon,0.0,0.0
-605,32045,2008-06-14,Thailand,Japan,0.0,3.0
-606,32046,2008-06-14,Turkmenistan,South Korea,1.0,3.0
-607,32048,2008-06-14,Uruguay,Venezuela,1.0,1.0
-608,32051,2008-06-15,Argentina,Ecuador,1.0,1.0
-609,32052,2008-06-15,Belize,Mexico,0.0,2.0
-610,32053,2008-06-15,Bolivia,Chile,0.0,2.0
-611,32055,2008-06-15,Equatorial Guinea,Nigeria,0.0,1.0
-612,32064,2008-06-15,Paraguay,Brazil,2.0,0.0
-613,32066,2008-06-15,Switzerland,Portugal,2.0,0.0
-614,32069,2008-06-15,United States,Barbados,8.0,0.0
-615,32071,2008-06-16,Austria,Germany,0.0,1.0
-616,32074,2008-06-17,France,Italy,0.0,2.0
-617,32075,2008-06-17,Netherlands,Romania,2.0,0.0
-618,32076,2008-06-17,Uruguay,Peru,6.0,0.0
-619,32077,2008-06-18,Bolivia,Paraguay,4.0,2.0
-620,32079,2008-06-18,Greece,Spain,1.0,2.0
-621,32082,2008-06-18,Brazil,Argentina,0.0,0.0
-622,32083,2008-06-19,Portugal,Germany,2.0,3.0
-623,32084,2008-06-19,Venezuela,Chile,2.0,3.0
-624,32085,2008-06-20,Algeria,Gambia,1.0,0.0
-625,32090,2008-06-21,Cameroon,Tanzania,2.0,1.0
-626,32092,2008-06-21,Mexico,Belize,7.0,0.0
-627,32094,2008-06-21,Netherlands,Russia,1.0,3.0
-628,32096,2008-06-21,Nigeria,Equatorial Guinea,2.0,0.0
-629,32098,2008-06-21,South Africa,Sierra Leone,0.0,0.0
-630,32102,2008-06-22,Australia,China,0.0,1.0
-631,32103,2008-06-22,Barbados,United States,0.0,1.0
-632,32113,2008-06-22,Ghana,Gabon,2.0,0.0
-633,32118,2008-06-22,Ivory Coast,Botswana,4.0,0.0
-634,32119,2008-06-22,Japan,Bahrain,1.0,0.0
-635,32121,2008-06-22,South Korea,North Korea,0.0,0.0
-636,32127,2008-06-22,Spain,Italy,0.0,0.0
-637,32131,2008-06-25,Germany,Turkey,3.0,2.0
-638,32132,2008-06-26,Russia,Spain,0.0,3.0
-639,32134,2008-06-29,Germany,Spain,0.0,1.0
-640,32165,2008-07-26,South Africa,Namibia,1.0,0.0
-641,32172,2008-07-30,South Africa,Zambia,1.0,0.0
-642,32177,2008-07-31,North Korea,Sri Lanka,3.0,0.0
-643,32180,2008-08-02,Nepal,North Korea,0.0,1.0
-644,32185,2008-08-03,South Africa,Mozambique,2.0,1.0
-645,32186,2008-08-04,North Korea,Myanmar,1.0,0.0
-646,32191,2008-08-07,North Korea,Tajikistan,0.0,1.0
-647,32200,2008-08-13,Myanmar,North Korea,0.0,4.0
-648,32206,2008-08-19,Australia,South Africa,2.0,2.0
-649,32209,2008-08-20,Algeria,United Arab Emirates,1.0,0.0
-650,32211,2008-08-20,Belarus,Argentina,0.0,0.0
-651,32219,2008-08-20,Denmark,Spain,0.0,3.0
-652,32220,2008-08-20,England,Czech Republic,2.0,2.0
-653,32223,2008-08-20,Germany,Belgium,2.0,0.0
-654,32224,2008-08-20,Guatemala,United States,0.0,1.0
-655,32225,2008-08-20,Guinea,Ivory Coast,1.0,2.0
-656,32229,2008-08-20,Italy,Austria,2.0,2.0
-657,32230,2008-08-20,Japan,Uruguay,1.0,3.0
-658,32235,2008-08-20,Mexico,Honduras,2.0,1.0
-659,32240,2008-08-20,Portugal,Faroe Islands,5.0,0.0
-660,32243,2008-08-20,Russia,Netherlands,1.0,1.0
-661,32244,2008-08-20,Saudi Arabia,Paraguay,1.0,1.0
-662,32246,2008-08-20,Slovakia,Greece,0.0,2.0
-663,32247,2008-08-20,Slovenia,Croatia,2.0,3.0
-664,32249,2008-08-20,Sweden,France,2.0,3.0
-665,32250,2008-08-20,Switzerland,Cyprus,4.0,1.0
-666,32251,2008-08-20,Tanzania,Ghana,1.0,1.0
-667,32253,2008-08-20,Turkey,Chile,1.0,0.0
-668,32261,2008-08-24,Qatar,North Korea,2.0,1.0
-669,32268,2008-08-29,Uzbekistan,North Korea,0.0,0.0
-670,32276,2008-09-05,Algeria,Senegal,3.0,2.0
-671,32278,2008-09-05,South Korea,Jordan,1.0,0.0
-672,32279,2008-09-05,Libya,Ghana,1.0,0.0
-673,32281,2008-09-06,Andorra,England,0.0,2.0
-674,32282,2008-09-06,Argentina,Paraguay,1.0,1.0
-675,32284,2008-09-06,Austria,France,3.0,1.0
-676,32285,2008-09-06,Bahrain,Japan,2.0,3.0
-677,32288,2008-09-06,Cape Verde,Cameroon,1.0,2.0
-678,32289,2008-09-06,Colombia,Uruguay,0.0,1.0
-679,32291,2008-09-06,Cuba,United States,0.0,1.0
-680,32292,2008-09-06,Cyprus,Italy,1.0,2.0
-681,32297,2008-09-06,Hungary,Denmark,0.0,0.0
-682,32298,2008-09-06,Israel,Switzerland,2.0,2.0
-683,32300,2008-09-06,Liechtenstein,Germany,0.0,6.0
-684,32301,2008-09-06,Luxembourg,Greece,0.0,3.0
-685,32303,2008-09-06,Malta,Portugal,0.0,4.0
-686,32309,2008-09-06,Netherlands,Australia,1.0,2.0
-687,32310,2008-09-06,New Caledonia,New Zealand,1.0,3.0
-688,32314,2008-09-06,Poland,Slovenia,1.0,1.0
-689,32318,2008-09-06,Serbia,Faroe Islands,2.0,0.0
-690,32321,2008-09-06,Slovakia,Northern Ireland,2.0,1.0
-691,32322,2008-09-06,South Africa,Nigeria,0.0,1.0
-692,32323,2008-09-06,Spain,Bosnia and Herzegovina,1.0,0.0
-693,32327,2008-09-06,United Arab Emirates,North Korea,1.0,2.0
-694,32329,2008-09-06,Canada,Honduras,1.0,2.0
-695,32332,2008-09-06,Mexico,Jamaica,3.0,0.0
-696,32334,2008-09-07,Chile,Brazil,0.0,3.0
-697,32339,2008-09-07,Mozambique,Ivory Coast,1.0,1.0
-698,32342,2008-09-09,Paraguay,Venezuela,2.0,0.0
-699,32343,2008-09-09,South Africa,Guinea,0.0,1.0
-700,32348,2008-09-10,Brazil,Bolivia,0.0,0.0
-701,32350,2008-09-10,Chile,Colombia,4.0,0.0
-702,32351,2008-09-10,Croatia,England,1.0,4.0
-703,32353,2008-09-10,Finland,Germany,3.0,3.0
-704,32354,2008-09-10,France,Serbia,2.0,1.0
-705,32357,2008-09-10,Honduras,Jamaica,2.0,0.0
-706,32359,2008-09-10,Italy,Georgia,2.0,0.0
-707,32361,2008-09-10,North Korea,South Korea,1.0,1.0
-708,32362,2008-09-10,Latvia,Greece,0.0,2.0
-709,32364,2008-09-10,North Macedonia,Netherlands,1.0,2.0
-710,32365,2008-09-10,Mexico,Canada,2.0,1.0
-711,32368,2008-09-10,New Zealand,New Caledonia,3.0,0.0
-712,32371,2008-09-10,Peru,Argentina,1.0,1.0
-713,32372,2008-09-10,Portugal,Denmark,2.0,3.0
-714,32376,2008-09-10,Slovenia,Slovakia,2.0,1.0
-715,32377,2008-09-10,Spain,Armenia,4.0,0.0
-716,32380,2008-09-10,Switzerland,Luxembourg,1.0,2.0
-717,32383,2008-09-10,Uruguay,Ecuador,0.0,0.0
-718,32384,2008-09-10,United States,Trinidad and Tobago,3.0,0.0
-719,32385,2008-09-10,Uzbekistan,Australia,0.0,1.0
-720,32390,2008-09-24,Mexico,Chile,0.0,1.0
-721,32400,2008-09-30,South Africa,Malawi,3.0,0.0
-722,32410,2008-10-09,Japan,United Arab Emirates,1.0,1.0
-723,32412,2008-10-11,Argentina,Uruguay,2.0,1.0
-724,32416,2008-10-11,Bulgaria,Italy,0.0,0.0
-725,32417,2008-10-11,Cameroon,Mauritius,5.0,0.0
-726,32418,2008-10-11,Colombia,Paraguay,0.0,1.0
-727,32419,2008-10-11,Denmark,Malta,3.0,0.0
-728,32420,2008-10-11,England,Kazakhstan,5.0,1.0
-729,32421,2008-10-11,Equatorial Guinea,South Africa,0.0,1.0
-730,32422,2008-10-11,Estonia,Spain,0.0,3.0
-731,32427,2008-10-11,Germany,Russia,2.0,1.0
-732,32428,2008-10-11,Ghana,Lesotho,3.0,0.0
-733,32429,2008-10-11,Greece,Moldova,3.0,0.0
-734,32433,2008-10-11,Honduras,Canada,3.0,1.0
-735,32435,2008-10-11,Ivory Coast,Madagascar,3.0,0.0
-736,32436,2008-10-11,Jamaica,Mexico,1.0,0.0
-737,32437,2008-10-11,South Korea,Uzbekistan,3.0,0.0
-738,32438,2008-10-11,Liberia,Algeria,0.0,0.0
-739,32445,2008-10-11,Netherlands,Iceland,2.0,0.0
-740,32446,2008-10-11,Nigeria,Sierra Leone,4.0,1.0
-741,32448,2008-10-11,Romania,France,2.0,2.0
-742,32449,2008-10-11,San Marino,Slovakia,1.0,3.0
-743,32452,2008-10-11,Serbia,Lithuania,3.0,0.0
-744,32453,2008-10-11,Slovenia,Northern Ireland,2.0,0.0
-745,32456,2008-10-11,Sweden,Portugal,0.0,0.0
-746,32457,2008-10-11,Switzerland,Latvia,2.0,1.0
-747,32463,2008-10-11,United States,Cuba,6.0,1.0
-748,32467,2008-10-12,Ecuador,Chile,1.0,0.0
-749,32471,2008-10-12,Venezuela,Brazil,0.0,4.0
-750,32474,2008-10-14,Bolivia,Uruguay,2.0,2.0
-751,32475,2008-10-14,France,Tunisia,3.0,1.0
-752,32477,2008-10-15,Australia,Qatar,4.0,0.0
-753,32478,2008-10-15,Austria,Serbia,1.0,3.0
-754,32480,2008-10-15,Belarus,England,1.0,3.0
-755,32481,2008-10-15,Belgium,Spain,1.0,2.0
-756,32483,2008-10-15,Brazil,Colombia,0.0,0.0
-757,32484,2008-10-15,Canada,Mexico,2.0,2.0
-758,32485,2008-10-15,Chile,Argentina,1.0,0.0
-759,32489,2008-10-15,Czech Republic,Slovenia,1.0,0.0
-760,32493,2008-10-15,Germany,Wales,1.0,0.0
-761,32494,2008-10-15,Greece,Switzerland,1.0,2.0
-762,32498,2008-10-15,Iran,North Korea,2.0,1.0
-763,32500,2008-10-15,Italy,Montenegro,2.0,1.0
-764,32501,2008-10-15,Jamaica,Honduras,1.0,0.0
-765,32502,2008-10-15,Japan,Uzbekistan,1.0,1.0
-766,32503,2008-10-15,South Korea,United Arab Emirates,4.0,1.0
-767,32510,2008-10-15,Norway,Netherlands,0.0,1.0
-768,32511,2008-10-15,Paraguay,Peru,1.0,0.0
-769,32512,2008-10-15,Portugal,Albania,0.0,0.0
-770,32514,2008-10-15,Slovakia,Poland,2.0,1.0
-771,32515,2008-10-15,South Africa,Ghana,2.0,1.0
-772,32516,2008-10-15,Trinidad and Tobago,United States,2.0,1.0
-773,32540,2008-10-28,Thailand,North Korea,1.0,0.0
-774,32541,2008-10-30,Vietnam,North Korea,0.0,0.0
-775,32555,2008-11-12,Mexico,Ecuador,2.0,1.0
-776,32558,2008-11-13,Japan,Syria,3.0,1.0
-777,32561,2008-11-18,Algeria,Mali,1.0,1.0
-778,32567,2008-11-19,Bahrain,Australia,0.0,1.0
-779,32568,2008-11-19,Brazil,Portugal,6.0,2.0
-780,32569,2008-11-19,Colombia,Nigeria,1.0,0.0
-781,32571,2008-11-19,Denmark,Wales,0.0,1.0
-782,32574,2008-11-19,Fiji,New Zealand,2.0,0.0
-783,32575,2008-11-19,France,Uruguay,0.0,0.0
-784,32576,2008-11-19,Germany,England,1.0,2.0
-785,32577,2008-11-19,Ghana,Tunisia,0.0,0.0
-786,32578,2008-11-19,Greece,Italy,1.0,1.0
-787,32579,2008-11-19,Honduras,Mexico,1.0,0.0
-788,32581,2008-11-19,Israel,Ivory Coast,2.0,2.0
-789,32589,2008-11-19,Netherlands,Sweden,3.0,1.0
-790,32591,2008-11-19,Oman,Paraguay,0.0,1.0
-791,32592,2008-11-19,Qatar,Japan,0.0,3.0
-792,32595,2008-11-19,Saudi Arabia,South Korea,0.0,2.0
-793,32596,2008-11-19,Scotland,Argentina,0.0,1.0
-794,32597,2008-11-19,Serbia,Bulgaria,6.0,1.0
-795,32598,2008-11-19,Slovakia,Liechtenstein,4.0,0.0
-796,32599,2008-11-19,Slovenia,Bosnia and Herzegovina,3.0,4.0
-797,32600,2008-11-19,South Africa,Cameroon,3.0,2.0
-798,32601,2008-11-19,Spain,Chile,3.0,0.0
-799,32603,2008-11-19,Switzerland,Finland,1.0,0.0
-800,32609,2008-11-19,United States,Guatemala,2.0,0.0
-801,32642,2008-12-14,Serbia,Poland,0.0,1.0
-802,32707,2009-01-18,Honduras,Chile,2.0,0.0
-803,32710,2009-01-20,Japan,Yemen,2.0,1.0
-804,32717,2009-01-22,Honduras,Belize,2.0,1.0
-805,32720,2009-01-23,North Korea,Lebanon,0.0,1.0
-806,32723,2009-01-24,Honduras,Nicaragua,4.0,1.0
-807,32724,2009-01-24,United States,Sweden,3.0,2.0
-808,32726,2009-01-26,Honduras,El Salvador,2.0,0.0
-809,32729,2009-01-27,South Africa,Zambia,1.0,0.0
-810,32730,2009-01-28,Bahrain,Japan,1.0,0.0
-811,32731,2009-01-28,Indonesia,Australia,0.0,0.0
-812,32734,2009-01-28,Mexico,Sweden,0.0,1.0
-813,32741,2009-01-30,Honduras,Panama,0.0,1.0
-814,32744,2009-02-01,Honduras,El Salvador,1.0,0.0
-815,32745,2009-02-01,Syria,South Korea,1.0,1.0
-816,32746,2009-02-04,Bahrain,South Korea,2.0,2.0
-817,32747,2009-02-04,Japan,Finland,5.0,1.0
-818,32752,2009-02-10,Brazil,Italy,2.0,0.0
-819,32753,2009-02-10,Cyprus,Serbia,0.0,2.0
-820,32754,2009-02-10,Slovakia,Ukraine,2.0,3.0
-821,32755,2009-02-11,Algeria,Benin,2.0,1.0
-822,32759,2009-02-11,Belgium,Slovenia,2.0,0.0
-823,32761,2009-02-11,Cameroon,Guinea,3.0,1.0
-824,32763,2009-02-11,Costa Rica,Honduras,2.0,0.0
-825,32764,2009-02-11,Cyprus,Slovakia,3.0,2.0
-826,32765,2009-02-11,Egypt,Ghana,2.0,2.0
-827,32768,2009-02-11,France,Argentina,0.0,2.0
-828,32769,2009-02-11,Germany,Norway,0.0,1.0
-829,32770,2009-02-11,Greece,Denmark,1.0,1.0
-830,32771,2009-02-11,Iran,South Korea,1.0,1.0
-831,32774,2009-02-11,Japan,Australia,0.0,0.0
-832,32775,2009-02-11,North Korea,Saudi Arabia,1.0,0.0
-833,32778,2009-02-11,Libya,Uruguay,2.0,3.0
-834,32784,2009-02-11,Nigeria,Jamaica,0.0,0.0
-835,32785,2009-02-11,Peru,Paraguay,0.0,1.0
-836,32786,2009-02-11,Portugal,Finland,1.0,0.0
-837,32789,2009-02-11,Serbia,Ukraine,0.0,1.0
-838,32790,2009-02-11,South Africa,Chile,0.0,2.0
-839,32791,2009-02-11,Spain,England,2.0,0.0
-840,32792,2009-02-11,Switzerland,Bulgaria,1.0,1.0
-841,32794,2009-02-11,Tunisia,Netherlands,1.0,1.0
-842,32795,2009-02-11,Turkey,Ivory Coast,1.0,1.0
-843,32796,2009-02-11,United States,Mexico,2.0,0.0
-844,32800,2009-03-05,Australia,Kuwait,0.0,1.0
-845,32804,2009-03-11,Mexico,Bolivia,5.0,1.0
-846,32825,2009-03-28,Argentina,Venezuela,4.0,0.0
-847,32832,2009-03-28,El Salvador,United States,2.0,2.0
-848,32833,2009-03-28,England,Slovakia,4.0,0.0
-849,32834,2009-03-28,Germany,Liechtenstein,4.0,0.0
-850,32837,2009-03-28,Israel,Greece,1.0,1.0
-851,32838,2009-03-28,Japan,Bahrain,1.0,0.0
-852,32840,2009-03-28,North Korea,United Arab Emirates,2.0,0.0
-853,32841,2009-03-28,South Korea,Iraq,2.0,1.0
-854,32842,2009-03-28,Lithuania,France,0.0,1.0
-855,32844,2009-03-28,Malta,Denmark,0.0,3.0
-856,32845,2009-03-28,Mexico,Costa Rica,2.0,0.0
-857,32846,2009-03-28,Moldova,Switzerland,0.0,2.0
-858,32847,2009-03-28,Montenegro,Italy,0.0,2.0
-859,32850,2009-03-28,Netherlands,Scotland,3.0,0.0
-860,32853,2009-03-28,Portugal,Sweden,0.0,0.0
-861,32854,2009-03-28,Romania,Serbia,2.0,3.0
-862,32856,2009-03-28,Rwanda,Algeria,0.0,0.0
-863,32857,2009-03-28,Slovenia,Czech Republic,0.0,0.0
-864,32858,2009-03-28,South Africa,Norway,2.0,1.0
-865,32859,2009-03-28,Spain,Turkey,1.0,0.0
-866,32862,2009-03-28,Thailand,New Zealand,3.0,1.0
-867,32863,2009-03-28,Togo,Cameroon,1.0,0.0
-868,32864,2009-03-28,Trinidad and Tobago,Honduras,1.0,1.0
-869,32865,2009-03-28,Uruguay,Paraguay,2.0,0.0
-870,32868,2009-03-29,Mozambique,Nigeria,0.0,0.0
-871,32869,2009-03-29,Ivory Coast,Malawi,5.0,0.0
-872,32870,2009-03-29,Ecuador,Brazil,1.0,1.0
-873,32871,2009-03-29,Peru,Chile,1.0,3.0
-874,32873,2009-03-29,Ghana,Benin,1.0,0.0
-875,32877,2009-03-31,Portugal,South Africa,2.0,0.0
-876,32880,2009-04-01,Australia,Uzbekistan,2.0,0.0
-877,32886,2009-04-01,Czech Republic,Slovakia,1.0,2.0
-878,32887,2009-04-01,Denmark,Albania,3.0,0.0
-879,32888,2009-04-01,England,Ukraine,2.0,1.0
-880,32890,2009-04-01,France,Lithuania,1.0,0.0
-881,32892,2009-04-01,Greece,Israel,2.0,1.0
-882,32893,2009-04-01,Honduras,Mexico,3.0,1.0
-883,32896,2009-04-01,Italy,Republic of Ireland,1.0,1.0
-884,32898,2009-04-01,South Korea,North Korea,1.0,0.0
-885,32903,2009-04-01,Netherlands,North Macedonia,4.0,0.0
-886,32904,2009-04-01,Northern Ireland,Slovenia,1.0,0.0
-887,32909,2009-04-01,Serbia,Sweden,2.0,0.0
-888,32910,2009-04-01,Switzerland,Moldova,2.0,0.0
-889,32911,2009-04-01,Turkey,Spain,1.0,2.0
-890,32912,2009-04-01,United States,Trinidad and Tobago,3.0,0.0
-891,32913,2009-04-01,Wales,Germany,0.0,2.0
-892,32914,2009-04-01,Bolivia,Argentina,6.0,1.0
-893,32915,2009-04-01,Ecuador,Paraguay,1.0,1.0
-894,32916,2009-04-01,Chile,Uruguay,0.0,0.0
-895,32917,2009-04-01,Brazil,Peru,3.0,0.0
-896,32942,2009-05-20,Argentina,Panama,3.0,1.0
-897,32946,2009-05-27,Japan,Chile,4.0,0.0
-898,32949,2009-05-29,Belgium,Chile,1.0,1.0
-899,32950,2009-05-29,China,Germany,1.0,1.0
-900,32951,2009-05-29,Republic of Ireland,Nigeria,1.0,1.0
-901,32957,2009-05-31,Ghana,Uganda,2.0,1.0
-902,32958,2009-05-31,Japan,Belgium,4.0,0.0
-903,32964,2009-06-02,France,Nigeria,0.0,1.0
-904,32966,2009-06-02,United Arab Emirates,Germany,2.0,7.0
-905,32969,2009-06-03,Costa Rica,United States,3.0,1.0
-906,32970,2009-06-03,Tanzania,New Zealand,2.0,1.0
-907,32974,2009-06-05,France,Turkey,1.0,0.0
-908,32975,2009-06-06,Albania,Portugal,1.0,2.0
-909,32976,2009-06-06,Argentina,Colombia,1.0,0.0
-910,32980,2009-06-06,Botswana,New Zealand,0.0,0.0
-911,32984,2009-06-06,El Salvador,Mexico,2.0,1.0
-912,32989,2009-06-06,Iceland,Netherlands,1.0,2.0
-913,32990,2009-06-06,Italy,Northern Ireland,3.0,0.0
-914,32991,2009-06-06,Kazakhstan,England,0.0,4.0
-915,32992,2009-06-06,North Korea,Iran,0.0,0.0
-916,32997,2009-06-06,Paraguay,Chile,0.0,2.0
-917,32998,2009-06-06,Qatar,Australia,0.0,0.0
-918,32999,2009-06-06,Serbia,Austria,1.0,0.0
-919,33000,2009-06-06,Slovakia,San Marino,7.0,0.0
-920,33001,2009-06-06,South Africa,Poland,1.0,0.0
-921,33002,2009-06-06,Sweden,Denmark,0.0,1.0
-922,33005,2009-06-06,United Arab Emirates,South Korea,0.0,2.0
-923,33006,2009-06-06,Uruguay,Brazil,0.0,4.0
-924,33007,2009-06-06,United States,Honduras,2.0,1.0
-925,33008,2009-06-06,Uzbekistan,Japan,0.0,1.0
-926,33011,2009-06-07,Cameroon,Morocco,0.0,0.0
-927,33012,2009-06-07,Guinea,Ivory Coast,1.0,2.0
-928,33016,2009-06-07,Algeria,Egypt,3.0,1.0
-929,33018,2009-06-07,Mali,Ghana,0.0,2.0
-930,33019,2009-06-07,Nigeria,Kenya,3.0,0.0
-931,33020,2009-06-09,Azerbaijan,Spain,0.0,6.0
-932,33024,2009-06-10,Australia,Bahrain,2.0,0.0
-933,33026,2009-06-10,Brazil,Paraguay,2.0,1.0
-934,33027,2009-06-10,Chile,Bolivia,4.0,0.0
-935,33029,2009-06-10,Ecuador,Argentina,2.0,0.0
-936,33030,2009-06-10,England,Andorra,6.0,0.0
-937,33031,2009-06-10,Estonia,Portugal,0.0,0.0
-938,33032,2009-06-10,Faroe Islands,Serbia,0.0,2.0
-939,33034,2009-06-10,Honduras,El Salvador,1.0,0.0
-940,33036,2009-06-10,Italy,New Zealand,4.0,3.0
-941,33037,2009-06-10,Japan,Qatar,1.0,1.0
-942,33038,2009-06-10,South Korea,Saudi Arabia,0.0,0.0
-943,33040,2009-06-10,Mexico,Trinidad and Tobago,2.0,1.0
-944,33041,2009-06-10,Netherlands,Norway,2.0,0.0
-945,33044,2009-06-10,Venezuela,Uruguay,2.0,2.0
-946,33046,2009-06-13,Ivory Coast,Cameroon,2.0,1.0
-947,33049,2009-06-14,New Zealand,Spain,0.0,5.0
-948,33050,2009-06-14,South Africa,Iraq,0.0,0.0
-949,33051,2009-06-15,Brazil,Egypt,4.0,3.0
-950,33052,2009-06-15,United States,Italy,1.0,3.0
-951,33053,2009-06-17,Australia,Japan,2.0,1.0
-952,33055,2009-06-17,South Korea,Iran,1.0,1.0
-953,33056,2009-06-17,Saudi Arabia,North Korea,0.0,0.0
-954,33057,2009-06-17,South Africa,New Zealand,2.0,0.0
-955,33058,2009-06-17,Spain,Iraq,1.0,0.0
-956,33059,2009-06-18,Egypt,Italy,1.0,0.0
-957,33060,2009-06-18,United States,Brazil,0.0,3.0
-958,33063,2009-06-20,Burkina Faso,Ivory Coast,2.0,3.0
-959,33064,2009-06-20,Iraq,New Zealand,0.0,0.0
-960,33067,2009-06-20,South Africa,Spain,0.0,2.0
-961,33068,2009-06-20,Sudan,Ghana,0.0,2.0
-962,33069,2009-06-20,Tunisia,Nigeria,0.0,0.0
-963,33070,2009-06-20,Zambia,Algeria,0.0,2.0
-964,33071,2009-06-21,Egypt,United States,0.0,3.0
-965,33072,2009-06-21,Italy,Brazil,0.0,3.0
-966,33081,2009-06-24,Mexico,Venezuela,4.0,0.0
-967,33082,2009-06-24,Spain,United States,0.0,2.0
-968,33085,2009-06-25,South Africa,Brazil,0.0,1.0
-969,33095,2009-06-28,Mexico,Guatemala,0.0,0.0
-970,33096,2009-06-28,Panama,Honduras,0.0,2.0
-971,33097,2009-06-28,South Africa,Spain,2.0,3.0
-972,33098,2009-06-28,United States,Brazil,2.0,3.0
-973,33136,2009-07-04,Honduras,Haiti,1.0,0.0
-974,33137,2009-07-04,United States,Grenada,4.0,0.0
-975,33140,2009-07-05,Nicaragua,Mexico,0.0,2.0
-976,33146,2009-07-08,United States,Honduras,2.0,0.0
-977,33148,2009-07-09,Mexico,Panama,1.0,1.0
-978,33152,2009-07-11,Honduras,Grenada,4.0,0.0
-979,33153,2009-07-11,United States,Haiti,2.0,2.0
-980,33155,2009-07-12,Mexico,Guadeloupe,2.0,0.0
-981,33159,2009-07-18,Canada,Honduras,0.0,1.0
-982,33161,2009-07-18,United States,Panama,2.0,1.0
-983,33163,2009-07-19,Mexico,Haiti,4.0,0.0
-984,33164,2009-07-23,Costa Rica,Mexico,1.0,1.0
-985,33165,2009-07-23,United States,Honduras,2.0,0.0
-986,33167,2009-07-26,United States,Mexico,0.0,5.0
-987,33171,2009-08-12,Algeria,Uruguay,1.0,0.0
-988,33173,2009-08-12,Austria,Cameroon,0.0,2.0
-989,33174,2009-08-12,Azerbaijan,Germany,0.0,2.0
-990,33181,2009-08-12,Denmark,Chile,1.0,2.0
-991,33184,2009-08-12,Estonia,Brazil,0.0,1.0
-992,33185,2009-08-12,Faroe Islands,France,0.0,1.0
-993,33186,2009-08-12,Ghana,Zambia,4.0,1.0
-994,33187,2009-08-12,Honduras,Costa Rica,4.0,0.0
-995,33189,2009-08-12,Iceland,Slovakia,1.0,1.0
-996,33190,2009-08-12,Republic of Ireland,Australia,0.0,3.0
-997,33191,2009-08-12,South Korea,Paraguay,1.0,0.0
-998,33192,2009-08-12,Liechtenstein,Portugal,0.0,3.0
-999,33194,2009-08-12,North Macedonia,Spain,2.0,3.0
-1000,33198,2009-08-12,Mexico,United States,2.0,1.0
-1001,33202,2009-08-12,Netherlands,England,2.0,2.0
-1002,33206,2009-08-12,Poland,Greece,2.0,0.0
-1003,33207,2009-08-12,Russia,Argentina,2.0,3.0
-1004,33210,2009-08-12,Slovenia,San Marino,5.0,0.0
-1005,33211,2009-08-12,South Africa,Serbia,1.0,3.0
-1006,33213,2009-08-12,Switzerland,Italy,0.0,0.0
-1007,33216,2009-08-12,Tunisia,Ivory Coast,0.0,0.0
-1008,33225,2009-08-23,North Korea,Guam,9.0,2.0
-1009,33227,2009-08-25,Hong Kong,North Korea,0.0,0.0
-1010,33240,2009-09-05,Argentina,Brazil,1.0,3.0
-1011,33246,2009-09-05,Chile,Venezuela,2.0,2.0
-1012,33248,2009-09-05,Costa Rica,Mexico,0.0,3.0
-1013,33251,2009-09-05,Denmark,Portugal,1.0,1.0
-1014,33252,2009-09-05,England,Slovenia,2.0,1.0
-1015,33253,2009-09-05,France,Romania,1.0,1.0
-1016,33254,2009-09-05,Gabon,Cameroon,0.0,2.0
-1017,33255,2009-09-05,Georgia,Italy,0.0,2.0
-1018,33256,2009-09-05,Germany,South Africa,2.0,0.0
-1019,33257,2009-09-05,Honduras,Trinidad and Tobago,4.0,1.0
-1020,33261,2009-09-05,Ivory Coast,Burkina Faso,5.0,0.0
-1021,33263,2009-09-05,South Korea,Australia,3.0,1.0
-1022,33267,2009-09-05,Netherlands,Japan,3.0,0.0
-1023,33268,2009-09-05,Paraguay,Bolivia,1.0,0.0
-1024,33269,2009-09-05,Peru,Uruguay,1.0,0.0
-1025,33274,2009-09-05,Slovakia,Czech Republic,2.0,2.0
-1026,33275,2009-09-05,Spain,Belgium,5.0,0.0
-1027,33277,2009-09-05,Switzerland,Greece,2.0,0.0
-1028,33280,2009-09-05,United States,El Salvador,2.0,1.0
-1029,33282,2009-09-06,Algeria,Zambia,1.0,0.0
-1030,33284,2009-09-06,Ghana,Sudan,2.0,0.0
-1031,33286,2009-09-06,Nigeria,Tunisia,2.0,2.0
-1032,33288,2009-09-08,Republic of Ireland,South Africa,1.0,0.0
-1033,33289,2009-09-09,Albania,Denmark,1.0,1.0
-1034,33296,2009-09-09,Cameroon,Gabon,2.0,1.0
-1035,33299,2009-09-09,England,Croatia,5.0,1.0
-1036,33301,2009-09-09,Germany,Azerbaijan,4.0,0.0
-1037,33302,2009-09-09,Hungary,Portugal,0.0,1.0
-1038,33305,2009-09-09,Italy,Bulgaria,2.0,0.0
-1039,33306,2009-09-09,Japan,Ghana,4.0,3.0
-1040,33307,2009-09-09,Jordan,New Zealand,1.0,3.0
-1041,33308,2009-09-09,Latvia,Switzerland,2.0,2.0
-1042,33311,2009-09-09,Mexico,Honduras,1.0,0.0
-1043,33312,2009-09-09,Moldova,Greece,1.0,1.0
-1044,33314,2009-09-09,Northern Ireland,Slovakia,0.0,2.0
-1045,33319,2009-09-09,Scotland,Netherlands,0.0,1.0
-1046,33320,2009-09-09,Serbia,France,1.0,1.0
-1047,33321,2009-09-09,Slovenia,Poland,3.0,0.0
-1048,33322,2009-09-09,Spain,Estonia,3.0,0.0
-1049,33323,2009-09-09,Trinidad and Tobago,United States,0.0,1.0
-1050,33325,2009-09-09,Uruguay,Colombia,3.0,1.0
-1051,33326,2009-09-09,Paraguay,Argentina,1.0,0.0
-1052,33327,2009-09-09,Brazil,Chile,4.0,2.0
-1053,33330,2009-09-19,South Africa,Madagascar,1.0,0.0
-1054,33332,2009-09-30,Argentina,Ghana,2.0,0.0
-1055,33334,2009-09-30,Mexico,Colombia,1.0,2.0
-1056,33338,2009-10-08,Japan,Hong Kong,6.0,0.0
-1057,33339,2009-10-10,Argentina,Peru,2.0,1.0
-1058,33340,2009-10-10,Armenia,Spain,1.0,2.0
-1059,33341,2009-10-10,Australia,Netherlands,0.0,0.0
-1060,33343,2009-10-10,Bahrain,New Zealand,0.0,0.0
-1061,33346,2009-10-10,Cameroon,Togo,3.0,0.0
-1062,33347,2009-10-10,Colombia,Chile,2.0,4.0
-1063,33351,2009-10-10,Denmark,Sweden,1.0,0.0
-1064,33352,2009-10-10,Ecuador,Uruguay,1.0,2.0
-1065,33355,2009-10-10,France,Faroe Islands,5.0,0.0
-1066,33357,2009-10-10,Greece,Latvia,5.0,2.0
-1067,33358,2009-10-10,Honduras,United States,2.0,3.0
-1068,33359,2009-10-10,Republic of Ireland,Italy,2.0,2.0
-1069,33361,2009-10-10,Japan,Scotland,2.0,0.0
-1070,33364,2009-10-10,Luxembourg,Switzerland,0.0,3.0
-1071,33365,2009-10-10,Malawi,Ivory Coast,1.0,1.0
-1072,33367,2009-10-10,Mexico,El Salvador,4.0,1.0
-1073,33369,2009-10-10,Norway,South Africa,1.0,0.0
-1074,33370,2009-10-10,Portugal,Hungary,3.0,0.0
-1075,33371,2009-10-10,Russia,Germany,0.0,1.0
-1076,33372,2009-10-10,Serbia,Romania,5.0,0.0
-1077,33373,2009-10-10,Slovakia,Slovenia,0.0,2.0
-1078,33374,2009-10-10,Ukraine,England,1.0,0.0
-1079,33376,2009-10-10,Venezuela,Paraguay,1.0,2.0
-1080,33378,2009-10-11,Algeria,Rwanda,3.0,1.0
-1081,33379,2009-10-11,Benin,Ghana,1.0,0.0
-1082,33383,2009-10-11,Nigeria,Mozambique,1.0,0.0
-1083,33384,2009-10-11,Bolivia,Brazil,2.0,1.0
-1084,33386,2009-10-13,Congo,North Korea,0.0,0.0
-1085,33387,2009-10-13,Iceland,South Africa,1.0,0.0
-1086,33389,2009-10-14,Angola,Cameroon,0.0,0.0
-1087,33390,2009-10-14,Australia,Oman,1.0,0.0
-1088,33392,2009-10-14,Bosnia and Herzegovina,Spain,2.0,5.0
-1089,33393,2009-10-14,Brazil,Venezuela,0.0,0.0
-1090,33395,2009-10-14,Chile,Ecuador,1.0,0.0
-1091,33397,2009-10-14,Denmark,Hungary,0.0,1.0
-1092,33398,2009-10-14,El Salvador,Honduras,0.0,1.0
-1093,33399,2009-10-14,England,Belarus,3.0,0.0
-1094,33401,2009-10-14,France,Austria,3.0,1.0
-1095,33402,2009-10-14,Germany,Finland,1.0,1.0
-1096,33403,2009-10-14,Greece,Luxembourg,2.0,1.0
-1097,33405,2009-10-14,Italy,Cyprus,3.0,2.0
-1098,33406,2009-10-14,Japan,Togo,5.0,0.0
-1099,33408,2009-10-14,South Korea,Senegal,2.0,0.0
-1100,33411,2009-10-14,Lithuania,Serbia,2.0,1.0
-1101,33412,2009-10-14,Paraguay,Colombia,0.0,2.0
-1102,33414,2009-10-14,Poland,Slovakia,0.0,1.0
-1103,33415,2009-10-14,Portugal,Malta,4.0,0.0
-1104,33418,2009-10-14,San Marino,Slovenia,0.0,3.0
-1105,33420,2009-10-14,Switzerland,Israel,0.0,0.0
-1106,33421,2009-10-14,Trinidad and Tobago,Mexico,2.0,2.0
-1107,33425,2009-10-14,Uruguay,Argentina,0.0,1.0
-1108,33426,2009-10-14,United States,Costa Rica,2.0,2.0
-1109,33443,2009-10-26,South Africa,Angola,2.0,0.0
-1110,33445,2009-10-28,Zimbabwe,South Africa,1.0,1.0
-1111,33449,2009-10-31,South Africa,Mozambique,0.0,1.0
-1112,33454,2009-11-04,Chile,Paraguay,2.0,1.0
-1113,33463,2009-11-13,Paraguay,Qatar,0.0,2.0
-1114,33466,2009-11-14,Brazil,England,1.0,0.0
-1115,33468,2009-11-14,Costa Rica,Uruguay,0.0,1.0
-1116,33470,2009-11-14,Denmark,South Korea,0.0,0.0
-1117,33471,2009-11-14,Egypt,Algeria,2.0,0.0
-1118,33473,2009-11-14,Greece,Ukraine,0.0,0.0
-1119,33474,2009-11-14,Honduras,Latvia,2.0,1.0
-1120,33476,2009-11-14,Republic of Ireland,France,0.0,1.0
-1121,33477,2009-11-14,Italy,Netherlands,0.0,0.0
-1122,33478,2009-11-14,Ivory Coast,Guinea,3.0,0.0
-1123,33479,2009-11-14,Kenya,Nigeria,2.0,3.0
-1124,33484,2009-11-14,Morocco,Cameroon,0.0,2.0
-1125,33486,2009-11-14,New Zealand,Bahrain,1.0,0.0
-1126,33487,2009-11-14,Northern Ireland,Serbia,0.0,1.0
-1127,33488,2009-11-14,Oman,Australia,1.0,2.0
-1128,33490,2009-11-14,Portugal,Bosnia and Herzegovina,1.0,0.0
-1129,33491,2009-11-14,Russia,Slovenia,2.0,1.0
-1130,33495,2009-11-14,Slovakia,United States,1.0,0.0
-1131,33496,2009-11-14,South Africa,Japan,0.0,0.0
-1132,33497,2009-11-14,Spain,Argentina,2.0,1.0
-1133,33499,2009-11-14,Switzerland,Norway,0.0,1.0
-1134,33504,2009-11-15,Ghana,Mali,2.0,2.0
-1135,33508,2009-11-17,Oman,Brazil,0.0,2.0
-1136,33509,2009-11-17,Slovakia,Chile,1.0,2.0
-1137,33510,2009-11-17,South Africa,Jamaica,0.0,0.0
-1138,33511,2009-11-18,Algeria,Egypt,1.0,0.0
-1139,33512,2009-11-18,Angola,Ghana,0.0,0.0
-1140,33513,2009-11-18,Austria,Spain,1.0,5.0
-1141,33516,2009-11-18,Bosnia and Herzegovina,Portugal,0.0,1.0
-1142,33517,2009-11-18,Denmark,United States,3.0,1.0
-1143,33518,2009-11-18,France,Republic of Ireland,1.0,1.0
-1144,33519,2009-11-18,Germany,Ivory Coast,2.0,2.0
-1145,33520,2009-11-18,Honduras,Peru,1.0,2.0
-1146,33521,2009-11-18,Hong Kong,Japan,0.0,4.0
-1147,33524,2009-11-18,Italy,Sweden,1.0,0.0
-1148,33525,2009-11-18,South Korea,Serbia,0.0,1.0
-1149,33529,2009-11-18,Netherlands,Paraguay,0.0,0.0
-1150,33531,2009-11-18,Slovenia,Russia,1.0,0.0
-1151,33534,2009-11-18,Ukraine,Greece,0.0,1.0
-1152,33536,2009-11-18,Uruguay,Costa Rica,1.0,1.0
-1153,33537,2009-11-21,Zambia,North Korea,4.0,1.0
-1154,33554,2009-12-04,North Korea,Macau,8.0,0.0
-1155,33576,2009-12-22,Catalonia,Argentina,4.0,2.0
-1156,33577,2009-12-27,North Korea,Mali,1.0,0.0
-1157,33585,2009-12-30,Qatar,North Korea,0.0,1.0
-1158,33588,2010-01-02,Iran,North Korea,1.0,0.0
-1159,33594,2010-01-04,Tanzania,Ivory Coast,0.0,1.0
-1160,33595,2010-01-05,Ghana,Malawi,0.0,0.0
-1161,33601,2010-01-06,Kuwait,Australia,2.0,2.0
-1162,33606,2010-01-06,Yemen,Japan,2.0,3.0
-1163,33607,2010-01-07,Rwanda,Ivory Coast,0.0,2.0
-1164,33608,2010-01-09,Kenya,Cameroon,1.0,3.0
-1165,33610,2010-01-09,Zambia,South Korea,4.0,2.0
-1166,33612,2010-01-11,Ivory Coast,Burkina Faso,0.0,0.0
-1167,33613,2010-01-11,Malawi,Algeria,3.0,0.0
-1168,33614,2010-01-12,Egypt,Nigeria,3.0,1.0
-1169,33616,2010-01-13,Cameroon,Gabon,0.0,1.0
-1170,33619,2010-01-14,Mali,Algeria,0.0,1.0
-1171,33620,2010-01-15,Ivory Coast,Ghana,3.0,1.0
-1172,33623,2010-01-16,Nigeria,Benin,1.0,0.0
-1173,33624,2010-01-17,Cameroon,Zambia,3.0,2.0
-1174,33628,2010-01-18,Angola,Algeria,0.0,0.0
-1175,33629,2010-01-18,Finland,South Korea,0.0,2.0
-1176,33631,2010-01-19,Burkina Faso,Ghana,0.0,1.0
-1177,33632,2010-01-20,Chile,Panama,2.0,1.0
-1178,33634,2010-01-20,Nigeria,Mozambique,3.0,0.0
-1179,33638,2010-01-21,Cameroon,Tunisia,2.0,2.0
-1180,33640,2010-01-22,Latvia,South Korea,0.0,1.0
-1181,33643,2010-01-23,United States,Honduras,1.0,3.0
-1182,33644,2010-01-24,Angola,Ghana,0.0,1.0
-1183,33645,2010-01-24,Ivory Coast,Algeria,2.0,3.0
-1184,33646,2010-01-25,Egypt,Cameroon,3.0,1.0
-1185,33647,2010-01-25,Zambia,Nigeria,0.0,0.0
-1186,33648,2010-01-26,Argentina,Costa Rica,3.0,2.0
-1187,33649,2010-01-27,South Africa,Zimbabwe,3.0,0.0
-1188,33650,2010-01-28,Algeria,Egypt,0.0,4.0
-1189,33651,2010-01-28,Ghana,Nigeria,1.0,0.0
-1190,33652,2010-01-30,Nigeria,Algeria,1.0,0.0
-1191,33653,2010-01-31,Ghana,Egypt,0.0,1.0
-1192,33655,2010-02-02,Japan,Venezuela,0.0,0.0
-1193,33656,2010-02-06,Japan,China,0.0,0.0
-1194,33657,2010-02-07,South Korea,Hong Kong,5.0,0.0
-1195,33658,2010-02-10,Argentina,Jamaica,2.0,1.0
-1196,33659,2010-02-10,China,South Korea,3.0,0.0
-1197,33660,2010-02-11,Japan,Hong Kong,3.0,0.0
-1198,33662,2010-02-14,Japan,South Korea,1.0,3.0
-1199,33665,2010-02-17,North Korea,Turkmenistan,1.0,1.0
-1200,33669,2010-02-19,Kyrgyzstan,North Korea,0.0,4.0
-1201,33673,2010-02-24,North Korea,Myanmar,5.0,0.0
-1202,33674,2010-02-24,Mexico,Bolivia,5.0,0.0
-1203,33676,2010-02-24,United States,El Salvador,2.0,1.0
-1204,33679,2010-02-25,Turkmenistan,North Korea,1.0,1.0
-1205,33683,2010-03-02,Republic of Ireland,Brazil,0.0,2.0
-1206,33685,2010-03-03,Algeria,Serbia,0.0,3.0
-1207,33688,2010-03-03,Australia,Indonesia,1.0,0.0
-1208,33689,2010-03-03,Austria,Denmark,2.0,1.0
-1209,33691,2010-03-03,Bosnia and Herzegovina,Ghana,2.0,1.0
-1210,33694,2010-03-03,England,Egypt,3.0,1.0
-1211,33695,2010-03-03,France,Spain,0.0,2.0
-1212,33697,2010-03-03,Germany,Argentina,0.0,1.0
-1213,33698,2010-03-03,Greece,Senegal,0.0,2.0
-1214,33702,2010-03-03,Italy,Cameroon,0.0,0.0
-1215,33703,2010-03-03,Ivory Coast,South Korea,0.0,2.0
-1216,33704,2010-03-03,Japan,Bahrain,2.0,0.0
-1217,33711,2010-03-03,Mexico,New Zealand,2.0,0.0
-1218,33713,2010-03-03,Netherlands,United States,2.0,1.0
-1219,33714,2010-03-03,Nigeria,DR Congo,5.0,2.0
-1220,33717,2010-03-03,Portugal,China,2.0,0.0
-1221,33720,2010-03-03,Slovakia,Norway,0.0,1.0
-1222,33721,2010-03-03,Slovenia,Qatar,4.0,1.0
-1223,33722,2010-03-03,South Africa,Namibia,1.0,1.0
-1224,33723,2010-03-03,Switzerland,Uruguay,1.0,3.0
-1225,33726,2010-03-03,Turkey,Honduras,2.0,0.0
-1226,33731,2010-03-06,Venezuela,North Korea,2.0,1.0
-1227,33734,2010-03-17,Mexico,North Korea,2.0,1.0
-1228,33739,2010-03-24,Mexico,Iceland,0.0,0.0
-1229,33740,2010-03-31,Chile,Venezuela,0.0,0.0
-1230,33741,2010-03-31,Paraguay,South Africa,1.0,1.0
-1231,33744,2010-04-07,Japan,Serbia,0.0,3.0
-1232,33745,2010-04-21,Honduras,Venezuela,0.0,1.0
-1233,33746,2010-04-22,South Africa,North Korea,0.0,0.0
-1234,33747,2010-04-28,South Africa,Jamaica,2.0,0.0
-1235,33748,2010-05-05,Argentina,Haiti,4.0,0.0
-1236,33749,2010-05-05,Chile,Trinidad and Tobago,2.0,0.0
-1237,33750,2010-05-07,Mexico,Ecuador,0.0,0.0
-1238,33752,2010-05-10,Mexico,Senegal,1.0,0.0
-1239,33754,2010-05-13,Germany,Malta,3.0,0.0
-1240,33755,2010-05-13,Mexico,Angola,1.0,0.0
-1241,33756,2010-05-15,Paraguay,North Korea,1.0,0.0
-1242,33757,2010-05-16,South Korea,Ecuador,2.0,0.0
-1243,33758,2010-05-16,Mexico,Chile,1.0,0.0
-1244,33759,2010-05-16,South Africa,Thailand,4.0,0.0
-1245,33772,2010-05-24,Argentina,Canada,5.0,0.0
-1246,33773,2010-05-24,Australia,New Zealand,2.0,1.0
-1247,33774,2010-05-24,England,Mexico,3.0,1.0
-1248,33775,2010-05-24,Japan,South Korea,0.0,2.0
-1249,33776,2010-05-24,Portugal,Cape Verde,0.0,0.0
-1250,33777,2010-05-24,South Africa,Bulgaria,1.0,1.0
-1251,33779,2010-05-25,Georgia,Cameroon,0.0,0.0
-1252,33780,2010-05-25,Greece,North Korea,2.0,2.0
-1253,33781,2010-05-25,Republic of Ireland,Paraguay,2.0,1.0
-1254,33783,2010-05-25,Nigeria,Saudi Arabia,0.0,0.0
-1255,33785,2010-05-25,United States,Czech Republic,2.0,4.0
-1256,33787,2010-05-26,Chile,Zambia,3.0,0.0
-1257,33789,2010-05-26,France,Costa Rica,2.0,1.0
-1258,33790,2010-05-26,Netherlands,Mexico,2.0,1.0
-1259,33792,2010-05-26,Uruguay,Israel,4.0,1.0
+,index,date,home_team,away_team,home_score,away_score,resultado
+0,30129,2006-08-09,Japan,Trinidad and Tobago,2.0,0.0,1
+1,30136,2006-08-15,Algeria,Gabon,0.0,2.0,2
+2,30137,2006-08-15,Ghana,Togo,2.0,0.0,1
+3,30138,2006-08-15,Iceland,Spain,0.0,0.0,0
+4,30139,2006-08-15,Slovakia,Malta,3.0,0.0,1
+5,30140,2006-08-15,Slovenia,Israel,1.0,1.0,0
+6,30143,2006-08-16,Australia,Kuwait,2.0,0.0,1
+7,30148,2006-08-16,Bosnia and Herzegovina,France,1.0,2.0,2
+8,30149,2006-08-16,Cameroon,Guinea,1.0,1.0,0
+9,30150,2006-08-16,Chile,Colombia,1.0,2.0,2
+10,30152,2006-08-16,Czech Republic,Serbia,1.0,3.0,2
+11,30153,2006-08-16,Denmark,Poland,2.0,0.0,1
+12,30154,2006-08-16,Egypt,Uruguay,0.0,2.0,2
+13,30155,2006-08-16,England,Greece,4.0,0.0,1
+14,30159,2006-08-16,Germany,Sweden,3.0,0.0,1
+15,30163,2006-08-16,Republic of Ireland,Netherlands,0.0,4.0,2
+16,30164,2006-08-16,Italy,Croatia,0.0,2.0,2
+17,30165,2006-08-16,Ivory Coast,Senegal,0.0,1.0,2
+18,30166,2006-08-16,Japan,Yemen,2.0,0.0,1
+19,30169,2006-08-16,Liechtenstein,Switzerland,0.0,3.0,2
+20,30173,2006-08-16,Namibia,South Africa,0.0,1.0,2
+21,30174,2006-08-16,Norway,Brazil,1.0,1.0,0
+22,30182,2006-08-16,Venezuela,Honduras,0.0,0.0,0
+23,30196,2006-09-01,Denmark,Portugal,4.0,2.0,1
+24,30205,2006-09-02,England,Andorra,5.0,0.0,1
+25,30208,2006-09-02,Georgia,France,0.0,3.0,2
+26,30209,2006-09-02,Germany,Republic of Ireland,1.0,0.0,1
+27,30211,2006-09-02,Italy,Lithuania,1.0,1.0,0
+28,30213,2006-09-02,South Korea,Iran,1.0,1.0,0
+29,30215,2006-09-02,Luxembourg,Netherlands,0.0,1.0,2
+30,30217,2006-09-02,Moldova,Greece,0.0,1.0,2
+31,30218,2006-09-02,Nigeria,Niger,2.0,0.0,1
+32,30224,2006-09-02,Serbia,Azerbaijan,1.0,0.0,1
+33,30225,2006-09-02,Slovakia,Cyprus,6.0,1.0,1
+34,30226,2006-09-02,South Africa,Congo,0.0,0.0,0
+35,30227,2006-09-02,Spain,Liechtenstein,4.0,0.0,1
+36,30228,2006-09-02,Switzerland,Venezuela,1.0,0.0,1
+37,30232,2006-09-03,Argentina,Brazil,0.0,3.0,2
+38,30238,2006-09-03,Guinea,Algeria,0.0,0.0,0
+39,30240,2006-09-03,Rwanda,Cameroon,0.0,3.0,2
+40,30241,2006-09-03,Saudi Arabia,Japan,1.0,0.0,1
+41,30249,2006-09-05,Wales,Brazil,0.0,2.0,2
+42,30255,2006-09-06,Bulgaria,Slovenia,3.0,0.0,1
+43,30259,2006-09-06,Finland,Portugal,1.0,1.0,0
+44,30260,2006-09-06,France,Italy,3.0,1.0,1
+45,30262,2006-09-06,Honduras,El Salvador,2.0,0.0,1
+46,30264,2006-09-06,Iceland,Denmark,0.0,2.0,2
+47,30267,2006-09-06,South Korea,Taiwan,8.0,0.0,1
+48,30268,2006-09-06,Kuwait,Australia,2.0,0.0,1
+49,30271,2006-09-06,North Macedonia,England,0.0,1.0,2
+50,30272,2006-09-06,Netherlands,Belarus,3.0,0.0,1
+51,30273,2006-09-06,Northern Ireland,Spain,3.0,2.0,1
+52,30276,2006-09-06,Poland,Serbia,1.0,1.0,0
+53,30279,2006-09-06,San Marino,Germany,0.0,13.0,2
+54,30282,2006-09-06,Slovakia,Czech Republic,0.0,3.0,2
+55,30285,2006-09-06,Switzerland,Costa Rica,2.0,0.0,1
+56,30290,2006-09-06,Yemen,Japan,0.0,1.0,2
+57,30312,2006-09-27,Venezuela,Uruguay,1.0,0.0,1
+58,30324,2006-10-04,Japan,Ghana,0.0,1.0,2
+59,30327,2006-10-07,Algeria,Gambia,1.0,0.0,1
+60,30329,2006-10-07,Australia,Paraguay,1.0,1.0,0
+61,30331,2006-10-07,Bulgaria,Netherlands,1.0,1.0,0
+62,30333,2006-10-07,Cameroon,Equatorial Guinea,3.0,0.0,1
+63,30335,2006-10-07,Chile,Peru,3.0,2.0,1
+64,30339,2006-10-07,Denmark,Northern Ireland,0.0,0.0,0
+65,30340,2006-10-07,England,North Macedonia,0.0,0.0,0
+66,30343,2006-10-07,Germany,Georgia,2.0,0.0,1
+67,30344,2006-10-07,Greece,Norway,1.0,0.0,1
+68,30345,2006-10-07,Guatemala,Honduras,2.0,3.0,2
+69,30347,2006-10-07,Italy,Ukraine,2.0,0.0,1
+70,30354,2006-10-07,Portugal,Azerbaijan,3.0,0.0,1
+71,30357,2006-10-07,Scotland,France,1.0,0.0,1
+72,30358,2006-10-07,Serbia,Belgium,1.0,0.0,1
+73,30360,2006-10-07,Slovenia,Luxembourg,2.0,0.0,1
+74,30361,2006-10-07,Sweden,Spain,2.0,0.0,1
+75,30363,2006-10-07,Wales,Slovakia,1.0,5.0,2
+76,30368,2006-10-08,Ivory Coast,Gabon,5.0,0.0,1
+77,30370,2006-10-08,South Korea,Ghana,1.0,3.0,2
+78,30371,2006-10-08,Lesotho,Nigeria,0.0,1.0,2
+79,30377,2006-10-08,Zambia,South Africa,0.0,1.0,2
+80,30379,2006-10-10,Brazil,Ecuador,2.0,1.0,1
+81,30380,2006-10-10,Honduras,Guatemala,2.0,1.0,1
+82,30382,2006-10-11,Australia,Bahrain,2.0,0.0,1
+83,30383,2006-10-11,Austria,Switzerland,2.0,1.0,1
+84,30385,2006-10-11,Belarus,Slovenia,4.0,2.0,1
+85,30387,2006-10-11,Bosnia and Herzegovina,Greece,0.0,4.0,2
+86,30388,2006-10-11,Croatia,England,2.0,0.0,1
+87,30389,2006-10-11,France,Faroe Islands,5.0,0.0,1
+88,30390,2006-10-11,Georgia,Italy,1.0,3.0,2
+89,30392,2006-10-11,India,Japan,0.0,3.0,2
+90,30396,2006-10-11,South Korea,Syria,1.0,1.0,0
+91,30398,2006-10-11,Liechtenstein,Denmark,0.0,4.0,2
+92,30401,2006-10-11,Netherlands,Albania,2.0,1.0,1
+93,30406,2006-10-11,Peru,Chile,0.0,1.0,2
+94,30407,2006-10-11,Poland,Portugal,2.0,1.0,1
+95,30411,2006-10-11,Serbia,Armenia,3.0,0.0,1
+96,30412,2006-10-11,Slovakia,Germany,1.0,4.0,2
+97,30413,2006-10-11,Spain,Argentina,2.0,1.0,1
+98,30419,2006-10-18,Uruguay,Venezuela,4.0,0.0,1
+99,30437,2006-11-14,Australia,Ghana,1.0,1.0,0
+100,30442,2006-11-15,Algeria,Burkina Faso,1.0,2.0,2
+101,30448,2006-11-15,Chile,Paraguay,3.0,2.0,1
+102,30450,2006-11-15,Cyprus,Germany,1.0,1.0,0
+103,30451,2006-11-15,Czech Republic,Denmark,1.0,1.0,0
+104,30452,2006-11-15,Egypt,South Africa,1.0,0.0,1
+105,30455,2006-11-15,France,Greece,1.0,0.0,1
+106,30456,2006-11-15,Georgia,Uruguay,2.0,0.0,1
+107,30459,2006-11-15,Iran,South Korea,2.0,0.0,1
+108,30462,2006-11-15,Italy,Turkey,1.0,1.0,0
+109,30463,2006-11-15,Ivory Coast,Sweden,1.0,0.0,1
+110,30465,2006-11-15,Japan,Saudi Arabia,3.0,1.0,1
+111,30471,2006-11-15,Netherlands,England,1.0,1.0,0
+112,30472,2006-11-15,Portugal,Kazakhstan,3.0,0.0,1
+113,30473,2006-11-15,Serbia,Norway,1.0,1.0,0
+114,30474,2006-11-15,Slovakia,Bulgaria,3.0,1.0,1
+115,30475,2006-11-15,Spain,Romania,0.0,1.0,2
+116,30476,2006-11-15,Switzerland,Brazil,1.0,2.0,2
+117,30551,2006-12-10,United Arab Emirates,Slovakia,1.0,2.0,2
+118,30567,2006-12-27,Basque Country,Serbia,4.0,0.0,1
+119,30638,2007-02-06,Australia,Denmark,1.0,3.0,2
+120,30641,2007-02-06,Greece,South Korea,0.0,1.0,2
+121,30642,2007-02-06,Ivory Coast,Guinea,1.0,0.0,1
+122,30645,2007-02-06,Nigeria,Ghana,1.0,4.0,2
+123,30647,2007-02-06,Portugal,Brazil,2.0,0.0,1
+124,30649,2007-02-07,Algeria,Libya,2.0,1.0,1
+125,30653,2007-02-07,Colombia,Uruguay,1.0,3.0,2
+126,30657,2007-02-07,England,Spain,0.0,1.0,2
+127,30658,2007-02-07,France,Argentina,0.0,1.0,2
+128,30660,2007-02-07,Germany,Switzerland,3.0,1.0,1
+129,30667,2007-02-07,Netherlands,Russia,4.0,1.0,1
+130,30668,2007-02-07,Poland,Slovakia,2.0,2.0,0
+131,30672,2007-02-07,Slovenia,Estonia,1.0,0.0,1
+132,30673,2007-02-07,Togo,Cameroon,2.0,2.0,0
+133,30674,2007-02-07,United States,Mexico,2.0,0.0,1
+134,30676,2007-02-07,Venezuela,Chile,0.0,1.0,2
+135,30679,2007-02-09,Costa Rica,Honduras,3.0,1.0,1
+136,30682,2007-02-11,Honduras,Panama,1.0,1.0,0
+137,30687,2007-02-15,Nicaragua,Honduras,1.0,9.0,2
+138,30693,2007-02-28,Mexico,Venezuela,3.0,1.0,1
+139,30703,2007-03-21,Mauritius,Ivory Coast,0.0,3.0,2
+140,30704,2007-03-22,Jamaica,Switzerland,0.0,2.0,2
+141,30705,2007-03-24,Albania,Slovenia,0.0,0.0,0
+142,30706,2007-03-24,Algeria,Cape Verde,2.0,0.0,1
+143,30707,2007-03-24,Austria,Ghana,1.0,1.0,0
+144,30708,2007-03-24,Brazil,Chile,4.0,0.0,1
+145,30710,2007-03-24,Cameroon,Liberia,3.0,1.0,1
+146,30711,2007-03-24,Chad,South Africa,0.0,3.0,2
+147,30712,2007-03-24,China,Australia,0.0,2.0,2
+148,30713,2007-03-24,Costa Rica,New Zealand,4.0,0.0,1
+149,30715,2007-03-24,Cyprus,Slovakia,1.0,3.0,2
+150,30716,2007-03-24,Czech Republic,Germany,1.0,2.0,2
+151,30717,2007-03-24,El Salvador,Honduras,0.0,2.0,2
+152,30721,2007-03-24,Greece,Turkey,1.0,4.0,2
+153,30725,2007-03-24,Israel,England,0.0,0.0,0
+154,30726,2007-03-24,Japan,Peru,2.0,0.0,1
+155,30727,2007-03-24,Kazakhstan,Serbia,2.0,1.0,1
+156,30728,2007-03-24,South Korea,Uruguay,0.0,2.0,2
+157,30730,2007-03-24,Lithuania,France,0.0,1.0,2
+158,30734,2007-03-24,Netherlands,Romania,0.0,0.0,0
+159,30735,2007-03-24,Nigeria,Uganda,1.0,0.0,1
+160,30738,2007-03-24,Portugal,Belgium,4.0,0.0,1
+161,30743,2007-03-24,Spain,Denmark,2.0,1.0,1
+162,30751,2007-03-25,Colombia,Switzerland,3.0,1.0,1
+163,30758,2007-03-25,Madagascar,Ivory Coast,0.0,3.0,2
+164,30761,2007-03-25,Mexico,Paraguay,2.0,1.0,1
+165,30763,2007-03-25,United States,Ecuador,3.0,1.0,1
+166,30766,2007-03-27,Brazil,Ghana,1.0,0.0,1
+167,30768,2007-03-27,El Salvador,Honduras,0.0,2.0,2
+168,30769,2007-03-28,Andorra,England,0.0,3.0,2
+169,30772,2007-03-28,Chile,Costa Rica,1.0,1.0,0
+170,30773,2007-03-28,Colombia,Paraguay,2.0,0.0,1
+171,30775,2007-03-28,France,Austria,1.0,0.0,1
+172,30777,2007-03-28,Germany,Denmark,0.0,1.0,2
+173,30779,2007-03-28,Republic of Ireland,Slovakia,1.0,0.0,1
+174,30781,2007-03-28,Italy,Scotland,2.0,0.0,1
+175,30783,2007-03-28,Malta,Greece,0.0,1.0,2
+176,30784,2007-03-28,Mexico,Ecuador,4.0,2.0,1
+177,30788,2007-03-28,Serbia,Portugal,1.0,1.0,0
+178,30789,2007-03-28,Slovenia,Netherlands,0.0,1.0,2
+179,30790,2007-03-28,South Africa,Bolivia,0.0,1.0,2
+180,30791,2007-03-28,Spain,Iceland,1.0,0.0,1
+181,30794,2007-03-28,United States,Guatemala,0.0,0.0,0
+182,30795,2007-03-28,Venezuela,New Zealand,5.0,0.0,1
+183,30800,2007-04-18,Argentina,Chile,0.0,0.0,0
+184,30801,2007-04-19,Honduras,Haiti,1.0,3.0,2
+185,30810,2007-05-09,Chile,Cuba,3.0,0.0,1
+186,30812,2007-05-16,Chile,Cuba,2.0,0.0,1
+187,30818,2007-05-23,Haiti,Chile,0.0,0.0,0
+188,30819,2007-05-25,Venezuela,Honduras,2.0,1.0,1
+189,30823,2007-05-26,Malawi,South Africa,0.0,0.0,0
+190,30827,2007-05-26,Wales,New Zealand,2.0,2.0,0
+191,30829,2007-05-27,Kenya,Nigeria,0.0,1.0,2
+192,30830,2007-05-27,Mauritius,South Africa,0.0,2.0,2
+193,30838,2007-06-01,England,Brazil,1.0,1.0,0
+194,30841,2007-06-01,Japan,Montenegro,2.0,0.0,1
+195,30844,2007-06-02,Australia,Uruguay,1.0,2.0,2
+196,30845,2007-06-02,Austria,Paraguay,0.0,0.0,0
+197,30848,2007-06-02,Belgium,Portugal,1.0,2.0,2
+198,30850,2007-06-02,Cape Verde,Algeria,2.0,2.0,0
+199,30851,2007-06-02,Costa Rica,Chile,2.0,0.0,1
+200,30852,2007-06-02,Denmark,Sweden,0.0,3.0,2
+201,30855,2007-06-02,Faroe Islands,Italy,1.0,2.0,2
+202,30856,2007-06-02,Finland,Serbia,0.0,2.0,2
+203,30857,2007-06-02,France,Ukraine,2.0,0.0,1
+204,30858,2007-06-02,Germany,San Marino,6.0,0.0,1
+205,30859,2007-06-02,Greece,Hungary,2.0,0.0,1
+206,30860,2007-06-02,Honduras,Trinidad and Tobago,3.0,1.0,1
+207,30863,2007-06-02,South Korea,Netherlands,0.0,2.0,2
+208,30864,2007-06-02,Latvia,Spain,0.0,2.0,2
+209,30867,2007-06-02,Mexico,Iran,4.0,0.0,1
+210,30873,2007-06-02,Slovenia,Romania,1.0,2.0,2
+211,30874,2007-06-02,South Africa,Chad,4.0,0.0,1
+212,30876,2007-06-02,Switzerland,Argentina,1.0,1.0,0
+213,30879,2007-06-02,Uganda,Nigeria,2.0,1.0,1
+214,30880,2007-06-02,United States,China,4.0,1.0,1
+215,30888,2007-06-03,Ivory Coast,Madagascar,5.0,0.0,1
+216,30889,2007-06-03,Liberia,Cameroon,1.0,2.0,2
+217,30895,2007-06-05,Algeria,Argentina,3.0,4.0,2
+218,30896,2007-06-05,Jamaica,Chile,0.0,1.0,2
+219,30897,2007-06-05,Japan,Colombia,0.0,0.0,0
+220,30898,2007-06-05,Kuwait,Portugal,1.0,1.0,0
+221,30899,2007-06-05,Mexico,Paraguay,0.0,1.0,2
+222,30900,2007-06-05,Turkey,Brazil,0.0,0.0,0
+223,30908,2007-06-06,Estonia,England,0.0,3.0,2
+224,30911,2007-06-06,France,Georgia,1.0,0.0,1
+225,30912,2007-06-06,Germany,Slovakia,2.0,1.0,1
+226,30913,2007-06-06,Greece,Moldova,2.0,1.0,1
+227,30916,2007-06-06,Latvia,Denmark,0.0,2.0,2
+228,30917,2007-06-06,Liechtenstein,Spain,0.0,2.0,2
+229,30918,2007-06-06,Lithuania,Italy,0.0,2.0,2
+230,30921,2007-06-06,Romania,Slovenia,2.0,0.0,1
+231,30923,2007-06-06,Thailand,Netherlands,1.0,3.0,2
+232,30925,2007-06-07,United States,Guatemala,1.0,0.0,1
+233,30928,2007-06-08,Mexico,Cuba,2.0,1.0,1
+234,30929,2007-06-08,Panama,Honduras,3.0,2.0,1
+235,30935,2007-06-09,United States,Trinidad and Tobago,2.0,0.0,1
+236,30936,2007-06-10,Honduras,Mexico,2.0,1.0,1
+237,30947,2007-06-12,United States,El Salvador,4.0,0.0,1
+238,30948,2007-06-13,Cuba,Honduras,0.0,5.0,2
+239,30949,2007-06-13,Mexico,Panama,1.0,0.0,1
+240,30950,2007-06-16,Algeria,Guinea,0.0,2.0,2
+241,30962,2007-06-16,United States,Panama,2.0,1.0,1
+242,30966,2007-06-17,Cameroon,Rwanda,2.0,1.0,1
+243,30967,2007-06-17,Congo,South Africa,1.0,1.0,0
+244,30969,2007-06-17,Honduras,Guadeloupe,1.0,2.0,2
+245,30975,2007-06-17,Mexico,Costa Rica,1.0,0.0,1
+246,30977,2007-06-17,Niger,Nigeria,1.0,3.0,2
+247,30982,2007-06-19,North Korea,Mongolia,7.0,0.0,1
+248,30984,2007-06-20,Bolivia,Paraguay,0.0,0.0,0
+249,30990,2007-06-21,Macau,North Korea,1.0,7.0,2
+250,30992,2007-06-21,Mexico,Guadeloupe,1.0,0.0,1
+251,30993,2007-06-21,United States,Canada,2.0,1.0,1
+252,31000,2007-06-24,North Korea,Hong Kong,1.0,0.0,1
+253,31002,2007-06-24,United States,Mexico,2.0,1.0,1
+254,31005,2007-06-26,Uruguay,Peru,0.0,3.0,2
+255,31007,2007-06-27,Brazil,Mexico,0.0,2.0,2
+256,31008,2007-06-27,Ecuador,Chile,2.0,3.0,2
+257,31011,2007-06-28,Argentina,United States,4.0,1.0,1
+258,31013,2007-06-28,Oman,North Korea,2.0,2.0,0
+259,31014,2007-06-28,Paraguay,Colombia,5.0,0.0,1
+260,31015,2007-06-29,South Korea,Iraq,3.0,0.0,1
+261,31016,2007-06-30,Bolivia,Uruguay,0.0,1.0,2
+262,31017,2007-06-30,Singapore,Australia,0.0,3.0,2
+263,31024,2007-07-01,Brazil,Chile,3.0,0.0,1
+264,31025,2007-07-01,Mexico,Ecuador,2.0,1.0,1
+265,31027,2007-07-01,United Arab Emirates,North Korea,1.0,0.0,1
+266,31032,2007-07-02,Argentina,Colombia,4.0,2.0,1
+267,31036,2007-07-02,United States,Paraguay,1.0,3.0,2
+268,31042,2007-07-03,Venezuela,Uruguay,0.0,0.0,0
+269,31043,2007-07-04,Brazil,Ecuador,1.0,0.0,1
+270,31044,2007-07-04,Mexico,Chile,0.0,0.0,0
+271,31045,2007-07-04,Saudi Arabia,North Korea,1.0,1.0,0
+272,31051,2007-07-05,Argentina,Paraguay,1.0,0.0,1
+273,31052,2007-07-05,Colombia,United States,1.0,0.0,1
+274,31053,2007-07-05,South Korea,Uzbekistan,2.0,1.0,1
+275,31060,2007-07-07,Chile,Brazil,1.0,6.0,2
+276,31062,2007-07-07,Venezuela,Uruguay,1.0,4.0,2
+277,31063,2007-07-08,Argentina,Peru,4.0,0.0,1
+278,31064,2007-07-08,Australia,Oman,1.0,1.0,0
+279,31065,2007-07-08,Mexico,Paraguay,6.0,0.0,1
+280,31067,2007-07-09,Japan,Qatar,1.0,1.0,0
+281,31070,2007-07-10,Uruguay,Brazil,2.0,2.0,0
+282,31072,2007-07-11,South Korea,Saudi Arabia,1.0,1.0,0
+283,31073,2007-07-11,Mexico,Argentina,0.0,3.0,2
+284,31076,2007-07-13,Iraq,Australia,3.0,1.0,1
+285,31078,2007-07-13,United Arab Emirates,Japan,1.0,3.0,2
+286,31081,2007-07-14,Mexico,Uruguay,3.0,1.0,1
+287,31082,2007-07-15,Bahrain,South Korea,2.0,1.0,1
+288,31083,2007-07-15,Brazil,Argentina,3.0,0.0,1
+289,31087,2007-07-16,Thailand,Australia,0.0,4.0,2
+290,31088,2007-07-16,Vietnam,Japan,1.0,4.0,2
+291,31090,2007-07-18,Indonesia,South Korea,0.0,1.0,2
+292,31097,2007-07-21,Japan,Australia,1.0,1.0,0
+293,31098,2007-07-22,Iran,South Korea,0.0,0.0,0
+294,31101,2007-07-25,Iraq,South Korea,0.0,0.0,0
+295,31102,2007-07-25,Japan,Saudi Arabia,2.0,3.0,2
+296,31105,2007-07-28,South Korea,Japan,0.0,0.0,0
+297,31128,2007-08-21,Ghana,Senegal,1.0,1.0,0
+298,31131,2007-08-22,Algeria,Brazil,0.0,2.0,2
+299,31132,2007-08-22,Armenia,Portugal,1.0,1.0,0
+300,31136,2007-08-22,Belgium,Serbia,3.0,2.0,1
+301,31141,2007-08-22,Denmark,Republic of Ireland,0.0,4.0,2
+302,31143,2007-08-22,El Salvador,Honduras,2.0,0.0,1
+303,31144,2007-08-22,England,Germany,1.0,2.0,2
+304,31147,2007-08-22,Greece,Spain,2.0,3.0,2
+305,31148,2007-08-22,Hungary,Italy,3.0,1.0,1
+306,31150,2007-08-22,Ivory Coast,Egypt,0.0,0.0,0
+307,31151,2007-08-22,Japan,Cameroon,2.0,0.0,1
+308,31156,2007-08-22,North Macedonia,Nigeria,0.0,0.0,0
+309,31158,2007-08-22,Mexico,Colombia,0.0,1.0,2
+310,31159,2007-08-22,Montenegro,Slovenia,1.0,1.0,0
+311,31161,2007-08-22,Norway,Argentina,2.0,1.0,1
+312,31163,2007-08-22,Paraguay,Venezuela,1.0,1.0,0
+313,31167,2007-08-22,Scotland,South Africa,1.0,0.0,1
+314,31168,2007-08-22,Slovakia,France,0.0,1.0,2
+315,31170,2007-08-22,Sweden,United States,1.0,0.0,1
+316,31171,2007-08-22,Switzerland,Netherlands,2.0,1.0,1
+317,31208,2007-09-07,Austria,Japan,0.0,0.0,0
+318,31212,2007-09-07,Switzerland,Chile,2.0,1.0,1
+319,31218,2007-09-08,England,Israel,3.0,0.0,1
+320,31220,2007-09-08,Gabon,Ivory Coast,0.0,0.0,0
+321,31223,2007-09-08,Iceland,Spain,1.0,1.0,0
+322,31224,2007-09-08,Italy,France,0.0,0.0,0
+323,31228,2007-09-08,Luxembourg,Slovenia,0.0,3.0,2
+324,31231,2007-09-08,Morocco,Ghana,0.0,2.0,2
+325,31232,2007-09-08,Netherlands,Bulgaria,2.0,0.0,1
+326,31233,2007-09-08,Nigeria,Lesotho,2.0,0.0,1
+327,31235,2007-09-08,Portugal,Poland,2.0,2.0,0
+328,31241,2007-09-08,Serbia,Finland,0.0,0.0,0
+329,31242,2007-09-08,Slovakia,Republic of Ireland,2.0,2.0,0
+330,31243,2007-09-08,Sweden,Denmark,0.0,0.0,0
+331,31246,2007-09-08,Venezuela,Paraguay,3.0,2.0,1
+332,31247,2007-09-08,Wales,Germany,0.0,2.0,2
+333,31250,2007-09-09,Costa Rica,Honduras,0.0,0.0,0
+334,31251,2007-09-09,Equatorial Guinea,Cameroon,1.0,0.0,1
+335,31252,2007-09-09,Gambia,Algeria,2.0,1.0,1
+336,31255,2007-09-09,Mexico,Panama,1.0,0.0,1
+337,31256,2007-09-09,South Africa,Zambia,1.0,3.0,2
+338,31259,2007-09-09,United States,Brazil,2.0,4.0,2
+339,31261,2007-09-11,Australia,Argentina,0.0,1.0,2
+340,31262,2007-09-11,Austria,Chile,0.0,2.0,2
+341,31263,2007-09-11,Saudi Arabia,Ghana,5.0,0.0,1
+342,31264,2007-09-11,Switzerland,Japan,3.0,4.0,2
+343,31265,2007-09-12,Albania,Netherlands,0.0,1.0,2
+344,31271,2007-09-12,Colombia,Paraguay,1.0,0.0,1
+345,31274,2007-09-12,Denmark,Liechtenstein,4.0,0.0,1
+346,31275,2007-09-12,England,Russia,3.0,0.0,1
+347,31277,2007-09-12,France,Scotland,0.0,1.0,2
+348,31278,2007-09-12,Germany,Romania,3.0,1.0,1
+349,31279,2007-09-12,Honduras,Ecuador,2.0,1.0,1
+350,31285,2007-09-12,Mexico,Brazil,1.0,3.0,2
+351,31287,2007-09-12,Norway,Greece,2.0,2.0,0
+352,31289,2007-09-12,Portugal,Serbia,1.0,1.0,0
+353,31291,2007-09-12,Slovakia,Wales,2.0,5.0,2
+354,31292,2007-09-12,Slovenia,Belarus,1.0,0.0,1
+355,31293,2007-09-12,South Africa,Uruguay,0.0,0.0,0
+356,31294,2007-09-12,Spain,Latvia,2.0,0.0,1
+357,31296,2007-09-12,Ukraine,Italy,1.0,2.0,2
+358,31301,2007-09-29,South Africa,Botswana,1.0,0.0,1
+359,31316,2007-10-13,Argentina,Chile,2.0,0.0,1
+360,31317,2007-10-13,Armenia,Serbia,0.0,0.0,0
+361,31318,2007-10-13,Azerbaijan,Portugal,0.0,2.0,2
+362,31323,2007-10-13,Denmark,Spain,1.0,3.0,2
+363,31327,2007-10-13,England,Estonia,3.0,0.0,1
+364,31328,2007-10-13,Faroe Islands,France,0.0,6.0,2
+365,31329,2007-10-13,Greece,Bosnia and Herzegovina,3.0,2.0,1
+366,31332,2007-10-13,Republic of Ireland,Germany,0.0,0.0,0
+367,31333,2007-10-13,Italy,Georgia,2.0,0.0,1
+368,31337,2007-10-13,Peru,Paraguay,0.0,0.0,0
+369,31339,2007-10-13,Romania,Netherlands,1.0,0.0,1
+370,31341,2007-10-13,Slovakia,San Marino,7.0,0.0,1
+371,31342,2007-10-13,Slovenia,Albania,0.0,0.0,0
+372,31343,2007-10-13,Switzerland,Austria,3.0,1.0,1
+373,31344,2007-10-13,Uruguay,Bolivia,5.0,0.0,1
+374,31346,2007-10-14,Colombia,Brazil,0.0,0.0,0
+375,31347,2007-10-14,Honduras,Panama,1.0,0.0,1
+376,31349,2007-10-14,Mexico,Nigeria,2.0,2.0,0
+377,31353,2007-10-16,Croatia,Slovakia,3.0,0.0,1
+378,31355,2007-10-16,Venezuela,Argentina,0.0,2.0,2
+379,31357,2007-10-17,Austria,Ivory Coast,3.0,2.0,1
+380,31358,2007-10-17,Azerbaijan,Serbia,1.0,6.0,2
+381,31362,2007-10-17,Brazil,Ecuador,5.0,0.0,1
+382,31363,2007-10-17,Chile,Peru,2.0,0.0,1
+383,31365,2007-10-17,Denmark,Latvia,3.0,1.0,1
+384,31368,2007-10-17,Fiji,New Zealand,0.0,2.0,2
+385,31369,2007-10-17,Finland,Spain,0.0,0.0,0
+386,31370,2007-10-17,France,Lithuania,2.0,0.0,1
+387,31372,2007-10-17,Germany,Czech Republic,0.0,3.0,2
+388,31375,2007-10-17,Italy,South Africa,2.0,0.0,1
+389,31376,2007-10-17,Japan,Egypt,4.0,1.0,1
+390,31377,2007-10-17,Kazakhstan,Portugal,1.0,2.0,2
+391,31382,2007-10-17,Mexico,Guatemala,2.0,3.0,2
+392,31384,2007-10-17,Netherlands,Slovenia,2.0,0.0,1
+393,31385,2007-10-17,Paraguay,Uruguay,1.0,0.0,1
+394,31387,2007-10-17,Russia,England,2.0,1.0,1
+395,31391,2007-10-17,Switzerland,United States,0.0,1.0,2
+396,31392,2007-10-17,Turkey,Greece,0.0,1.0,2
+397,31399,2007-10-21,Mongolia,North Korea,1.0,4.0,2
+398,31402,2007-10-24,South Africa,Zambia,0.0,0.0,0
+399,31408,2007-10-28,North Korea,Mongolia,5.0,1.0,1
+400,31427,2007-11-16,Austria,England,0.0,1.0,2
+401,31429,2007-11-16,France,Morocco,2.0,2.0,0
+402,31433,2007-11-17,Angola,Ivory Coast,2.0,1.0,1
+403,31434,2007-11-17,Argentina,Bolivia,3.0,0.0,1
+404,31435,2007-11-17,Australia,Nigeria,1.0,0.0,1
+405,31440,2007-11-17,Czech Republic,Slovakia,3.0,1.0,1
+406,31443,2007-11-17,Germany,Cyprus,4.0,0.0,1
+407,31444,2007-11-17,Greece,Malta,5.0,0.0,1
+408,31445,2007-11-17,Guatemala,Honduras,0.0,1.0,2
+409,31452,2007-11-17,Netherlands,Luxembourg,1.0,0.0,1
+410,31453,2007-11-17,Northern Ireland,Denmark,2.0,1.0,1
+411,31455,2007-11-17,Paraguay,Ecuador,5.0,1.0,1
+412,31457,2007-11-17,Portugal,Armenia,1.0,0.0,1
+413,31458,2007-11-17,Scotland,Italy,1.0,2.0,2
+414,31460,2007-11-17,South Africa,United States,0.0,1.0,2
+415,31461,2007-11-17,Spain,Sweden,3.0,0.0,1
+416,31463,2007-11-17,Vanuatu,New Zealand,1.0,2.0,2
+417,31465,2007-11-18,Ghana,Togo,2.0,0.0,1
+418,31467,2007-11-18,Peru,Brazil,1.0,1.0,0
+419,31474,2007-11-18,Uruguay,Chile,2.0,2.0,0
+420,31475,2007-11-20,Algeria,Mali,3.0,2.0,1
+421,31477,2007-11-20,Colombia,Argentina,2.0,1.0,1
+422,31478,2007-11-20,South Africa,Canada,2.0,0.0,1
+423,31479,2007-11-20,Switzerland,Nigeria,0.0,1.0,2
+424,31485,2007-11-21,Belarus,Netherlands,2.0,1.0,1
+425,31486,2007-11-21,Brazil,Uruguay,2.0,1.0,1
+426,31487,2007-11-21,Chile,Paraguay,0.0,3.0,2
+427,31489,2007-11-21,Denmark,Iceland,3.0,0.0,1
+428,31491,2007-11-21,England,Croatia,2.0,3.0,2
+429,31494,2007-11-21,Germany,Wales,0.0,0.0,0
+430,31495,2007-11-21,Ghana,Benin,4.0,2.0,1
+431,31496,2007-11-21,Hungary,Greece,1.0,2.0,2
+432,31498,2007-11-21,Italy,Faroe Islands,3.0,1.0,1
+433,31503,2007-11-21,New Zealand,Vanuatu,4.0,1.0,1
+434,31506,2007-11-21,Portugal,Finland,0.0,0.0,0
+435,31507,2007-11-21,Qatar,Ivory Coast,1.0,6.0,2
+436,31509,2007-11-21,San Marino,Slovakia,0.0,5.0,2
+437,31510,2007-11-21,Serbia,Poland,2.0,2.0,0
+438,31511,2007-11-21,Slovenia,Bulgaria,0.0,2.0,2
+439,31512,2007-11-21,Spain,Northern Ireland,1.0,0.0,1
+440,31516,2007-11-21,Ukraine,France,2.0,2.0,0
+441,31520,2007-11-24,Serbia,Kazakhstan,1.0,0.0,1
+442,31556,2007-12-24,North Korea,Uzbekistan,2.0,2.0,0
+443,31557,2007-12-26,Thailand,North Korea,1.0,0.0,1
+444,31558,2007-12-27,Galicia,Cameroon,1.0,1.0,0
+445,31566,2008-01-09,Nigeria,Sudan,2.0,0.0,1
+446,31571,2008-01-12,Kuwait,Ivory Coast,0.0,2.0,2
+447,31577,2008-01-13,South Africa,Mozambique,2.0,0.0,1
+448,31583,2008-01-16,South Africa,Botswana,2.0,1.0,1
+449,31586,2008-01-19,United States,Sweden,2.0,0.0,1
+450,31588,2008-01-20,Ghana,Guinea,2.0,1.0,1
+451,31592,2008-01-21,Nigeria,Ivory Coast,0.0,1.0,2
+452,31594,2008-01-22,Egypt,Cameroon,4.0,2.0,1
+453,31597,2008-01-23,South Africa,Angola,1.0,1.0,0
+454,31599,2008-01-24,Ghana,Namibia,1.0,0.0,1
+455,31603,2008-01-25,Ivory Coast,Benin,4.0,1.0,1
+456,31604,2008-01-25,Nigeria,Mali,0.0,0.0,0
+457,31606,2008-01-26,Cameroon,Zambia,5.0,1.0,1
+458,31609,2008-01-26,Japan,Chile,0.0,0.0,0
+459,31614,2008-01-27,Tunisia,South Africa,3.0,1.0,1
+460,31615,2008-01-28,Ghana,Morocco,2.0,0.0,1
+461,31619,2008-01-29,Ivory Coast,Mali,3.0,0.0,1
+462,31620,2008-01-29,Nigeria,Benin,2.0,0.0,1
+463,31622,2008-01-30,Cameroon,Sudan,3.0,0.0,1
+464,31625,2008-01-30,Japan,Bosnia and Herzegovina,3.0,0.0,1
+465,31626,2008-01-30,South Korea,Chile,0.0,1.0,2
+466,31631,2008-01-31,Senegal,South Africa,1.0,1.0,0
+467,31638,2008-02-03,Ghana,Nigeria,2.0,1.0,1
+468,31639,2008-02-03,Ivory Coast,Guinea,5.0,0.0,1
+469,31644,2008-02-04,Tunisia,Cameroon,2.0,3.0,2
+470,31647,2008-02-06,Australia,Qatar,3.0,0.0,1
+471,31648,2008-02-06,Austria,Germany,0.0,3.0,2
+472,31652,2008-02-06,Croatia,Netherlands,0.0,3.0,2
+473,31657,2008-02-06,England,Switzerland,2.0,1.0,1
+474,31659,2008-02-06,Greece,Finland,2.0,1.0,1
+475,31660,2008-02-06,Honduras,Paraguay,2.0,0.0,1
+476,31661,2008-02-06,Hungary,Slovakia,1.0,1.0,0
+477,31664,2008-02-06,Republic of Ireland,Brazil,0.0,1.0,2
+478,31666,2008-02-06,Italy,Portugal,3.0,1.0,1
+479,31668,2008-02-06,Japan,Thailand,4.0,1.0,1
+480,31669,2008-02-06,Jordan,North Korea,0.0,1.0,2
+481,31671,2008-02-06,South Korea,Turkmenistan,4.0,0.0,1
+482,31673,2008-02-06,North Macedonia,Serbia,1.0,1.0,0
+483,31679,2008-02-06,Slovenia,Denmark,1.0,2.0,2
+484,31680,2008-02-06,Spain,France,1.0,0.0,1
+485,31685,2008-02-06,Uruguay,Colombia,2.0,2.0,0
+486,31686,2008-02-06,United States,Mexico,2.0,2.0,0
+487,31689,2008-02-07,Ghana,Cameroon,0.0,1.0,2
+488,31690,2008-02-07,Ivory Coast,Egypt,1.0,4.0,2
+489,31691,2008-02-09,Ghana,Ivory Coast,4.0,2.0,1
+490,31695,2008-02-10,Cameroon,Egypt,0.0,1.0,2
+491,31697,2008-02-17,China,South Korea,2.0,3.0,2
+492,31698,2008-02-17,Japan,North Korea,1.0,1.0,0
+493,31699,2008-02-20,China,Japan,0.0,1.0,2
+494,31700,2008-02-20,South Korea,North Korea,1.0,1.0,0
+495,31701,2008-02-23,China,North Korea,3.0,1.0,1
+496,31702,2008-02-23,Japan,South Korea,1.0,1.0,0
+497,31710,2008-03-11,South Africa,Zimbabwe,2.0,1.0,1
+498,31720,2008-03-22,Singapore,Australia,0.0,0.0,0
+499,31726,2008-03-26,Algeria,DR Congo,1.0,1.0,0
+500,31731,2008-03-26,Austria,Netherlands,3.0,4.0,2
+501,31733,2008-03-26,Bahrain,Japan,1.0,0.0,1
+502,31739,2008-03-26,Brazil,Sweden,1.0,0.0,1
+503,31741,2008-03-26,China,Australia,0.0,0.0,0
+504,31743,2008-03-26,Denmark,Czech Republic,1.0,1.0,0
+505,31745,2008-03-26,Egypt,Argentina,0.0,2.0,2
+506,31747,2008-03-26,France,England,1.0,0.0,1
+507,31748,2008-03-26,Ghana,Mexico,1.0,2.0,2
+508,31750,2008-03-26,Honduras,Colombia,2.0,1.0,1
+509,31751,2008-03-26,Hungary,Slovenia,0.0,1.0,2
+510,31752,2008-03-26,Israel,Chile,1.0,0.0,1
+511,31753,2008-03-26,Ivory Coast,Tunisia,0.0,2.0,2
+512,31755,2008-03-26,North Korea,South Korea,0.0,0.0,0
+513,31765,2008-03-26,Poland,United States,0.0,3.0,2
+514,31766,2008-03-26,Portugal,Greece,1.0,2.0,2
+515,31772,2008-03-26,Slovakia,Iceland,1.0,2.0,2
+516,31773,2008-03-26,South Africa,Paraguay,3.0,0.0,1
+517,31774,2008-03-26,Spain,Italy,1.0,0.0,1
+518,31778,2008-03-26,Switzerland,Germany,0.0,4.0,2
+519,31783,2008-03-26,Ukraine,Serbia,2.0,0.0,1
+520,31796,2008-04-16,Mexico,China,1.0,0.0,1
+521,31823,2008-05-19,Greece,Cyprus,2.0,0.0,1
+522,31825,2008-05-20,Turkey,Slovakia,1.0,0.0,1
+523,31829,2008-05-22,Ivory Coast,Paraguay,1.0,1.0,0
+524,31832,2008-05-23,Australia,Ghana,1.0,0.0,1
+525,31833,2008-05-23,Honduras,Belize,2.0,0.0,1
+526,31839,2008-05-24,Hungary,Greece,3.0,2.0,1
+527,31841,2008-05-24,Republic of Ireland,Serbia,1.0,1.0,0
+528,31842,2008-05-24,Japan,Ivory Coast,1.0,0.0,1
+529,31844,2008-05-24,Netherlands,Ukraine,3.0,0.0,1
+530,31846,2008-05-24,Switzerland,Slovakia,2.0,0.0,1
+531,31847,2008-05-24,Catalonia,Argentina,0.0,1.0,2
+532,31852,2008-05-25,Turkey,Uruguay,2.0,3.0,2
+533,31855,2008-05-26,Sweden,Slovenia,1.0,0.0,1
+534,31857,2008-05-27,Austria,Nigeria,1.0,1.0,0
+535,31860,2008-05-27,France,Ecuador,2.0,0.0,1
+536,31861,2008-05-27,Germany,Belarus,2.0,2.0,0
+537,31863,2008-05-27,Japan,Paraguay,0.0,0.0,0
+538,31870,2008-05-28,England,United States,2.0,0.0,1
+539,31873,2008-05-28,Norway,Uruguay,2.0,2.0,0
+540,31874,2008-05-28,Russia,Serbia,2.0,1.0,1
+541,31878,2008-05-29,Netherlands,Denmark,1.0,1.0,0
+542,31882,2008-05-30,Italy,Belgium,3.0,1.0,1
+543,31884,2008-05-30,Switzerland,Liechtenstein,3.0,0.0,1
+544,31885,2008-05-30,Venezuela,Honduras,1.0,1.0,0
+545,31887,2008-05-31,Brazil,Canada,3.0,2.0,1
+546,31888,2008-05-31,Cameroon,Cape Verde,2.0,0.0,1
+547,31890,2008-05-31,France,Paraguay,0.0,0.0,0
+548,31891,2008-05-31,Germany,Serbia,2.0,1.0,1
+549,31893,2008-05-31,South Korea,Jordan,2.0,2.0,0
+550,31896,2008-05-31,Portugal,Georgia,2.0,0.0,1
+551,31899,2008-05-31,Senegal,Algeria,1.0,0.0,1
+552,31900,2008-05-31,Spain,Peru,2.0,1.0,1
+553,31905,2008-06-01,Armenia,Greece,0.0,0.0,0
+554,31906,2008-06-01,Australia,Iraq,1.0,0.0,1
+555,31911,2008-06-01,Ghana,Libya,3.0,0.0,1
+556,31914,2008-06-01,Ivory Coast,Mozambique,1.0,0.0,1
+557,31918,2008-06-01,Netherlands,Wales,2.0,0.0,1
+558,31919,2008-06-01,Nigeria,South Africa,2.0,0.0,1
+559,31920,2008-06-01,Poland,Denmark,1.0,1.0,0
+560,31922,2008-06-01,Trinidad and Tobago,England,0.0,3.0,2
+561,31926,2008-06-02,Japan,Oman,3.0,0.0,1
+562,31932,2008-06-02,Turkmenistan,North Korea,0.0,0.0,0
+563,31933,2008-06-03,France,Colombia,1.0,0.0,1
+564,31938,2008-06-04,Chile,Guatemala,2.0,0.0,1
+565,31940,2008-06-04,Honduras,Puerto Rico,4.0,0.0,1
+566,31942,2008-06-04,Mexico,Argentina,1.0,4.0,2
+567,31944,2008-06-04,Spain,United States,1.0,0.0,1
+568,31948,2008-06-06,Algeria,Liberia,3.0,0.0,1
+569,31951,2008-06-06,Brazil,Venezuela,0.0,2.0,2
+570,31959,2008-06-07,Chile,Panama,0.0,0.0,0
+571,31962,2008-06-07,Honduras,Haiti,3.0,1.0,1
+572,31963,2008-06-07,Iraq,Australia,1.0,0.0,1
+573,31964,2008-06-07,Jordan,South Korea,0.0,1.0,2
+574,31966,2008-06-07,North Korea,Turkmenistan,1.0,0.0,1
+575,31970,2008-06-07,Oman,Japan,1.0,1.0,0
+576,31972,2008-06-07,Portugal,Turkey,2.0,0.0,1
+577,31975,2008-06-07,Sierra Leone,Nigeria,0.0,1.0,2
+578,31976,2008-06-07,Switzerland,Czech Republic,0.0,1.0,2
+579,31980,2008-06-07,South Africa,Equatorial Guinea,4.0,1.0,1
+580,31988,2008-06-08,Germany,Poland,2.0,0.0,1
+581,31990,2008-06-08,Lesotho,Ghana,2.0,3.0,2
+582,31991,2008-06-08,Madagascar,Ivory Coast,0.0,0.0,0
+583,31992,2008-06-08,Mauritius,Cameroon,0.0,3.0,2
+584,31993,2008-06-08,Mexico,Peru,4.0,0.0,1
+585,31998,2008-06-08,United States,Argentina,0.0,0.0,0
+586,32002,2008-06-09,Netherlands,Italy,3.0,0.0,1
+587,32003,2008-06-09,Romania,France,0.0,0.0,0
+588,32004,2008-06-10,Greece,Sweden,0.0,2.0,2
+589,32006,2008-06-10,Spain,Russia,4.0,1.0,1
+590,32007,2008-06-11,Czech Republic,Portugal,1.0,3.0,2
+591,32011,2008-06-11,Switzerland,Turkey,1.0,2.0,2
+592,32013,2008-06-12,Croatia,Germany,2.0,1.0,1
+593,32015,2008-06-13,Italy,Romania,1.0,1.0,0
+594,32016,2008-06-13,Netherlands,France,4.0,1.0,1
+595,32018,2008-06-14,Botswana,Ivory Coast,1.0,1.0,0
+596,32021,2008-06-14,Gabon,Ghana,2.0,0.0,1
+597,32022,2008-06-14,Gambia,Algeria,1.0,0.0,1
+598,32023,2008-06-14,Greece,Russia,0.0,1.0,2
+599,32028,2008-06-14,North Korea,Jordan,2.0,0.0,1
+600,32034,2008-06-14,Puerto Rico,Honduras,2.0,2.0,0
+601,32035,2008-06-14,Qatar,Australia,1.0,3.0,2
+602,32038,2008-06-14,Sierra Leone,South Africa,1.0,0.0,1
+603,32042,2008-06-14,Sweden,Spain,1.0,2.0,2
+604,32044,2008-06-14,Tanzania,Cameroon,0.0,0.0,0
+605,32045,2008-06-14,Thailand,Japan,0.0,3.0,2
+606,32046,2008-06-14,Turkmenistan,South Korea,1.0,3.0,2
+607,32048,2008-06-14,Uruguay,Venezuela,1.0,1.0,0
+608,32051,2008-06-15,Argentina,Ecuador,1.0,1.0,0
+609,32052,2008-06-15,Belize,Mexico,0.0,2.0,2
+610,32053,2008-06-15,Bolivia,Chile,0.0,2.0,2
+611,32055,2008-06-15,Equatorial Guinea,Nigeria,0.0,1.0,2
+612,32064,2008-06-15,Paraguay,Brazil,2.0,0.0,1
+613,32066,2008-06-15,Switzerland,Portugal,2.0,0.0,1
+614,32069,2008-06-15,United States,Barbados,8.0,0.0,1
+615,32071,2008-06-16,Austria,Germany,0.0,1.0,2
+616,32074,2008-06-17,France,Italy,0.0,2.0,2
+617,32075,2008-06-17,Netherlands,Romania,2.0,0.0,1
+618,32076,2008-06-17,Uruguay,Peru,6.0,0.0,1
+619,32077,2008-06-18,Bolivia,Paraguay,4.0,2.0,1
+620,32079,2008-06-18,Greece,Spain,1.0,2.0,2
+621,32082,2008-06-18,Brazil,Argentina,0.0,0.0,0
+622,32083,2008-06-19,Portugal,Germany,2.0,3.0,2
+623,32084,2008-06-19,Venezuela,Chile,2.0,3.0,2
+624,32085,2008-06-20,Algeria,Gambia,1.0,0.0,1
+625,32090,2008-06-21,Cameroon,Tanzania,2.0,1.0,1
+626,32092,2008-06-21,Mexico,Belize,7.0,0.0,1
+627,32094,2008-06-21,Netherlands,Russia,1.0,3.0,2
+628,32096,2008-06-21,Nigeria,Equatorial Guinea,2.0,0.0,1
+629,32098,2008-06-21,South Africa,Sierra Leone,0.0,0.0,0
+630,32102,2008-06-22,Australia,China,0.0,1.0,2
+631,32103,2008-06-22,Barbados,United States,0.0,1.0,2
+632,32113,2008-06-22,Ghana,Gabon,2.0,0.0,1
+633,32118,2008-06-22,Ivory Coast,Botswana,4.0,0.0,1
+634,32119,2008-06-22,Japan,Bahrain,1.0,0.0,1
+635,32121,2008-06-22,South Korea,North Korea,0.0,0.0,0
+636,32127,2008-06-22,Spain,Italy,0.0,0.0,0
+637,32131,2008-06-25,Germany,Turkey,3.0,2.0,1
+638,32132,2008-06-26,Russia,Spain,0.0,3.0,2
+639,32134,2008-06-29,Germany,Spain,0.0,1.0,2
+640,32165,2008-07-26,South Africa,Namibia,1.0,0.0,1
+641,32172,2008-07-30,South Africa,Zambia,1.0,0.0,1
+642,32177,2008-07-31,North Korea,Sri Lanka,3.0,0.0,1
+643,32180,2008-08-02,Nepal,North Korea,0.0,1.0,2
+644,32185,2008-08-03,South Africa,Mozambique,2.0,1.0,1
+645,32186,2008-08-04,North Korea,Myanmar,1.0,0.0,1
+646,32191,2008-08-07,North Korea,Tajikistan,0.0,1.0,2
+647,32200,2008-08-13,Myanmar,North Korea,0.0,4.0,2
+648,32206,2008-08-19,Australia,South Africa,2.0,2.0,0
+649,32209,2008-08-20,Algeria,United Arab Emirates,1.0,0.0,1
+650,32211,2008-08-20,Belarus,Argentina,0.0,0.0,0
+651,32219,2008-08-20,Denmark,Spain,0.0,3.0,2
+652,32220,2008-08-20,England,Czech Republic,2.0,2.0,0
+653,32223,2008-08-20,Germany,Belgium,2.0,0.0,1
+654,32224,2008-08-20,Guatemala,United States,0.0,1.0,2
+655,32225,2008-08-20,Guinea,Ivory Coast,1.0,2.0,2
+656,32229,2008-08-20,Italy,Austria,2.0,2.0,0
+657,32230,2008-08-20,Japan,Uruguay,1.0,3.0,2
+658,32235,2008-08-20,Mexico,Honduras,2.0,1.0,1
+659,32240,2008-08-20,Portugal,Faroe Islands,5.0,0.0,1
+660,32243,2008-08-20,Russia,Netherlands,1.0,1.0,0
+661,32244,2008-08-20,Saudi Arabia,Paraguay,1.0,1.0,0
+662,32246,2008-08-20,Slovakia,Greece,0.0,2.0,2
+663,32247,2008-08-20,Slovenia,Croatia,2.0,3.0,2
+664,32249,2008-08-20,Sweden,France,2.0,3.0,2
+665,32250,2008-08-20,Switzerland,Cyprus,4.0,1.0,1
+666,32251,2008-08-20,Tanzania,Ghana,1.0,1.0,0
+667,32253,2008-08-20,Turkey,Chile,1.0,0.0,1
+668,32261,2008-08-24,Qatar,North Korea,2.0,1.0,1
+669,32268,2008-08-29,Uzbekistan,North Korea,0.0,0.0,0
+670,32276,2008-09-05,Algeria,Senegal,3.0,2.0,1
+671,32278,2008-09-05,South Korea,Jordan,1.0,0.0,1
+672,32279,2008-09-05,Libya,Ghana,1.0,0.0,1
+673,32281,2008-09-06,Andorra,England,0.0,2.0,2
+674,32282,2008-09-06,Argentina,Paraguay,1.0,1.0,0
+675,32284,2008-09-06,Austria,France,3.0,1.0,1
+676,32285,2008-09-06,Bahrain,Japan,2.0,3.0,2
+677,32288,2008-09-06,Cape Verde,Cameroon,1.0,2.0,2
+678,32289,2008-09-06,Colombia,Uruguay,0.0,1.0,2
+679,32291,2008-09-06,Cuba,United States,0.0,1.0,2
+680,32292,2008-09-06,Cyprus,Italy,1.0,2.0,2
+681,32297,2008-09-06,Hungary,Denmark,0.0,0.0,0
+682,32298,2008-09-06,Israel,Switzerland,2.0,2.0,0
+683,32300,2008-09-06,Liechtenstein,Germany,0.0,6.0,2
+684,32301,2008-09-06,Luxembourg,Greece,0.0,3.0,2
+685,32303,2008-09-06,Malta,Portugal,0.0,4.0,2
+686,32309,2008-09-06,Netherlands,Australia,1.0,2.0,2
+687,32310,2008-09-06,New Caledonia,New Zealand,1.0,3.0,2
+688,32314,2008-09-06,Poland,Slovenia,1.0,1.0,0
+689,32318,2008-09-06,Serbia,Faroe Islands,2.0,0.0,1
+690,32321,2008-09-06,Slovakia,Northern Ireland,2.0,1.0,1
+691,32322,2008-09-06,South Africa,Nigeria,0.0,1.0,2
+692,32323,2008-09-06,Spain,Bosnia and Herzegovina,1.0,0.0,1
+693,32327,2008-09-06,United Arab Emirates,North Korea,1.0,2.0,2
+694,32329,2008-09-06,Canada,Honduras,1.0,2.0,2
+695,32332,2008-09-06,Mexico,Jamaica,3.0,0.0,1
+696,32334,2008-09-07,Chile,Brazil,0.0,3.0,2
+697,32339,2008-09-07,Mozambique,Ivory Coast,1.0,1.0,0
+698,32342,2008-09-09,Paraguay,Venezuela,2.0,0.0,1
+699,32343,2008-09-09,South Africa,Guinea,0.0,1.0,2
+700,32348,2008-09-10,Brazil,Bolivia,0.0,0.0,0
+701,32350,2008-09-10,Chile,Colombia,4.0,0.0,1
+702,32351,2008-09-10,Croatia,England,1.0,4.0,2
+703,32353,2008-09-10,Finland,Germany,3.0,3.0,0
+704,32354,2008-09-10,France,Serbia,2.0,1.0,1
+705,32357,2008-09-10,Honduras,Jamaica,2.0,0.0,1
+706,32359,2008-09-10,Italy,Georgia,2.0,0.0,1
+707,32361,2008-09-10,North Korea,South Korea,1.0,1.0,0
+708,32362,2008-09-10,Latvia,Greece,0.0,2.0,2
+709,32364,2008-09-10,North Macedonia,Netherlands,1.0,2.0,2
+710,32365,2008-09-10,Mexico,Canada,2.0,1.0,1
+711,32368,2008-09-10,New Zealand,New Caledonia,3.0,0.0,1
+712,32371,2008-09-10,Peru,Argentina,1.0,1.0,0
+713,32372,2008-09-10,Portugal,Denmark,2.0,3.0,2
+714,32376,2008-09-10,Slovenia,Slovakia,2.0,1.0,1
+715,32377,2008-09-10,Spain,Armenia,4.0,0.0,1
+716,32380,2008-09-10,Switzerland,Luxembourg,1.0,2.0,2
+717,32383,2008-09-10,Uruguay,Ecuador,0.0,0.0,0
+718,32384,2008-09-10,United States,Trinidad and Tobago,3.0,0.0,1
+719,32385,2008-09-10,Uzbekistan,Australia,0.0,1.0,2
+720,32390,2008-09-24,Mexico,Chile,0.0,1.0,2
+721,32400,2008-09-30,South Africa,Malawi,3.0,0.0,1
+722,32410,2008-10-09,Japan,United Arab Emirates,1.0,1.0,0
+723,32412,2008-10-11,Argentina,Uruguay,2.0,1.0,1
+724,32416,2008-10-11,Bulgaria,Italy,0.0,0.0,0
+725,32417,2008-10-11,Cameroon,Mauritius,5.0,0.0,1
+726,32418,2008-10-11,Colombia,Paraguay,0.0,1.0,2
+727,32419,2008-10-11,Denmark,Malta,3.0,0.0,1
+728,32420,2008-10-11,England,Kazakhstan,5.0,1.0,1
+729,32421,2008-10-11,Equatorial Guinea,South Africa,0.0,1.0,2
+730,32422,2008-10-11,Estonia,Spain,0.0,3.0,2
+731,32427,2008-10-11,Germany,Russia,2.0,1.0,1
+732,32428,2008-10-11,Ghana,Lesotho,3.0,0.0,1
+733,32429,2008-10-11,Greece,Moldova,3.0,0.0,1
+734,32433,2008-10-11,Honduras,Canada,3.0,1.0,1
+735,32435,2008-10-11,Ivory Coast,Madagascar,3.0,0.0,1
+736,32436,2008-10-11,Jamaica,Mexico,1.0,0.0,1
+737,32437,2008-10-11,South Korea,Uzbekistan,3.0,0.0,1
+738,32438,2008-10-11,Liberia,Algeria,0.0,0.0,0
+739,32445,2008-10-11,Netherlands,Iceland,2.0,0.0,1
+740,32446,2008-10-11,Nigeria,Sierra Leone,4.0,1.0,1
+741,32448,2008-10-11,Romania,France,2.0,2.0,0
+742,32449,2008-10-11,San Marino,Slovakia,1.0,3.0,2
+743,32452,2008-10-11,Serbia,Lithuania,3.0,0.0,1
+744,32453,2008-10-11,Slovenia,Northern Ireland,2.0,0.0,1
+745,32456,2008-10-11,Sweden,Portugal,0.0,0.0,0
+746,32457,2008-10-11,Switzerland,Latvia,2.0,1.0,1
+747,32463,2008-10-11,United States,Cuba,6.0,1.0,1
+748,32467,2008-10-12,Ecuador,Chile,1.0,0.0,1
+749,32471,2008-10-12,Venezuela,Brazil,0.0,4.0,2
+750,32474,2008-10-14,Bolivia,Uruguay,2.0,2.0,0
+751,32475,2008-10-14,France,Tunisia,3.0,1.0,1
+752,32477,2008-10-15,Australia,Qatar,4.0,0.0,1
+753,32478,2008-10-15,Austria,Serbia,1.0,3.0,2
+754,32480,2008-10-15,Belarus,England,1.0,3.0,2
+755,32481,2008-10-15,Belgium,Spain,1.0,2.0,2
+756,32483,2008-10-15,Brazil,Colombia,0.0,0.0,0
+757,32484,2008-10-15,Canada,Mexico,2.0,2.0,0
+758,32485,2008-10-15,Chile,Argentina,1.0,0.0,1
+759,32489,2008-10-15,Czech Republic,Slovenia,1.0,0.0,1
+760,32493,2008-10-15,Germany,Wales,1.0,0.0,1
+761,32494,2008-10-15,Greece,Switzerland,1.0,2.0,2
+762,32498,2008-10-15,Iran,North Korea,2.0,1.0,1
+763,32500,2008-10-15,Italy,Montenegro,2.0,1.0,1
+764,32501,2008-10-15,Jamaica,Honduras,1.0,0.0,1
+765,32502,2008-10-15,Japan,Uzbekistan,1.0,1.0,0
+766,32503,2008-10-15,South Korea,United Arab Emirates,4.0,1.0,1
+767,32510,2008-10-15,Norway,Netherlands,0.0,1.0,2
+768,32511,2008-10-15,Paraguay,Peru,1.0,0.0,1
+769,32512,2008-10-15,Portugal,Albania,0.0,0.0,0
+770,32514,2008-10-15,Slovakia,Poland,2.0,1.0,1
+771,32515,2008-10-15,South Africa,Ghana,2.0,1.0,1
+772,32516,2008-10-15,Trinidad and Tobago,United States,2.0,1.0,1
+773,32540,2008-10-28,Thailand,North Korea,1.0,0.0,1
+774,32541,2008-10-30,Vietnam,North Korea,0.0,0.0,0
+775,32555,2008-11-12,Mexico,Ecuador,2.0,1.0,1
+776,32558,2008-11-13,Japan,Syria,3.0,1.0,1
+777,32561,2008-11-18,Algeria,Mali,1.0,1.0,0
+778,32567,2008-11-19,Bahrain,Australia,0.0,1.0,2
+779,32568,2008-11-19,Brazil,Portugal,6.0,2.0,1
+780,32569,2008-11-19,Colombia,Nigeria,1.0,0.0,1
+781,32571,2008-11-19,Denmark,Wales,0.0,1.0,2
+782,32574,2008-11-19,Fiji,New Zealand,2.0,0.0,1
+783,32575,2008-11-19,France,Uruguay,0.0,0.0,0
+784,32576,2008-11-19,Germany,England,1.0,2.0,2
+785,32577,2008-11-19,Ghana,Tunisia,0.0,0.0,0
+786,32578,2008-11-19,Greece,Italy,1.0,1.0,0
+787,32579,2008-11-19,Honduras,Mexico,1.0,0.0,1
+788,32581,2008-11-19,Israel,Ivory Coast,2.0,2.0,0
+789,32589,2008-11-19,Netherlands,Sweden,3.0,1.0,1
+790,32591,2008-11-19,Oman,Paraguay,0.0,1.0,2
+791,32592,2008-11-19,Qatar,Japan,0.0,3.0,2
+792,32595,2008-11-19,Saudi Arabia,South Korea,0.0,2.0,2
+793,32596,2008-11-19,Scotland,Argentina,0.0,1.0,2
+794,32597,2008-11-19,Serbia,Bulgaria,6.0,1.0,1
+795,32598,2008-11-19,Slovakia,Liechtenstein,4.0,0.0,1
+796,32599,2008-11-19,Slovenia,Bosnia and Herzegovina,3.0,4.0,2
+797,32600,2008-11-19,South Africa,Cameroon,3.0,2.0,1
+798,32601,2008-11-19,Spain,Chile,3.0,0.0,1
+799,32603,2008-11-19,Switzerland,Finland,1.0,0.0,1
+800,32609,2008-11-19,United States,Guatemala,2.0,0.0,1
+801,32642,2008-12-14,Serbia,Poland,0.0,1.0,2
+802,32707,2009-01-18,Honduras,Chile,2.0,0.0,1
+803,32710,2009-01-20,Japan,Yemen,2.0,1.0,1
+804,32717,2009-01-22,Honduras,Belize,2.0,1.0,1
+805,32720,2009-01-23,North Korea,Lebanon,0.0,1.0,2
+806,32723,2009-01-24,Honduras,Nicaragua,4.0,1.0,1
+807,32724,2009-01-24,United States,Sweden,3.0,2.0,1
+808,32726,2009-01-26,Honduras,El Salvador,2.0,0.0,1
+809,32729,2009-01-27,South Africa,Zambia,1.0,0.0,1
+810,32730,2009-01-28,Bahrain,Japan,1.0,0.0,1
+811,32731,2009-01-28,Indonesia,Australia,0.0,0.0,0
+812,32734,2009-01-28,Mexico,Sweden,0.0,1.0,2
+813,32741,2009-01-30,Honduras,Panama,0.0,1.0,2
+814,32744,2009-02-01,Honduras,El Salvador,1.0,0.0,1
+815,32745,2009-02-01,Syria,South Korea,1.0,1.0,0
+816,32746,2009-02-04,Bahrain,South Korea,2.0,2.0,0
+817,32747,2009-02-04,Japan,Finland,5.0,1.0,1
+818,32752,2009-02-10,Brazil,Italy,2.0,0.0,1
+819,32753,2009-02-10,Cyprus,Serbia,0.0,2.0,2
+820,32754,2009-02-10,Slovakia,Ukraine,2.0,3.0,2
+821,32755,2009-02-11,Algeria,Benin,2.0,1.0,1
+822,32759,2009-02-11,Belgium,Slovenia,2.0,0.0,1
+823,32761,2009-02-11,Cameroon,Guinea,3.0,1.0,1
+824,32763,2009-02-11,Costa Rica,Honduras,2.0,0.0,1
+825,32764,2009-02-11,Cyprus,Slovakia,3.0,2.0,1
+826,32765,2009-02-11,Egypt,Ghana,2.0,2.0,0
+827,32768,2009-02-11,France,Argentina,0.0,2.0,2
+828,32769,2009-02-11,Germany,Norway,0.0,1.0,2
+829,32770,2009-02-11,Greece,Denmark,1.0,1.0,0
+830,32771,2009-02-11,Iran,South Korea,1.0,1.0,0
+831,32774,2009-02-11,Japan,Australia,0.0,0.0,0
+832,32775,2009-02-11,North Korea,Saudi Arabia,1.0,0.0,1
+833,32778,2009-02-11,Libya,Uruguay,2.0,3.0,2
+834,32784,2009-02-11,Nigeria,Jamaica,0.0,0.0,0
+835,32785,2009-02-11,Peru,Paraguay,0.0,1.0,2
+836,32786,2009-02-11,Portugal,Finland,1.0,0.0,1
+837,32789,2009-02-11,Serbia,Ukraine,0.0,1.0,2
+838,32790,2009-02-11,South Africa,Chile,0.0,2.0,2
+839,32791,2009-02-11,Spain,England,2.0,0.0,1
+840,32792,2009-02-11,Switzerland,Bulgaria,1.0,1.0,0
+841,32794,2009-02-11,Tunisia,Netherlands,1.0,1.0,0
+842,32795,2009-02-11,Turkey,Ivory Coast,1.0,1.0,0
+843,32796,2009-02-11,United States,Mexico,2.0,0.0,1
+844,32800,2009-03-05,Australia,Kuwait,0.0,1.0,2
+845,32804,2009-03-11,Mexico,Bolivia,5.0,1.0,1
+846,32825,2009-03-28,Argentina,Venezuela,4.0,0.0,1
+847,32832,2009-03-28,El Salvador,United States,2.0,2.0,0
+848,32833,2009-03-28,England,Slovakia,4.0,0.0,1
+849,32834,2009-03-28,Germany,Liechtenstein,4.0,0.0,1
+850,32837,2009-03-28,Israel,Greece,1.0,1.0,0
+851,32838,2009-03-28,Japan,Bahrain,1.0,0.0,1
+852,32840,2009-03-28,North Korea,United Arab Emirates,2.0,0.0,1
+853,32841,2009-03-28,South Korea,Iraq,2.0,1.0,1
+854,32842,2009-03-28,Lithuania,France,0.0,1.0,2
+855,32844,2009-03-28,Malta,Denmark,0.0,3.0,2
+856,32845,2009-03-28,Mexico,Costa Rica,2.0,0.0,1
+857,32846,2009-03-28,Moldova,Switzerland,0.0,2.0,2
+858,32847,2009-03-28,Montenegro,Italy,0.0,2.0,2
+859,32850,2009-03-28,Netherlands,Scotland,3.0,0.0,1
+860,32853,2009-03-28,Portugal,Sweden,0.0,0.0,0
+861,32854,2009-03-28,Romania,Serbia,2.0,3.0,2
+862,32856,2009-03-28,Rwanda,Algeria,0.0,0.0,0
+863,32857,2009-03-28,Slovenia,Czech Republic,0.0,0.0,0
+864,32858,2009-03-28,South Africa,Norway,2.0,1.0,1
+865,32859,2009-03-28,Spain,Turkey,1.0,0.0,1
+866,32862,2009-03-28,Thailand,New Zealand,3.0,1.0,1
+867,32863,2009-03-28,Togo,Cameroon,1.0,0.0,1
+868,32864,2009-03-28,Trinidad and Tobago,Honduras,1.0,1.0,0
+869,32865,2009-03-28,Uruguay,Paraguay,2.0,0.0,1
+870,32868,2009-03-29,Mozambique,Nigeria,0.0,0.0,0
+871,32869,2009-03-29,Ivory Coast,Malawi,5.0,0.0,1
+872,32870,2009-03-29,Ecuador,Brazil,1.0,1.0,0
+873,32871,2009-03-29,Peru,Chile,1.0,3.0,2
+874,32873,2009-03-29,Ghana,Benin,1.0,0.0,1
+875,32877,2009-03-31,Portugal,South Africa,2.0,0.0,1
+876,32880,2009-04-01,Australia,Uzbekistan,2.0,0.0,1
+877,32886,2009-04-01,Czech Republic,Slovakia,1.0,2.0,2
+878,32887,2009-04-01,Denmark,Albania,3.0,0.0,1
+879,32888,2009-04-01,England,Ukraine,2.0,1.0,1
+880,32890,2009-04-01,France,Lithuania,1.0,0.0,1
+881,32892,2009-04-01,Greece,Israel,2.0,1.0,1
+882,32893,2009-04-01,Honduras,Mexico,3.0,1.0,1
+883,32896,2009-04-01,Italy,Republic of Ireland,1.0,1.0,0
+884,32898,2009-04-01,South Korea,North Korea,1.0,0.0,1
+885,32903,2009-04-01,Netherlands,North Macedonia,4.0,0.0,1
+886,32904,2009-04-01,Northern Ireland,Slovenia,1.0,0.0,1
+887,32909,2009-04-01,Serbia,Sweden,2.0,0.0,1
+888,32910,2009-04-01,Switzerland,Moldova,2.0,0.0,1
+889,32911,2009-04-01,Turkey,Spain,1.0,2.0,2
+890,32912,2009-04-01,United States,Trinidad and Tobago,3.0,0.0,1
+891,32913,2009-04-01,Wales,Germany,0.0,2.0,2
+892,32914,2009-04-01,Bolivia,Argentina,6.0,1.0,1
+893,32915,2009-04-01,Ecuador,Paraguay,1.0,1.0,0
+894,32916,2009-04-01,Chile,Uruguay,0.0,0.0,0
+895,32917,2009-04-01,Brazil,Peru,3.0,0.0,1
+896,32942,2009-05-20,Argentina,Panama,3.0,1.0,1
+897,32946,2009-05-27,Japan,Chile,4.0,0.0,1
+898,32949,2009-05-29,Belgium,Chile,1.0,1.0,0
+899,32950,2009-05-29,China,Germany,1.0,1.0,0
+900,32951,2009-05-29,Republic of Ireland,Nigeria,1.0,1.0,0
+901,32957,2009-05-31,Ghana,Uganda,2.0,1.0,1
+902,32958,2009-05-31,Japan,Belgium,4.0,0.0,1
+903,32964,2009-06-02,France,Nigeria,0.0,1.0,2
+904,32966,2009-06-02,United Arab Emirates,Germany,2.0,7.0,2
+905,32969,2009-06-03,Costa Rica,United States,3.0,1.0,1
+906,32970,2009-06-03,Tanzania,New Zealand,2.0,1.0,1
+907,32974,2009-06-05,France,Turkey,1.0,0.0,1
+908,32975,2009-06-06,Albania,Portugal,1.0,2.0,2
+909,32976,2009-06-06,Argentina,Colombia,1.0,0.0,1
+910,32980,2009-06-06,Botswana,New Zealand,0.0,0.0,0
+911,32984,2009-06-06,El Salvador,Mexico,2.0,1.0,1
+912,32989,2009-06-06,Iceland,Netherlands,1.0,2.0,2
+913,32990,2009-06-06,Italy,Northern Ireland,3.0,0.0,1
+914,32991,2009-06-06,Kazakhstan,England,0.0,4.0,2
+915,32992,2009-06-06,North Korea,Iran,0.0,0.0,0
+916,32997,2009-06-06,Paraguay,Chile,0.0,2.0,2
+917,32998,2009-06-06,Qatar,Australia,0.0,0.0,0
+918,32999,2009-06-06,Serbia,Austria,1.0,0.0,1
+919,33000,2009-06-06,Slovakia,San Marino,7.0,0.0,1
+920,33001,2009-06-06,South Africa,Poland,1.0,0.0,1
+921,33002,2009-06-06,Sweden,Denmark,0.0,1.0,2
+922,33005,2009-06-06,United Arab Emirates,South Korea,0.0,2.0,2
+923,33006,2009-06-06,Uruguay,Brazil,0.0,4.0,2
+924,33007,2009-06-06,United States,Honduras,2.0,1.0,1
+925,33008,2009-06-06,Uzbekistan,Japan,0.0,1.0,2
+926,33011,2009-06-07,Cameroon,Morocco,0.0,0.0,0
+927,33012,2009-06-07,Guinea,Ivory Coast,1.0,2.0,2
+928,33016,2009-06-07,Algeria,Egypt,3.0,1.0,1
+929,33018,2009-06-07,Mali,Ghana,0.0,2.0,2
+930,33019,2009-06-07,Nigeria,Kenya,3.0,0.0,1
+931,33020,2009-06-09,Azerbaijan,Spain,0.0,6.0,2
+932,33024,2009-06-10,Australia,Bahrain,2.0,0.0,1
+933,33026,2009-06-10,Brazil,Paraguay,2.0,1.0,1
+934,33027,2009-06-10,Chile,Bolivia,4.0,0.0,1
+935,33029,2009-06-10,Ecuador,Argentina,2.0,0.0,1
+936,33030,2009-06-10,England,Andorra,6.0,0.0,1
+937,33031,2009-06-10,Estonia,Portugal,0.0,0.0,0
+938,33032,2009-06-10,Faroe Islands,Serbia,0.0,2.0,2
+939,33034,2009-06-10,Honduras,El Salvador,1.0,0.0,1
+940,33036,2009-06-10,Italy,New Zealand,4.0,3.0,1
+941,33037,2009-06-10,Japan,Qatar,1.0,1.0,0
+942,33038,2009-06-10,South Korea,Saudi Arabia,0.0,0.0,0
+943,33040,2009-06-10,Mexico,Trinidad and Tobago,2.0,1.0,1
+944,33041,2009-06-10,Netherlands,Norway,2.0,0.0,1
+945,33044,2009-06-10,Venezuela,Uruguay,2.0,2.0,0
+946,33046,2009-06-13,Ivory Coast,Cameroon,2.0,1.0,1
+947,33049,2009-06-14,New Zealand,Spain,0.0,5.0,2
+948,33050,2009-06-14,South Africa,Iraq,0.0,0.0,0
+949,33051,2009-06-15,Brazil,Egypt,4.0,3.0,1
+950,33052,2009-06-15,United States,Italy,1.0,3.0,2
+951,33053,2009-06-17,Australia,Japan,2.0,1.0,1
+952,33055,2009-06-17,South Korea,Iran,1.0,1.0,0
+953,33056,2009-06-17,Saudi Arabia,North Korea,0.0,0.0,0
+954,33057,2009-06-17,South Africa,New Zealand,2.0,0.0,1
+955,33058,2009-06-17,Spain,Iraq,1.0,0.0,1
+956,33059,2009-06-18,Egypt,Italy,1.0,0.0,1
+957,33060,2009-06-18,United States,Brazil,0.0,3.0,2
+958,33063,2009-06-20,Burkina Faso,Ivory Coast,2.0,3.0,2
+959,33064,2009-06-20,Iraq,New Zealand,0.0,0.0,0
+960,33067,2009-06-20,South Africa,Spain,0.0,2.0,2
+961,33068,2009-06-20,Sudan,Ghana,0.0,2.0,2
+962,33069,2009-06-20,Tunisia,Nigeria,0.0,0.0,0
+963,33070,2009-06-20,Zambia,Algeria,0.0,2.0,2
+964,33071,2009-06-21,Egypt,United States,0.0,3.0,2
+965,33072,2009-06-21,Italy,Brazil,0.0,3.0,2
+966,33081,2009-06-24,Mexico,Venezuela,4.0,0.0,1
+967,33082,2009-06-24,Spain,United States,0.0,2.0,2
+968,33085,2009-06-25,South Africa,Brazil,0.0,1.0,2
+969,33095,2009-06-28,Mexico,Guatemala,0.0,0.0,0
+970,33096,2009-06-28,Panama,Honduras,0.0,2.0,2
+971,33097,2009-06-28,South Africa,Spain,2.0,3.0,2
+972,33098,2009-06-28,United States,Brazil,2.0,3.0,2
+973,33136,2009-07-04,Honduras,Haiti,1.0,0.0,1
+974,33137,2009-07-04,United States,Grenada,4.0,0.0,1
+975,33140,2009-07-05,Nicaragua,Mexico,0.0,2.0,2
+976,33146,2009-07-08,United States,Honduras,2.0,0.0,1
+977,33148,2009-07-09,Mexico,Panama,1.0,1.0,0
+978,33152,2009-07-11,Honduras,Grenada,4.0,0.0,1
+979,33153,2009-07-11,United States,Haiti,2.0,2.0,0
+980,33155,2009-07-12,Mexico,Guadeloupe,2.0,0.0,1
+981,33159,2009-07-18,Canada,Honduras,0.0,1.0,2
+982,33161,2009-07-18,United States,Panama,2.0,1.0,1
+983,33163,2009-07-19,Mexico,Haiti,4.0,0.0,1
+984,33164,2009-07-23,Costa Rica,Mexico,1.0,1.0,0
+985,33165,2009-07-23,United States,Honduras,2.0,0.0,1
+986,33167,2009-07-26,United States,Mexico,0.0,5.0,2
+987,33171,2009-08-12,Algeria,Uruguay,1.0,0.0,1
+988,33173,2009-08-12,Austria,Cameroon,0.0,2.0,2
+989,33174,2009-08-12,Azerbaijan,Germany,0.0,2.0,2
+990,33181,2009-08-12,Denmark,Chile,1.0,2.0,2
+991,33184,2009-08-12,Estonia,Brazil,0.0,1.0,2
+992,33185,2009-08-12,Faroe Islands,France,0.0,1.0,2
+993,33186,2009-08-12,Ghana,Zambia,4.0,1.0,1
+994,33187,2009-08-12,Honduras,Costa Rica,4.0,0.0,1
+995,33189,2009-08-12,Iceland,Slovakia,1.0,1.0,0
+996,33190,2009-08-12,Republic of Ireland,Australia,0.0,3.0,2
+997,33191,2009-08-12,South Korea,Paraguay,1.0,0.0,1
+998,33192,2009-08-12,Liechtenstein,Portugal,0.0,3.0,2
+999,33194,2009-08-12,North Macedonia,Spain,2.0,3.0,2
+1000,33198,2009-08-12,Mexico,United States,2.0,1.0,1
+1001,33202,2009-08-12,Netherlands,England,2.0,2.0,0
+1002,33206,2009-08-12,Poland,Greece,2.0,0.0,1
+1003,33207,2009-08-12,Russia,Argentina,2.0,3.0,2
+1004,33210,2009-08-12,Slovenia,San Marino,5.0,0.0,1
+1005,33211,2009-08-12,South Africa,Serbia,1.0,3.0,2
+1006,33213,2009-08-12,Switzerland,Italy,0.0,0.0,0
+1007,33216,2009-08-12,Tunisia,Ivory Coast,0.0,0.0,0
+1008,33225,2009-08-23,North Korea,Guam,9.0,2.0,1
+1009,33227,2009-08-25,Hong Kong,North Korea,0.0,0.0,0
+1010,33240,2009-09-05,Argentina,Brazil,1.0,3.0,2
+1011,33246,2009-09-05,Chile,Venezuela,2.0,2.0,0
+1012,33248,2009-09-05,Costa Rica,Mexico,0.0,3.0,2
+1013,33251,2009-09-05,Denmark,Portugal,1.0,1.0,0
+1014,33252,2009-09-05,England,Slovenia,2.0,1.0,1
+1015,33253,2009-09-05,France,Romania,1.0,1.0,0
+1016,33254,2009-09-05,Gabon,Cameroon,0.0,2.0,2
+1017,33255,2009-09-05,Georgia,Italy,0.0,2.0,2
+1018,33256,2009-09-05,Germany,South Africa,2.0,0.0,1
+1019,33257,2009-09-05,Honduras,Trinidad and Tobago,4.0,1.0,1
+1020,33261,2009-09-05,Ivory Coast,Burkina Faso,5.0,0.0,1
+1021,33263,2009-09-05,South Korea,Australia,3.0,1.0,1
+1022,33267,2009-09-05,Netherlands,Japan,3.0,0.0,1
+1023,33268,2009-09-05,Paraguay,Bolivia,1.0,0.0,1
+1024,33269,2009-09-05,Peru,Uruguay,1.0,0.0,1
+1025,33274,2009-09-05,Slovakia,Czech Republic,2.0,2.0,0
+1026,33275,2009-09-05,Spain,Belgium,5.0,0.0,1
+1027,33277,2009-09-05,Switzerland,Greece,2.0,0.0,1
+1028,33280,2009-09-05,United States,El Salvador,2.0,1.0,1
+1029,33282,2009-09-06,Algeria,Zambia,1.0,0.0,1
+1030,33284,2009-09-06,Ghana,Sudan,2.0,0.0,1
+1031,33286,2009-09-06,Nigeria,Tunisia,2.0,2.0,0
+1032,33288,2009-09-08,Republic of Ireland,South Africa,1.0,0.0,1
+1033,33289,2009-09-09,Albania,Denmark,1.0,1.0,0
+1034,33296,2009-09-09,Cameroon,Gabon,2.0,1.0,1
+1035,33299,2009-09-09,England,Croatia,5.0,1.0,1
+1036,33301,2009-09-09,Germany,Azerbaijan,4.0,0.0,1
+1037,33302,2009-09-09,Hungary,Portugal,0.0,1.0,2
+1038,33305,2009-09-09,Italy,Bulgaria,2.0,0.0,1
+1039,33306,2009-09-09,Japan,Ghana,4.0,3.0,1
+1040,33307,2009-09-09,Jordan,New Zealand,1.0,3.0,2
+1041,33308,2009-09-09,Latvia,Switzerland,2.0,2.0,0
+1042,33311,2009-09-09,Mexico,Honduras,1.0,0.0,1
+1043,33312,2009-09-09,Moldova,Greece,1.0,1.0,0
+1044,33314,2009-09-09,Northern Ireland,Slovakia,0.0,2.0,2
+1045,33319,2009-09-09,Scotland,Netherlands,0.0,1.0,2
+1046,33320,2009-09-09,Serbia,France,1.0,1.0,0
+1047,33321,2009-09-09,Slovenia,Poland,3.0,0.0,1
+1048,33322,2009-09-09,Spain,Estonia,3.0,0.0,1
+1049,33323,2009-09-09,Trinidad and Tobago,United States,0.0,1.0,2
+1050,33325,2009-09-09,Uruguay,Colombia,3.0,1.0,1
+1051,33326,2009-09-09,Paraguay,Argentina,1.0,0.0,1
+1052,33327,2009-09-09,Brazil,Chile,4.0,2.0,1
+1053,33330,2009-09-19,South Africa,Madagascar,1.0,0.0,1
+1054,33332,2009-09-30,Argentina,Ghana,2.0,0.0,1
+1055,33334,2009-09-30,Mexico,Colombia,1.0,2.0,2
+1056,33338,2009-10-08,Japan,Hong Kong,6.0,0.0,1
+1057,33339,2009-10-10,Argentina,Peru,2.0,1.0,1
+1058,33340,2009-10-10,Armenia,Spain,1.0,2.0,2
+1059,33341,2009-10-10,Australia,Netherlands,0.0,0.0,0
+1060,33343,2009-10-10,Bahrain,New Zealand,0.0,0.0,0
+1061,33346,2009-10-10,Cameroon,Togo,3.0,0.0,1
+1062,33347,2009-10-10,Colombia,Chile,2.0,4.0,2
+1063,33351,2009-10-10,Denmark,Sweden,1.0,0.0,1
+1064,33352,2009-10-10,Ecuador,Uruguay,1.0,2.0,2
+1065,33355,2009-10-10,France,Faroe Islands,5.0,0.0,1
+1066,33357,2009-10-10,Greece,Latvia,5.0,2.0,1
+1067,33358,2009-10-10,Honduras,United States,2.0,3.0,2
+1068,33359,2009-10-10,Republic of Ireland,Italy,2.0,2.0,0
+1069,33361,2009-10-10,Japan,Scotland,2.0,0.0,1
+1070,33364,2009-10-10,Luxembourg,Switzerland,0.0,3.0,2
+1071,33365,2009-10-10,Malawi,Ivory Coast,1.0,1.0,0
+1072,33367,2009-10-10,Mexico,El Salvador,4.0,1.0,1
+1073,33369,2009-10-10,Norway,South Africa,1.0,0.0,1
+1074,33370,2009-10-10,Portugal,Hungary,3.0,0.0,1
+1075,33371,2009-10-10,Russia,Germany,0.0,1.0,2
+1076,33372,2009-10-10,Serbia,Romania,5.0,0.0,1
+1077,33373,2009-10-10,Slovakia,Slovenia,0.0,2.0,2
+1078,33374,2009-10-10,Ukraine,England,1.0,0.0,1
+1079,33376,2009-10-10,Venezuela,Paraguay,1.0,2.0,2
+1080,33378,2009-10-11,Algeria,Rwanda,3.0,1.0,1
+1081,33379,2009-10-11,Benin,Ghana,1.0,0.0,1
+1082,33383,2009-10-11,Nigeria,Mozambique,1.0,0.0,1
+1083,33384,2009-10-11,Bolivia,Brazil,2.0,1.0,1
+1084,33386,2009-10-13,Congo,North Korea,0.0,0.0,0
+1085,33387,2009-10-13,Iceland,South Africa,1.0,0.0,1
+1086,33389,2009-10-14,Angola,Cameroon,0.0,0.0,0
+1087,33390,2009-10-14,Australia,Oman,1.0,0.0,1
+1088,33392,2009-10-14,Bosnia and Herzegovina,Spain,2.0,5.0,2
+1089,33393,2009-10-14,Brazil,Venezuela,0.0,0.0,0
+1090,33395,2009-10-14,Chile,Ecuador,1.0,0.0,1
+1091,33397,2009-10-14,Denmark,Hungary,0.0,1.0,2
+1092,33398,2009-10-14,El Salvador,Honduras,0.0,1.0,2
+1093,33399,2009-10-14,England,Belarus,3.0,0.0,1
+1094,33401,2009-10-14,France,Austria,3.0,1.0,1
+1095,33402,2009-10-14,Germany,Finland,1.0,1.0,0
+1096,33403,2009-10-14,Greece,Luxembourg,2.0,1.0,1
+1097,33405,2009-10-14,Italy,Cyprus,3.0,2.0,1
+1098,33406,2009-10-14,Japan,Togo,5.0,0.0,1
+1099,33408,2009-10-14,South Korea,Senegal,2.0,0.0,1
+1100,33411,2009-10-14,Lithuania,Serbia,2.0,1.0,1
+1101,33412,2009-10-14,Paraguay,Colombia,0.0,2.0,2
+1102,33414,2009-10-14,Poland,Slovakia,0.0,1.0,2
+1103,33415,2009-10-14,Portugal,Malta,4.0,0.0,1
+1104,33418,2009-10-14,San Marino,Slovenia,0.0,3.0,2
+1105,33420,2009-10-14,Switzerland,Israel,0.0,0.0,0
+1106,33421,2009-10-14,Trinidad and Tobago,Mexico,2.0,2.0,0
+1107,33425,2009-10-14,Uruguay,Argentina,0.0,1.0,2
+1108,33426,2009-10-14,United States,Costa Rica,2.0,2.0,0
+1109,33443,2009-10-26,South Africa,Angola,2.0,0.0,1
+1110,33445,2009-10-28,Zimbabwe,South Africa,1.0,1.0,0
+1111,33449,2009-10-31,South Africa,Mozambique,0.0,1.0,2
+1112,33454,2009-11-04,Chile,Paraguay,2.0,1.0,1
+1113,33463,2009-11-13,Paraguay,Qatar,0.0,2.0,2
+1114,33466,2009-11-14,Brazil,England,1.0,0.0,1
+1115,33468,2009-11-14,Costa Rica,Uruguay,0.0,1.0,2
+1116,33470,2009-11-14,Denmark,South Korea,0.0,0.0,0
+1117,33471,2009-11-14,Egypt,Algeria,2.0,0.0,1
+1118,33473,2009-11-14,Greece,Ukraine,0.0,0.0,0
+1119,33474,2009-11-14,Honduras,Latvia,2.0,1.0,1
+1120,33476,2009-11-14,Republic of Ireland,France,0.0,1.0,2
+1121,33477,2009-11-14,Italy,Netherlands,0.0,0.0,0
+1122,33478,2009-11-14,Ivory Coast,Guinea,3.0,0.0,1
+1123,33479,2009-11-14,Kenya,Nigeria,2.0,3.0,2
+1124,33484,2009-11-14,Morocco,Cameroon,0.0,2.0,2
+1125,33486,2009-11-14,New Zealand,Bahrain,1.0,0.0,1
+1126,33487,2009-11-14,Northern Ireland,Serbia,0.0,1.0,2
+1127,33488,2009-11-14,Oman,Australia,1.0,2.0,2
+1128,33490,2009-11-14,Portugal,Bosnia and Herzegovina,1.0,0.0,1
+1129,33491,2009-11-14,Russia,Slovenia,2.0,1.0,1
+1130,33495,2009-11-14,Slovakia,United States,1.0,0.0,1
+1131,33496,2009-11-14,South Africa,Japan,0.0,0.0,0
+1132,33497,2009-11-14,Spain,Argentina,2.0,1.0,1
+1133,33499,2009-11-14,Switzerland,Norway,0.0,1.0,2
+1134,33504,2009-11-15,Ghana,Mali,2.0,2.0,0
+1135,33508,2009-11-17,Oman,Brazil,0.0,2.0,2
+1136,33509,2009-11-17,Slovakia,Chile,1.0,2.0,2
+1137,33510,2009-11-17,South Africa,Jamaica,0.0,0.0,0
+1138,33511,2009-11-18,Algeria,Egypt,1.0,0.0,1
+1139,33512,2009-11-18,Angola,Ghana,0.0,0.0,0
+1140,33513,2009-11-18,Austria,Spain,1.0,5.0,2
+1141,33516,2009-11-18,Bosnia and Herzegovina,Portugal,0.0,1.0,2
+1142,33517,2009-11-18,Denmark,United States,3.0,1.0,1
+1143,33518,2009-11-18,France,Republic of Ireland,1.0,1.0,0
+1144,33519,2009-11-18,Germany,Ivory Coast,2.0,2.0,0
+1145,33520,2009-11-18,Honduras,Peru,1.0,2.0,2
+1146,33521,2009-11-18,Hong Kong,Japan,0.0,4.0,2
+1147,33524,2009-11-18,Italy,Sweden,1.0,0.0,1
+1148,33525,2009-11-18,South Korea,Serbia,0.0,1.0,2
+1149,33529,2009-11-18,Netherlands,Paraguay,0.0,0.0,0
+1150,33531,2009-11-18,Slovenia,Russia,1.0,0.0,1
+1151,33534,2009-11-18,Ukraine,Greece,0.0,1.0,2
+1152,33536,2009-11-18,Uruguay,Costa Rica,1.0,1.0,0
+1153,33537,2009-11-21,Zambia,North Korea,4.0,1.0,1
+1154,33554,2009-12-04,North Korea,Macau,8.0,0.0,1
+1155,33576,2009-12-22,Catalonia,Argentina,4.0,2.0,1
+1156,33577,2009-12-27,North Korea,Mali,1.0,0.0,1
+1157,33585,2009-12-30,Qatar,North Korea,0.0,1.0,2
+1158,33588,2010-01-02,Iran,North Korea,1.0,0.0,1
+1159,33594,2010-01-04,Tanzania,Ivory Coast,0.0,1.0,2
+1160,33595,2010-01-05,Ghana,Malawi,0.0,0.0,0
+1161,33601,2010-01-06,Kuwait,Australia,2.0,2.0,0
+1162,33606,2010-01-06,Yemen,Japan,2.0,3.0,2
+1163,33607,2010-01-07,Rwanda,Ivory Coast,0.0,2.0,2
+1164,33608,2010-01-09,Kenya,Cameroon,1.0,3.0,2
+1165,33610,2010-01-09,Zambia,South Korea,4.0,2.0,1
+1166,33612,2010-01-11,Ivory Coast,Burkina Faso,0.0,0.0,0
+1167,33613,2010-01-11,Malawi,Algeria,3.0,0.0,1
+1168,33614,2010-01-12,Egypt,Nigeria,3.0,1.0,1
+1169,33616,2010-01-13,Cameroon,Gabon,0.0,1.0,2
+1170,33619,2010-01-14,Mali,Algeria,0.0,1.0,2
+1171,33620,2010-01-15,Ivory Coast,Ghana,3.0,1.0,1
+1172,33623,2010-01-16,Nigeria,Benin,1.0,0.0,1
+1173,33624,2010-01-17,Cameroon,Zambia,3.0,2.0,1
+1174,33628,2010-01-18,Angola,Algeria,0.0,0.0,0
+1175,33629,2010-01-18,Finland,South Korea,0.0,2.0,2
+1176,33631,2010-01-19,Burkina Faso,Ghana,0.0,1.0,2
+1177,33632,2010-01-20,Chile,Panama,2.0,1.0,1
+1178,33634,2010-01-20,Nigeria,Mozambique,3.0,0.0,1
+1179,33638,2010-01-21,Cameroon,Tunisia,2.0,2.0,0
+1180,33640,2010-01-22,Latvia,South Korea,0.0,1.0,2
+1181,33643,2010-01-23,United States,Honduras,1.0,3.0,2
+1182,33644,2010-01-24,Angola,Ghana,0.0,1.0,2
+1183,33645,2010-01-24,Ivory Coast,Algeria,2.0,3.0,2
+1184,33646,2010-01-25,Egypt,Cameroon,3.0,1.0,1
+1185,33647,2010-01-25,Zambia,Nigeria,0.0,0.0,0
+1186,33648,2010-01-26,Argentina,Costa Rica,3.0,2.0,1
+1187,33649,2010-01-27,South Africa,Zimbabwe,3.0,0.0,1
+1188,33650,2010-01-28,Algeria,Egypt,0.0,4.0,2
+1189,33651,2010-01-28,Ghana,Nigeria,1.0,0.0,1
+1190,33652,2010-01-30,Nigeria,Algeria,1.0,0.0,1
+1191,33653,2010-01-31,Ghana,Egypt,0.0,1.0,2
+1192,33655,2010-02-02,Japan,Venezuela,0.0,0.0,0
+1193,33656,2010-02-06,Japan,China,0.0,0.0,0
+1194,33657,2010-02-07,South Korea,Hong Kong,5.0,0.0,1
+1195,33658,2010-02-10,Argentina,Jamaica,2.0,1.0,1
+1196,33659,2010-02-10,China,South Korea,3.0,0.0,1
+1197,33660,2010-02-11,Japan,Hong Kong,3.0,0.0,1
+1198,33662,2010-02-14,Japan,South Korea,1.0,3.0,2
+1199,33665,2010-02-17,North Korea,Turkmenistan,1.0,1.0,0
+1200,33669,2010-02-19,Kyrgyzstan,North Korea,0.0,4.0,2
+1201,33673,2010-02-24,North Korea,Myanmar,5.0,0.0,1
+1202,33674,2010-02-24,Mexico,Bolivia,5.0,0.0,1
+1203,33676,2010-02-24,United States,El Salvador,2.0,1.0,1
+1204,33679,2010-02-25,Turkmenistan,North Korea,1.0,1.0,0
+1205,33683,2010-03-02,Republic of Ireland,Brazil,0.0,2.0,2
+1206,33685,2010-03-03,Algeria,Serbia,0.0,3.0,2
+1207,33688,2010-03-03,Australia,Indonesia,1.0,0.0,1
+1208,33689,2010-03-03,Austria,Denmark,2.0,1.0,1
+1209,33691,2010-03-03,Bosnia and Herzegovina,Ghana,2.0,1.0,1
+1210,33694,2010-03-03,England,Egypt,3.0,1.0,1
+1211,33695,2010-03-03,France,Spain,0.0,2.0,2
+1212,33697,2010-03-03,Germany,Argentina,0.0,1.0,2
+1213,33698,2010-03-03,Greece,Senegal,0.0,2.0,2
+1214,33702,2010-03-03,Italy,Cameroon,0.0,0.0,0
+1215,33703,2010-03-03,Ivory Coast,South Korea,0.0,2.0,2
+1216,33704,2010-03-03,Japan,Bahrain,2.0,0.0,1
+1217,33711,2010-03-03,Mexico,New Zealand,2.0,0.0,1
+1218,33713,2010-03-03,Netherlands,United States,2.0,1.0,1
+1219,33714,2010-03-03,Nigeria,DR Congo,5.0,2.0,1
+1220,33717,2010-03-03,Portugal,China,2.0,0.0,1
+1221,33720,2010-03-03,Slovakia,Norway,0.0,1.0,2
+1222,33721,2010-03-03,Slovenia,Qatar,4.0,1.0,1
+1223,33722,2010-03-03,South Africa,Namibia,1.0,1.0,0
+1224,33723,2010-03-03,Switzerland,Uruguay,1.0,3.0,2
+1225,33726,2010-03-03,Turkey,Honduras,2.0,0.0,1
+1226,33731,2010-03-06,Venezuela,North Korea,2.0,1.0,1
+1227,33734,2010-03-17,Mexico,North Korea,2.0,1.0,1
+1228,33739,2010-03-24,Mexico,Iceland,0.0,0.0,0
+1229,33740,2010-03-31,Chile,Venezuela,0.0,0.0,0
+1230,33741,2010-03-31,Paraguay,South Africa,1.0,1.0,0
+1231,33744,2010-04-07,Japan,Serbia,0.0,3.0,2
+1232,33745,2010-04-21,Honduras,Venezuela,0.0,1.0,2
+1233,33746,2010-04-22,South Africa,North Korea,0.0,0.0,0
+1234,33747,2010-04-28,South Africa,Jamaica,2.0,0.0,1
+1235,33748,2010-05-05,Argentina,Haiti,4.0,0.0,1
+1236,33749,2010-05-05,Chile,Trinidad and Tobago,2.0,0.0,1
+1237,33750,2010-05-07,Mexico,Ecuador,0.0,0.0,0
+1238,33752,2010-05-10,Mexico,Senegal,1.0,0.0,1
+1239,33754,2010-05-13,Germany,Malta,3.0,0.0,1
+1240,33755,2010-05-13,Mexico,Angola,1.0,0.0,1
+1241,33756,2010-05-15,Paraguay,North Korea,1.0,0.0,1
+1242,33757,2010-05-16,South Korea,Ecuador,2.0,0.0,1
+1243,33758,2010-05-16,Mexico,Chile,1.0,0.0,1
+1244,33759,2010-05-16,South Africa,Thailand,4.0,0.0,1
+1245,33772,2010-05-24,Argentina,Canada,5.0,0.0,1
+1246,33773,2010-05-24,Australia,New Zealand,2.0,1.0,1
+1247,33774,2010-05-24,England,Mexico,3.0,1.0,1
+1248,33775,2010-05-24,Japan,South Korea,0.0,2.0,2
+1249,33776,2010-05-24,Portugal,Cape Verde,0.0,0.0,0
+1250,33777,2010-05-24,South Africa,Bulgaria,1.0,1.0,0
+1251,33779,2010-05-25,Georgia,Cameroon,0.0,0.0,0
+1252,33780,2010-05-25,Greece,North Korea,2.0,2.0,0
+1253,33781,2010-05-25,Republic of Ireland,Paraguay,2.0,1.0,1
+1254,33783,2010-05-25,Nigeria,Saudi Arabia,0.0,0.0,0
+1255,33785,2010-05-25,United States,Czech Republic,2.0,4.0,2
+1256,33787,2010-05-26,Chile,Zambia,3.0,0.0,1
+1257,33789,2010-05-26,France,Costa Rica,2.0,1.0,1
+1258,33790,2010-05-26,Netherlands,Mexico,2.0,1.0,1
+1259,33792,2010-05-26,Uruguay,Israel,4.0,1.0,1
