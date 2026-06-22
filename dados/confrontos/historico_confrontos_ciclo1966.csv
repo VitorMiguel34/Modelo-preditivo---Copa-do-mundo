@@ -1,281 +1,281 @@
-,index,date,home_team,away_team,home_score,away_score
-0,5557,1962-08-15,Argentina,Uruguay,3.0,1.0
-1,5577,1962-09-02,Poland,Hungary,0.0,2.0
-2,5608,1962-09-30,Bulgaria,Poland,2.0,1.0
-3,5611,1962-10-03,England,France,1.0,1.0
-4,5621,1962-10-14,Hungary,Yugoslavia,0.0,1.0
-5,5628,1962-10-20,Northern Ireland,England,1.0,3.0
-6,5630,1962-10-24,Germany,France,2.0,2.0
-7,5634,1962-10-28,Hungary,Austria,2.0,0.0
-8,5641,1962-11-01,Spain,Romania,6.0,0.0
-9,5646,1962-11-07,Bulgaria,Portugal,3.0,1.0
-10,5647,1962-11-07,Chile,Argentina,1.0,1.0
-11,5648,1962-11-07,Hungary,Wales,3.0,1.0
-12,5651,1962-11-11,Austria,Italy,1.0,2.0
-13,5652,1962-11-11,France,Hungary,2.0,3.0
-14,5654,1962-11-11,Netherlands,Switzerland,3.0,1.0
-15,5657,1962-11-21,Argentina,Chile,1.0,0.0
-16,5658,1962-11-21,England,Wales,4.0,0.0
-17,5663,1962-11-25,Bulgaria,Austria,1.0,1.0
-18,5665,1962-11-25,Romania,Spain,3.0,1.0
-19,5669,1962-12-02,Belgium,Spain,1.0,1.0
-20,5670,1962-12-02,Italy,Turkey,6.0,0.0
-21,5679,1962-12-16,Portugal,Bulgaria,3.0,1.0
-22,5680,1962-12-23,Germany,Switzerland,5.0,1.0
-23,5687,1963-01-06,Algeria,Bulgaria,2.0,1.0
-24,5689,1963-01-09,Spain,France,0.0,0.0
-25,5690,1963-01-13,Morocco,Switzerland,1.0,0.0
-26,5694,1963-01-23,Bulgaria,Portugal,1.0,0.0
-27,5706,1963-02-27,France,England,5.0,2.0
-28,5713,1963-03-03,Paraguay,Brazil,2.0,2.0
-29,5717,1963-03-10,Argentina,Colombia,4.0,2.0
-30,5719,1963-03-10,Brazil,Peru,1.0,0.0
-31,5722,1963-03-13,Argentina,Peru,1.0,2.0
-32,5723,1963-03-14,Brazil,Colombia,5.0,1.0
-33,5726,1963-03-17,Brazil,Paraguay,0.0,2.0
-34,5728,1963-03-20,Argentina,Ecuador,4.0,2.0
-35,5730,1963-03-20,Wales,Hungary,1.0,1.0
-36,5734,1963-03-23,Uruguay,Chile,3.0,2.0
-37,5735,1963-03-24,Argentina,Brazil,3.0,0.0
-38,5739,1963-03-24,Mexico,Curaçao,1.0,2.0
-39,5743,1963-03-27,Brazil,Ecuador,2.0,2.0
-40,5747,1963-03-27,Turkey,Italy,0.0,1.0
-41,5748,1963-03-28,Bolivia,Argentina,3.0,2.0
-42,5750,1963-03-28,Jamaica,Mexico,0.0,8.0
-43,5753,1963-03-30,Costa Rica,Mexico,0.0,0.0
-44,5757,1963-03-31,Argentina,Paraguay,1.0,1.0
-45,5759,1963-03-31,Bolivia,Brazil,5.0,4.0
-46,5765,1963-03-31,Switzerland,Netherlands,1.0,1.0
-47,5778,1963-04-06,England,Scotland,1.0,2.0
-48,5789,1963-04-12,France,Gambia,5.0,1.0
-49,5793,1963-04-13,Brazil,Argentina,2.0,3.0
-50,5800,1963-04-14,France,Gabon,3.0,0.0
-51,5806,1963-04-16,Brazil,Argentina,5.0,2.0
-52,5812,1963-04-16,France,Burkina Faso,1.0,0.0
-53,5815,1963-04-17,Netherlands,France,1.0,0.0
-54,5817,1963-04-18,Senegal,France,2.0,0.0
-55,5819,1963-04-20,France,Madagascar,4.0,1.0
-56,5821,1963-04-21,Portugal,Brazil,1.0,0.0
-57,5823,1963-04-24,Belgium,Brazil,5.0,1.0
-58,5829,1963-04-28,Bulgaria,Czechoslovakia,1.0,0.0
-59,5830,1963-04-28,France,Brazil,2.0,3.0
-60,5833,1963-05-02,Netherlands,Brazil,1.0,0.0
-61,5836,1963-05-05,Germany,Brazil,1.0,2.0
-62,5837,1963-05-05,Sweden,Hungary,2.0,1.0
-63,5838,1963-05-08,England,Brazil,1.0,1.0
-64,5840,1963-05-12,Italy,Brazil,3.0,0.0
-65,5843,1963-05-17,Egypt,Brazil,0.0,1.0
-66,5844,1963-05-19,Hungary,Denmark,6.0,0.0
-67,5846,1963-05-19,Israel,Brazil,0.0,5.0
-68,5850,1963-05-29,Czechoslovakia,England,2.0,4.0
-69,5851,1963-05-30,Spain,Northern Ireland,1.0,1.0
-70,5853,1963-06-02,Czechoslovakia,Hungary,2.0,2.0
-71,5854,1963-06-02,German DR,England,1.0,2.0
-72,5859,1963-06-05,Switzerland,England,1.0,8.0
-73,5860,1963-06-09,Austria,Italy,0.0,1.0
-74,5863,1963-06-13,Spain,Scotland,2.0,6.0
-75,5873,1963-07-24,Chile,Uruguay,0.0,0.0
-76,5902,1963-09-04,German DR,Bulgaria,1.0,1.0
-77,5910,1963-09-18,Bulgaria,Sudan,1.0,1.0
-78,5913,1963-09-22,Russia,Hungary,1.0,1.0
-79,5918,1963-09-29,Bulgaria,France,1.0,0.0
-80,5925,1963-10-06,Yugoslavia,Hungary,2.0,0.0
-81,5930,1963-10-12,Wales,England,0.0,4.0
-82,5932,1963-10-13,Russia,Italy,2.0,0.0
-83,5933,1963-10-15,Paraguay,Argentina,0.0,4.0
-84,5936,1963-10-19,German DR,Hungary,1.0,2.0
-85,5939,1963-10-26,France,Bulgaria,3.0,1.0
-86,5941,1963-10-27,Hungary,Austria,2.0,1.0
-87,5943,1963-10-29,Argentina,Paraguay,2.0,3.0
-88,5946,1963-10-30,Northern Ireland,Spain,0.0,1.0
-89,5948,1963-11-03,Hungary,German DR,3.0,3.0
-90,5950,1963-11-03,Switzerland,Norway,0.0,2.0
-91,5953,1963-11-10,Italy,Russia,1.0,1.0
-92,5954,1963-11-11,France,Switzerland,2.0,2.0
-93,5955,1963-11-11,North Korea,Somalia,14.0,0.0
-94,5963,1963-11-18,Indonesia,North Korea,1.0,5.0
-95,5964,1963-11-19,North Korea,North Vietnam,2.0,0.0
-96,5965,1963-11-20,England,Northern Ireland,8.0,3.0
-97,5969,1963-11-22,Egypt,North Korea,1.0,1.0
-98,5980,1963-12-01,Spain,Belgium,1.0,2.0
-99,5991,1963-12-14,Italy,Austria,1.0,0.0
-100,5998,1963-12-25,France,Belgium,1.0,2.0
-101,6019,1964-03-11,Spain,Republic of Ireland,5.0,1.0
-102,6022,1964-03-18,Bulgaria,Yugoslavia,0.0,1.0
-103,6026,1964-04-01,Yugoslavia,Bulgaria,1.0,0.0
-104,6028,1964-04-08,Republic of Ireland,Spain,0.0,2.0
-105,6030,1964-04-11,Italy,Czechoslovakia,0.0,0.0
-106,6031,1964-04-11,Scotland,England,1.0,0.0
-107,6035,1964-04-15,Switzerland,Belgium,2.0,0.0
-108,6038,1964-04-25,France,Hungary,1.0,3.0
-109,6041,1964-04-29,Northern Ireland,Uruguay,3.0,0.0
-110,6042,1964-04-29,Switzerland,Portugal,2.0,3.0
-111,6043,1964-05-03,Austria,Hungary,1.0,0.0
-112,6044,1964-05-03,Belgium,Portugal,1.0,2.0
-113,6045,1964-05-06,England,Uruguay,2.0,1.0
-114,6048,1964-05-10,Switzerland,Italy,1.0,3.0
-115,6053,1964-05-14,Austria,Uruguay,0.0,2.0
-116,6055,1964-05-17,Portugal,England,3.0,4.0
-117,6057,1964-05-20,Russia,Uruguay,1.0,0.0
-118,6058,1964-05-23,Hungary,France,2.0,1.0
-119,6059,1964-05-24,Republic of Ireland,England,1.0,3.0
-120,6064,1964-05-27,United States,England,0.0,10.0
-121,6066,1964-05-30,Brazil,England,5.0,1.0
-122,6068,1964-05-31,Argentina,Portugal,2.0,0.0
-123,6070,1964-06-03,Brazil,Argentina,0.0,3.0
-124,6072,1964-06-04,England,Portugal,1.0,1.0
-125,6075,1964-06-06,Argentina,England,1.0,0.0
-126,6076,1964-06-07,Brazil,Portugal,4.0,1.0
-127,6079,1964-06-17,Spain,Hungary,2.0,1.0
-128,6082,1964-06-20,Hungary,Denmark,3.0,1.0
-129,6083,1964-06-21,Spain,Russia,2.0,1.0
-130,6086,1964-07-01,Norway,Switzerland,3.0,2.0
-131,6125,1964-09-24,Argentina,Chile,5.0,0.0
-132,6135,1964-10-03,Northern Ireland,England,3.0,4.0
-133,6138,1964-10-04,Luxembourg,France,0.0,2.0
-134,6139,1964-10-04,Switzerland,Hungary,0.0,2.0
-135,6145,1964-10-11,Hungary,Czechoslovakia,2.0,2.0
-136,6146,1964-10-14,Chile,Argentina,1.0,1.0
-137,6147,1964-10-14,Northern Ireland,Switzerland,1.0,0.0
-138,6151,1964-10-21,England,Belgium,2.0,2.0
-139,6155,1964-10-25,Hungary,Yugoslavia,2.0,1.0
-140,6161,1964-11-04,Italy,Finland,6.0,1.0
-141,6163,1964-11-11,France,Norway,1.0,0.0
-142,6166,1964-11-14,Switzerland,Northern Ireland,2.0,1.0
-143,6169,1964-11-15,Portugal,Spain,2.0,1.0
-144,6174,1964-11-18,England,Wales,2.0,1.0
-145,6177,1964-11-25,Paraguay,Argentina,3.0,0.0
-146,6179,1964-11-29,Bulgaria,Russia,0.0,0.0
-147,6182,1964-12-02,Belgium,France,3.0,0.0
-148,6183,1964-12-05,Italy,Denmark,3.0,1.0
-149,6184,1964-12-08,Argentina,Paraguay,8.0,1.0
-150,6186,1964-12-09,Netherlands,England,1.0,1.0
-151,6189,1964-12-20,Turkey,Bulgaria,0.0,0.0
-152,6190,1965-01-03,Uruguay,German DR,0.0,2.0
-153,6196,1965-01-24,Portugal,Turkey,5.0,1.0
-154,6208,1965-02-28,Honduras,Mexico,0.0,1.0
-155,6211,1965-03-04,Mexico,Honduras,3.0,0.0
-156,6214,1965-03-07,United States,Mexico,2.0,2.0
-157,6220,1965-03-12,Mexico,United States,2.0,0.0
-158,6221,1965-03-13,Germany,Italy,1.0,1.0
-159,6229,1965-03-17,Israel,Switzerland,0.0,0.0
-160,6237,1965-03-24,France,Austria,1.0,2.0
-161,6243,1965-03-28,El Salvador,Mexico,0.0,2.0
-162,6249,1965-04-01,Mexico,Curaçao,5.0,0.0
-163,6253,1965-04-04,Haiti,Mexico,0.0,3.0
-164,6254,1965-04-06,Costa Rica,Mexico,1.0,1.0
-165,6261,1965-04-10,England,Scotland,2.0,2.0
-166,6262,1965-04-11,Albania,Switzerland,0.0,2.0
-167,6263,1965-04-11,Guatemala,Mexico,1.0,2.0
-168,6266,1965-04-15,Chile,Peru,4.0,1.0
-169,6270,1965-04-18,Poland,Italy,0.0,0.0
-170,6271,1965-04-18,Yugoslavia,France,1.0,0.0
-171,6272,1965-04-19,Turkey,Portugal,0.0,1.0
-172,6275,1965-04-25,Costa Rica,Mexico,0.0,0.0
-173,6276,1965-04-25,Czechoslovakia,Portugal,0.0,1.0
-174,6277,1965-04-25,Paraguay,Uruguay,2.0,1.0
-175,6278,1965-04-28,Peru,Chile,0.0,1.0
-176,6280,1965-05-01,Italy,Wales,4.0,1.0
-177,6282,1965-05-01,Uruguay,Paraguay,4.0,0.0
-178,6285,1965-05-02,Switzerland,Albania,1.0,0.0
-179,6286,1965-05-03,Jamaica,Mexico,2.0,3.0
-180,6288,1965-05-05,England,Hungary,1.0,0.0
-181,6289,1965-05-05,Republic of Ireland,Spain,1.0,0.0
-182,6293,1965-05-07,Mexico,Jamaica,8.0,0.0
-183,6295,1965-05-08,Scotland,Spain,0.0,0.0
-184,6297,1965-05-09,Bulgaria,Turkey,4.0,1.0
-185,6298,1965-05-09,Chile,Uruguay,0.0,0.0
-186,6299,1965-05-09,Yugoslavia,England,1.0,1.0
-187,6301,1965-05-12,Germany,England,0.0,1.0
-188,6302,1965-05-16,Mexico,Costa Rica,1.0,0.0
-189,6304,1965-05-16,Poland,Bulgaria,1.0,1.0
-190,6306,1965-05-16,Sweden,England,1.0,2.0
-191,6307,1965-05-16,Uruguay,Chile,1.0,1.0
-192,6311,1965-05-23,German DR,Hungary,1.0,1.0
-193,6315,1965-05-23,Uruguay,Venezuela,5.0,0.0
-194,6317,1965-05-26,Switzerland,Germany,0.0,1.0
-195,6323,1965-05-30,Venezuela,Uruguay,1.0,3.0
-196,6324,1965-06-02,Brazil,Belgium,5.0,0.0
-197,6326,1965-06-03,France,Argentina,0.0,0.0
-198,6327,1965-06-06,Brazil,Germany,2.0,0.0
-199,6329,1965-06-06,Peru,Uruguay,0.0,1.0
-200,6330,1965-06-09,Brazil,Argentina,0.0,0.0
-201,6332,1965-06-13,Austria,Hungary,0.0,1.0
-202,6333,1965-06-13,Bulgaria,Israel,4.0,0.0
-203,6334,1965-06-13,Uruguay,Peru,2.0,1.0
-204,6335,1965-06-14,Portugal,Romania,2.0,1.0
-205,6337,1965-06-16,Sweden,Italy,2.0,2.0
-206,6338,1965-06-17,Algeria,Brazil,0.0,3.0
-207,6340,1965-06-23,Finland,Italy,0.0,2.0
-208,6341,1965-06-24,Portugal,Brazil,0.0,0.0
-209,6343,1965-06-27,Hungary,Italy,2.0,1.0
-210,6345,1965-06-30,Sweden,Brazil,1.0,2.0
-211,6346,1965-07-04,Russia,Brazil,0.0,3.0
-212,6349,1965-07-14,Argentina,Chile,1.0,0.0
-213,6360,1965-07-21,Chile,Argentina,1.0,1.0
-214,6380,1965-08-01,Argentina,Paraguay,3.0,0.0
-215,6381,1965-08-01,Chile,Colombia,7.0,2.0
-216,6383,1965-08-02,North Korea,North Vietnam,1.0,0.0
-217,6386,1965-08-04,North Korea,China,3.0,0.0
-218,6391,1965-08-07,Colombia,Chile,2.0,0.0
-219,6392,1965-08-07,North Korea,Guinea,3.0,0.0
-220,6394,1965-08-08,North Korea,Indonesia,3.0,0.0
-221,6395,1965-08-08,Paraguay,Argentina,0.0,0.0
-222,6398,1965-08-10,North Korea,Cambodia,4.0,0.0
-223,6406,1965-08-15,Ecuador,Chile,2.0,2.0
-224,6407,1965-08-17,Argentina,Bolivia,4.0,1.0
-225,6419,1965-08-22,Chile,Ecuador,3.0,1.0
-226,6433,1965-08-29,Bolivia,Argentina,1.0,2.0
-227,6436,1965-09-04,Bulgaria,German DR,3.0,2.0
-228,6439,1965-09-05,Hungary,Austria,3.0,0.0
-229,6440,1965-09-07,Brazil,Uruguay,3.0,0.0
-230,6445,1965-09-15,Norway,France,0.0,1.0
-231,6453,1965-09-26,Bulgaria,Belgium,3.0,0.0
-232,6463,1965-10-02,Wales,England,0.0,0.0
-233,6465,1965-10-09,France,Yugoslavia,1.0,0.0
-234,6467,1965-10-09,Hungary,German DR,3.0,2.0
-235,6469,1965-10-12,Chile,Ecuador,2.0,1.0
-236,6474,1965-10-17,Netherlands,Switzerland,0.0,0.0
-237,6475,1965-10-20,England,Austria,2.0,3.0
-238,6480,1965-10-27,Belgium,Bulgaria,5.0,0.0
-239,6482,1965-10-27,Spain,Republic of Ireland,4.0,1.0
-240,6487,1965-10-31,Portugal,Czechoslovakia,0.0,0.0
-241,6489,1965-11-01,Italy,Poland,6.0,1.0
-242,6490,1965-11-06,France,Luxembourg,4.0,1.0
-243,6494,1965-11-09,Scotland,Italy,1.0,0.0
-244,6495,1965-11-10,England,Northern Ireland,2.0,1.0
-245,6496,1965-11-10,Republic of Ireland,Spain,0.0,1.0
-246,6503,1965-11-14,Switzerland,Netherlands,2.0,1.0
-247,6508,1965-11-21,Brazil,Russia,2.0,2.0
-248,6509,1965-11-21,Brazil,Hungary,5.0,3.0
-249,6512,1965-11-21,Israel,Bulgaria,1.0,2.0
-250,6514,1965-11-21,North Korea,Australia,6.0,1.0
-251,6515,1965-11-21,Romania,Portugal,2.0,0.0
-252,6521,1965-11-24,Australia,North Korea,1.0,3.0
-253,6527,1965-12-01,Argentina,Russia,1.0,1.0
-254,6530,1965-12-04,Uruguay,Russia,1.0,3.0
-255,6533,1965-12-07,Italy,Scotland,3.0,0.0
-256,6536,1965-12-08,Spain,England,0.0,2.0
-257,6548,1965-12-29,Belgium,Bulgaria,1.0,2.0
-258,6549,1966-01-05,England,Poland,1.0,1.0
-259,6552,1966-02-23,Chile,Russia,0.0,2.0
-260,6553,1966-02-23,England,Germany,1.0,0.0
-261,6554,1966-02-25,Egypt,Bulgaria,2.0,2.0
-262,6566,1966-03-19,France,Italy,0.0,0.0
-263,6575,1966-04-02,Scotland,England,3.0,4.0
-264,6600,1966-04-17,Chile,Brazil,0.0,1.0
-265,6602,1966-04-20,Chile,Brazil,2.0,1.0
-266,6603,1966-04-20,France,Belgium,0.0,3.0
-267,6604,1966-04-20,Switzerland,Russia,2.0,2.0
-268,6606,1966-04-24,Mexico,Paraguay,7.0,0.0
-269,6609,1966-05-03,Poland,Hungary,1.0,1.0
-270,6610,1966-05-04,England,Yugoslavia,2.0,0.0
-271,6615,1966-05-08,Yugoslavia,Hungary,2.0,0.0
-272,6617,1966-05-11,Mexico,Chile,1.0,0.0
-273,6619,1966-05-14,Brazil,Wales,3.0,1.0
-274,6620,1966-05-15,Brazil,Chile,1.0,1.0
-275,6621,1966-05-15,Paraguay,Uruguay,2.0,2.0
-276,6622,1966-05-18,Brazil,Wales,1.0,0.0
-277,6625,1966-05-18,Uruguay,Paraguay,3.0,1.0
-278,6626,1966-05-19,Brazil,Chile,1.0,0.0
-279,6629,1966-05-22,Chile,Wales,2.0,0.0
+,index,date,home_team,away_team,home_score,away_score,resultado
+0,5557,1962-08-15,Argentina,Uruguay,3.0,1.0,1
+1,5577,1962-09-02,Poland,Hungary,0.0,2.0,2
+2,5608,1962-09-30,Bulgaria,Poland,2.0,1.0,1
+3,5611,1962-10-03,England,France,1.0,1.0,0
+4,5621,1962-10-14,Hungary,Yugoslavia,0.0,1.0,2
+5,5628,1962-10-20,Northern Ireland,England,1.0,3.0,2
+6,5630,1962-10-24,Germany,France,2.0,2.0,0
+7,5634,1962-10-28,Hungary,Austria,2.0,0.0,1
+8,5641,1962-11-01,Spain,Romania,6.0,0.0,1
+9,5646,1962-11-07,Bulgaria,Portugal,3.0,1.0,1
+10,5647,1962-11-07,Chile,Argentina,1.0,1.0,0
+11,5648,1962-11-07,Hungary,Wales,3.0,1.0,1
+12,5651,1962-11-11,Austria,Italy,1.0,2.0,2
+13,5652,1962-11-11,France,Hungary,2.0,3.0,2
+14,5654,1962-11-11,Netherlands,Switzerland,3.0,1.0,1
+15,5657,1962-11-21,Argentina,Chile,1.0,0.0,1
+16,5658,1962-11-21,England,Wales,4.0,0.0,1
+17,5663,1962-11-25,Bulgaria,Austria,1.0,1.0,0
+18,5665,1962-11-25,Romania,Spain,3.0,1.0,1
+19,5669,1962-12-02,Belgium,Spain,1.0,1.0,0
+20,5670,1962-12-02,Italy,Turkey,6.0,0.0,1
+21,5679,1962-12-16,Portugal,Bulgaria,3.0,1.0,1
+22,5680,1962-12-23,Germany,Switzerland,5.0,1.0,1
+23,5687,1963-01-06,Algeria,Bulgaria,2.0,1.0,1
+24,5689,1963-01-09,Spain,France,0.0,0.0,0
+25,5690,1963-01-13,Morocco,Switzerland,1.0,0.0,1
+26,5694,1963-01-23,Bulgaria,Portugal,1.0,0.0,1
+27,5706,1963-02-27,France,England,5.0,2.0,1
+28,5713,1963-03-03,Paraguay,Brazil,2.0,2.0,0
+29,5717,1963-03-10,Argentina,Colombia,4.0,2.0,1
+30,5719,1963-03-10,Brazil,Peru,1.0,0.0,1
+31,5722,1963-03-13,Argentina,Peru,1.0,2.0,2
+32,5723,1963-03-14,Brazil,Colombia,5.0,1.0,1
+33,5726,1963-03-17,Brazil,Paraguay,0.0,2.0,2
+34,5728,1963-03-20,Argentina,Ecuador,4.0,2.0,1
+35,5730,1963-03-20,Wales,Hungary,1.0,1.0,0
+36,5734,1963-03-23,Uruguay,Chile,3.0,2.0,1
+37,5735,1963-03-24,Argentina,Brazil,3.0,0.0,1
+38,5739,1963-03-24,Mexico,Curaçao,1.0,2.0,2
+39,5743,1963-03-27,Brazil,Ecuador,2.0,2.0,0
+40,5747,1963-03-27,Turkey,Italy,0.0,1.0,2
+41,5748,1963-03-28,Bolivia,Argentina,3.0,2.0,1
+42,5750,1963-03-28,Jamaica,Mexico,0.0,8.0,2
+43,5753,1963-03-30,Costa Rica,Mexico,0.0,0.0,0
+44,5757,1963-03-31,Argentina,Paraguay,1.0,1.0,0
+45,5759,1963-03-31,Bolivia,Brazil,5.0,4.0,1
+46,5765,1963-03-31,Switzerland,Netherlands,1.0,1.0,0
+47,5778,1963-04-06,England,Scotland,1.0,2.0,2
+48,5789,1963-04-12,France,Gambia,5.0,1.0,1
+49,5793,1963-04-13,Brazil,Argentina,2.0,3.0,2
+50,5800,1963-04-14,France,Gabon,3.0,0.0,1
+51,5806,1963-04-16,Brazil,Argentina,5.0,2.0,1
+52,5812,1963-04-16,France,Burkina Faso,1.0,0.0,1
+53,5815,1963-04-17,Netherlands,France,1.0,0.0,1
+54,5817,1963-04-18,Senegal,France,2.0,0.0,1
+55,5819,1963-04-20,France,Madagascar,4.0,1.0,1
+56,5821,1963-04-21,Portugal,Brazil,1.0,0.0,1
+57,5823,1963-04-24,Belgium,Brazil,5.0,1.0,1
+58,5829,1963-04-28,Bulgaria,Czechoslovakia,1.0,0.0,1
+59,5830,1963-04-28,France,Brazil,2.0,3.0,2
+60,5833,1963-05-02,Netherlands,Brazil,1.0,0.0,1
+61,5836,1963-05-05,Germany,Brazil,1.0,2.0,2
+62,5837,1963-05-05,Sweden,Hungary,2.0,1.0,1
+63,5838,1963-05-08,England,Brazil,1.0,1.0,0
+64,5840,1963-05-12,Italy,Brazil,3.0,0.0,1
+65,5843,1963-05-17,Egypt,Brazil,0.0,1.0,2
+66,5844,1963-05-19,Hungary,Denmark,6.0,0.0,1
+67,5846,1963-05-19,Israel,Brazil,0.0,5.0,2
+68,5850,1963-05-29,Czechoslovakia,England,2.0,4.0,2
+69,5851,1963-05-30,Spain,Northern Ireland,1.0,1.0,0
+70,5853,1963-06-02,Czechoslovakia,Hungary,2.0,2.0,0
+71,5854,1963-06-02,German DR,England,1.0,2.0,2
+72,5859,1963-06-05,Switzerland,England,1.0,8.0,2
+73,5860,1963-06-09,Austria,Italy,0.0,1.0,2
+74,5863,1963-06-13,Spain,Scotland,2.0,6.0,2
+75,5873,1963-07-24,Chile,Uruguay,0.0,0.0,0
+76,5902,1963-09-04,German DR,Bulgaria,1.0,1.0,0
+77,5910,1963-09-18,Bulgaria,Sudan,1.0,1.0,0
+78,5913,1963-09-22,Russia,Hungary,1.0,1.0,0
+79,5918,1963-09-29,Bulgaria,France,1.0,0.0,1
+80,5925,1963-10-06,Yugoslavia,Hungary,2.0,0.0,1
+81,5930,1963-10-12,Wales,England,0.0,4.0,2
+82,5932,1963-10-13,Russia,Italy,2.0,0.0,1
+83,5933,1963-10-15,Paraguay,Argentina,0.0,4.0,2
+84,5936,1963-10-19,German DR,Hungary,1.0,2.0,2
+85,5939,1963-10-26,France,Bulgaria,3.0,1.0,1
+86,5941,1963-10-27,Hungary,Austria,2.0,1.0,1
+87,5943,1963-10-29,Argentina,Paraguay,2.0,3.0,2
+88,5946,1963-10-30,Northern Ireland,Spain,0.0,1.0,2
+89,5948,1963-11-03,Hungary,German DR,3.0,3.0,0
+90,5950,1963-11-03,Switzerland,Norway,0.0,2.0,2
+91,5953,1963-11-10,Italy,Russia,1.0,1.0,0
+92,5954,1963-11-11,France,Switzerland,2.0,2.0,0
+93,5955,1963-11-11,North Korea,Somalia,14.0,0.0,1
+94,5963,1963-11-18,Indonesia,North Korea,1.0,5.0,2
+95,5964,1963-11-19,North Korea,North Vietnam,2.0,0.0,1
+96,5965,1963-11-20,England,Northern Ireland,8.0,3.0,1
+97,5969,1963-11-22,Egypt,North Korea,1.0,1.0,0
+98,5980,1963-12-01,Spain,Belgium,1.0,2.0,2
+99,5991,1963-12-14,Italy,Austria,1.0,0.0,1
+100,5998,1963-12-25,France,Belgium,1.0,2.0,2
+101,6019,1964-03-11,Spain,Republic of Ireland,5.0,1.0,1
+102,6022,1964-03-18,Bulgaria,Yugoslavia,0.0,1.0,2
+103,6026,1964-04-01,Yugoslavia,Bulgaria,1.0,0.0,1
+104,6028,1964-04-08,Republic of Ireland,Spain,0.0,2.0,2
+105,6030,1964-04-11,Italy,Czechoslovakia,0.0,0.0,0
+106,6031,1964-04-11,Scotland,England,1.0,0.0,1
+107,6035,1964-04-15,Switzerland,Belgium,2.0,0.0,1
+108,6038,1964-04-25,France,Hungary,1.0,3.0,2
+109,6041,1964-04-29,Northern Ireland,Uruguay,3.0,0.0,1
+110,6042,1964-04-29,Switzerland,Portugal,2.0,3.0,2
+111,6043,1964-05-03,Austria,Hungary,1.0,0.0,1
+112,6044,1964-05-03,Belgium,Portugal,1.0,2.0,2
+113,6045,1964-05-06,England,Uruguay,2.0,1.0,1
+114,6048,1964-05-10,Switzerland,Italy,1.0,3.0,2
+115,6053,1964-05-14,Austria,Uruguay,0.0,2.0,2
+116,6055,1964-05-17,Portugal,England,3.0,4.0,2
+117,6057,1964-05-20,Russia,Uruguay,1.0,0.0,1
+118,6058,1964-05-23,Hungary,France,2.0,1.0,1
+119,6059,1964-05-24,Republic of Ireland,England,1.0,3.0,2
+120,6064,1964-05-27,United States,England,0.0,10.0,2
+121,6066,1964-05-30,Brazil,England,5.0,1.0,1
+122,6068,1964-05-31,Argentina,Portugal,2.0,0.0,1
+123,6070,1964-06-03,Brazil,Argentina,0.0,3.0,2
+124,6072,1964-06-04,England,Portugal,1.0,1.0,0
+125,6075,1964-06-06,Argentina,England,1.0,0.0,1
+126,6076,1964-06-07,Brazil,Portugal,4.0,1.0,1
+127,6079,1964-06-17,Spain,Hungary,2.0,1.0,1
+128,6082,1964-06-20,Hungary,Denmark,3.0,1.0,1
+129,6083,1964-06-21,Spain,Russia,2.0,1.0,1
+130,6086,1964-07-01,Norway,Switzerland,3.0,2.0,1
+131,6125,1964-09-24,Argentina,Chile,5.0,0.0,1
+132,6135,1964-10-03,Northern Ireland,England,3.0,4.0,2
+133,6138,1964-10-04,Luxembourg,France,0.0,2.0,2
+134,6139,1964-10-04,Switzerland,Hungary,0.0,2.0,2
+135,6145,1964-10-11,Hungary,Czechoslovakia,2.0,2.0,0
+136,6146,1964-10-14,Chile,Argentina,1.0,1.0,0
+137,6147,1964-10-14,Northern Ireland,Switzerland,1.0,0.0,1
+138,6151,1964-10-21,England,Belgium,2.0,2.0,0
+139,6155,1964-10-25,Hungary,Yugoslavia,2.0,1.0,1
+140,6161,1964-11-04,Italy,Finland,6.0,1.0,1
+141,6163,1964-11-11,France,Norway,1.0,0.0,1
+142,6166,1964-11-14,Switzerland,Northern Ireland,2.0,1.0,1
+143,6169,1964-11-15,Portugal,Spain,2.0,1.0,1
+144,6174,1964-11-18,England,Wales,2.0,1.0,1
+145,6177,1964-11-25,Paraguay,Argentina,3.0,0.0,1
+146,6179,1964-11-29,Bulgaria,Russia,0.0,0.0,0
+147,6182,1964-12-02,Belgium,France,3.0,0.0,1
+148,6183,1964-12-05,Italy,Denmark,3.0,1.0,1
+149,6184,1964-12-08,Argentina,Paraguay,8.0,1.0,1
+150,6186,1964-12-09,Netherlands,England,1.0,1.0,0
+151,6189,1964-12-20,Turkey,Bulgaria,0.0,0.0,0
+152,6190,1965-01-03,Uruguay,German DR,0.0,2.0,2
+153,6196,1965-01-24,Portugal,Turkey,5.0,1.0,1
+154,6208,1965-02-28,Honduras,Mexico,0.0,1.0,2
+155,6211,1965-03-04,Mexico,Honduras,3.0,0.0,1
+156,6214,1965-03-07,United States,Mexico,2.0,2.0,0
+157,6220,1965-03-12,Mexico,United States,2.0,0.0,1
+158,6221,1965-03-13,Germany,Italy,1.0,1.0,0
+159,6229,1965-03-17,Israel,Switzerland,0.0,0.0,0
+160,6237,1965-03-24,France,Austria,1.0,2.0,2
+161,6243,1965-03-28,El Salvador,Mexico,0.0,2.0,2
+162,6249,1965-04-01,Mexico,Curaçao,5.0,0.0,1
+163,6253,1965-04-04,Haiti,Mexico,0.0,3.0,2
+164,6254,1965-04-06,Costa Rica,Mexico,1.0,1.0,0
+165,6261,1965-04-10,England,Scotland,2.0,2.0,0
+166,6262,1965-04-11,Albania,Switzerland,0.0,2.0,2
+167,6263,1965-04-11,Guatemala,Mexico,1.0,2.0,2
+168,6266,1965-04-15,Chile,Peru,4.0,1.0,1
+169,6270,1965-04-18,Poland,Italy,0.0,0.0,0
+170,6271,1965-04-18,Yugoslavia,France,1.0,0.0,1
+171,6272,1965-04-19,Turkey,Portugal,0.0,1.0,2
+172,6275,1965-04-25,Costa Rica,Mexico,0.0,0.0,0
+173,6276,1965-04-25,Czechoslovakia,Portugal,0.0,1.0,2
+174,6277,1965-04-25,Paraguay,Uruguay,2.0,1.0,1
+175,6278,1965-04-28,Peru,Chile,0.0,1.0,2
+176,6280,1965-05-01,Italy,Wales,4.0,1.0,1
+177,6282,1965-05-01,Uruguay,Paraguay,4.0,0.0,1
+178,6285,1965-05-02,Switzerland,Albania,1.0,0.0,1
+179,6286,1965-05-03,Jamaica,Mexico,2.0,3.0,2
+180,6288,1965-05-05,England,Hungary,1.0,0.0,1
+181,6289,1965-05-05,Republic of Ireland,Spain,1.0,0.0,1
+182,6293,1965-05-07,Mexico,Jamaica,8.0,0.0,1
+183,6295,1965-05-08,Scotland,Spain,0.0,0.0,0
+184,6297,1965-05-09,Bulgaria,Turkey,4.0,1.0,1
+185,6298,1965-05-09,Chile,Uruguay,0.0,0.0,0
+186,6299,1965-05-09,Yugoslavia,England,1.0,1.0,0
+187,6301,1965-05-12,Germany,England,0.0,1.0,2
+188,6302,1965-05-16,Mexico,Costa Rica,1.0,0.0,1
+189,6304,1965-05-16,Poland,Bulgaria,1.0,1.0,0
+190,6306,1965-05-16,Sweden,England,1.0,2.0,2
+191,6307,1965-05-16,Uruguay,Chile,1.0,1.0,0
+192,6311,1965-05-23,German DR,Hungary,1.0,1.0,0
+193,6315,1965-05-23,Uruguay,Venezuela,5.0,0.0,1
+194,6317,1965-05-26,Switzerland,Germany,0.0,1.0,2
+195,6323,1965-05-30,Venezuela,Uruguay,1.0,3.0,2
+196,6324,1965-06-02,Brazil,Belgium,5.0,0.0,1
+197,6326,1965-06-03,France,Argentina,0.0,0.0,0
+198,6327,1965-06-06,Brazil,Germany,2.0,0.0,1
+199,6329,1965-06-06,Peru,Uruguay,0.0,1.0,2
+200,6330,1965-06-09,Brazil,Argentina,0.0,0.0,0
+201,6332,1965-06-13,Austria,Hungary,0.0,1.0,2
+202,6333,1965-06-13,Bulgaria,Israel,4.0,0.0,1
+203,6334,1965-06-13,Uruguay,Peru,2.0,1.0,1
+204,6335,1965-06-14,Portugal,Romania,2.0,1.0,1
+205,6337,1965-06-16,Sweden,Italy,2.0,2.0,0
+206,6338,1965-06-17,Algeria,Brazil,0.0,3.0,2
+207,6340,1965-06-23,Finland,Italy,0.0,2.0,2
+208,6341,1965-06-24,Portugal,Brazil,0.0,0.0,0
+209,6343,1965-06-27,Hungary,Italy,2.0,1.0,1
+210,6345,1965-06-30,Sweden,Brazil,1.0,2.0,2
+211,6346,1965-07-04,Russia,Brazil,0.0,3.0,2
+212,6349,1965-07-14,Argentina,Chile,1.0,0.0,1
+213,6360,1965-07-21,Chile,Argentina,1.0,1.0,0
+214,6380,1965-08-01,Argentina,Paraguay,3.0,0.0,1
+215,6381,1965-08-01,Chile,Colombia,7.0,2.0,1
+216,6383,1965-08-02,North Korea,North Vietnam,1.0,0.0,1
+217,6386,1965-08-04,North Korea,China,3.0,0.0,1
+218,6391,1965-08-07,Colombia,Chile,2.0,0.0,1
+219,6392,1965-08-07,North Korea,Guinea,3.0,0.0,1
+220,6394,1965-08-08,North Korea,Indonesia,3.0,0.0,1
+221,6395,1965-08-08,Paraguay,Argentina,0.0,0.0,0
+222,6398,1965-08-10,North Korea,Cambodia,4.0,0.0,1
+223,6406,1965-08-15,Ecuador,Chile,2.0,2.0,0
+224,6407,1965-08-17,Argentina,Bolivia,4.0,1.0,1
+225,6419,1965-08-22,Chile,Ecuador,3.0,1.0,1
+226,6433,1965-08-29,Bolivia,Argentina,1.0,2.0,2
+227,6436,1965-09-04,Bulgaria,German DR,3.0,2.0,1
+228,6439,1965-09-05,Hungary,Austria,3.0,0.0,1
+229,6440,1965-09-07,Brazil,Uruguay,3.0,0.0,1
+230,6445,1965-09-15,Norway,France,0.0,1.0,2
+231,6453,1965-09-26,Bulgaria,Belgium,3.0,0.0,1
+232,6463,1965-10-02,Wales,England,0.0,0.0,0
+233,6465,1965-10-09,France,Yugoslavia,1.0,0.0,1
+234,6467,1965-10-09,Hungary,German DR,3.0,2.0,1
+235,6469,1965-10-12,Chile,Ecuador,2.0,1.0,1
+236,6474,1965-10-17,Netherlands,Switzerland,0.0,0.0,0
+237,6475,1965-10-20,England,Austria,2.0,3.0,2
+238,6480,1965-10-27,Belgium,Bulgaria,5.0,0.0,1
+239,6482,1965-10-27,Spain,Republic of Ireland,4.0,1.0,1
+240,6487,1965-10-31,Portugal,Czechoslovakia,0.0,0.0,0
+241,6489,1965-11-01,Italy,Poland,6.0,1.0,1
+242,6490,1965-11-06,France,Luxembourg,4.0,1.0,1
+243,6494,1965-11-09,Scotland,Italy,1.0,0.0,1
+244,6495,1965-11-10,England,Northern Ireland,2.0,1.0,1
+245,6496,1965-11-10,Republic of Ireland,Spain,0.0,1.0,2
+246,6503,1965-11-14,Switzerland,Netherlands,2.0,1.0,1
+247,6508,1965-11-21,Brazil,Russia,2.0,2.0,0
+248,6509,1965-11-21,Brazil,Hungary,5.0,3.0,1
+249,6512,1965-11-21,Israel,Bulgaria,1.0,2.0,2
+250,6514,1965-11-21,North Korea,Australia,6.0,1.0,1
+251,6515,1965-11-21,Romania,Portugal,2.0,0.0,1
+252,6521,1965-11-24,Australia,North Korea,1.0,3.0,2
+253,6527,1965-12-01,Argentina,Russia,1.0,1.0,0
+254,6530,1965-12-04,Uruguay,Russia,1.0,3.0,2
+255,6533,1965-12-07,Italy,Scotland,3.0,0.0,1
+256,6536,1965-12-08,Spain,England,0.0,2.0,2
+257,6548,1965-12-29,Belgium,Bulgaria,1.0,2.0,2
+258,6549,1966-01-05,England,Poland,1.0,1.0,0
+259,6552,1966-02-23,Chile,Russia,0.0,2.0,2
+260,6553,1966-02-23,England,Germany,1.0,0.0,1
+261,6554,1966-02-25,Egypt,Bulgaria,2.0,2.0,0
+262,6566,1966-03-19,France,Italy,0.0,0.0,0
+263,6575,1966-04-02,Scotland,England,3.0,4.0,2
+264,6600,1966-04-17,Chile,Brazil,0.0,1.0,2
+265,6602,1966-04-20,Chile,Brazil,2.0,1.0,1
+266,6603,1966-04-20,France,Belgium,0.0,3.0,2
+267,6604,1966-04-20,Switzerland,Russia,2.0,2.0,0
+268,6606,1966-04-24,Mexico,Paraguay,7.0,0.0,1
+269,6609,1966-05-03,Poland,Hungary,1.0,1.0,0
+270,6610,1966-05-04,England,Yugoslavia,2.0,0.0,1
+271,6615,1966-05-08,Yugoslavia,Hungary,2.0,0.0,1
+272,6617,1966-05-11,Mexico,Chile,1.0,0.0,1
+273,6619,1966-05-14,Brazil,Wales,3.0,1.0,1
+274,6620,1966-05-15,Brazil,Chile,1.0,1.0,0
+275,6621,1966-05-15,Paraguay,Uruguay,2.0,2.0,0
+276,6622,1966-05-18,Brazil,Wales,1.0,0.0,1
+277,6625,1966-05-18,Uruguay,Paraguay,3.0,1.0,1
+278,6626,1966-05-19,Brazil,Chile,1.0,0.0,1
+279,6629,1966-05-22,Chile,Wales,2.0,0.0,1

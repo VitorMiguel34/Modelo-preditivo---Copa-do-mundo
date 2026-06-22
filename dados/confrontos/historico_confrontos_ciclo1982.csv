@@ -1,598 +1,598 @@
-,index,date,home_team,away_team,home_score,away_score
-0,11499,1978-08-30,Finland,Poland,0.0,1.0
-1,11501,1978-08-30,Norway,Austria,0.0,2.0
-2,11502,1978-09-01,France,Sweden,2.0,2.0
-3,11506,1978-09-06,German DR,Czechoslovakia,2.0,1.0
-4,11507,1978-09-06,Iceland,Poland,0.0,2.0
-5,11520,1978-09-20,Austria,Scotland,3.0,2.0
-6,11521,1978-09-20,Belgium,Norway,1.0,1.0
-7,11522,1978-09-20,Denmark,England,3.0,4.0
-8,11523,1978-09-20,Finland,Hungary,2.0,1.0
-9,11524,1978-09-20,Republic of Ireland,Northern Ireland,0.0,0.0
-10,11525,1978-09-20,Italy,Bulgaria,1.0,0.0
-11,11530,1978-09-23,Italy,Turkey,1.0,0.0
-12,11536,1978-10-01,Singapore,New Zealand,0.0,2.0
-13,11538,1978-10-04,Sweden,Czechoslovakia,1.0,3.0
-14,11539,1978-10-04,Yugoslavia,Spain,1.0,2.0
-15,11541,1978-10-07,Luxembourg,France,1.0,3.0
-16,11542,1978-10-11,Czechoslovakia,Germany,3.0,4.0
-17,11545,1978-10-11,Hungary,Russia,2.0,0.0
-18,11546,1978-10-11,Portugal,Belgium,1.0,1.0
-19,11547,1978-10-11,Romania,Poland,1.0,0.0
-20,11553,1978-10-22,Malawi,Algeria,1.0,1.0
-21,11555,1978-10-24,Malawi,Algeria,2.0,1.0
-22,11556,1978-10-25,Republic of Ireland,England,1.0,1.0
-23,11557,1978-10-25,Northern Ireland,Denmark,2.0,1.0
-24,11558,1978-10-25,Romania,Yugoslavia,3.0,2.0
-25,11559,1978-10-25,Scotland,Norway,3.0,2.0
-26,11564,1978-10-28,Zambia,Algeria,0.0,3.0
-27,11565,1978-10-28,Greece,Hungary,4.0,1.0
-28,11571,1978-11-08,Czechoslovakia,Italy,3.0,0.0
-29,11572,1978-11-08,France,Spain,1.0,0.0
-30,11580,1978-11-15,Austria,Portugal,1.0,2.0
-31,11581,1978-11-15,Germany,Hungary,0.0,0.0
-32,11582,1978-11-15,Israel,Belgium,1.0,0.0
-33,11584,1978-11-15,Poland,Switzerland,2.0,0.0
-34,11585,1978-11-15,Spain,Romania,1.0,0.0
-35,11586,1978-11-15,Yugoslavia,Greece,4.0,1.0
-36,11587,1978-11-17,Algeria,Congo,3.0,0.0
-37,11597,1978-11-29,Bulgaria,Northern Ireland,0.0,2.0
-38,11598,1978-11-29,England,Czechoslovakia,1.0,0.0
-39,11599,1978-11-29,Portugal,Scotland,1.0,0.0
-40,11607,1978-12-11,Japan,Kuwait,0.0,2.0
-41,11614,1978-12-13,Spain,Cyprus,5.0,0.0
-42,11616,1978-12-13,South Korea,Kuwait,2.0,0.0
-43,11622,1978-12-15,Bahrain,Kuwait,0.0,3.0
-44,11626,1978-12-17,India,Kuwait,1.0,6.0
-45,11630,1978-12-18,Iraq,Kuwait,3.0,0.0
-46,11637,1978-12-19,North Korea,Kuwait,2.0,2.0
-47,11643,1978-12-21,Italy,Spain,1.0,0.0
-48,11668,1979-01-30,Israel,Austria,0.0,1.0
-49,11674,1979-02-07,England,Northern Ireland,4.0,0.0
-50,11681,1979-02-16,Libya,Poland,1.0,0.0
-51,11682,1979-02-18,Tunisia,Poland,0.0,2.0
-52,11684,1979-02-24,Italy,Netherlands,3.0,0.0
-53,11685,1979-02-25,France,Luxembourg,3.0,0.0
-54,11688,1979-02-28,Turkey,Algeria,0.0,1.0
-55,11694,1979-03-14,Czechoslovakia,Spain,1.0,0.0
-56,11698,1979-03-21,Algeria,Poland,0.0,1.0
-57,11700,1979-03-24,Kuwait,Qatar,3.0,1.0
-58,11706,1979-03-28,Belgium,Austria,1.0,1.0
-59,11707,1979-03-28,Hungary,German DR,3.0,0.0
-60,11713,1979-03-30,Iraq,Kuwait,3.0,1.0
-61,11714,1979-04-01,Cyprus,Yugoslavia,0.0,3.0
-62,11717,1979-04-01,Kuwait,United Arab Emirates,7.0,0.0
-63,11720,1979-04-03,Kuwait,Oman,2.0,0.0
-64,11721,1979-04-04,Czechoslovakia,France,2.0,0.0
-65,11722,1979-04-04,Poland,Hungary,1.0,1.0
-66,11723,1979-04-04,Romania,Spain,2.0,2.0
-67,11727,1979-04-06,Kuwait,Saudi Arabia,0.0,0.0
-68,11732,1979-04-09,Bahrain,Kuwait,0.0,2.0
-69,11738,1979-04-15,Guinea,Cameroon,3.0,0.0
-70,11742,1979-04-18,German DR,Poland,2.0,1.0
-71,11744,1979-04-25,Argentina,Bulgaria,2.0,1.0
-72,11751,1979-04-29,Cameroon,Guinea,3.0,0.0
-73,11754,1979-05-01,Luxembourg,Czechoslovakia,0.0,3.0
-74,11755,1979-05-02,Austria,Belgium,0.0,0.0
-75,11756,1979-05-02,Hungary,Greece,0.0,0.0
-76,11759,1979-05-02,Northern Ireland,Bulgaria,2.0,0.0
-77,11760,1979-05-02,Poland,Netherlands,2.0,0.0
-78,11761,1979-05-02,United States,France,0.0,6.0
-79,11763,1979-05-05,Russia,Czechoslovakia,3.0,0.0
-80,11775,1979-05-17,Brazil,Paraguay,6.0,0.0
-81,11778,1979-05-19,Northern Ireland,England,0.0,2.0
-82,11779,1979-05-19,Russia,Hungary,2.0,2.0
-83,11780,1979-05-19,Wales,Scotland,3.0,0.0
-84,11781,1979-05-22,Argentina,Netherlands,0.0,0.0
-85,11783,1979-05-22,Scotland,Northern Ireland,1.0,0.0
-86,11785,1979-05-23,England,Wales,0.0,0.0
-87,11787,1979-05-26,England,Scotland,3.0,1.0
-88,11789,1979-05-26,Italy,Argentina,2.0,2.0
-89,11790,1979-05-26,Northern Ireland,Wales,1.0,1.0
-90,11791,1979-05-29,Republic of Ireland,Argentina,0.0,0.0
-91,11792,1979-05-31,Brazil,Uruguay,5.0,1.0
-92,11796,1979-06-02,Scotland,Argentina,1.0,3.0
-93,11799,1979-06-06,Bulgaria,England,0.0,3.0
-94,11800,1979-06-06,Denmark,Northern Ireland,4.0,0.0
-95,11801,1979-06-07,Norway,Scotland,0.0,4.0
-96,11805,1979-06-10,Sweden,England,0.0,0.0
-97,11806,1979-06-13,Austria,England,4.0,3.0
-98,11807,1979-06-13,Chile,Ecuador,0.0,0.0
-99,11808,1979-06-13,New Zealand,Australia,1.0,0.0
-100,11809,1979-06-13,Yugoslavia,Italy,4.0,1.0
-101,11812,1979-06-21,Ecuador,Chile,2.0,1.0
-102,11816,1979-06-24,Algeria,Libya,3.0,1.0
-103,11822,1979-06-29,Fiji,New Zealand,0.0,6.0
-104,11831,1979-07-01,Fiji,New Zealand,0.0,3.0
-105,11839,1979-07-08,Libya,Algeria,1.0,0.0
-106,11846,1979-07-11,Chile,Uruguay,1.0,0.0
-107,11848,1979-07-11,Peru,Ecuador,2.0,1.0
-108,11856,1979-07-18,Bolivia,Argentina,2.0,1.0
-109,11857,1979-07-18,Peru,Colombia,0.0,1.0
-110,11858,1979-07-18,Uruguay,Chile,2.0,1.0
-111,11868,1979-07-25,Colombia,Peru,1.0,2.0
-112,11869,1979-07-26,Bolivia,Brazil,2.0,1.0
-113,11881,1979-08-02,Brazil,Argentina,2.0,1.0
-114,11886,1979-08-08,Argentina,Bolivia,3.0,0.0
-115,11887,1979-08-08,Ecuador,Peru,2.0,1.0
-116,11888,1979-08-08,Venezuela,Chile,1.0,1.0
-117,11890,1979-08-15,Colombia,Chile,1.0,0.0
-118,11892,1979-08-16,Brazil,Bolivia,2.0,0.0
-119,11894,1979-08-19,Poland,Libya,5.0,0.0
-120,11896,1979-08-23,Argentina,Brazil,2.0,2.0
-121,11906,1979-08-29,Austria,Norway,4.0,0.0
-122,11907,1979-08-29,Chile,Venezuela,7.0,0.0
-123,11911,1979-08-29,Poland,Romania,3.0,0.0
-124,11918,1979-08-30,Peru,Uruguay,2.0,0.0
-125,11935,1979-09-05,Chile,Colombia,2.0,0.0
-126,11941,1979-09-05,Sweden,France,1.0,3.0
-127,11952,1979-09-12,England,Denmark,1.0,0.0
-128,11953,1979-09-12,Germany,Argentina,2.0,1.0
-129,11955,1979-09-12,Hungary,Czechoslovakia,2.0,1.0
-130,11958,1979-09-12,Norway,Belgium,1.0,2.0
-131,11959,1979-09-12,Scotland,Peru,1.0,1.0
-132,11960,1979-09-12,Switzerland,Poland,0.0,2.0
-133,11966,1979-09-16,Yugoslavia,Argentina,4.0,2.0
-134,11974,1979-09-26,Austria,Hungary,3.0,1.0
-135,11975,1979-09-26,Czechoslovakia,Republic of Ireland,4.0,1.0
-136,11977,1979-09-26,Italy,Sweden,1.0,0.0
-137,11978,1979-09-26,Netherlands,Belgium,1.0,0.0
-138,11979,1979-09-26,Poland,German DR,1.0,1.0
-139,11980,1979-09-26,Spain,Portugal,1.0,1.0
-140,11991,1979-10-03,Bahrain,New Zealand,0.0,2.0
-141,11993,1979-10-08,Bahrain,New Zealand,1.0,2.0
-142,11994,1979-10-10,Czechoslovakia,Sweden,4.0,1.0
-143,11995,1979-10-10,France,United States,3.0,0.0
-144,11996,1979-10-10,Peru,Paraguay,2.0,3.0
-145,11997,1979-10-10,Poland,Iceland,2.0,0.0
-146,11998,1979-10-10,Spain,Yugoslavia,0.0,1.0
-147,12003,1979-10-17,Belgium,Portugal,2.0,0.0
-148,12005,1979-10-17,Hungary,Finland,3.0,1.0
-149,12007,1979-10-17,Netherlands,Poland,1.0,1.0
-150,12008,1979-10-17,Northern Ireland,England,1.0,5.0
-151,12009,1979-10-17,Peru,Chile,1.0,2.0
-152,12010,1979-10-17,Scotland,Austria,1.0,1.0
-153,12018,1979-10-24,Chile,Peru,0.0,0.0
-154,12019,1979-10-24,Paraguay,Brazil,2.0,1.0
-155,12021,1979-10-26,Hungary,United States,0.0,2.0
-156,12030,1979-10-31,Brazil,Paraguay,2.0,2.0
-157,12033,1979-10-31,Yugoslavia,Romania,2.0,1.0
-158,12034,1979-11-01,Mexico,Peru,1.0,0.0
-159,12055,1979-11-14,Spain,Denmark,1.0,3.0
-160,12056,1979-11-14,Yugoslavia,Cyprus,5.0,0.0
-161,12059,1979-11-17,France,Czechoslovakia,2.0,1.0
-162,12060,1979-11-17,Italy,Switzerland,2.0,0.0
-163,12065,1979-11-21,Belgium,Scotland,2.0,0.0
-164,12068,1979-11-21,Northern Ireland,Republic of Ireland,1.0,0.0
-165,12069,1979-11-21,Portugal,Austria,1.0,2.0
-166,12072,1979-11-22,England,Bulgaria,2.0,0.0
-167,12074,1979-11-24,Czechoslovakia,Luxembourg,4.0,0.0
-168,12079,1979-11-27,Angola,Cameroon,0.0,1.0
-169,12080,1979-11-28,Cameroon,Congo,1.0,3.0
-170,12081,1979-11-28,Paraguay,Chile,3.0,0.0
-171,12083,1979-11-29,Cameroon,Gabon,3.0,1.0
-172,12084,1979-12-04,El Salvador,Mexico,0.0,2.0
-173,12085,1979-12-05,Chile,Paraguay,1.0,0.0
-174,12086,1979-12-09,Cyprus,Spain,1.0,3.0
-175,12087,1979-12-11,Chile,Paraguay,0.0,0.0
-176,12088,1979-12-18,Mexico,El Salvador,1.0,1.0
-177,12089,1979-12-19,Scotland,Belgium,1.0,3.0
-178,12097,1980-01-23,Spain,Netherlands,1.0,0.0
-179,12099,1980-01-27,Australia,Czechoslovakia,0.0,4.0
-180,12100,1980-01-27,Cameroon,Ivory Coast,1.0,1.0
-181,12106,1980-02-02,Nigeria,Cameroon,0.0,0.0
-182,12107,1980-02-03,Australia,Czechoslovakia,0.0,5.0
-183,12108,1980-02-06,England,Republic of Ireland,2.0,0.0
-184,12109,1980-02-09,Australia,Czechoslovakia,2.0,2.0
-185,12116,1980-02-13,Spain,German DR,0.0,1.0
-186,12120,1980-02-16,Italy,Romania,2.0,1.0
-187,12122,1980-02-17,Morocco,Poland,1.0,0.0
-188,12124,1980-02-19,Fiji,New Zealand,1.0,1.0
-189,12125,1980-02-21,Fiji,New Zealand,0.0,2.0
-190,12130,1980-02-25,New Zealand,Tahiti,1.0,3.0
-191,12134,1980-02-27,Belgium,Luxembourg,5.0,0.0
-192,12135,1980-02-27,Fiji,New Zealand,4.0,0.0
-193,12136,1980-02-27,France,Greece,5.0,1.0
-194,12138,1980-02-27,Iraq,Poland,1.0,1.0
-195,12144,1980-02-29,Iraq,Poland,1.0,0.0
-196,12145,1980-02-29,New Zealand,Solomon Islands,6.0,1.0
-197,12149,1980-03-06,Honduras,Costa Rica,1.0,1.0
-198,12151,1980-03-08,Kuwait,Bulgaria,1.0,1.0
-199,12153,1980-03-09,Algeria,Ghana,0.0,0.0
-200,12158,1980-03-13,Algeria,Morocco,1.0,0.0
-201,12160,1980-03-15,Italy,Uruguay,1.0,0.0
-202,12163,1980-03-16,Algeria,Guinea,3.0,2.0
-203,12166,1980-03-18,Belgium,Uruguay,2.0,0.0
-204,12167,1980-03-18,Honduras,Mexico,0.0,1.0
-205,12168,1980-03-19,Algeria,Egypt,2.0,2.0
-206,12172,1980-03-22,Nigeria,Algeria,3.0,0.0
-207,12173,1980-03-22,Yugoslavia,Uruguay,2.0,1.0
-208,12176,1980-03-26,France,Netherlands,0.0,0.0
-209,12177,1980-03-26,Hungary,Poland,2.0,1.0
-210,12178,1980-03-26,Israel,Northern Ireland,0.0,0.0
-211,12180,1980-03-26,Scotland,Portugal,4.0,1.0
-212,12181,1980-03-26,Spain,England,0.0,2.0
-213,12182,1980-03-26,Switzerland,Czechoslovakia,2.0,0.0
-214,12185,1980-03-30,Yugoslavia,Romania,2.0,0.0
-215,12187,1980-04-02,Belgium,Poland,2.0,1.0
-216,12188,1980-04-02,Germany,Austria,1.0,0.0
-217,12192,1980-04-08,Mexico,Honduras,5.0,0.0
-218,12195,1980-04-16,Costa Rica,Honduras,1.0,1.0
-219,12197,1980-04-16,Spain,Czechoslovakia,2.0,2.0
-220,12198,1980-04-19,Italy,Poland,2.0,2.0
-221,12203,1980-04-26,Yugoslavia,Poland,2.0,1.0
-222,12207,1980-04-30,Czechoslovakia,Hungary,1.0,0.0
-223,12216,1980-05-09,Panama,El Salvador,0.0,0.0
-224,12220,1980-05-13,England,Argentina,3.0,1.0
-225,12221,1980-05-13,Germany,Poland,3.0,1.0
-226,12222,1980-05-13,Haiti,El Salvador,2.0,0.0
-227,12225,1980-05-16,Republic of Ireland,Argentina,0.0,1.0
-228,12226,1980-05-16,Northern Ireland,Scotland,1.0,0.0
-229,12227,1980-05-17,Wales,England,4.0,1.0
-230,12229,1980-05-20,England,Northern Ireland,1.0,1.0
-231,12231,1980-05-21,Austria,Argentina,1.0,5.0
-232,12232,1980-05-21,Denmark,Spain,2.0,2.0
-233,12233,1980-05-21,Scotland,Wales,1.0,0.0
-234,12236,1980-05-23,Russia,France,1.0,0.0
-235,12237,1980-05-23,Wales,Northern Ireland,0.0,1.0
-236,12238,1980-05-24,Scotland,England,0.0,2.0
-237,12239,1980-05-28,Poland,Scotland,1.0,0.0
-238,12241,1980-05-31,Australia,England,1.0,2.0
-239,12242,1980-05-31,Hungary,Scotland,3.0,1.0
-240,12243,1980-05-31,Sierra Leone,Algeria,2.0,2.0
-241,12248,1980-06-04,El Salvador,Haiti,3.0,0.0
-242,12250,1980-06-04,Hungary,Austria,1.0,1.0
-243,12251,1980-06-06,Belgium,Romania,2.0,1.0
-244,12252,1980-06-06,Honduras,Haiti,3.0,1.0
-245,12254,1980-06-08,Brazil,Mexico,2.0,0.0
-246,12258,1980-06-10,Honduras,Haiti,1.0,0.0
-247,12260,1980-06-11,Czechoslovakia,Germany,0.0,1.0
-248,12262,1980-06-12,Belgium,England,1.0,1.0
-249,12264,1980-06-12,Italy,Spain,0.0,0.0
-250,12265,1980-06-13,Algeria,Sierra Leone,3.0,1.0
-251,12267,1980-06-13,Honduras,Panama,0.0,0.0
-252,12270,1980-06-14,Greece,Czechoslovakia,1.0,3.0
-253,12271,1980-06-15,Australia,Northern Ireland,1.0,1.0
-254,12272,1980-06-15,Belgium,Spain,2.0,1.0
-255,12273,1980-06-15,Brazil,Russia,1.0,2.0
-256,12274,1980-06-15,Honduras,Panama,2.0,0.0
-257,12275,1980-06-15,Italy,England,1.0,0.0
-258,12278,1980-06-17,Netherlands,Czechoslovakia,1.0,1.0
-259,12279,1980-06-18,Australia,Northern Ireland,1.0,2.0
-260,12281,1980-06-18,Italy,Belgium,0.0,0.0
-261,12282,1980-06-18,Spain,England,1.0,2.0
-262,12285,1980-06-21,Italy,Czechoslovakia,1.0,1.0
-263,12286,1980-06-22,Belgium,Germany,1.0,2.0
-264,12289,1980-06-22,Poland,Iraq,3.0,0.0
-265,12291,1980-06-24,Brazil,Chile,2.0,1.0
-266,12297,1980-06-29,Brazil,Poland,1.0,1.0
-267,12298,1980-06-29,Cameroon,Malawi,3.0,0.0
-268,12302,1980-07-02,Bolivia,Poland,0.0,1.0
-269,12313,1980-07-09,Colombia,Poland,1.0,4.0
-270,12319,1980-07-16,Guatemala,Honduras,1.0,1.0
-271,12322,1980-07-18,Uruguay,Peru,0.0,0.0
-272,12324,1980-07-20,Malawi,Cameroon,1.0,1.0
-273,12327,1980-07-30,Panama,Honduras,0.0,2.0
-274,12329,1980-08-03,Basque Country,Hungary,1.0,5.0
-275,12335,1980-08-17,Guatemala,El Salvador,1.0,1.0
-276,12337,1980-08-20,Hungary,Sweden,2.0,0.0
-277,12338,1980-08-20,New Zealand,Mexico,4.0,0.0
-278,12340,1980-08-21,Uruguay,Chile,0.0,0.0
-279,12345,1980-08-24,Panama,El Salvador,1.0,3.0
-280,12351,1980-08-27,Brazil,Uruguay,1.0,0.0
-281,12352,1980-08-27,Hungary,Russia,1.0,4.0
-282,12354,1980-08-27,Romania,Yugoslavia,4.0,1.0
-283,12371,1980-09-10,England,Norway,4.0,0.0
-284,12373,1980-09-10,Luxembourg,Yugoslavia,0.0,5.0
-285,12374,1980-09-10,Sweden,Scotland,0.0,1.0
-286,12378,1980-09-15,Canada,New Zealand,4.0,0.0
-287,12379,1980-09-15,Kuwait,United Arab Emirates,1.0,1.0
-288,12382,1980-09-17,Canada,New Zealand,3.0,0.0
-289,12385,1980-09-18,Argentina,Chile,2.0,2.0
-290,12387,1980-09-18,Kuwait,Malaysia,3.0,1.0
-291,12393,1980-09-21,Kuwait,South Korea,0.0,3.0
-292,12398,1980-09-24,Finland,Austria,0.0,2.0
-293,12399,1980-09-24,Hungary,Spain,2.0,2.0
-294,12401,1980-09-24,Italy,Portugal,3.0,1.0
-295,12404,1980-09-24,Poland,Czechoslovakia,1.0,1.0
-296,12407,1980-09-25,Kuwait,Qatar,4.0,0.0
-297,12408,1980-09-25,Paraguay,Brazil,1.0,2.0
-298,12410,1980-09-27,Yugoslavia,Denmark,2.0,1.0
-299,12413,1980-09-28,Kuwait,Iran,2.0,1.0
-300,12418,1980-09-30,El Salvador,Guatemala,3.0,2.0
-301,12419,1980-09-30,Kuwait,South Korea,3.0,0.0
-302,12421,1980-10-01,Costa Rica,Honduras,2.0,3.0
-303,12426,1980-10-05,El Salvador,Panama,4.0,1.0
-304,12428,1980-10-08,Austria,Hungary,3.0,1.0
-305,12429,1980-10-08,Czechoslovakia,German DR,0.0,1.0
-306,12430,1980-10-09,Argentina,Bulgaria,2.0,0.0
-307,12431,1980-10-11,Cyprus,France,0.0,7.0
-308,12432,1980-10-11,Luxembourg,Italy,0.0,2.0
-309,12434,1980-10-12,Argentina,Poland,2.0,1.0
-310,12435,1980-10-12,Cameroon,Zimbabwe,2.0,0.0
-311,12439,1980-10-15,Argentina,Czechoslovakia,1.0,0.0
-312,12441,1980-10-15,German DR,Spain,0.0,0.0
-313,12442,1980-10-15,Republic of Ireland,Belgium,1.0,1.0
-314,12443,1980-10-15,Northern Ireland,Sweden,3.0,0.0
-315,12444,1980-10-15,Romania,England,2.0,1.0
-316,12446,1980-10-15,Scotland,Portugal,0.0,0.0
-317,12448,1980-10-15,South Korea,New Zealand,1.0,2.0
-318,12452,1980-10-18,South Korea,Kuwait,3.0,0.0
-319,12455,1980-10-19,Kuwait,New Zealand,1.0,5.0
-320,12459,1980-10-21,Indonesia,New Zealand,0.0,0.0
-321,12463,1980-10-22,Kuwait,Myanmar,3.0,1.0
-322,12465,1980-10-24,Myanmar,New Zealand,1.0,1.0
-323,12466,1980-10-24,Kuwait,Thailand,0.0,1.0
-324,12468,1980-10-25,Kuwait,Indonesia,1.0,2.0
-325,12471,1980-10-26,Honduras,Guatemala,0.0,0.0
-326,12474,1980-10-26,Morocco,New Zealand,3.0,0.0
-327,12475,1980-10-27,Kuwait,Morocco,0.0,3.0
-328,12477,1980-10-28,France,Republic of Ireland,2.0,0.0
-329,12478,1980-10-28,New Zealand,Thailand,1.0,1.0
-330,12479,1980-10-29,Malaysia,Kuwait,2.0,1.0
-331,12482,1980-10-30,Malaysia,New Zealand,2.0,0.0
-332,12484,1980-10-30,Brazil,Paraguay,6.0,0.0
-333,12487,1980-11-01,Italy,Denmark,2.0,0.0
-334,12495,1980-11-09,Guatemala,El Salvador,0.0,0.0
-335,12496,1980-11-09,Honduras,Canada,2.0,0.0
-336,12506,1980-11-12,Peru,Uruguay,1.0,1.0
-337,12507,1980-11-12,Spain,Poland,1.0,2.0
-338,12509,1980-11-15,Austria,Albania,5.0,0.0
-339,12511,1980-11-15,Italy,Yugoslavia,2.0,0.0
-340,12514,1980-11-16,Honduras,Costa Rica,1.0,1.0
-341,12519,1980-11-16,Zimbabwe,Cameroon,1.0,0.0
-342,12523,1980-11-19,Belgium,Netherlands,1.0,0.0
-343,12525,1980-11-19,England,Switzerland,2.0,1.0
-344,12526,1980-11-19,German DR,Hungary,2.0,0.0
-345,12527,1980-11-19,Germany,France,4.0,1.0
-346,12530,1980-11-19,Poland,Algeria,5.0,1.0
-347,12531,1980-11-19,Portugal,Northern Ireland,1.0,0.0
-348,12532,1980-11-19,Wales,Czechoslovakia,1.0,0.0
-349,12537,1980-11-23,El Salvador,Honduras,2.0,1.0
-350,12549,1980-11-30,Honduras,El Salvador,2.0,0.0
-351,12554,1980-12-03,Czechoslovakia,Turkey,2.0,0.0
-352,12555,1980-12-04,Argentina,Russia,1.0,1.0
-353,12558,1980-12-06,Albania,Austria,0.0,1.0
-354,12559,1980-12-06,Greece,Italy,0.0,2.0
-355,12561,1980-12-07,Guatemala,Honduras,0.0,1.0
-356,12566,1980-12-07,Malta,Poland,0.0,2.0
-357,12569,1980-12-10,Costa Rica,El Salvador,0.0,0.0
-358,12572,1980-12-12,Algeria,Sudan,2.0,0.0
-359,12576,1980-12-14,Honduras,Panama,5.0,0.0
-360,12579,1980-12-16,Argentina,Switzerland,5.0,0.0
-361,12583,1980-12-21,Brazil,Switzerland,2.0,0.0
-362,12585,1980-12-21,Cyprus,Belgium,0.0,2.0
-363,12586,1980-12-21,El Salvador,Guatemala,1.0,0.0
-364,12597,1980-12-28,Sudan,Algeria,1.0,1.0
-365,12602,1981-01-01,Argentina,Germany,2.0,1.0
-366,12603,1981-01-03,Uruguay,Italy,2.0,0.0
-367,12604,1981-01-04,Argentina,Brazil,1.0,1.0
-368,12606,1981-01-06,Netherlands,Italy,1.0,1.0
-369,12607,1981-01-07,Brazil,Germany,4.0,1.0
-370,12608,1981-01-10,Uruguay,Brazil,2.0,1.0
-371,12616,1981-02-01,Colombia,Brazil,1.0,1.0
-372,12621,1981-02-04,Peru,Czechoslovakia,1.0,3.0
-373,12629,1981-02-08,Venezuela,Brazil,0.0,1.0
-374,12635,1981-02-11,Peru,Bulgaria,1.0,2.0
-375,12638,1981-02-14,Ecuador,Brazil,0.0,6.0
-376,12644,1981-02-18,Belgium,Cyprus,3.0,2.0
-377,12645,1981-02-18,Spain,France,1.0,0.0
-378,12647,1981-02-22,Bolivia,Brazil,1.0,2.0
-379,12651,1981-02-25,Israel,Scotland,0.0,1.0
-380,12661,1981-03-10,Chile,Colombia,1.0,0.0
-381,12665,1981-03-14,Brazil,Chile,2.0,1.0
-382,12669,1981-03-19,Colombia,Chile,1.0,2.0
-383,12673,1981-03-22,Brazil,Bolivia,3.0,1.0
-384,12676,1981-03-24,Czechoslovakia,Switzerland,0.0,1.0
-385,12678,1981-03-25,Belgium,Republic of Ireland,1.0,0.0
-386,12679,1981-03-25,England,Spain,1.0,2.0
-387,12681,1981-03-25,Netherlands,France,1.0,0.0
-388,12682,1981-03-25,Romania,Poland,2.0,0.0
-389,12683,1981-03-25,Scotland,Northern Ireland,1.0,1.0
-390,12686,1981-03-25,Yugoslavia,Bulgaria,2.0,1.0
-391,12689,1981-03-29,Brazil,Venezuela,5.0,0.0
-392,12693,1981-04-01,Cameroon,Niger,2.0,0.0
-393,12694,1981-04-03,Algeria,Senegal,2.0,0.0
-394,12699,1981-04-05,Cameroon,Togo,4.0,0.0
-395,12704,1981-04-10,Algeria,Mali,5.0,1.0
-396,12707,1981-04-12,DR Congo,Cameroon,1.0,0.0
-397,12715,1981-04-15,Spain,Hungary,0.0,3.0
-398,12716,1981-04-15,Turkey,Czechoslovakia,0.0,3.0
-399,12723,1981-04-19,Chile,Peru,3.0,0.0
-400,12725,1981-04-19,Italy,German DR,0.0,0.0
-401,12727,1981-04-19,Mali,Algeria,3.0,0.0
-402,12729,1981-04-19,Togo,Cameroon,2.0,2.0
-403,12733,1981-04-22,Kuwait,Thailand,6.0,0.0
-404,12735,1981-04-25,Kuwait,Malaysia,4.0,0.0
-405,12736,1981-04-25,New Zealand,Australia,3.0,3.0
-406,12738,1981-04-26,Cameroon,DR Congo,6.0,1.0
-407,12744,1981-04-28,Scotland,Israel,3.0,1.0
-408,12745,1981-04-28,Switzerland,Hungary,2.0,2.0
-409,12747,1981-04-29,Chile,Uruguay,1.0,2.0
-410,12749,1981-04-29,England,Romania,0.0,0.0
-411,12750,1981-04-29,France,Belgium,3.0,2.0
-412,12751,1981-04-29,Germany,Austria,2.0,0.0
-413,12752,1981-04-29,Republic of Ireland,Czechoslovakia,3.0,1.0
-414,12753,1981-04-29,Kuwait,South Korea,2.0,0.0
-415,12754,1981-04-29,Northern Ireland,Portugal,1.0,0.0
-416,12755,1981-04-29,Yugoslavia,Greece,5.0,1.0
-417,12756,1981-05-01,Algeria,Niger,4.0,0.0
-418,12758,1981-05-02,Poland,German DR,1.0,0.0
-419,12759,1981-05-03,Fiji,New Zealand,0.0,4.0
-420,12762,1981-05-07,Taiwan,New Zealand,0.0,0.0
-421,12765,1981-05-11,Indonesia,New Zealand,0.0,2.0
-422,12766,1981-05-12,England,Brazil,0.0,1.0
-423,12768,1981-05-13,Hungary,Romania,1.0,0.0
-424,12770,1981-05-15,France,Brazil,1.0,3.0
-425,12771,1981-05-16,Australia,New Zealand,0.0,2.0
-426,12772,1981-05-16,Wales,Scotland,2.0,0.0
-427,12776,1981-05-19,Germany,Brazil,1.0,2.0
-428,12777,1981-05-19,Scotland,Northern Ireland,2.0,0.0
-429,12779,1981-05-20,England,Wales,0.0,0.0
-430,12780,1981-05-20,Norway,Hungary,1.0,2.0
-431,12781,1981-05-23,England,Scotland,0.0,1.0
-432,12782,1981-05-23,New Zealand,Indonesia,5.0,0.0
-433,12783,1981-05-23,Poland,Republic of Ireland,3.0,0.0
-434,12784,1981-05-24,Ecuador,Chile,0.0,0.0
-435,12786,1981-05-27,Czechoslovakia,Iceland,6.0,1.0
-436,12787,1981-05-28,Austria,Bulgaria,2.0,0.0
-437,12788,1981-05-30,New Zealand,Taiwan,2.0,0.0
-438,12789,1981-05-30,Switzerland,England,2.0,1.0
-439,12792,1981-05-31,Niger,Algeria,1.0,0.0
-440,12796,1981-06-03,Denmark,Italy,3.0,1.0
-441,12798,1981-06-03,Sweden,Northern Ireland,1.0,0.0
-442,12800,1981-06-06,Hungary,England,1.0,3.0
-443,12801,1981-06-07,Paraguay,Chile,0.0,1.0
-444,12804,1981-06-11,Haiti,El Salvador,0.0,0.0
-445,12805,1981-06-13,Haiti,El Salvador,0.0,0.0
-446,12806,1981-06-14,Chile,Ecuador,2.0,0.0
-447,12810,1981-06-17,Austria,Finland,5.0,1.0
-448,12817,1981-06-20,Portugal,Spain,2.0,0.0
-449,12818,1981-06-21,Chile,Paraguay,3.0,0.0
-450,12833,1981-06-28,Venezuela,Spain,0.0,2.0
-451,12836,1981-07-02,Colombia,Spain,1.0,1.0
-452,12839,1981-07-05,Chile,Spain,1.0,1.0
-453,12846,1981-07-08,Brazil,Spain,1.0,0.0
-454,12872,1981-07-15,Uruguay,Chile,0.0,0.0
-455,12884,1981-07-26,Colombia,Peru,1.0,1.0
-456,12885,1981-07-26,El Salvador,Haiti,4.0,0.0
-457,12894,1981-08-05,Peru,Chile,1.0,2.0
-458,12904,1981-08-16,Cameroon,Madagascar,5.0,1.0
-459,12906,1981-08-16,New Zealand,Fiji,13.0,0.0
-460,12907,1981-08-16,Peru,Colombia,2.0,0.0
-461,12912,1981-08-23,Uruguay,Peru,1.0,2.0
-462,12914,1981-08-26,Chile,Brazil,0.0,0.0
-463,12916,1981-08-30,Algeria,Burkina Faso,7.0,0.0
-464,12918,1981-08-30,Madagascar,Cameroon,2.0,1.0
-465,12921,1981-09-01,India,New Zealand,0.0,0.0
-466,12926,1981-09-02,Poland,Germany,0.0,2.0
-467,12930,1981-09-04,Malaysia,New Zealand,0.0,1.0
-468,12937,1981-09-06,Peru,Uruguay,0.0,0.0
-469,12939,1981-09-07,Indonesia,New Zealand,0.0,0.0
-470,12941,1981-09-09,Belgium,France,2.0,0.0
-471,12942,1981-09-09,Czechoslovakia,Wales,2.0,0.0
-472,12943,1981-09-09,Denmark,Yugoslavia,1.0,2.0
-473,12947,1981-09-09,Norway,England,2.0,1.0
-474,12949,1981-09-09,Scotland,Sweden,2.0,0.0
-475,12951,1981-09-10,New Zealand,United Arab Emirates,0.0,1.0
-476,12953,1981-09-12,Japan,New Zealand,0.0,1.0
-477,12963,1981-09-20,Burkina Faso,Algeria,1.0,1.0
-478,12965,1981-09-23,Austria,Spain,0.0,0.0
-479,12969,1981-09-23,Iceland,Czechoslovakia,1.0,1.0
-480,12970,1981-09-23,Italy,Bulgaria,3.0,2.0
-481,12971,1981-09-23,Portugal,Poland,2.0,0.0
-482,12972,1981-09-23,Romania,Hungary,0.0,0.0
-483,12974,1981-09-24,China,New Zealand,0.0,0.0
-484,12981,1981-10-03,New Zealand,China,1.0,0.0
-485,12985,1981-10-10,German DR,Poland,2.0,3.0
-486,12986,1981-10-10,New Zealand,Kuwait,1.0,2.0
-487,12987,1981-10-10,Nigeria,Algeria,0.0,2.0
-488,12991,1981-10-14,Austria,Germany,1.0,3.0
-489,12993,1981-10-14,Hungary,Switzerland,3.0,0.0
-490,12994,1981-10-14,Republic of Ireland,France,3.0,2.0
-491,12995,1981-10-14,Netherlands,Belgium,3.0,0.0
-492,12996,1981-10-14,Northern Ireland,Scotland,0.0,0.0
-493,12998,1981-10-14,Spain,Luxembourg,3.0,0.0
-494,13001,1981-10-17,Yugoslavia,Italy,1.0,1.0
-495,13002,1981-10-18,China,Kuwait,3.0,0.0
-496,13010,1981-10-28,Argentina,Poland,1.0,2.0
-497,13011,1981-10-28,Brazil,Bulgaria,3.0,0.0
-498,13013,1981-10-28,Russia,Czechoslovakia,2.0,0.0
-499,13016,1981-10-30,Algeria,Nigeria,2.0,1.0
-500,13018,1981-10-31,Hungary,Norway,4.0,1.0
-501,13022,1981-11-02,Canada,El Salvador,1.0,0.0
-502,13023,1981-11-03,Honduras,Haiti,4.0,0.0
-503,13024,1981-11-04,Saudi Arabia,Kuwait,0.0,1.0
-504,13027,1981-11-06,Mexico,El Salvador,0.0,1.0
-505,13029,1981-11-08,Honduras,Cuba,2.0,0.0
-506,13030,1981-11-08,Tunisia,Cameroon,1.0,1.0
-507,13032,1981-11-11,Argentina,Czechoslovakia,1.0,1.0
-508,13033,1981-11-11,Bulgaria,Austria,0.0,0.0
-509,13034,1981-11-11,Cuba,El Salvador,0.0,0.0
-510,13040,1981-11-12,Honduras,Canada,2.0,1.0
-511,13043,1981-11-14,Italy,Greece,1.0,1.0
-512,13047,1981-11-15,Morocco,Cameroon,0.0,2.0
-513,13048,1981-11-15,Poland,Malta,6.0,0.0
-514,13052,1981-11-16,Honduras,El Salvador,0.0,0.0
-515,13058,1981-11-18,England,Hungary,1.0,0.0
-516,13059,1981-11-18,France,Netherlands,2.0,0.0
-517,13061,1981-11-18,Northern Ireland,Israel,1.0,0.0
-518,13062,1981-11-18,Poland,Spain,2.0,3.0
-519,13063,1981-11-18,Portugal,Scotland,2.0,1.0
-520,13066,1981-11-19,El Salvador,Haiti,1.0,0.0
-521,13072,1981-11-21,Yugoslavia,Luxembourg,5.0,0.0
-522,13074,1981-11-22,Honduras,Mexico,0.0,0.0
-523,13078,1981-11-28,New Zealand,Saudi Arabia,2.0,2.0
-524,13080,1981-11-29,Cameroon,Morocco,2.0,1.0
-525,13081,1981-11-29,Czechoslovakia,Russia,1.0,1.0
-526,13082,1981-11-29,Greece,Yugoslavia,1.0,2.0
-527,13083,1981-11-30,Kuwait,China,1.0,0.0
-528,13084,1981-12-05,France,Cyprus,4.0,0.0
-529,13085,1981-12-05,Italy,Luxembourg,1.0,0.0
-530,13087,1981-12-07,Kuwait,Saudi Arabia,2.0,0.0
-531,13095,1981-12-14,Kuwait,New Zealand,2.0,2.0
-532,13099,1981-12-16,Spain,Belgium,2.0,0.0
-533,13100,1981-12-19,Saudi Arabia,New Zealand,0.0,5.0
-534,13102,1982-01-10,China,New Zealand,1.0,2.0
-535,13103,1982-01-17,Cameroon,Congo,2.0,1.0
-536,13110,1982-01-26,Brazil,German DR,3.0,1.0
-537,13114,1982-02-07,Tunisia,Algeria,0.0,1.0
-538,13120,1982-02-11,New Zealand,Hungary,1.0,2.0
-539,13128,1982-02-14,New Zealand,Hungary,1.0,2.0
-540,13160,1982-02-23,England,Northern Ireland,4.0,0.0
-541,13161,1982-02-23,France,Italy,2.0,0.0
-542,13163,1982-02-24,Spain,Scotland,3.0,0.0
-543,13166,1982-03-01,United Arab Emirates,Honduras,0.0,1.0
-544,13168,1982-03-03,Brazil,Czechoslovakia,1.0,1.0
-545,13169,1982-03-03,United Arab Emirates,Honduras,0.0,0.0
-546,13171,1982-03-05,Cameroon,Tunisia,1.0,1.0
-547,13174,1982-03-07,Algeria,Zambia,1.0,0.0
-548,13177,1982-03-09,Argentina,Czechoslovakia,0.0,0.0
-549,13178,1982-03-09,Cameroon,Ghana,0.0,0.0
-550,13181,1982-03-10,Algeria,Nigeria,2.0,1.0
-551,13187,1982-03-12,Libya,Cameroon,0.0,0.0
-552,13189,1982-03-13,Algeria,Ethiopia,0.0,0.0
-553,13191,1982-03-14,Kuwait,Iceland,0.0,0.0
-554,13192,1982-03-16,Algeria,Ghana,2.0,3.0
-555,13194,1982-03-18,Algeria,Zambia,0.0,2.0
-556,13197,1982-03-20,Bahrain,Kuwait,0.0,2.0
-557,13198,1982-03-21,Brazil,Germany,1.0,0.0
-558,13203,1982-03-23,Chile,Peru,2.0,1.0
-559,13204,1982-03-23,Scotland,Netherlands,2.0,1.0
-560,13205,1982-03-24,Argentina,Germany,1.0,1.0
-561,13206,1982-03-24,Belgium,Romania,4.0,1.0
-562,13207,1982-03-24,Czechoslovakia,Greece,2.0,1.0
-563,13208,1982-03-24,France,Northern Ireland,4.0,0.0
-564,13209,1982-03-24,Hungary,Austria,2.0,3.0
-565,13210,1982-03-24,Spain,Wales,1.0,1.0
-566,13212,1982-03-24,United Arab Emirates,Kuwait,0.0,2.0
-567,13215,1982-03-26,Saudi Arabia,Kuwait,0.0,1.0
-568,13217,1982-03-29,Kuwait,Oman,2.0,0.0
-569,13219,1982-03-30,Peru,Chile,1.0,0.0
-570,13225,1982-04-04,Kuwait,Qatar,1.0,2.0
-571,13227,1982-04-14,Argentina,Russia,1.0,1.0
-572,13229,1982-04-14,German DR,Italy,1.0,0.0
-573,13230,1982-04-14,Germany,Czechoslovakia,2.0,1.0
-574,13232,1982-04-18,El Salvador,Honduras,3.0,2.0
-575,13233,1982-04-18,Hungary,Peru,1.0,2.0
-576,13235,1982-04-22,Honduras,El Salvador,1.0,1.0
-577,13236,1982-04-25,Algeria,Peru,1.0,1.0
-578,13237,1982-04-27,Wales,England,0.0,1.0
-579,13238,1982-04-28,Algeria,Republic of Ireland,2.0,0.0
-580,13239,1982-04-28,Austria,Czechoslovakia,2.0,1.0
-581,13240,1982-04-28,Belgium,Bulgaria,2.0,1.0
-582,13241,1982-04-28,France,Peru,0.0,1.0
-583,13242,1982-04-28,Northern Ireland,Scotland,1.0,1.0
-584,13244,1982-04-28,Spain,Switzerland,2.0,0.0
-585,13245,1982-05-01,Cameroon,Senegal,2.0,1.0
-586,13248,1982-05-02,Cameroon,Guinea,1.0,1.0
-587,13250,1982-05-05,Argentina,Bulgaria,2.0,1.0
-588,13251,1982-05-05,Brazil,Portugal,3.0,1.0
-589,13252,1982-05-05,Cameroon,Ghana,0.0,0.0
-590,13264,1982-05-12,Argentina,Romania,1.0,0.0
-591,13273,1982-05-17,Peru,Romania,2.0,0.0
-592,13274,1982-05-19,Austria,Denmark,1.0,0.0
-593,13275,1982-05-19,Brazil,Switzerland,1.0,1.0
-594,13277,1982-05-21,Chile,Republic of Ireland,1.0,0.0
-595,13278,1982-05-24,Scotland,Wales,1.0,0.0
-596,13279,1982-05-25,England,Netherlands,2.0,0.0
+,index,date,home_team,away_team,home_score,away_score,resultado
+0,11499,1978-08-30,Finland,Poland,0.0,1.0,2
+1,11501,1978-08-30,Norway,Austria,0.0,2.0,2
+2,11502,1978-09-01,France,Sweden,2.0,2.0,0
+3,11506,1978-09-06,German DR,Czechoslovakia,2.0,1.0,1
+4,11507,1978-09-06,Iceland,Poland,0.0,2.0,2
+5,11520,1978-09-20,Austria,Scotland,3.0,2.0,1
+6,11521,1978-09-20,Belgium,Norway,1.0,1.0,0
+7,11522,1978-09-20,Denmark,England,3.0,4.0,2
+8,11523,1978-09-20,Finland,Hungary,2.0,1.0,1
+9,11524,1978-09-20,Republic of Ireland,Northern Ireland,0.0,0.0,0
+10,11525,1978-09-20,Italy,Bulgaria,1.0,0.0,1
+11,11530,1978-09-23,Italy,Turkey,1.0,0.0,1
+12,11536,1978-10-01,Singapore,New Zealand,0.0,2.0,2
+13,11538,1978-10-04,Sweden,Czechoslovakia,1.0,3.0,2
+14,11539,1978-10-04,Yugoslavia,Spain,1.0,2.0,2
+15,11541,1978-10-07,Luxembourg,France,1.0,3.0,2
+16,11542,1978-10-11,Czechoslovakia,Germany,3.0,4.0,2
+17,11545,1978-10-11,Hungary,Russia,2.0,0.0,1
+18,11546,1978-10-11,Portugal,Belgium,1.0,1.0,0
+19,11547,1978-10-11,Romania,Poland,1.0,0.0,1
+20,11553,1978-10-22,Malawi,Algeria,1.0,1.0,0
+21,11555,1978-10-24,Malawi,Algeria,2.0,1.0,1
+22,11556,1978-10-25,Republic of Ireland,England,1.0,1.0,0
+23,11557,1978-10-25,Northern Ireland,Denmark,2.0,1.0,1
+24,11558,1978-10-25,Romania,Yugoslavia,3.0,2.0,1
+25,11559,1978-10-25,Scotland,Norway,3.0,2.0,1
+26,11564,1978-10-28,Zambia,Algeria,0.0,3.0,2
+27,11565,1978-10-28,Greece,Hungary,4.0,1.0,1
+28,11571,1978-11-08,Czechoslovakia,Italy,3.0,0.0,1
+29,11572,1978-11-08,France,Spain,1.0,0.0,1
+30,11580,1978-11-15,Austria,Portugal,1.0,2.0,2
+31,11581,1978-11-15,Germany,Hungary,0.0,0.0,0
+32,11582,1978-11-15,Israel,Belgium,1.0,0.0,1
+33,11584,1978-11-15,Poland,Switzerland,2.0,0.0,1
+34,11585,1978-11-15,Spain,Romania,1.0,0.0,1
+35,11586,1978-11-15,Yugoslavia,Greece,4.0,1.0,1
+36,11587,1978-11-17,Algeria,Congo,3.0,0.0,1
+37,11597,1978-11-29,Bulgaria,Northern Ireland,0.0,2.0,2
+38,11598,1978-11-29,England,Czechoslovakia,1.0,0.0,1
+39,11599,1978-11-29,Portugal,Scotland,1.0,0.0,1
+40,11607,1978-12-11,Japan,Kuwait,0.0,2.0,2
+41,11614,1978-12-13,Spain,Cyprus,5.0,0.0,1
+42,11616,1978-12-13,South Korea,Kuwait,2.0,0.0,1
+43,11622,1978-12-15,Bahrain,Kuwait,0.0,3.0,2
+44,11626,1978-12-17,India,Kuwait,1.0,6.0,2
+45,11630,1978-12-18,Iraq,Kuwait,3.0,0.0,1
+46,11637,1978-12-19,North Korea,Kuwait,2.0,2.0,0
+47,11643,1978-12-21,Italy,Spain,1.0,0.0,1
+48,11668,1979-01-30,Israel,Austria,0.0,1.0,2
+49,11674,1979-02-07,England,Northern Ireland,4.0,0.0,1
+50,11681,1979-02-16,Libya,Poland,1.0,0.0,1
+51,11682,1979-02-18,Tunisia,Poland,0.0,2.0,2
+52,11684,1979-02-24,Italy,Netherlands,3.0,0.0,1
+53,11685,1979-02-25,France,Luxembourg,3.0,0.0,1
+54,11688,1979-02-28,Turkey,Algeria,0.0,1.0,2
+55,11694,1979-03-14,Czechoslovakia,Spain,1.0,0.0,1
+56,11698,1979-03-21,Algeria,Poland,0.0,1.0,2
+57,11700,1979-03-24,Kuwait,Qatar,3.0,1.0,1
+58,11706,1979-03-28,Belgium,Austria,1.0,1.0,0
+59,11707,1979-03-28,Hungary,German DR,3.0,0.0,1
+60,11713,1979-03-30,Iraq,Kuwait,3.0,1.0,1
+61,11714,1979-04-01,Cyprus,Yugoslavia,0.0,3.0,2
+62,11717,1979-04-01,Kuwait,United Arab Emirates,7.0,0.0,1
+63,11720,1979-04-03,Kuwait,Oman,2.0,0.0,1
+64,11721,1979-04-04,Czechoslovakia,France,2.0,0.0,1
+65,11722,1979-04-04,Poland,Hungary,1.0,1.0,0
+66,11723,1979-04-04,Romania,Spain,2.0,2.0,0
+67,11727,1979-04-06,Kuwait,Saudi Arabia,0.0,0.0,0
+68,11732,1979-04-09,Bahrain,Kuwait,0.0,2.0,2
+69,11738,1979-04-15,Guinea,Cameroon,3.0,0.0,1
+70,11742,1979-04-18,German DR,Poland,2.0,1.0,1
+71,11744,1979-04-25,Argentina,Bulgaria,2.0,1.0,1
+72,11751,1979-04-29,Cameroon,Guinea,3.0,0.0,1
+73,11754,1979-05-01,Luxembourg,Czechoslovakia,0.0,3.0,2
+74,11755,1979-05-02,Austria,Belgium,0.0,0.0,0
+75,11756,1979-05-02,Hungary,Greece,0.0,0.0,0
+76,11759,1979-05-02,Northern Ireland,Bulgaria,2.0,0.0,1
+77,11760,1979-05-02,Poland,Netherlands,2.0,0.0,1
+78,11761,1979-05-02,United States,France,0.0,6.0,2
+79,11763,1979-05-05,Russia,Czechoslovakia,3.0,0.0,1
+80,11775,1979-05-17,Brazil,Paraguay,6.0,0.0,1
+81,11778,1979-05-19,Northern Ireland,England,0.0,2.0,2
+82,11779,1979-05-19,Russia,Hungary,2.0,2.0,0
+83,11780,1979-05-19,Wales,Scotland,3.0,0.0,1
+84,11781,1979-05-22,Argentina,Netherlands,0.0,0.0,0
+85,11783,1979-05-22,Scotland,Northern Ireland,1.0,0.0,1
+86,11785,1979-05-23,England,Wales,0.0,0.0,0
+87,11787,1979-05-26,England,Scotland,3.0,1.0,1
+88,11789,1979-05-26,Italy,Argentina,2.0,2.0,0
+89,11790,1979-05-26,Northern Ireland,Wales,1.0,1.0,0
+90,11791,1979-05-29,Republic of Ireland,Argentina,0.0,0.0,0
+91,11792,1979-05-31,Brazil,Uruguay,5.0,1.0,1
+92,11796,1979-06-02,Scotland,Argentina,1.0,3.0,2
+93,11799,1979-06-06,Bulgaria,England,0.0,3.0,2
+94,11800,1979-06-06,Denmark,Northern Ireland,4.0,0.0,1
+95,11801,1979-06-07,Norway,Scotland,0.0,4.0,2
+96,11805,1979-06-10,Sweden,England,0.0,0.0,0
+97,11806,1979-06-13,Austria,England,4.0,3.0,1
+98,11807,1979-06-13,Chile,Ecuador,0.0,0.0,0
+99,11808,1979-06-13,New Zealand,Australia,1.0,0.0,1
+100,11809,1979-06-13,Yugoslavia,Italy,4.0,1.0,1
+101,11812,1979-06-21,Ecuador,Chile,2.0,1.0,1
+102,11816,1979-06-24,Algeria,Libya,3.0,1.0,1
+103,11822,1979-06-29,Fiji,New Zealand,0.0,6.0,2
+104,11831,1979-07-01,Fiji,New Zealand,0.0,3.0,2
+105,11839,1979-07-08,Libya,Algeria,1.0,0.0,1
+106,11846,1979-07-11,Chile,Uruguay,1.0,0.0,1
+107,11848,1979-07-11,Peru,Ecuador,2.0,1.0,1
+108,11856,1979-07-18,Bolivia,Argentina,2.0,1.0,1
+109,11857,1979-07-18,Peru,Colombia,0.0,1.0,2
+110,11858,1979-07-18,Uruguay,Chile,2.0,1.0,1
+111,11868,1979-07-25,Colombia,Peru,1.0,2.0,2
+112,11869,1979-07-26,Bolivia,Brazil,2.0,1.0,1
+113,11881,1979-08-02,Brazil,Argentina,2.0,1.0,1
+114,11886,1979-08-08,Argentina,Bolivia,3.0,0.0,1
+115,11887,1979-08-08,Ecuador,Peru,2.0,1.0,1
+116,11888,1979-08-08,Venezuela,Chile,1.0,1.0,0
+117,11890,1979-08-15,Colombia,Chile,1.0,0.0,1
+118,11892,1979-08-16,Brazil,Bolivia,2.0,0.0,1
+119,11894,1979-08-19,Poland,Libya,5.0,0.0,1
+120,11896,1979-08-23,Argentina,Brazil,2.0,2.0,0
+121,11906,1979-08-29,Austria,Norway,4.0,0.0,1
+122,11907,1979-08-29,Chile,Venezuela,7.0,0.0,1
+123,11911,1979-08-29,Poland,Romania,3.0,0.0,1
+124,11918,1979-08-30,Peru,Uruguay,2.0,0.0,1
+125,11935,1979-09-05,Chile,Colombia,2.0,0.0,1
+126,11941,1979-09-05,Sweden,France,1.0,3.0,2
+127,11952,1979-09-12,England,Denmark,1.0,0.0,1
+128,11953,1979-09-12,Germany,Argentina,2.0,1.0,1
+129,11955,1979-09-12,Hungary,Czechoslovakia,2.0,1.0,1
+130,11958,1979-09-12,Norway,Belgium,1.0,2.0,2
+131,11959,1979-09-12,Scotland,Peru,1.0,1.0,0
+132,11960,1979-09-12,Switzerland,Poland,0.0,2.0,2
+133,11966,1979-09-16,Yugoslavia,Argentina,4.0,2.0,1
+134,11974,1979-09-26,Austria,Hungary,3.0,1.0,1
+135,11975,1979-09-26,Czechoslovakia,Republic of Ireland,4.0,1.0,1
+136,11977,1979-09-26,Italy,Sweden,1.0,0.0,1
+137,11978,1979-09-26,Netherlands,Belgium,1.0,0.0,1
+138,11979,1979-09-26,Poland,German DR,1.0,1.0,0
+139,11980,1979-09-26,Spain,Portugal,1.0,1.0,0
+140,11991,1979-10-03,Bahrain,New Zealand,0.0,2.0,2
+141,11993,1979-10-08,Bahrain,New Zealand,1.0,2.0,2
+142,11994,1979-10-10,Czechoslovakia,Sweden,4.0,1.0,1
+143,11995,1979-10-10,France,United States,3.0,0.0,1
+144,11996,1979-10-10,Peru,Paraguay,2.0,3.0,2
+145,11997,1979-10-10,Poland,Iceland,2.0,0.0,1
+146,11998,1979-10-10,Spain,Yugoslavia,0.0,1.0,2
+147,12003,1979-10-17,Belgium,Portugal,2.0,0.0,1
+148,12005,1979-10-17,Hungary,Finland,3.0,1.0,1
+149,12007,1979-10-17,Netherlands,Poland,1.0,1.0,0
+150,12008,1979-10-17,Northern Ireland,England,1.0,5.0,2
+151,12009,1979-10-17,Peru,Chile,1.0,2.0,2
+152,12010,1979-10-17,Scotland,Austria,1.0,1.0,0
+153,12018,1979-10-24,Chile,Peru,0.0,0.0,0
+154,12019,1979-10-24,Paraguay,Brazil,2.0,1.0,1
+155,12021,1979-10-26,Hungary,United States,0.0,2.0,2
+156,12030,1979-10-31,Brazil,Paraguay,2.0,2.0,0
+157,12033,1979-10-31,Yugoslavia,Romania,2.0,1.0,1
+158,12034,1979-11-01,Mexico,Peru,1.0,0.0,1
+159,12055,1979-11-14,Spain,Denmark,1.0,3.0,2
+160,12056,1979-11-14,Yugoslavia,Cyprus,5.0,0.0,1
+161,12059,1979-11-17,France,Czechoslovakia,2.0,1.0,1
+162,12060,1979-11-17,Italy,Switzerland,2.0,0.0,1
+163,12065,1979-11-21,Belgium,Scotland,2.0,0.0,1
+164,12068,1979-11-21,Northern Ireland,Republic of Ireland,1.0,0.0,1
+165,12069,1979-11-21,Portugal,Austria,1.0,2.0,2
+166,12072,1979-11-22,England,Bulgaria,2.0,0.0,1
+167,12074,1979-11-24,Czechoslovakia,Luxembourg,4.0,0.0,1
+168,12079,1979-11-27,Angola,Cameroon,0.0,1.0,2
+169,12080,1979-11-28,Cameroon,Congo,1.0,3.0,2
+170,12081,1979-11-28,Paraguay,Chile,3.0,0.0,1
+171,12083,1979-11-29,Cameroon,Gabon,3.0,1.0,1
+172,12084,1979-12-04,El Salvador,Mexico,0.0,2.0,2
+173,12085,1979-12-05,Chile,Paraguay,1.0,0.0,1
+174,12086,1979-12-09,Cyprus,Spain,1.0,3.0,2
+175,12087,1979-12-11,Chile,Paraguay,0.0,0.0,0
+176,12088,1979-12-18,Mexico,El Salvador,1.0,1.0,0
+177,12089,1979-12-19,Scotland,Belgium,1.0,3.0,2
+178,12097,1980-01-23,Spain,Netherlands,1.0,0.0,1
+179,12099,1980-01-27,Australia,Czechoslovakia,0.0,4.0,2
+180,12100,1980-01-27,Cameroon,Ivory Coast,1.0,1.0,0
+181,12106,1980-02-02,Nigeria,Cameroon,0.0,0.0,0
+182,12107,1980-02-03,Australia,Czechoslovakia,0.0,5.0,2
+183,12108,1980-02-06,England,Republic of Ireland,2.0,0.0,1
+184,12109,1980-02-09,Australia,Czechoslovakia,2.0,2.0,0
+185,12116,1980-02-13,Spain,German DR,0.0,1.0,2
+186,12120,1980-02-16,Italy,Romania,2.0,1.0,1
+187,12122,1980-02-17,Morocco,Poland,1.0,0.0,1
+188,12124,1980-02-19,Fiji,New Zealand,1.0,1.0,0
+189,12125,1980-02-21,Fiji,New Zealand,0.0,2.0,2
+190,12130,1980-02-25,New Zealand,Tahiti,1.0,3.0,2
+191,12134,1980-02-27,Belgium,Luxembourg,5.0,0.0,1
+192,12135,1980-02-27,Fiji,New Zealand,4.0,0.0,1
+193,12136,1980-02-27,France,Greece,5.0,1.0,1
+194,12138,1980-02-27,Iraq,Poland,1.0,1.0,0
+195,12144,1980-02-29,Iraq,Poland,1.0,0.0,1
+196,12145,1980-02-29,New Zealand,Solomon Islands,6.0,1.0,1
+197,12149,1980-03-06,Honduras,Costa Rica,1.0,1.0,0
+198,12151,1980-03-08,Kuwait,Bulgaria,1.0,1.0,0
+199,12153,1980-03-09,Algeria,Ghana,0.0,0.0,0
+200,12158,1980-03-13,Algeria,Morocco,1.0,0.0,1
+201,12160,1980-03-15,Italy,Uruguay,1.0,0.0,1
+202,12163,1980-03-16,Algeria,Guinea,3.0,2.0,1
+203,12166,1980-03-18,Belgium,Uruguay,2.0,0.0,1
+204,12167,1980-03-18,Honduras,Mexico,0.0,1.0,2
+205,12168,1980-03-19,Algeria,Egypt,2.0,2.0,0
+206,12172,1980-03-22,Nigeria,Algeria,3.0,0.0,1
+207,12173,1980-03-22,Yugoslavia,Uruguay,2.0,1.0,1
+208,12176,1980-03-26,France,Netherlands,0.0,0.0,0
+209,12177,1980-03-26,Hungary,Poland,2.0,1.0,1
+210,12178,1980-03-26,Israel,Northern Ireland,0.0,0.0,0
+211,12180,1980-03-26,Scotland,Portugal,4.0,1.0,1
+212,12181,1980-03-26,Spain,England,0.0,2.0,2
+213,12182,1980-03-26,Switzerland,Czechoslovakia,2.0,0.0,1
+214,12185,1980-03-30,Yugoslavia,Romania,2.0,0.0,1
+215,12187,1980-04-02,Belgium,Poland,2.0,1.0,1
+216,12188,1980-04-02,Germany,Austria,1.0,0.0,1
+217,12192,1980-04-08,Mexico,Honduras,5.0,0.0,1
+218,12195,1980-04-16,Costa Rica,Honduras,1.0,1.0,0
+219,12197,1980-04-16,Spain,Czechoslovakia,2.0,2.0,0
+220,12198,1980-04-19,Italy,Poland,2.0,2.0,0
+221,12203,1980-04-26,Yugoslavia,Poland,2.0,1.0,1
+222,12207,1980-04-30,Czechoslovakia,Hungary,1.0,0.0,1
+223,12216,1980-05-09,Panama,El Salvador,0.0,0.0,0
+224,12220,1980-05-13,England,Argentina,3.0,1.0,1
+225,12221,1980-05-13,Germany,Poland,3.0,1.0,1
+226,12222,1980-05-13,Haiti,El Salvador,2.0,0.0,1
+227,12225,1980-05-16,Republic of Ireland,Argentina,0.0,1.0,2
+228,12226,1980-05-16,Northern Ireland,Scotland,1.0,0.0,1
+229,12227,1980-05-17,Wales,England,4.0,1.0,1
+230,12229,1980-05-20,England,Northern Ireland,1.0,1.0,0
+231,12231,1980-05-21,Austria,Argentina,1.0,5.0,2
+232,12232,1980-05-21,Denmark,Spain,2.0,2.0,0
+233,12233,1980-05-21,Scotland,Wales,1.0,0.0,1
+234,12236,1980-05-23,Russia,France,1.0,0.0,1
+235,12237,1980-05-23,Wales,Northern Ireland,0.0,1.0,2
+236,12238,1980-05-24,Scotland,England,0.0,2.0,2
+237,12239,1980-05-28,Poland,Scotland,1.0,0.0,1
+238,12241,1980-05-31,Australia,England,1.0,2.0,2
+239,12242,1980-05-31,Hungary,Scotland,3.0,1.0,1
+240,12243,1980-05-31,Sierra Leone,Algeria,2.0,2.0,0
+241,12248,1980-06-04,El Salvador,Haiti,3.0,0.0,1
+242,12250,1980-06-04,Hungary,Austria,1.0,1.0,0
+243,12251,1980-06-06,Belgium,Romania,2.0,1.0,1
+244,12252,1980-06-06,Honduras,Haiti,3.0,1.0,1
+245,12254,1980-06-08,Brazil,Mexico,2.0,0.0,1
+246,12258,1980-06-10,Honduras,Haiti,1.0,0.0,1
+247,12260,1980-06-11,Czechoslovakia,Germany,0.0,1.0,2
+248,12262,1980-06-12,Belgium,England,1.0,1.0,0
+249,12264,1980-06-12,Italy,Spain,0.0,0.0,0
+250,12265,1980-06-13,Algeria,Sierra Leone,3.0,1.0,1
+251,12267,1980-06-13,Honduras,Panama,0.0,0.0,0
+252,12270,1980-06-14,Greece,Czechoslovakia,1.0,3.0,2
+253,12271,1980-06-15,Australia,Northern Ireland,1.0,1.0,0
+254,12272,1980-06-15,Belgium,Spain,2.0,1.0,1
+255,12273,1980-06-15,Brazil,Russia,1.0,2.0,2
+256,12274,1980-06-15,Honduras,Panama,2.0,0.0,1
+257,12275,1980-06-15,Italy,England,1.0,0.0,1
+258,12278,1980-06-17,Netherlands,Czechoslovakia,1.0,1.0,0
+259,12279,1980-06-18,Australia,Northern Ireland,1.0,2.0,2
+260,12281,1980-06-18,Italy,Belgium,0.0,0.0,0
+261,12282,1980-06-18,Spain,England,1.0,2.0,2
+262,12285,1980-06-21,Italy,Czechoslovakia,1.0,1.0,0
+263,12286,1980-06-22,Belgium,Germany,1.0,2.0,2
+264,12289,1980-06-22,Poland,Iraq,3.0,0.0,1
+265,12291,1980-06-24,Brazil,Chile,2.0,1.0,1
+266,12297,1980-06-29,Brazil,Poland,1.0,1.0,0
+267,12298,1980-06-29,Cameroon,Malawi,3.0,0.0,1
+268,12302,1980-07-02,Bolivia,Poland,0.0,1.0,2
+269,12313,1980-07-09,Colombia,Poland,1.0,4.0,2
+270,12319,1980-07-16,Guatemala,Honduras,1.0,1.0,0
+271,12322,1980-07-18,Uruguay,Peru,0.0,0.0,0
+272,12324,1980-07-20,Malawi,Cameroon,1.0,1.0,0
+273,12327,1980-07-30,Panama,Honduras,0.0,2.0,2
+274,12329,1980-08-03,Basque Country,Hungary,1.0,5.0,2
+275,12335,1980-08-17,Guatemala,El Salvador,1.0,1.0,0
+276,12337,1980-08-20,Hungary,Sweden,2.0,0.0,1
+277,12338,1980-08-20,New Zealand,Mexico,4.0,0.0,1
+278,12340,1980-08-21,Uruguay,Chile,0.0,0.0,0
+279,12345,1980-08-24,Panama,El Salvador,1.0,3.0,2
+280,12351,1980-08-27,Brazil,Uruguay,1.0,0.0,1
+281,12352,1980-08-27,Hungary,Russia,1.0,4.0,2
+282,12354,1980-08-27,Romania,Yugoslavia,4.0,1.0,1
+283,12371,1980-09-10,England,Norway,4.0,0.0,1
+284,12373,1980-09-10,Luxembourg,Yugoslavia,0.0,5.0,2
+285,12374,1980-09-10,Sweden,Scotland,0.0,1.0,2
+286,12378,1980-09-15,Canada,New Zealand,4.0,0.0,1
+287,12379,1980-09-15,Kuwait,United Arab Emirates,1.0,1.0,0
+288,12382,1980-09-17,Canada,New Zealand,3.0,0.0,1
+289,12385,1980-09-18,Argentina,Chile,2.0,2.0,0
+290,12387,1980-09-18,Kuwait,Malaysia,3.0,1.0,1
+291,12393,1980-09-21,Kuwait,South Korea,0.0,3.0,2
+292,12398,1980-09-24,Finland,Austria,0.0,2.0,2
+293,12399,1980-09-24,Hungary,Spain,2.0,2.0,0
+294,12401,1980-09-24,Italy,Portugal,3.0,1.0,1
+295,12404,1980-09-24,Poland,Czechoslovakia,1.0,1.0,0
+296,12407,1980-09-25,Kuwait,Qatar,4.0,0.0,1
+297,12408,1980-09-25,Paraguay,Brazil,1.0,2.0,2
+298,12410,1980-09-27,Yugoslavia,Denmark,2.0,1.0,1
+299,12413,1980-09-28,Kuwait,Iran,2.0,1.0,1
+300,12418,1980-09-30,El Salvador,Guatemala,3.0,2.0,1
+301,12419,1980-09-30,Kuwait,South Korea,3.0,0.0,1
+302,12421,1980-10-01,Costa Rica,Honduras,2.0,3.0,2
+303,12426,1980-10-05,El Salvador,Panama,4.0,1.0,1
+304,12428,1980-10-08,Austria,Hungary,3.0,1.0,1
+305,12429,1980-10-08,Czechoslovakia,German DR,0.0,1.0,2
+306,12430,1980-10-09,Argentina,Bulgaria,2.0,0.0,1
+307,12431,1980-10-11,Cyprus,France,0.0,7.0,2
+308,12432,1980-10-11,Luxembourg,Italy,0.0,2.0,2
+309,12434,1980-10-12,Argentina,Poland,2.0,1.0,1
+310,12435,1980-10-12,Cameroon,Zimbabwe,2.0,0.0,1
+311,12439,1980-10-15,Argentina,Czechoslovakia,1.0,0.0,1
+312,12441,1980-10-15,German DR,Spain,0.0,0.0,0
+313,12442,1980-10-15,Republic of Ireland,Belgium,1.0,1.0,0
+314,12443,1980-10-15,Northern Ireland,Sweden,3.0,0.0,1
+315,12444,1980-10-15,Romania,England,2.0,1.0,1
+316,12446,1980-10-15,Scotland,Portugal,0.0,0.0,0
+317,12448,1980-10-15,South Korea,New Zealand,1.0,2.0,2
+318,12452,1980-10-18,South Korea,Kuwait,3.0,0.0,1
+319,12455,1980-10-19,Kuwait,New Zealand,1.0,5.0,2
+320,12459,1980-10-21,Indonesia,New Zealand,0.0,0.0,0
+321,12463,1980-10-22,Kuwait,Myanmar,3.0,1.0,1
+322,12465,1980-10-24,Myanmar,New Zealand,1.0,1.0,0
+323,12466,1980-10-24,Kuwait,Thailand,0.0,1.0,2
+324,12468,1980-10-25,Kuwait,Indonesia,1.0,2.0,2
+325,12471,1980-10-26,Honduras,Guatemala,0.0,0.0,0
+326,12474,1980-10-26,Morocco,New Zealand,3.0,0.0,1
+327,12475,1980-10-27,Kuwait,Morocco,0.0,3.0,2
+328,12477,1980-10-28,France,Republic of Ireland,2.0,0.0,1
+329,12478,1980-10-28,New Zealand,Thailand,1.0,1.0,0
+330,12479,1980-10-29,Malaysia,Kuwait,2.0,1.0,1
+331,12482,1980-10-30,Malaysia,New Zealand,2.0,0.0,1
+332,12484,1980-10-30,Brazil,Paraguay,6.0,0.0,1
+333,12487,1980-11-01,Italy,Denmark,2.0,0.0,1
+334,12495,1980-11-09,Guatemala,El Salvador,0.0,0.0,0
+335,12496,1980-11-09,Honduras,Canada,2.0,0.0,1
+336,12506,1980-11-12,Peru,Uruguay,1.0,1.0,0
+337,12507,1980-11-12,Spain,Poland,1.0,2.0,2
+338,12509,1980-11-15,Austria,Albania,5.0,0.0,1
+339,12511,1980-11-15,Italy,Yugoslavia,2.0,0.0,1
+340,12514,1980-11-16,Honduras,Costa Rica,1.0,1.0,0
+341,12519,1980-11-16,Zimbabwe,Cameroon,1.0,0.0,1
+342,12523,1980-11-19,Belgium,Netherlands,1.0,0.0,1
+343,12525,1980-11-19,England,Switzerland,2.0,1.0,1
+344,12526,1980-11-19,German DR,Hungary,2.0,0.0,1
+345,12527,1980-11-19,Germany,France,4.0,1.0,1
+346,12530,1980-11-19,Poland,Algeria,5.0,1.0,1
+347,12531,1980-11-19,Portugal,Northern Ireland,1.0,0.0,1
+348,12532,1980-11-19,Wales,Czechoslovakia,1.0,0.0,1
+349,12537,1980-11-23,El Salvador,Honduras,2.0,1.0,1
+350,12549,1980-11-30,Honduras,El Salvador,2.0,0.0,1
+351,12554,1980-12-03,Czechoslovakia,Turkey,2.0,0.0,1
+352,12555,1980-12-04,Argentina,Russia,1.0,1.0,0
+353,12558,1980-12-06,Albania,Austria,0.0,1.0,2
+354,12559,1980-12-06,Greece,Italy,0.0,2.0,2
+355,12561,1980-12-07,Guatemala,Honduras,0.0,1.0,2
+356,12566,1980-12-07,Malta,Poland,0.0,2.0,2
+357,12569,1980-12-10,Costa Rica,El Salvador,0.0,0.0,0
+358,12572,1980-12-12,Algeria,Sudan,2.0,0.0,1
+359,12576,1980-12-14,Honduras,Panama,5.0,0.0,1
+360,12579,1980-12-16,Argentina,Switzerland,5.0,0.0,1
+361,12583,1980-12-21,Brazil,Switzerland,2.0,0.0,1
+362,12585,1980-12-21,Cyprus,Belgium,0.0,2.0,2
+363,12586,1980-12-21,El Salvador,Guatemala,1.0,0.0,1
+364,12597,1980-12-28,Sudan,Algeria,1.0,1.0,0
+365,12602,1981-01-01,Argentina,Germany,2.0,1.0,1
+366,12603,1981-01-03,Uruguay,Italy,2.0,0.0,1
+367,12604,1981-01-04,Argentina,Brazil,1.0,1.0,0
+368,12606,1981-01-06,Netherlands,Italy,1.0,1.0,0
+369,12607,1981-01-07,Brazil,Germany,4.0,1.0,1
+370,12608,1981-01-10,Uruguay,Brazil,2.0,1.0,1
+371,12616,1981-02-01,Colombia,Brazil,1.0,1.0,0
+372,12621,1981-02-04,Peru,Czechoslovakia,1.0,3.0,2
+373,12629,1981-02-08,Venezuela,Brazil,0.0,1.0,2
+374,12635,1981-02-11,Peru,Bulgaria,1.0,2.0,2
+375,12638,1981-02-14,Ecuador,Brazil,0.0,6.0,2
+376,12644,1981-02-18,Belgium,Cyprus,3.0,2.0,1
+377,12645,1981-02-18,Spain,France,1.0,0.0,1
+378,12647,1981-02-22,Bolivia,Brazil,1.0,2.0,2
+379,12651,1981-02-25,Israel,Scotland,0.0,1.0,2
+380,12661,1981-03-10,Chile,Colombia,1.0,0.0,1
+381,12665,1981-03-14,Brazil,Chile,2.0,1.0,1
+382,12669,1981-03-19,Colombia,Chile,1.0,2.0,2
+383,12673,1981-03-22,Brazil,Bolivia,3.0,1.0,1
+384,12676,1981-03-24,Czechoslovakia,Switzerland,0.0,1.0,2
+385,12678,1981-03-25,Belgium,Republic of Ireland,1.0,0.0,1
+386,12679,1981-03-25,England,Spain,1.0,2.0,2
+387,12681,1981-03-25,Netherlands,France,1.0,0.0,1
+388,12682,1981-03-25,Romania,Poland,2.0,0.0,1
+389,12683,1981-03-25,Scotland,Northern Ireland,1.0,1.0,0
+390,12686,1981-03-25,Yugoslavia,Bulgaria,2.0,1.0,1
+391,12689,1981-03-29,Brazil,Venezuela,5.0,0.0,1
+392,12693,1981-04-01,Cameroon,Niger,2.0,0.0,1
+393,12694,1981-04-03,Algeria,Senegal,2.0,0.0,1
+394,12699,1981-04-05,Cameroon,Togo,4.0,0.0,1
+395,12704,1981-04-10,Algeria,Mali,5.0,1.0,1
+396,12707,1981-04-12,DR Congo,Cameroon,1.0,0.0,1
+397,12715,1981-04-15,Spain,Hungary,0.0,3.0,2
+398,12716,1981-04-15,Turkey,Czechoslovakia,0.0,3.0,2
+399,12723,1981-04-19,Chile,Peru,3.0,0.0,1
+400,12725,1981-04-19,Italy,German DR,0.0,0.0,0
+401,12727,1981-04-19,Mali,Algeria,3.0,0.0,1
+402,12729,1981-04-19,Togo,Cameroon,2.0,2.0,0
+403,12733,1981-04-22,Kuwait,Thailand,6.0,0.0,1
+404,12735,1981-04-25,Kuwait,Malaysia,4.0,0.0,1
+405,12736,1981-04-25,New Zealand,Australia,3.0,3.0,0
+406,12738,1981-04-26,Cameroon,DR Congo,6.0,1.0,1
+407,12744,1981-04-28,Scotland,Israel,3.0,1.0,1
+408,12745,1981-04-28,Switzerland,Hungary,2.0,2.0,0
+409,12747,1981-04-29,Chile,Uruguay,1.0,2.0,2
+410,12749,1981-04-29,England,Romania,0.0,0.0,0
+411,12750,1981-04-29,France,Belgium,3.0,2.0,1
+412,12751,1981-04-29,Germany,Austria,2.0,0.0,1
+413,12752,1981-04-29,Republic of Ireland,Czechoslovakia,3.0,1.0,1
+414,12753,1981-04-29,Kuwait,South Korea,2.0,0.0,1
+415,12754,1981-04-29,Northern Ireland,Portugal,1.0,0.0,1
+416,12755,1981-04-29,Yugoslavia,Greece,5.0,1.0,1
+417,12756,1981-05-01,Algeria,Niger,4.0,0.0,1
+418,12758,1981-05-02,Poland,German DR,1.0,0.0,1
+419,12759,1981-05-03,Fiji,New Zealand,0.0,4.0,2
+420,12762,1981-05-07,Taiwan,New Zealand,0.0,0.0,0
+421,12765,1981-05-11,Indonesia,New Zealand,0.0,2.0,2
+422,12766,1981-05-12,England,Brazil,0.0,1.0,2
+423,12768,1981-05-13,Hungary,Romania,1.0,0.0,1
+424,12770,1981-05-15,France,Brazil,1.0,3.0,2
+425,12771,1981-05-16,Australia,New Zealand,0.0,2.0,2
+426,12772,1981-05-16,Wales,Scotland,2.0,0.0,1
+427,12776,1981-05-19,Germany,Brazil,1.0,2.0,2
+428,12777,1981-05-19,Scotland,Northern Ireland,2.0,0.0,1
+429,12779,1981-05-20,England,Wales,0.0,0.0,0
+430,12780,1981-05-20,Norway,Hungary,1.0,2.0,2
+431,12781,1981-05-23,England,Scotland,0.0,1.0,2
+432,12782,1981-05-23,New Zealand,Indonesia,5.0,0.0,1
+433,12783,1981-05-23,Poland,Republic of Ireland,3.0,0.0,1
+434,12784,1981-05-24,Ecuador,Chile,0.0,0.0,0
+435,12786,1981-05-27,Czechoslovakia,Iceland,6.0,1.0,1
+436,12787,1981-05-28,Austria,Bulgaria,2.0,0.0,1
+437,12788,1981-05-30,New Zealand,Taiwan,2.0,0.0,1
+438,12789,1981-05-30,Switzerland,England,2.0,1.0,1
+439,12792,1981-05-31,Niger,Algeria,1.0,0.0,1
+440,12796,1981-06-03,Denmark,Italy,3.0,1.0,1
+441,12798,1981-06-03,Sweden,Northern Ireland,1.0,0.0,1
+442,12800,1981-06-06,Hungary,England,1.0,3.0,2
+443,12801,1981-06-07,Paraguay,Chile,0.0,1.0,2
+444,12804,1981-06-11,Haiti,El Salvador,0.0,0.0,0
+445,12805,1981-06-13,Haiti,El Salvador,0.0,0.0,0
+446,12806,1981-06-14,Chile,Ecuador,2.0,0.0,1
+447,12810,1981-06-17,Austria,Finland,5.0,1.0,1
+448,12817,1981-06-20,Portugal,Spain,2.0,0.0,1
+449,12818,1981-06-21,Chile,Paraguay,3.0,0.0,1
+450,12833,1981-06-28,Venezuela,Spain,0.0,2.0,2
+451,12836,1981-07-02,Colombia,Spain,1.0,1.0,0
+452,12839,1981-07-05,Chile,Spain,1.0,1.0,0
+453,12846,1981-07-08,Brazil,Spain,1.0,0.0,1
+454,12872,1981-07-15,Uruguay,Chile,0.0,0.0,0
+455,12884,1981-07-26,Colombia,Peru,1.0,1.0,0
+456,12885,1981-07-26,El Salvador,Haiti,4.0,0.0,1
+457,12894,1981-08-05,Peru,Chile,1.0,2.0,2
+458,12904,1981-08-16,Cameroon,Madagascar,5.0,1.0,1
+459,12906,1981-08-16,New Zealand,Fiji,13.0,0.0,1
+460,12907,1981-08-16,Peru,Colombia,2.0,0.0,1
+461,12912,1981-08-23,Uruguay,Peru,1.0,2.0,2
+462,12914,1981-08-26,Chile,Brazil,0.0,0.0,0
+463,12916,1981-08-30,Algeria,Burkina Faso,7.0,0.0,1
+464,12918,1981-08-30,Madagascar,Cameroon,2.0,1.0,1
+465,12921,1981-09-01,India,New Zealand,0.0,0.0,0
+466,12926,1981-09-02,Poland,Germany,0.0,2.0,2
+467,12930,1981-09-04,Malaysia,New Zealand,0.0,1.0,2
+468,12937,1981-09-06,Peru,Uruguay,0.0,0.0,0
+469,12939,1981-09-07,Indonesia,New Zealand,0.0,0.0,0
+470,12941,1981-09-09,Belgium,France,2.0,0.0,1
+471,12942,1981-09-09,Czechoslovakia,Wales,2.0,0.0,1
+472,12943,1981-09-09,Denmark,Yugoslavia,1.0,2.0,2
+473,12947,1981-09-09,Norway,England,2.0,1.0,1
+474,12949,1981-09-09,Scotland,Sweden,2.0,0.0,1
+475,12951,1981-09-10,New Zealand,United Arab Emirates,0.0,1.0,2
+476,12953,1981-09-12,Japan,New Zealand,0.0,1.0,2
+477,12963,1981-09-20,Burkina Faso,Algeria,1.0,1.0,0
+478,12965,1981-09-23,Austria,Spain,0.0,0.0,0
+479,12969,1981-09-23,Iceland,Czechoslovakia,1.0,1.0,0
+480,12970,1981-09-23,Italy,Bulgaria,3.0,2.0,1
+481,12971,1981-09-23,Portugal,Poland,2.0,0.0,1
+482,12972,1981-09-23,Romania,Hungary,0.0,0.0,0
+483,12974,1981-09-24,China,New Zealand,0.0,0.0,0
+484,12981,1981-10-03,New Zealand,China,1.0,0.0,1
+485,12985,1981-10-10,German DR,Poland,2.0,3.0,2
+486,12986,1981-10-10,New Zealand,Kuwait,1.0,2.0,2
+487,12987,1981-10-10,Nigeria,Algeria,0.0,2.0,2
+488,12991,1981-10-14,Austria,Germany,1.0,3.0,2
+489,12993,1981-10-14,Hungary,Switzerland,3.0,0.0,1
+490,12994,1981-10-14,Republic of Ireland,France,3.0,2.0,1
+491,12995,1981-10-14,Netherlands,Belgium,3.0,0.0,1
+492,12996,1981-10-14,Northern Ireland,Scotland,0.0,0.0,0
+493,12998,1981-10-14,Spain,Luxembourg,3.0,0.0,1
+494,13001,1981-10-17,Yugoslavia,Italy,1.0,1.0,0
+495,13002,1981-10-18,China,Kuwait,3.0,0.0,1
+496,13010,1981-10-28,Argentina,Poland,1.0,2.0,2
+497,13011,1981-10-28,Brazil,Bulgaria,3.0,0.0,1
+498,13013,1981-10-28,Russia,Czechoslovakia,2.0,0.0,1
+499,13016,1981-10-30,Algeria,Nigeria,2.0,1.0,1
+500,13018,1981-10-31,Hungary,Norway,4.0,1.0,1
+501,13022,1981-11-02,Canada,El Salvador,1.0,0.0,1
+502,13023,1981-11-03,Honduras,Haiti,4.0,0.0,1
+503,13024,1981-11-04,Saudi Arabia,Kuwait,0.0,1.0,2
+504,13027,1981-11-06,Mexico,El Salvador,0.0,1.0,2
+505,13029,1981-11-08,Honduras,Cuba,2.0,0.0,1
+506,13030,1981-11-08,Tunisia,Cameroon,1.0,1.0,0
+507,13032,1981-11-11,Argentina,Czechoslovakia,1.0,1.0,0
+508,13033,1981-11-11,Bulgaria,Austria,0.0,0.0,0
+509,13034,1981-11-11,Cuba,El Salvador,0.0,0.0,0
+510,13040,1981-11-12,Honduras,Canada,2.0,1.0,1
+511,13043,1981-11-14,Italy,Greece,1.0,1.0,0
+512,13047,1981-11-15,Morocco,Cameroon,0.0,2.0,2
+513,13048,1981-11-15,Poland,Malta,6.0,0.0,1
+514,13052,1981-11-16,Honduras,El Salvador,0.0,0.0,0
+515,13058,1981-11-18,England,Hungary,1.0,0.0,1
+516,13059,1981-11-18,France,Netherlands,2.0,0.0,1
+517,13061,1981-11-18,Northern Ireland,Israel,1.0,0.0,1
+518,13062,1981-11-18,Poland,Spain,2.0,3.0,2
+519,13063,1981-11-18,Portugal,Scotland,2.0,1.0,1
+520,13066,1981-11-19,El Salvador,Haiti,1.0,0.0,1
+521,13072,1981-11-21,Yugoslavia,Luxembourg,5.0,0.0,1
+522,13074,1981-11-22,Honduras,Mexico,0.0,0.0,0
+523,13078,1981-11-28,New Zealand,Saudi Arabia,2.0,2.0,0
+524,13080,1981-11-29,Cameroon,Morocco,2.0,1.0,1
+525,13081,1981-11-29,Czechoslovakia,Russia,1.0,1.0,0
+526,13082,1981-11-29,Greece,Yugoslavia,1.0,2.0,2
+527,13083,1981-11-30,Kuwait,China,1.0,0.0,1
+528,13084,1981-12-05,France,Cyprus,4.0,0.0,1
+529,13085,1981-12-05,Italy,Luxembourg,1.0,0.0,1
+530,13087,1981-12-07,Kuwait,Saudi Arabia,2.0,0.0,1
+531,13095,1981-12-14,Kuwait,New Zealand,2.0,2.0,0
+532,13099,1981-12-16,Spain,Belgium,2.0,0.0,1
+533,13100,1981-12-19,Saudi Arabia,New Zealand,0.0,5.0,2
+534,13102,1982-01-10,China,New Zealand,1.0,2.0,2
+535,13103,1982-01-17,Cameroon,Congo,2.0,1.0,1
+536,13110,1982-01-26,Brazil,German DR,3.0,1.0,1
+537,13114,1982-02-07,Tunisia,Algeria,0.0,1.0,2
+538,13120,1982-02-11,New Zealand,Hungary,1.0,2.0,2
+539,13128,1982-02-14,New Zealand,Hungary,1.0,2.0,2
+540,13160,1982-02-23,England,Northern Ireland,4.0,0.0,1
+541,13161,1982-02-23,France,Italy,2.0,0.0,1
+542,13163,1982-02-24,Spain,Scotland,3.0,0.0,1
+543,13166,1982-03-01,United Arab Emirates,Honduras,0.0,1.0,2
+544,13168,1982-03-03,Brazil,Czechoslovakia,1.0,1.0,0
+545,13169,1982-03-03,United Arab Emirates,Honduras,0.0,0.0,0
+546,13171,1982-03-05,Cameroon,Tunisia,1.0,1.0,0
+547,13174,1982-03-07,Algeria,Zambia,1.0,0.0,1
+548,13177,1982-03-09,Argentina,Czechoslovakia,0.0,0.0,0
+549,13178,1982-03-09,Cameroon,Ghana,0.0,0.0,0
+550,13181,1982-03-10,Algeria,Nigeria,2.0,1.0,1
+551,13187,1982-03-12,Libya,Cameroon,0.0,0.0,0
+552,13189,1982-03-13,Algeria,Ethiopia,0.0,0.0,0
+553,13191,1982-03-14,Kuwait,Iceland,0.0,0.0,0
+554,13192,1982-03-16,Algeria,Ghana,2.0,3.0,2
+555,13194,1982-03-18,Algeria,Zambia,0.0,2.0,2
+556,13197,1982-03-20,Bahrain,Kuwait,0.0,2.0,2
+557,13198,1982-03-21,Brazil,Germany,1.0,0.0,1
+558,13203,1982-03-23,Chile,Peru,2.0,1.0,1
+559,13204,1982-03-23,Scotland,Netherlands,2.0,1.0,1
+560,13205,1982-03-24,Argentina,Germany,1.0,1.0,0
+561,13206,1982-03-24,Belgium,Romania,4.0,1.0,1
+562,13207,1982-03-24,Czechoslovakia,Greece,2.0,1.0,1
+563,13208,1982-03-24,France,Northern Ireland,4.0,0.0,1
+564,13209,1982-03-24,Hungary,Austria,2.0,3.0,2
+565,13210,1982-03-24,Spain,Wales,1.0,1.0,0
+566,13212,1982-03-24,United Arab Emirates,Kuwait,0.0,2.0,2
+567,13215,1982-03-26,Saudi Arabia,Kuwait,0.0,1.0,2
+568,13217,1982-03-29,Kuwait,Oman,2.0,0.0,1
+569,13219,1982-03-30,Peru,Chile,1.0,0.0,1
+570,13225,1982-04-04,Kuwait,Qatar,1.0,2.0,2
+571,13227,1982-04-14,Argentina,Russia,1.0,1.0,0
+572,13229,1982-04-14,German DR,Italy,1.0,0.0,1
+573,13230,1982-04-14,Germany,Czechoslovakia,2.0,1.0,1
+574,13232,1982-04-18,El Salvador,Honduras,3.0,2.0,1
+575,13233,1982-04-18,Hungary,Peru,1.0,2.0,2
+576,13235,1982-04-22,Honduras,El Salvador,1.0,1.0,0
+577,13236,1982-04-25,Algeria,Peru,1.0,1.0,0
+578,13237,1982-04-27,Wales,England,0.0,1.0,2
+579,13238,1982-04-28,Algeria,Republic of Ireland,2.0,0.0,1
+580,13239,1982-04-28,Austria,Czechoslovakia,2.0,1.0,1
+581,13240,1982-04-28,Belgium,Bulgaria,2.0,1.0,1
+582,13241,1982-04-28,France,Peru,0.0,1.0,2
+583,13242,1982-04-28,Northern Ireland,Scotland,1.0,1.0,0
+584,13244,1982-04-28,Spain,Switzerland,2.0,0.0,1
+585,13245,1982-05-01,Cameroon,Senegal,2.0,1.0,1
+586,13248,1982-05-02,Cameroon,Guinea,1.0,1.0,0
+587,13250,1982-05-05,Argentina,Bulgaria,2.0,1.0,1
+588,13251,1982-05-05,Brazil,Portugal,3.0,1.0,1
+589,13252,1982-05-05,Cameroon,Ghana,0.0,0.0,0
+590,13264,1982-05-12,Argentina,Romania,1.0,0.0,1
+591,13273,1982-05-17,Peru,Romania,2.0,0.0,1
+592,13274,1982-05-19,Austria,Denmark,1.0,0.0,1
+593,13275,1982-05-19,Brazil,Switzerland,1.0,1.0,0
+594,13277,1982-05-21,Chile,Republic of Ireland,1.0,0.0,1
+595,13278,1982-05-24,Scotland,Wales,1.0,0.0,1
+596,13279,1982-05-25,England,Netherlands,2.0,0.0,1

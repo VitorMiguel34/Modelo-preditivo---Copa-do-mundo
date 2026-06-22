@@ -1,1176 +1,1176 @@
-,index,date,home_team,away_team,home_score,away_score
-0,37958,2014-08-06,Peru,Panama,3.0,0.0
-1,37967,2014-08-20,Panama,Cuba,4.0,0.0
-2,37975,2014-08-30,Egypt,Kenya,1.0,0.0
-3,37980,2014-09-03,Costa Rica,Nicaragua,3.0,0.0
-4,37982,2014-09-03,Denmark,Turkey,1.0,2.0
-5,37983,2014-09-03,England,Norway,1.0,0.0
-6,37984,2014-09-03,Germany,Argentina,2.0,4.0
-7,37990,2014-09-03,Morocco,Qatar,0.0,0.0
-8,37993,2014-09-03,Russia,Azerbaijan,4.0,0.0
-9,37996,2014-09-04,Belgium,Australia,2.0,0.0
-10,37999,2014-09-04,Croatia,Cyprus,2.0,0.0
-11,38000,2014-09-04,France,Spain,1.0,0.0
-12,38001,2014-09-04,Iraq,Peru,0.0,2.0
-13,38004,2014-09-04,Sweden,Estonia,2.0,0.0
-14,38008,2014-09-05,Japan,Uruguay,0.0,2.0
-15,38009,2014-09-05,Brazil,Colombia,1.0,0.0
-16,38011,2014-09-05,South Korea,Venezuela,3.0,1.0
-17,38013,2014-09-05,Senegal,Egypt,2.0,0.0
-18,38025,2014-09-06,Mexico,Chile,0.0,0.0
-19,38027,2014-09-06,Nigeria,Congo,2.0,3.0
-20,38031,2014-09-06,Tunisia,Botswana,2.0,1.0
-21,38036,2014-09-07,Costa Rica,Panama,2.0,2.0
-22,38037,2014-09-07,Denmark,Armenia,2.0,1.0
-23,38042,2014-09-07,Germany,Scotland,2.0,1.0
-24,38043,2014-09-07,Gibraltar,Poland,0.0,7.0
-25,38048,2014-09-07,Morocco,Libya,3.0,0.0
-26,38050,2014-09-07,Portugal,Albania,0.0,1.0
-27,38052,2014-09-07,Serbia,France,1.0,1.0
-28,38053,2014-09-08,Australia,Saudi Arabia,3.0,2.0
-29,38054,2014-09-08,Austria,Sweden,1.0,1.0
-30,38056,2014-09-08,South Korea,Uruguay,0.0,1.0
-31,38059,2014-09-08,Russia,Liechtenstein,4.0,0.0
-32,38061,2014-09-08,Spain,North Macedonia,5.0,1.0
-33,38062,2014-09-08,Switzerland,England,0.0,2.0
-34,38069,2014-09-09,Croatia,Malta,2.0,0.0
-35,38072,2014-09-09,Iceland,Turkey,3.0,0.0
-36,38074,2014-09-09,Japan,Venezuela,2.0,2.0
-37,38077,2014-09-09,Mexico,Bolivia,1.0,0.0
-38,38079,2014-09-09,Qatar,Peru,0.0,2.0
-39,38083,2014-09-10,Botswana,Senegal,0.0,2.0
-40,38088,2014-09-10,Egypt,Tunisia,0.0,1.0
-41,38092,2014-09-10,South Africa,Nigeria,0.0,0.0
-42,38107,2014-10-09,England,San Marino,5.0,0.0
-43,38112,2014-10-09,Morocco,Central African Republic,4.0,0.0
-44,38114,2014-10-09,Slovakia,Spain,2.0,1.0
-45,38115,2014-10-09,Slovenia,Switzerland,1.0,0.0
-46,38116,2014-10-09,Sweden,Russia,1.0,1.0
-47,38117,2014-10-10,Belgium,Andorra,6.0,0.0
-48,38118,2014-10-10,Botswana,Egypt,0.0,2.0
-49,38119,2014-10-10,Bulgaria,Croatia,0.0,1.0
-50,38125,2014-10-10,Japan,Jamaica,1.0,0.0
-51,38127,2014-10-10,South Korea,Paraguay,2.0,0.0
-52,38128,2014-10-10,Latvia,Iceland,0.0,3.0
-53,38132,2014-10-10,Oman,Costa Rica,3.0,4.0
-54,38133,2014-10-10,Saudi Arabia,Uruguay,1.0,1.0
-55,38134,2014-10-10,Senegal,Tunisia,0.0,0.0
-56,38138,2014-10-10,United Arab Emirates,Australia,0.0,0.0
-57,38142,2014-10-10,Chile,Peru,3.0,0.0
-58,38143,2014-10-11,Albania,Denmark,1.0,1.0
-59,38144,2014-10-11,Argentina,Brazil,0.0,2.0
-60,38145,2014-10-11,Armenia,Serbia,1.0,1.0
-61,38151,2014-10-11,France,Portugal,2.0,1.0
-62,38159,2014-10-11,Poland,Germany,2.0,0.0
-63,38162,2014-10-11,Sudan,Nigeria,1.0,0.0
-64,38168,2014-10-12,Estonia,England,0.0,1.0
-65,38173,2014-10-12,Luxembourg,Spain,0.0,4.0
-66,38174,2014-10-12,Mexico,Panama,1.0,0.0
-67,38177,2014-10-12,Russia,Moldova,1.0,1.0
-68,38179,2014-10-12,Sweden,Liechtenstein,2.0,0.0
-69,38184,2014-10-13,Bosnia and Herzegovina,Belgium,1.0,1.0
-70,38185,2014-10-13,Croatia,Azerbaijan,6.0,0.0
-71,38186,2014-10-13,Iceland,Netherlands,2.0,0.0
-72,38191,2014-10-13,Morocco,Kenya,3.0,0.0
-73,38193,2014-10-13,Oman,Uruguay,0.0,3.0
-74,38195,2014-10-14,Armenia,France,0.0,3.0
-75,38199,2014-10-14,Denmark,Portugal,0.0,1.0
-76,38202,2014-10-14,Germany,Republic of Ireland,1.0,1.0
-77,38205,2014-10-14,Hong Kong,Argentina,0.0,7.0
-78,38206,2014-10-14,Japan,Brazil,0.0,4.0
-79,38207,2014-10-14,South Korea,Costa Rica,1.0,3.0
-80,38210,2014-10-14,Poland,Scotland,2.0,2.0
-81,38211,2014-10-14,Qatar,Australia,1.0,0.0
-82,38212,2014-10-14,San Marino,Switzerland,0.0,4.0
-83,38213,2014-10-14,Saudi Arabia,Lebanon,1.0,1.0
-84,38214,2014-10-14,Serbia,Albania,0.0,3.0
-85,38217,2014-10-14,Peru,Guatemala,1.0,0.0
-86,38223,2014-10-15,Egypt,Botswana,2.0,0.0
-87,38227,2014-10-15,Nigeria,Sudan,3.0,1.0
-88,38231,2014-10-15,Tunisia,Senegal,1.0,0.0
-89,38247,2014-11-06,Saudi Arabia,Palestine,2.0,0.0
-90,38257,2014-11-12,Argentina,Croatia,2.0,1.0
-91,38258,2014-11-12,Belgium,Iceland,3.0,1.0
-92,38260,2014-11-12,Netherlands,Mexico,2.0,3.0
-93,38262,2014-11-12,Turkey,Brazil,0.0,4.0
-94,38265,2014-11-13,Morocco,Benin,6.0,1.0
-95,38266,2014-11-13,Saudi Arabia,Qatar,1.0,1.0
-96,38269,2014-11-13,Uruguay,Costa Rica,3.0,3.0
-97,38271,2014-11-14,Botswana,Tunisia,0.0,0.0
-98,38273,2014-11-14,France,Albania,1.0,1.0
-99,38274,2014-11-14,Georgia,Poland,0.0,4.0
-100,38275,2014-11-14,Germany,Gibraltar,4.0,0.0
-101,38280,2014-11-14,Japan,Honduras,6.0,0.0
-102,38281,2014-11-14,Jordan,South Korea,0.0,1.0
-103,38283,2014-11-14,Paraguay,Peru,2.0,1.0
-104,38285,2014-11-14,Portugal,Armenia,1.0,0.0
-105,38288,2014-11-14,Serbia,Denmark,1.0,3.0
-106,38290,2014-11-14,United States,Colombia,1.0,2.0
-107,38293,2014-11-15,Austria,Russia,1.0,0.0
-108,38296,2014-11-15,Congo,Nigeria,0.0,2.0
-109,38297,2014-11-15,Egypt,Senegal,0.0,1.0
-110,38298,2014-11-15,England,Slovenia,3.0,1.0
-111,38306,2014-11-15,Montenegro,Sweden,1.0,1.0
-112,38310,2014-11-15,Spain,Belarus,3.0,0.0
-113,38311,2014-11-15,Switzerland,Lithuania,4.0,0.0
-114,38316,2014-11-16,Belgium,Wales,0.0,0.0
-115,38319,2014-11-16,Czech Republic,Iceland,2.0,1.0
-116,38322,2014-11-16,Italy,Croatia,1.0,1.0
-117,38323,2014-11-16,Morocco,Zimbabwe,2.0,1.0
-118,38325,2014-11-16,Saudi Arabia,Bahrain,3.0,0.0
-119,38333,2014-11-18,Austria,Brazil,1.0,2.0
-120,38334,2014-11-18,Belarus,Mexico,3.0,2.0
-121,38336,2014-11-18,Chile,Uruguay,1.0,2.0
-122,38340,2014-11-18,France,Sweden,1.0,0.0
-123,38341,2014-11-18,Greece,Serbia,0.0,2.0
-124,38342,2014-11-18,Hungary,Russia,1.0,2.0
-125,38343,2014-11-18,Iran,South Korea,1.0,0.0
-126,38347,2014-11-18,Japan,Australia,2.0,1.0
-127,38349,2014-11-18,Panama,Canada,0.0,0.0
-128,38350,2014-11-18,Peru,Paraguay,2.0,1.0
-129,38351,2014-11-18,Poland,Switzerland,2.0,2.0
-130,38352,2014-11-18,Portugal,Argentina,1.0,0.0
-131,38353,2014-11-18,Romania,Denmark,2.0,0.0
-132,38354,2014-11-18,Scotland,England,1.0,3.0
-133,38356,2014-11-18,Slovenia,Colombia,0.0,1.0
-134,38357,2014-11-18,Spain,Germany,0.0,1.0
-135,38371,2014-11-19,Nigeria,South Africa,2.0,2.0
-136,38372,2014-11-19,Saudi Arabia,Yemen,1.0,0.0
-137,38373,2014-11-19,Senegal,Botswana,3.0,0.0
-138,38375,2014-11-19,Tunisia,Egypt,2.0,1.0
-139,38383,2014-11-23,Saudi Arabia,United Arab Emirates,3.0,2.0
-140,38389,2014-11-26,Saudi Arabia,Qatar,1.0,2.0
-141,38410,2014-12-30,Bahrain,Saudi Arabia,4.0,1.0
-142,38415,2015-01-04,Iran,Iraq,1.0,0.0
-143,38416,2015-01-04,South Korea,Saudi Arabia,2.0,0.0
-144,38420,2015-01-09,Australia,Kuwait,4.0,1.0
-145,38421,2015-01-09,Senegal,Gabon,1.0,0.0
-146,38425,2015-01-10,South Korea,Oman,1.0,0.0
-147,38426,2015-01-10,Saudi Arabia,China,0.0,1.0
-148,38428,2015-01-11,Iran,Bahrain,2.0,0.0
-149,38429,2015-01-11,Nigeria,Ivory Coast,0.0,1.0
-150,38430,2015-01-11,Tunisia,Algeria,1.0,1.0
-151,38432,2015-01-12,Japan,Palestine,4.0,0.0
-152,38434,2015-01-13,Australia,Oman,4.0,0.0
-153,38436,2015-01-13,Kuwait,South Korea,0.0,1.0
-154,38437,2015-01-13,Senegal,Guinea,5.0,2.0
-155,38439,2015-01-14,North Korea,Saudi Arabia,1.0,4.0
-156,38442,2015-01-15,Qatar,Iran,0.0,1.0
-157,38443,2015-01-15,Sweden,Ivory Coast,2.0,0.0
-158,38444,2015-01-16,Canada,Iceland,1.0,2.0
-159,38445,2015-01-16,Iraq,Japan,0.0,1.0
-160,38447,2015-01-17,Australia,South Korea,0.0,1.0
-161,38451,2015-01-17,Yemen,Nigeria,0.0,2.0
-162,38453,2015-01-18,Tunisia,Cape Verde,1.0,1.0
-163,38454,2015-01-18,Uzbekistan,Saudi Arabia,3.0,1.0
-164,38457,2015-01-19,Canada,Iceland,1.0,1.0
-165,38458,2015-01-19,Finland,Sweden,1.0,0.0
-166,38459,2015-01-19,Ghana,Senegal,1.0,2.0
-167,38460,2015-01-19,Iran,United Arab Emirates,1.0,0.0
-168,38464,2015-01-20,Japan,Jordan,2.0,0.0
-169,38468,2015-01-22,Australia,China,2.0,0.0
-170,38470,2015-01-22,South Korea,Uzbekistan,2.0,0.0
-171,38472,2015-01-22,Zambia,Tunisia,1.0,2.0
-172,38474,2015-01-23,Iran,Iraq,3.0,3.0
-173,38475,2015-01-23,Japan,United Arab Emirates,1.0,1.0
-174,38476,2015-01-23,South Africa,Senegal,1.0,1.0
-175,38482,2015-01-26,DR Congo,Tunisia,1.0,1.0
-176,38483,2015-01-26,South Korea,Iraq,2.0,0.0
-177,38484,2015-01-27,Australia,United Arab Emirates,2.0,0.0
-178,38485,2015-01-27,Senegal,Algeria,0.0,2.0
-179,38493,2015-01-31,Australia,South Korea,2.0,1.0
-180,38495,2015-01-31,Equatorial Guinea,Tunisia,2.0,1.0
-181,38507,2015-02-08,United States,Panama,2.0,0.0
-182,38529,2015-03-25,Denmark,United States,3.0,2.0
-183,38534,2015-03-25,Germany,Australia,2.0,2.0
-184,38537,2015-03-25,Nigeria,Uganda,0.0,1.0
-185,38541,2015-03-26,Bahrain,Colombia,0.0,6.0
-186,38542,2015-03-26,Chile,Iran,0.0,2.0
-187,38543,2015-03-26,Egypt,Equatorial Guinea,2.0,0.0
-188,38544,2015-03-26,France,Brazil,1.0,3.0
-189,38557,2015-03-27,England,Lithuania,4.0,0.0
-190,38559,2015-03-27,Japan,Tunisia,2.0,0.0
-191,38560,2015-03-27,South Korea,Uzbekistan,1.0,1.0
-192,38563,2015-03-27,Moldova,Sweden,0.0,2.0
-193,38566,2015-03-27,Spain,Ukraine,1.0,0.0
-194,38567,2015-03-27,Switzerland,Estonia,3.0,0.0
-195,38568,2015-03-27,Trinidad and Tobago,Panama,0.0,1.0
-196,38569,2015-03-28,Argentina,El Salvador,2.0,0.0
-197,38572,2015-03-28,Belgium,Cyprus,5.0,0.0
-198,38574,2015-03-28,Croatia,Norway,5.0,1.0
-199,38576,2015-03-28,Ghana,Senegal,1.0,2.0
-200,38580,2015-03-28,Kazakhstan,Iceland,0.0,3.0
-201,38582,2015-03-28,Morocco,Uruguay,0.0,1.0
-202,38589,2015-03-29,Brazil,Chile,1.0,0.0
-203,38591,2015-03-29,France,Denmark,2.0,0.0
-204,38592,2015-03-29,Georgia,Germany,0.0,2.0
-205,38596,2015-03-29,Republic of Ireland,Poland,1.0,1.0
-206,38599,2015-03-29,Portugal,Serbia,2.0,1.0
-207,38602,2015-03-29,South Africa,Nigeria,1.0,1.0
-208,38610,2015-03-30,Kuwait,Colombia,1.0,3.0
-209,38611,2015-03-30,North Macedonia,Australia,0.0,0.0
-210,38614,2015-03-30,Saudi Arabia,Jordan,2.0,1.0
-211,38616,2015-03-31,Argentina,Ecuador,2.0,1.0
-212,38618,2015-03-31,China,Tunisia,1.0,1.0
-213,38619,2015-03-31,Estonia,Iceland,1.0,1.0
-214,38622,2015-03-31,Israel,Belgium,0.0,1.0
-215,38623,2015-03-31,Italy,England,1.0,1.0
-216,38624,2015-03-31,Japan,Uzbekistan,5.0,1.0
-217,38625,2015-03-31,South Korea,New Zealand,1.0,0.0
-218,38630,2015-03-31,Netherlands,Spain,2.0,0.0
-219,38631,2015-03-31,Panama,Costa Rica,2.0,1.0
-220,38632,2015-03-31,Peru,Venezuela,0.0,1.0
-221,38633,2015-03-31,Portugal,Cape Verde,0.0,2.0
-222,38634,2015-03-31,Russia,Kazakhstan,0.0,0.0
-223,38637,2015-03-31,Sweden,Iran,3.0,1.0
-224,38638,2015-03-31,Switzerland,United States,1.0,1.0
-225,38641,2015-04-15,United States,Mexico,2.0,0.0
-226,38685,2015-05-30,Mexico,Guatemala,3.0,0.0
-227,38695,2015-06-03,Panama,Ecuador,1.0,1.0
-228,38696,2015-06-03,Peru,Mexico,1.0,1.0
-229,38705,2015-06-06,Argentina,Bolivia,5.0,0.0
-230,38708,2015-06-06,Colombia,Costa Rica,1.0,0.0
-231,38709,2015-06-06,Ecuador,Panama,4.0,0.0
-232,38716,2015-06-06,Uruguay,Guatemala,5.0,1.0
-233,38717,2015-06-07,Brazil,Mexico,2.0,0.0
-234,38718,2015-06-07,Croatia,Gibraltar,4.0,0.0
-235,38720,2015-06-07,France,Belgium,3.0,4.0
-236,38721,2015-06-07,Republic of Ireland,England,0.0,0.0
-237,38723,2015-06-07,Russia,Belarus,4.0,2.0
-238,38725,2015-06-07,Serbia,Azerbaijan,4.0,1.0
-239,38727,2015-06-08,Denmark,Montenegro,2.0,1.0
-240,38728,2015-06-08,Egypt,Malawi,2.0,1.0
-241,38731,2015-06-08,Norway,Sweden,0.0,0.0
-242,38738,2015-06-10,Brazil,Honduras,1.0,0.0
-243,38740,2015-06-10,Germany,United States,1.0,2.0
-244,38741,2015-06-10,Switzerland,Liechtenstein,3.0,0.0
-245,38753,2015-06-11,Japan,Iraq,4.0,0.0
-246,38754,2015-06-11,South Korea,United Arab Emirates,3.0,0.0
-247,38760,2015-06-11,Saudi Arabia,Palestine,3.0,2.0
-248,38761,2015-06-11,Spain,Costa Rica,2.0,1.0
-249,38763,2015-06-11,Uzbekistan,Iran,0.0,1.0
-250,38769,2015-06-12,Croatia,Italy,1.0,1.0
-251,38771,2015-06-12,Iceland,Czech Republic,2.0,1.0
-252,38775,2015-06-12,Mexico,Bolivia,0.0,0.0
-253,38776,2015-06-12,Morocco,Libya,1.0,0.0
-254,38778,2015-06-12,Wales,Belgium,1.0,0.0
-255,38781,2015-06-12,Tunisia,Djibouti,8.0,1.0
-256,38782,2015-06-13,Albania,France,1.0,0.0
-257,38785,2015-06-13,Argentina,Paraguay,2.0,2.0
-258,38786,2015-06-13,Armenia,Portugal,2.0,3.0
-259,38789,2015-06-13,Denmark,Serbia,2.0,0.0
-260,38792,2015-06-13,Gibraltar,Germany,0.0,7.0
-261,38797,2015-06-13,Poland,Georgia,4.0,0.0
-262,38798,2015-06-13,Senegal,Burundi,3.0,1.0
-263,38801,2015-06-13,Uruguay,Jamaica,1.0,0.0
-264,38804,2015-06-14,Belarus,Spain,0.0,1.0
-265,38805,2015-06-14,Brazil,Peru,2.0,1.0
-266,38807,2015-06-14,Colombia,Venezuela,0.0,1.0
-267,38811,2015-06-14,Egypt,Tanzania,3.0,0.0
-268,38817,2015-06-14,Lithuania,Switzerland,1.0,2.0
-269,38820,2015-06-14,Russia,Austria,0.0,1.0
-270,38822,2015-06-14,Slovenia,England,2.0,3.0
-271,38824,2015-06-14,Sweden,Montenegro,3.0,1.0
-272,38831,2015-06-15,Chile,Mexico,3.0,3.0
-273,38834,2015-06-16,Argentina,Uruguay,1.0,0.0
-274,38837,2015-06-16,Myanmar,South Korea,0.0,2.0
-275,38843,2015-06-16,Italy,Portugal,0.0,1.0
-276,38844,2015-06-16,Japan,Singapore,0.0,0.0
-277,38847,2015-06-16,Kyrgyzstan,Australia,1.0,2.0
-278,38851,2015-06-16,Poland,Greece,0.0,0.0
-279,38854,2015-06-16,Turkmenistan,Iran,1.0,1.0
-280,38859,2015-06-17,Brazil,Colombia,0.0,1.0
-281,38862,2015-06-18,Peru,Venezuela,1.0,0.0
-282,38866,2015-06-19,Mexico,Ecuador,1.0,2.0
-283,38870,2015-06-20,Argentina,Jamaica,1.0,0.0
-284,38871,2015-06-20,Uruguay,Paraguay,1.0,1.0
-285,38874,2015-06-21,Brazil,Venezuela,2.0,1.0
-286,38875,2015-06-21,Colombia,Peru,0.0,0.0
-287,38878,2015-06-24,Chile,Uruguay,1.0,0.0
-288,38879,2015-06-25,Bolivia,Peru,1.0,3.0
-289,38880,2015-06-26,Argentina,Colombia,0.0,0.0
-290,38881,2015-06-27,Brazil,Paraguay,1.0,1.0
-291,38882,2015-06-27,Mexico,Costa Rica,2.0,2.0
-292,38891,2015-06-29,Chile,Peru,2.0,1.0
-293,38900,2015-06-30,Argentina,Paraguay,6.0,1.0
-294,38909,2015-07-01,Honduras,Mexico,0.0,0.0
-295,38918,2015-07-03,Peru,Paraguay,2.0,0.0
-296,38921,2015-07-04,Chile,Argentina,0.0,0.0
-297,38923,2015-07-07,Panama,Haiti,1.0,1.0
-298,38925,2015-07-08,Costa Rica,Jamaica,2.0,2.0
-299,38927,2015-07-09,Mexico,Cuba,6.0,0.0
-300,38930,2015-07-10,Honduras,Panama,1.0,1.0
-301,38932,2015-07-11,Costa Rica,El Salvador,1.0,1.0
-302,38934,2015-07-12,Guatemala,Mexico,0.0,0.0
-303,38937,2015-07-13,United States,Panama,1.0,1.0
-304,38938,2015-07-14,Canada,Costa Rica,0.0,0.0
-305,38941,2015-07-15,Trinidad and Tobago,Mexico,4.0,4.0
-306,38944,2015-07-19,Mexico,Costa Rica,1.0,0.0
-307,38945,2015-07-19,Trinidad and Tobago,Panama,1.0,1.0
-308,38946,2015-07-22,Panama,Mexico,1.0,2.0
-309,38948,2015-07-25,United States,Panama,1.0,1.0
-310,38949,2015-07-26,Jamaica,Mexico,1.0,3.0
-311,38953,2015-08-02,China,South Korea,0.0,2.0
-312,38954,2015-08-02,North Korea,Japan,2.0,1.0
-313,38962,2015-08-05,Japan,South Korea,1.0,1.0
-314,38968,2015-08-09,China,Japan,1.0,1.0
-315,38969,2015-08-09,South Korea,North Korea,0.0,0.0
-316,38989,2015-09-03,Australia,Bangladesh,5.0,0.0
-317,38990,2015-09-03,Azerbaijan,Croatia,0.0,0.0
-318,38992,2015-09-03,Belgium,Bosnia and Herzegovina,3.0,1.0
-319,38997,2015-09-03,Iran,Guam,6.0,0.0
-320,39001,2015-09-03,Japan,Cambodia,3.0,0.0
-321,39003,2015-09-03,South Korea,Laos,8.0,0.0
-322,39005,2015-09-03,Netherlands,Iceland,0.0,1.0
-323,39009,2015-09-03,Saudi Arabia,Timor-Leste,7.0,0.0
-324,39017,2015-09-04,Denmark,Albania,0.0,0.0
-325,39021,2015-09-04,Germany,Poland,3.0,1.0
-326,39026,2015-09-04,Portugal,France,0.0,1.0
-327,39027,2015-09-04,Serbia,Armenia,2.0,0.0
-328,39034,2015-09-04,United States,Peru,2.0,1.0
-329,39035,2015-09-05,Argentina,Bolivia,7.0,0.0
-330,39041,2015-09-05,Costa Rica,Brazil,0.0,1.0
-331,39045,2015-09-05,Liberia,Tunisia,1.0,0.0
-332,39049,2015-09-05,Namibia,Senegal,0.0,2.0
-333,39050,2015-09-05,Russia,Sweden,1.0,0.0
-334,39052,2015-09-05,San Marino,England,0.0,6.0
-335,39053,2015-09-05,São Tomé and Príncipe,Morocco,0.0,3.0
-336,39056,2015-09-05,Spain,Slovakia,2.0,0.0
-337,39057,2015-09-05,Switzerland,Slovenia,3.0,2.0
-338,39058,2015-09-05,Tanzania,Nigeria,0.0,0.0
-339,39064,2015-09-06,Cyprus,Belgium,0.0,1.0
-340,39065,2015-09-06,Iceland,Kazakhstan,0.0,0.0
-341,39075,2015-09-06,Norway,Croatia,2.0,0.0
-342,39081,2015-09-07,Albania,Portugal,0.0,1.0
-343,39082,2015-09-07,Armenia,Denmark,0.0,0.0
-344,39085,2015-09-07,France,Serbia,2.0,1.0
-345,39088,2015-09-07,Poland,Gibraltar,8.0,1.0
-346,39090,2015-09-07,Scotland,Germany,2.0,3.0
-347,39091,2015-09-08,United States,Brazil,1.0,4.0
-348,39092,2015-09-08,Afghanistan,Japan,0.0,6.0
-349,39099,2015-09-08,England,Switzerland,2.0,0.0
-350,39102,2015-09-08,India,Iran,0.0,3.0
-351,39104,2015-09-08,Lebanon,South Korea,0.0,3.0
-352,39105,2015-09-08,Liechtenstein,Russia,0.0,7.0
-353,39107,2015-09-08,North Macedonia,Spain,0.0,1.0
-354,39108,2015-09-08,Malaysia,Saudi Arabia,0.0,3.0
-355,39109,2015-09-08,Mexico,Argentina,2.0,2.0
-356,39111,2015-09-08,Nigeria,Niger,2.0,0.0
-357,39116,2015-09-08,South Africa,Senegal,1.0,0.0
-358,39117,2015-09-08,Sweden,Austria,1.0,4.0
-359,39118,2015-09-08,Tajikistan,Australia,0.0,3.0
-360,39120,2015-09-08,Venezuela,Panama,1.0,1.0
-361,39129,2015-09-08,Colombia,Peru,1.0,1.0
-362,39139,2015-10-08,Albania,Serbia,0.0,2.0
-363,39140,2015-10-08,Argentina,Ecuador,0.0,2.0
-364,39143,2015-10-08,Bolivia,Uruguay,0.0,2.0
-365,39145,2015-10-08,Chile,Brazil,2.0,0.0
-366,39146,2015-10-08,Colombia,Peru,2.0,0.0
-367,39148,2015-10-08,France,Armenia,4.0,0.0
-368,39151,2015-10-08,Republic of Ireland,Germany,1.0,0.0
-369,39152,2015-10-08,Jordan,Australia,2.0,0.0
-370,39154,2015-10-08,Kuwait,South Korea,0.0,1.0
-371,39158,2015-10-08,Nigeria,DR Congo,0.0,2.0
-372,39160,2015-10-08,Oman,Iran,1.0,1.0
-373,39161,2015-10-08,Portugal,Denmark,1.0,0.0
-374,39165,2015-10-08,Saudi Arabia,United Arab Emirates,2.0,1.0
-375,39166,2015-10-08,Scotland,Poland,2.0,2.0
-376,39168,2015-10-08,Syria,Japan,0.0,3.0
-377,39175,2015-10-09,England,Estonia,2.0,0.0
-378,39177,2015-10-09,Liechtenstein,Sweden,0.0,2.0
-379,39179,2015-10-09,Moldova,Russia,1.0,2.0
-380,39181,2015-10-09,Morocco,Ivory Coast,0.0,1.0
-381,39185,2015-10-09,Spain,Luxembourg,4.0,0.0
-382,39186,2015-10-09,Switzerland,San Marino,7.0,0.0
-383,39188,2015-10-09,Tunisia,Gabon,3.0,3.0
-384,39189,2015-10-10,Andorra,Belgium,1.0,4.0
-385,39193,2015-10-10,Croatia,Bulgaria,3.0,0.0
-386,39196,2015-10-10,Iceland,Latvia,2.0,2.0
-387,39202,2015-10-10,United States,Mexico,2.0,3.0
-388,39204,2015-10-11,Denmark,France,1.0,2.0
-389,39205,2015-10-11,Egypt,Zambia,3.0,0.0
-390,39209,2015-10-11,Germany,Georgia,2.0,1.0
-391,39214,2015-10-11,Nigeria,Cameroon,3.0,0.0
-392,39215,2015-10-11,Poland,Republic of Ireland,2.0,1.0
-393,39216,2015-10-11,Serbia,Portugal,1.0,2.0
-394,39219,2015-10-12,Estonia,Switzerland,0.0,1.0
-395,39221,2015-10-12,Lithuania,England,0.0,3.0
-396,39223,2015-10-12,Morocco,Guinea,1.0,1.0
-397,39224,2015-10-12,Russia,Montenegro,2.0,0.0
-398,39226,2015-10-12,Sweden,Moldova,2.0,0.0
-399,39227,2015-10-12,Ukraine,Spain,0.0,1.0
-400,39228,2015-10-13,Algeria,Senegal,1.0,0.0
-401,39230,2015-10-13,Belgium,Israel,3.0,1.0
-402,39233,2015-10-13,Brazil,Venezuela,3.0,1.0
-403,39243,2015-10-13,Iran,Japan,1.0,1.0
-404,39247,2015-10-13,South Korea,Jamaica,3.0,0.0
-405,39253,2015-10-13,Malta,Croatia,0.0,1.0
-406,39259,2015-10-13,Paraguay,Argentina,0.0,0.0
-407,39260,2015-10-13,Peru,Chile,3.0,4.0
-408,39265,2015-10-13,Turkey,Iceland,1.0,0.0
-409,39267,2015-10-13,Uruguay,Colombia,3.0,0.0
-410,39279,2015-11-09,Palestine,Saudi Arabia,0.0,0.0
-411,39287,2015-11-12,Australia,Kyrgyzstan,3.0,0.0
-412,39291,2015-11-12,Chile,Colombia,1.0,1.0
-413,39293,2015-11-12,Ecuador,Uruguay,2.0,1.0
-414,39295,2015-11-12,Iran,Turkmenistan,3.0,1.0
-415,39296,2015-11-12,South Korea,Myanmar,4.0,0.0
-416,39300,2015-11-12,Morocco,Equatorial Guinea,2.0,0.0
-417,39306,2015-11-12,Singapore,Japan,0.0,3.0
-418,39313,2015-11-13,Argentina,Brazil,1.0,1.0
-419,39314,2015-11-13,Belgium,Italy,3.0,1.0
-420,39317,2015-11-13,Costa Rica,Haiti,1.0,0.0
-421,39318,2015-11-13,Czech Republic,Serbia,4.0,1.0
-422,39319,2015-11-13,France,Germany,2.0,0.0
-423,39325,2015-11-13,Madagascar,Senegal,2.0,2.0
-424,39326,2015-11-13,Mauritania,Tunisia,1.0,2.0
-425,39329,2015-11-13,Peru,Paraguay,1.0,0.0
-426,39330,2015-11-13,Poland,Iceland,4.0,2.0
-427,39332,2015-11-13,Slovakia,Switzerland,3.0,2.0
-428,39333,2015-11-13,Spain,England,2.0,0.0
-429,39334,2015-11-13,Eswatini,Nigeria,0.0,0.0
-430,39338,2015-11-13,Jamaica,Panama,0.0,2.0
-431,39339,2015-11-13,Mexico,El Salvador,3.0,0.0
-432,39342,2015-11-14,Chad,Egypt,1.0,0.0
-433,39346,2015-11-14,Russia,Portugal,1.0,0.0
-434,39347,2015-11-14,Sweden,Denmark,2.0,1.0
-435,39351,2015-11-15,Equatorial Guinea,Morocco,1.0,0.0
-436,39359,2015-11-17,Austria,Switzerland,1.0,2.0
-437,39361,2015-11-17,Bangladesh,Australia,0.0,4.0
-438,39363,2015-11-17,Brazil,Peru,3.0,0.0
-439,39366,2015-11-17,Cambodia,Japan,0.0,2.0
-440,39369,2015-11-17,Colombia,Argentina,0.0,1.0
-441,39371,2015-11-17,Denmark,Sweden,2.0,2.0
-442,39372,2015-11-17,Timor-Leste,Saudi Arabia,0.0,10.0
-443,39373,2015-11-17,Egypt,Chad,4.0,0.0
-444,39374,2015-11-17,England,France,2.0,0.0
-445,39377,2015-11-17,Guam,Iran,0.0,6.0
-446,39378,2015-11-17,Honduras,Mexico,0.0,2.0
-447,39384,2015-11-17,Laos,South Korea,0.0,5.0
-448,39385,2015-11-17,Luxembourg,Portugal,0.0,2.0
-449,39389,2015-11-17,Nigeria,Eswatini,2.0,0.0
-450,39391,2015-11-17,Poland,Czech Republic,3.0,1.0
-451,39392,2015-11-17,Russia,Croatia,1.0,3.0
-452,39394,2015-11-17,Senegal,Madagascar,3.0,0.0
-453,39396,2015-11-17,Slovakia,Iceland,3.0,1.0
-454,39399,2015-11-17,Tunisia,Mauritania,2.0,1.0
-455,39402,2015-11-17,Uruguay,Chile,3.0,0.0
-456,39406,2015-11-17,Panama,Costa Rica,1.0,2.0
-457,39455,2016-01-06,Sweden,Estonia,1.0,1.0
-458,39458,2016-01-08,Panama,Cuba,4.0,0.0
-459,39460,2016-01-10,Sweden,Finland,3.0,0.0
-460,39462,2016-01-13,Finland,Iceland,0.0,1.0
-461,39466,2016-01-16,United Arab Emirates,Iceland,2.0,1.0
-462,39468,2016-01-27,Egypt,Jordan,0.0,1.0
-463,39469,2016-01-29,Egypt,Libya,2.0,0.0
-464,39470,2016-01-31,United States,Iceland,3.0,2.0
-465,39476,2016-02-27,Egypt,Burkina Faso,2.0,0.0
-466,39484,2016-03-23,Croatia,Israel,2.0,0.0
-467,39489,2016-03-23,Poland,Serbia,1.0,0.0
-468,39495,2016-03-24,Australia,Tajikistan,7.0,0.0
-469,39497,2016-03-24,Bolivia,Colombia,2.0,3.0
-470,39498,2016-03-24,Chile,Argentina,1.0,2.0
-471,39502,2016-03-24,Denmark,Iceland,2.0,1.0
-472,39508,2016-03-24,Iran,India,4.0,0.0
-473,39510,2016-03-24,Italy,Spain,1.0,1.0
-474,39511,2016-03-24,Japan,Afghanistan,5.0,0.0
-475,39513,2016-03-24,South Korea,Lebanon,1.0,0.0
-476,39517,2016-03-24,Peru,Venezuela,2.0,2.0
-477,39519,2016-03-24,Saudi Arabia,Malaysia,2.0,0.0
-478,39523,2016-03-24,Turkey,Sweden,2.0,1.0
-479,39531,2016-03-25,Brazil,Uruguay,2.0,2.0
-480,39532,2016-03-25,Canada,Mexico,0.0,3.0
-481,39537,2016-03-25,Haiti,Panama,0.0,0.0
-482,39538,2016-03-25,Republic of Ireland,Switzerland,1.0,0.0
-483,39540,2016-03-25,Jamaica,Costa Rica,1.0,1.0
-484,39544,2016-03-25,Netherlands,France,2.0,3.0
-485,39545,2016-03-25,Nigeria,Egypt,1.0,1.0
-486,39546,2016-03-25,Portugal,Bulgaria,0.0,1.0
-487,39549,2016-03-25,Tunisia,Togo,1.0,0.0
-488,39560,2016-03-26,Cape Verde,Morocco,0.0,1.0
-489,39564,2016-03-26,Germany,England,2.0,3.0
-490,39565,2016-03-26,Hungary,Croatia,1.0,1.0
-491,39567,2016-03-26,Poland,Finland,5.0,0.0
-492,39568,2016-03-26,Russia,Lithuania,3.0,0.0
-493,39569,2016-03-26,Senegal,Niger,2.0,0.0
-494,39577,2016-03-27,Romania,Spain,0.0,0.0
-495,39578,2016-03-27,Thailand,South Korea,0.0,1.0
-496,39589,2016-03-29,Argentina,Bolivia,2.0,0.0
-497,39590,2016-03-29,Australia,Jordan,5.0,1.0
-498,39593,2016-03-29,Colombia,Ecuador,3.0,1.0
-499,39594,2016-03-29,Costa Rica,Jamaica,3.0,0.0
-500,39597,2016-03-29,Egypt,Nigeria,1.0,0.0
-501,39598,2016-03-29,England,Netherlands,1.0,2.0
-502,39599,2016-03-29,Estonia,Serbia,0.0,1.0
-503,39601,2016-03-29,France,Russia,4.0,2.0
-504,39605,2016-03-29,Germany,Italy,4.0,1.0
-505,39607,2016-03-29,Greece,Iceland,2.0,3.0
-506,39610,2016-03-29,Iran,Oman,2.0,0.0
-507,39613,2016-03-29,Japan,Syria,5.0,0.0
-508,39622,2016-03-29,Mexico,Canada,2.0,0.0
-509,39624,2016-03-29,Morocco,Cape Verde,2.0,0.0
-510,39626,2016-03-29,Niger,Senegal,1.0,2.0
-511,39629,2016-03-29,Panama,Haiti,1.0,0.0
-512,39630,2016-03-29,Paraguay,Brazil,2.0,2.0
-513,39632,2016-03-29,Portugal,Belgium,2.0,1.0
-514,39634,2016-03-29,Scotland,Denmark,1.0,0.0
-515,39639,2016-03-29,Sweden,Czech Republic,1.0,1.0
-516,39640,2016-03-29,Switzerland,Bosnia and Herzegovina,0.0,2.0
-517,39642,2016-03-29,Togo,Tunisia,0.0,0.0
-518,39644,2016-03-29,United Arab Emirates,Saudi Arabia,1.0,1.0
-519,39645,2016-03-29,Uruguay,Peru,1.0,0.0
-520,39653,2016-04-27,Martinique,Panama,0.0,2.0
-521,39660,2016-05-22,England,Turkey,2.0,1.0
-522,39662,2016-05-23,Peru,Trinidad and Tobago,4.0,0.0
-523,39664,2016-05-25,Serbia,Cyprus,2.0,1.0
-524,39666,2016-05-27,Croatia,Moldova,1.0,0.0
-525,39668,2016-05-27,England,Australia,2.0,1.0
-526,39670,2016-05-27,Morocco,Congo,2.0,0.0
-527,39671,2016-05-27,Nigeria,Mali,1.0,0.0
-528,39675,2016-05-27,Uruguay,Trinidad and Tobago,3.0,1.0
-529,39678,2016-05-28,Costa Rica,Venezuela,2.0,1.0
-530,39679,2016-05-28,El Salvador,Peru,1.0,3.0
-531,39682,2016-05-28,Mexico,Paraguay,1.0,0.0
-532,39684,2016-05-28,Rwanda,Senegal,0.0,2.0
-533,39685,2016-05-28,Switzerland,Belgium,1.0,2.0
-534,39689,2016-05-29,Bosnia and Herzegovina,Spain,1.0,3.0
-535,39691,2016-05-29,Germany,Slovakia,1.0,3.0
-536,39697,2016-05-29,Portugal,Norway,3.0,0.0
-537,39705,2016-05-30,France,Cameroon,3.0,2.0
-538,39707,2016-05-30,Sweden,Slovenia,0.0,0.0
-539,39715,2016-05-31,Luxembourg,Nigeria,1.0,3.0
-540,39716,2016-05-31,Serbia,Israel,3.0,1.0
-541,39725,2016-06-01,Belgium,Finland,1.0,1.0
-542,39727,2016-06-01,Czech Republic,Russia,2.0,1.0
-543,39734,2016-06-01,Norway,Iceland,3.0,2.0
-544,39736,2016-06-01,Poland,Netherlands,1.0,2.0
-545,39737,2016-06-01,Spain,South Korea,6.0,1.0
-546,39741,2016-06-02,England,Portugal,1.0,0.0
-547,39743,2016-06-02,North Macedonia,Iran,1.0,3.0
-548,39754,2016-06-03,Bosnia and Herzegovina,Denmark,2.0,2.0
-549,39757,2016-06-03,Djibouti,Tunisia,0.0,3.0
-550,39759,2016-06-03,Japan,Bulgaria,7.0,2.0
-551,39760,2016-06-03,Libya,Morocco,1.0,1.0
-552,39764,2016-06-03,Switzerland,Moldova,2.0,1.0
-553,39767,2016-06-03,United States,Colombia,0.0,2.0
-554,39773,2016-06-04,Australia,Greece,1.0,0.0
-555,39776,2016-06-04,Burundi,Senegal,0.0,2.0
-556,39777,2016-06-04,Brazil,Ecuador,0.0,0.0
-557,39778,2016-06-04,Costa Rica,Paraguay,0.0,0.0
-558,39779,2016-06-04,Croatia,San Marino,10.0,0.0
-559,39782,2016-06-04,France,Scotland,3.0,0.0
-560,39784,2016-06-04,Germany,Hungary,2.0,0.0
-561,39786,2016-06-04,Haiti,Peru,0.0,1.0
-562,39795,2016-06-04,Tanzania,Egypt,0.0,2.0
-563,39801,2016-06-05,Belgium,Norway,3.0,2.0
-564,39804,2016-06-05,Czech Republic,South Korea,1.0,2.0
-565,39811,2016-06-05,Mexico,Uruguay,3.0,1.0
-566,39813,2016-06-05,Russia,Serbia,1.0,1.0
-567,39816,2016-06-05,Sweden,Wales,3.0,0.0
-568,39823,2016-06-06,Argentina,Chile,2.0,1.0
-569,39825,2016-06-06,Iceland,Liechtenstein,4.0,0.0
-570,39828,2016-06-06,Panama,Bolivia,2.0,1.0
-571,39829,2016-06-06,Poland,Lithuania,0.0,0.0
-572,39831,2016-06-07,Australia,Greece,1.0,2.0
-573,39833,2016-06-07,Bulgaria,Denmark,0.0,4.0
-574,39837,2016-06-07,Colombia,Paraguay,2.0,1.0
-575,39841,2016-06-07,Iran,Kyrgyzstan,6.0,0.0
-576,39842,2016-06-07,Japan,Bosnia and Herzegovina,1.0,2.0
-577,39843,2016-06-07,Spain,Georgia,0.0,1.0
-578,39845,2016-06-07,United States,Costa Rica,4.0,0.0
-579,39847,2016-06-08,Brazil,Haiti,7.0,1.0
-580,39848,2016-06-08,Ecuador,Peru,2.0,2.0
-581,39851,2016-06-08,Portugal,Estonia,7.0,0.0
-582,39852,2016-06-09,Mexico,Jamaica,2.0,0.0
-583,39853,2016-06-09,Uruguay,Venezuela,0.0,1.0
-584,39854,2016-06-10,Argentina,Panama,5.0,0.0
-585,39856,2016-06-10,France,Romania,2.0,1.0
-586,39857,2016-06-11,Albania,Switzerland,0.0,1.0
-587,39858,2016-06-11,Colombia,Costa Rica,2.0,3.0
-588,39859,2016-06-11,England,Russia,1.0,1.0
-589,39866,2016-06-12,Brazil,Peru,0.0,1.0
-590,39868,2016-06-12,Germany,Ukraine,2.0,0.0
-591,39871,2016-06-12,Poland,Northern Ireland,1.0,0.0
-592,39872,2016-06-12,Turkey,Croatia,0.0,1.0
-593,39873,2016-06-13,Belgium,Italy,0.0,2.0
-594,39874,2016-06-13,Republic of Ireland,Sweden,1.0,1.0
-595,39876,2016-06-13,Mexico,Venezuela,1.0,1.0
-596,39877,2016-06-13,Spain,Czech Republic,1.0,0.0
-597,39879,2016-06-13,Uruguay,Jamaica,3.0,0.0
-598,39881,2016-06-14,Argentina,Bolivia,3.0,0.0
-599,39883,2016-06-14,Chile,Panama,4.0,2.0
-600,39885,2016-06-14,Portugal,Iceland,1.0,1.0
-601,39886,2016-06-15,France,Albania,2.0,0.0
-602,39887,2016-06-15,Romania,Switzerland,1.0,1.0
-603,39888,2016-06-15,Russia,Slovakia,1.0,2.0
-604,39892,2016-06-16,England,Wales,2.0,1.0
-605,39893,2016-06-16,Germany,Poland,0.0,0.0
-606,39897,2016-06-17,Czech Republic,Croatia,2.0,2.0
-607,39898,2016-06-17,Italy,Sweden,1.0,0.0
-608,39899,2016-06-17,Peru,Colombia,0.0,0.0
-609,39900,2016-06-17,Spain,Turkey,3.0,0.0
-610,39901,2016-06-18,Argentina,Venezuela,4.0,1.0
-611,39902,2016-06-18,Belgium,Republic of Ireland,3.0,0.0
-612,39903,2016-06-18,Iceland,Hungary,1.0,1.0
-613,39904,2016-06-18,Mexico,Chile,0.0,7.0
-614,39906,2016-06-18,Portugal,Austria,0.0,0.0
-615,39909,2016-06-19,France,Switzerland,0.0,0.0
-616,39913,2016-06-20,Russia,Wales,0.0,3.0
-617,39914,2016-06-20,Slovakia,England,0.0,0.0
-618,39915,2016-06-21,Croatia,Spain,2.0,1.0
-619,39919,2016-06-21,Northern Ireland,Germany,0.0,1.0
-620,39920,2016-06-21,Ukraine,Poland,0.0,1.0
-621,39921,2016-06-21,United States,Argentina,0.0,4.0
-622,39923,2016-06-22,Colombia,Chile,0.0,2.0
-623,39924,2016-06-22,Hungary,Portugal,3.0,3.0
-624,39925,2016-06-22,Iceland,Austria,2.0,1.0
-625,39929,2016-06-22,Sweden,Belgium,0.0,1.0
-626,39931,2016-06-25,Croatia,Portugal,0.0,1.0
-627,39934,2016-06-25,Switzerland,Poland,1.0,1.0
-628,39935,2016-06-25,United States,Colombia,0.0,1.0
-629,39937,2016-06-26,Argentina,Chile,0.0,0.0
-630,39939,2016-06-26,France,Republic of Ireland,2.0,1.0
-631,39940,2016-06-26,Germany,Slovakia,3.0,0.0
-632,39941,2016-06-26,Hungary,Belgium,0.0,4.0
-633,39942,2016-06-27,England,Iceland,1.0,2.0
-634,39943,2016-06-27,Italy,Spain,2.0,0.0
-635,39945,2016-06-30,Poland,Portugal,1.0,1.0
-636,39946,2016-07-01,Wales,Belgium,3.0,1.0
-637,39947,2016-07-02,Germany,Italy,1.0,1.0
-638,39950,2016-07-03,France,Iceland,5.0,2.0
-639,39952,2016-07-06,Portugal,Wales,2.0,0.0
-640,39953,2016-07-07,France,Germany,2.0,0.0
-641,39954,2016-07-10,France,Portugal,0.0,1.0
-642,39968,2016-08-24,Saudi Arabia,Laos,4.0,0.0
-643,39975,2016-08-30,Egypt,Guinea,1.0,1.0
-644,39978,2016-08-31,Albania,Morocco,0.0,0.0
-645,39980,2016-08-31,Denmark,Liechtenstein,5.0,0.0
-646,39982,2016-08-31,Germany,Finland,2.0,0.0
-647,39986,2016-08-31,Turkey,Russia,0.0,0.0
-648,39987,2016-09-01,Argentina,Uruguay,1.0,0.0
-649,39988,2016-09-01,Australia,Iraq,2.0,0.0
-650,39990,2016-09-01,Belgium,Spain,0.0,2.0
-651,39991,2016-09-01,Bolivia,Peru,0.0,3.0
-652,39992,2016-09-01,Colombia,Venezuela,2.0,0.0
-653,39993,2016-09-01,Ecuador,Brazil,0.0,3.0
-654,39995,2016-09-01,Iran,Qatar,2.0,0.0
-655,39996,2016-09-01,Italy,France,1.0,3.0
-656,39997,2016-09-01,Japan,United Arab Emirates,1.0,2.0
-657,39998,2016-09-01,South Korea,China,3.0,2.0
-658,40002,2016-09-01,Portugal,Gibraltar,5.0,0.0
-659,40003,2016-09-01,Saudi Arabia,Thailand,1.0,0.0
-660,40005,2016-09-02,El Salvador,Mexico,1.0,3.0
-661,40006,2016-09-02,Haiti,Costa Rica,0.0,1.0
-662,40009,2016-09-02,Panama,Jamaica,2.0,0.0
-663,40022,2016-09-03,Nigeria,Tanzania,1.0,0.0
-664,40023,2016-09-03,Senegal,Namibia,2.0,0.0
-665,40030,2016-09-04,Denmark,Armenia,1.0,0.0
-666,40033,2016-09-04,Kazakhstan,Poland,2.0,2.0
-667,40037,2016-09-04,Morocco,São Tomé and Príncipe,2.0,0.0
-668,40040,2016-09-04,Norway,Germany,0.0,3.0
-669,40043,2016-09-04,Slovakia,England,0.0,1.0
-670,40045,2016-09-04,Tunisia,Liberia,4.0,1.0
-671,40049,2016-09-05,Croatia,Turkey,1.0,1.0
-672,40054,2016-09-05,Serbia,Republic of Ireland,2.0,2.0
-673,40055,2016-09-05,Spain,Liechtenstein,8.0,0.0
-674,40056,2016-09-05,Ukraine,Iceland,1.0,1.0
-675,40060,2016-09-06,Belarus,France,0.0,0.0
-676,40062,2016-09-06,Brazil,Colombia,2.0,1.0
-677,40067,2016-09-06,China,Iran,0.0,0.0
-678,40068,2016-09-06,Costa Rica,Panama,3.0,1.0
-679,40069,2016-09-06,Cyprus,Belgium,0.0,3.0
-680,40073,2016-09-06,Iraq,Saudi Arabia,1.0,2.0
-681,40077,2016-09-06,Mexico,Honduras,0.0,0.0
-682,40079,2016-09-06,Peru,Ecuador,2.0,1.0
-683,40081,2016-09-06,Russia,Ghana,1.0,0.0
-684,40082,2016-09-06,South Africa,Egypt,1.0,0.0
-685,40083,2016-09-06,Sweden,Netherlands,1.0,1.0
-686,40084,2016-09-06,Switzerland,Portugal,2.0,0.0
-687,40085,2016-09-06,Syria,South Korea,0.0,0.0
-688,40086,2016-09-06,Thailand,Japan,0.0,2.0
-689,40087,2016-09-06,United Arab Emirates,Australia,0.0,1.0
-690,40088,2016-09-06,Uruguay,Paraguay,4.0,0.0
-691,40090,2016-09-06,Venezuela,Argentina,2.0,2.0
-692,40092,2016-09-29,Qatar,Serbia,3.0,0.0
-693,40101,2016-10-06,Brazil,Bolivia,5.0,0.0
-694,40105,2016-10-06,Iceland,Finland,3.0,2.0
-695,40107,2016-10-06,Italy,Spain,1.0,1.0
-696,40108,2016-10-06,Japan,Iraq,2.0,1.0
-697,40109,2016-10-06,South Korea,Qatar,3.0,2.0
-698,40110,2016-10-06,Kosovo,Croatia,0.0,6.0
-699,40115,2016-10-06,Moldova,Serbia,0.0,3.0
-700,40116,2016-10-06,Paraguay,Colombia,0.0,1.0
-701,40117,2016-10-06,Peru,Argentina,2.0,2.0
-702,40118,2016-10-06,Saudi Arabia,Australia,2.0,2.0
-703,40121,2016-10-06,Uruguay,Venezuela,3.0,0.0
-704,40122,2016-10-06,Uzbekistan,Iran,0.0,1.0
-705,40124,2016-10-07,Belgium,Bosnia and Herzegovina,4.0,0.0
-706,40127,2016-10-07,France,Bulgaria,4.0,1.0
-707,40130,2016-10-07,Hungary,Switzerland,2.0,3.0
-708,40132,2016-10-07,Luxembourg,Sweden,0.0,1.0
-709,40136,2016-10-07,Portugal,Andorra,6.0,0.0
-710,40144,2016-10-08,England,Malta,2.0,0.0
-711,40146,2016-10-08,Gabon,Morocco,0.0,0.0
-712,40147,2016-10-08,Germany,Czech Republic,3.0,0.0
-713,40149,2016-10-08,Mexico,New Zealand,2.0,1.0
-714,40152,2016-10-08,Poland,Denmark,3.0,2.0
-715,40154,2016-10-08,Senegal,Cape Verde,2.0,0.0
-716,40159,2016-10-09,Albania,Spain,0.0,2.0
-717,40162,2016-10-09,Congo,Egypt,1.0,2.0
-718,40163,2016-10-09,Finland,Croatia,0.0,1.0
-719,40164,2016-10-09,Iceland,Turkey,2.0,0.0
-720,40169,2016-10-09,Russia,Costa Rica,3.0,4.0
-721,40170,2016-10-09,Serbia,Austria,3.0,2.0
-722,40172,2016-10-09,Tunisia,Guinea,2.0,0.0
-723,40175,2016-10-09,Zambia,Nigeria,1.0,2.0
-724,40176,2016-10-10,Andorra,Switzerland,1.0,2.0
-725,40181,2016-10-10,Faroe Islands,Portugal,0.0,6.0
-726,40182,2016-10-10,Gibraltar,Belgium,0.0,6.0
-727,40184,2016-10-10,Netherlands,France,0.0,1.0
-728,40186,2016-10-10,Sweden,Bulgaria,3.0,0.0
-729,40187,2016-10-11,Argentina,Paraguay,0.0,1.0
-730,40188,2016-10-11,Australia,Japan,1.0,1.0
-731,40190,2016-10-11,Chile,Peru,2.0,1.0
-732,40191,2016-10-11,Colombia,Uruguay,2.0,2.0
-733,40193,2016-10-11,Denmark,Montenegro,0.0,1.0
-734,40194,2016-10-11,Germany,Northern Ireland,2.0,0.0
-735,40196,2016-10-11,Iran,South Korea,1.0,0.0
-736,40204,2016-10-11,Mexico,Panama,1.0,0.0
-737,40205,2016-10-11,Morocco,Canada,4.0,0.0
-738,40208,2016-10-11,Poland,Armenia,2.0,1.0
-739,40211,2016-10-11,Saudi Arabia,United Arab Emirates,3.0,0.0
-740,40213,2016-10-11,Slovenia,England,0.0,0.0
-741,40216,2016-10-11,Venezuela,Brazil,0.0,2.0
-742,40243,2016-11-09,Netherlands,Belgium,1.0,1.0
-743,40249,2016-11-10,Brazil,Argentina,3.0,0.0
-744,40250,2016-11-10,Colombia,Chile,0.0,0.0
-745,40251,2016-11-10,Iran,Papua New Guinea,8.0,1.0
-746,40253,2016-11-10,Paraguay,Peru,1.0,4.0
-747,40254,2016-11-10,Qatar,Russia,2.0,1.0
-748,40255,2016-11-10,Uruguay,Ecuador,2.0,1.0
-749,40260,2016-11-11,Denmark,Kazakhstan,4.0,1.0
-750,40261,2016-11-11,England,Scotland,3.0,0.0
-751,40262,2016-11-11,France,Sweden,2.0,1.0
-752,40263,2016-11-11,Honduras,Panama,0.0,1.0
-753,40264,2016-11-11,Japan,Oman,4.0,0.0
-754,40265,2016-11-11,South Korea,Canada,2.0,0.0
-755,40266,2016-11-11,Libya,Tunisia,0.0,1.0
-756,40269,2016-11-11,Romania,Poland,0.0,3.0
-757,40270,2016-11-11,San Marino,Germany,0.0,8.0
-758,40273,2016-11-11,Trinidad and Tobago,Costa Rica,0.0,2.0
-759,40274,2016-11-11,United States,Mexico,1.0,2.0
-760,40279,2016-11-12,Croatia,Iceland,2.0,0.0
-761,40286,2016-11-12,Morocco,Ivory Coast,0.0,0.0
-762,40289,2016-11-12,Nigeria,Algeria,3.0,1.0
-763,40290,2016-11-12,Spain,North Macedonia,4.0,0.0
-764,40294,2016-11-12,Wales,Serbia,1.0,1.0
-765,40295,2016-11-13,Belgium,Estonia,8.0,1.0
-766,40298,2016-11-13,Egypt,Ghana,2.0,0.0
-767,40304,2016-11-13,Portugal,Latvia,4.0,1.0
-768,40308,2016-11-13,Switzerland,Faroe Islands,2.0,0.0
-769,40314,2016-11-14,Poland,Slovenia,1.0,1.0
-770,40315,2016-11-15,Argentina,Colombia,3.0,0.0
-771,40319,2016-11-15,Chile,Uruguay,3.0,1.0
-772,40321,2016-11-15,Costa Rica,United States,4.0,0.0
-773,40322,2016-11-15,Czech Republic,Denmark,1.0,1.0
-774,40324,2016-11-15,England,Spain,2.0,2.0
-775,40325,2016-11-15,France,Ivory Coast,0.0,0.0
-776,40328,2016-11-15,Italy,Germany,0.0,0.0
-777,40329,2016-11-15,Japan,Saudi Arabia,2.0,1.0
-778,40332,2016-11-15,South Korea,Uzbekistan,2.0,1.0
-779,40333,2016-11-15,Malta,Iceland,0.0,2.0
-780,40334,2016-11-15,Morocco,Togo,2.0,1.0
-781,40338,2016-11-15,Northern Ireland,Croatia,0.0,3.0
-782,40339,2016-11-15,Panama,Mexico,0.0,0.0
-783,40340,2016-11-15,Peru,Brazil,0.0,2.0
-784,40341,2016-11-15,Russia,Romania,1.0,0.0
-785,40342,2016-11-15,Syria,Iran,0.0,0.0
-786,40343,2016-11-15,Thailand,Australia,2.0,2.0
-787,40344,2016-11-15,Tunisia,Mauritania,0.0,0.0
-788,40345,2016-11-15,Ukraine,Serbia,2.0,0.0
-789,40370,2016-12-28,Catalonia,Tunisia,3.0,3.0
-790,40372,2016-12-30,Basque Country,Tunisia,3.0,1.0
-791,40374,2017-01-04,Tunisia,Uganda,2.0,0.0
-792,40379,2017-01-08,Egypt,Tunisia,1.0,0.0
-793,40380,2017-01-08,Ivory Coast,Sweden,2.0,1.0
-794,40381,2017-01-08,Libya,Senegal,1.0,2.0
-795,40383,2017-01-09,Morocco,Finland,0.0,1.0
-796,40386,2017-01-10,China,Iceland,0.0,2.0
-797,40387,2017-01-11,Chile,Croatia,1.0,1.0
-798,40388,2017-01-11,Congo,Senegal,0.0,2.0
-799,40392,2017-01-14,Cambodia,Saudi Arabia,2.0,7.0
-800,40393,2017-01-14,China,Croatia,1.0,1.0
-801,40396,2017-01-15,Belize,Costa Rica,0.0,3.0
-802,40398,2017-01-15,Iceland,Chile,0.0,1.0
-803,40399,2017-01-15,Tunisia,Senegal,0.0,2.0
-804,40400,2017-01-16,DR Congo,Morocco,1.0,0.0
-805,40404,2017-01-17,Mali,Egypt,0.0,0.0
-806,40408,2017-01-19,Algeria,Tunisia,1.0,2.0
-807,40409,2017-01-19,Senegal,Zimbabwe,2.0,0.0
-808,40411,2017-01-20,Morocco,Togo,3.0,1.0
-809,40413,2017-01-21,Egypt,Uganda,1.0,0.0
-810,40420,2017-01-22,Panama,Costa Rica,1.0,0.0
-811,40421,2017-01-23,Senegal,Algeria,2.0,2.0
-812,40423,2017-01-23,Zimbabwe,Tunisia,2.0,4.0
-813,40424,2017-01-24,Morocco,Ivory Coast,1.0,0.0
-814,40426,2017-01-25,Egypt,Ghana,1.0,0.0
-815,40429,2017-01-26,Brazil,Colombia,1.0,0.0
-816,40430,2017-01-28,Burkina Faso,Tunisia,2.0,0.0
-817,40431,2017-01-28,Senegal,Cameroon,0.0,0.0
-818,40433,2017-01-29,Egypt,Morocco,1.0,0.0
-819,40434,2017-01-29,United States,Serbia,0.0,0.0
-820,40435,2017-02-01,Burkina Faso,Egypt,1.0,1.0
-821,40438,2017-02-05,Egypt,Cameroon,1.0,2.0
-822,40439,2017-02-08,Mexico,Iceland,1.0,0.0
-823,40447,2017-03-18,Iran,Iraq,0.0,1.0
-824,40455,2017-03-22,Germany,England,1.0,0.0
-825,40462,2017-03-23,Argentina,Chile,1.0,0.0
-826,40464,2017-03-23,China,South Korea,1.0,0.0
-827,40465,2017-03-23,Colombia,Bolivia,1.0,0.0
-828,40466,2017-03-23,Iraq,Australia,1.0,1.0
-829,40469,2017-03-23,Nigeria,Senegal,1.0,1.0
-830,40472,2017-03-23,Qatar,Iran,0.0,1.0
-831,40474,2017-03-23,Thailand,Saudi Arabia,0.0,3.0
-832,40475,2017-03-23,United Arab Emirates,Japan,0.0,2.0
-833,40476,2017-03-23,Uruguay,Brazil,1.0,4.0
-834,40477,2017-03-23,Venezuela,Peru,2.0,2.0
-835,40480,2017-03-24,Croatia,Ukraine,1.0,0.0
-836,40481,2017-03-24,Georgia,Serbia,1.0,3.0
-837,40485,2017-03-24,Kosovo,Iceland,1.0,2.0
-838,40489,2017-03-24,Mexico,Costa Rica,2.0,0.0
-839,40490,2017-03-24,Morocco,Burkina Faso,2.0,0.0
-840,40491,2017-03-24,Russia,Ivory Coast,0.0,2.0
-841,40492,2017-03-24,Spain,Israel,4.0,1.0
-842,40493,2017-03-24,Trinidad and Tobago,Panama,1.0,0.0
-843,40494,2017-03-24,Tunisia,Cameroon,0.0,1.0
-844,40498,2017-03-25,Belgium,Greece,1.0,1.0
-845,40503,2017-03-25,Luxembourg,France,1.0,3.0
-846,40505,2017-03-25,Portugal,Hungary,3.0,0.0
-847,40507,2017-03-25,Sweden,Belarus,4.0,0.0
-848,40508,2017-03-25,Switzerland,Latvia,1.0,0.0
-849,40512,2017-03-26,Azerbaijan,Germany,1.0,4.0
-850,40514,2017-03-26,England,Lithuania,2.0,0.0
-851,40518,2017-03-26,Montenegro,Poland,1.0,2.0
-852,40520,2017-03-26,Romania,Denmark,0.0,0.0
-853,40525,2017-03-27,Ivory Coast,Senegal,1.0,1.0
-854,40530,2017-03-28,Australia,United Arab Emirates,2.0,0.0
-855,40533,2017-03-28,Bolivia,Argentina,2.0,0.0
-856,40534,2017-03-28,Brazil,Paraguay,3.0,0.0
-857,40538,2017-03-28,Ecuador,Colombia,0.0,2.0
-858,40539,2017-03-28,Egypt,Togo,3.0,0.0
-859,40540,2017-03-28,Estonia,Croatia,3.0,0.0
-860,40541,2017-03-28,France,Spain,0.0,2.0
-861,40544,2017-03-28,Honduras,Costa Rica,1.0,1.0
-862,40545,2017-03-28,Iran,China,1.0,0.0
-863,40546,2017-03-28,Republic of Ireland,Iceland,0.0,1.0
-864,40547,2017-03-28,Japan,Thailand,4.0,0.0
-865,40549,2017-03-28,South Korea,Syria,1.0,0.0
-866,40556,2017-03-28,Morocco,Tunisia,1.0,0.0
-867,40561,2017-03-28,Panama,United States,1.0,1.0
-868,40562,2017-03-28,Peru,Uruguay,2.0,1.0
-869,40564,2017-03-28,Portugal,Sweden,2.0,3.0
-870,40565,2017-03-28,Russia,Belgium,3.0,3.0
-871,40566,2017-03-28,Saudi Arabia,Iraq,1.0,0.0
-872,40570,2017-03-28,Trinidad and Tobago,Mexico,0.0,1.0
-873,40579,2017-05-11,Senegal,Mauritania,2.0,0.0
-874,40580,2017-05-13,Egypt,Libya,1.0,0.0
-875,40586,2017-05-26,Corsica,Nigeria,1.0,1.0
-876,40589,2017-05-28,Mexico,Croatia,1.0,2.0
-877,40592,2017-05-31,Morocco,Netherlands,1.0,2.0
-878,40594,2017-06-01,Mexico,Republic of Ireland,3.0,1.0
-879,40595,2017-06-01,Nigeria,Togo,3.0,0.0
-880,40596,2017-06-01,Switzerland,Belarus,1.0,0.0
-881,40598,2017-06-02,France,Paraguay,5.0,0.0
-882,40603,2017-06-03,Portugal,Cyprus,4.0,0.0
-883,40607,2017-06-04,Republic of Ireland,Uruguay,3.0,1.0
-884,40610,2017-06-04,Montenegro,Iran,1.0,2.0
-885,40614,2017-06-05,Belgium,Czech Republic,2.0,1.0
-886,40616,2017-06-05,Egypt,Libya,1.0,0.0
-887,40617,2017-06-05,Hungary,Russia,0.0,3.0
-888,40619,2017-06-05,Senegal,Uganda,0.0,0.0
-889,40626,2017-06-06,Denmark,Germany,1.0,1.0
-890,40642,2017-06-07,Iraq,South Korea,0.0,0.0
-891,40643,2017-06-07,Italy,Uruguay,3.0,0.0
-892,40644,2017-06-07,Japan,Syria,1.0,1.0
-893,40645,2017-06-07,Spain,Colombia,2.0,2.0
-894,40651,2017-06-08,Australia,Saudi Arabia,3.0,2.0
-895,40653,2017-06-08,Costa Rica,Panama,0.0,0.0
-896,40655,2017-06-08,Mexico,Honduras,3.0,0.0
-897,40656,2017-06-08,Peru,Paraguay,1.0,0.0
-898,40659,2017-06-09,Argentina,Brazil,1.0,0.0
-899,40662,2017-06-09,Estonia,Belgium,0.0,2.0
-900,40663,2017-06-09,Faroe Islands,Switzerland,0.0,2.0
-901,40665,2017-06-09,Latvia,Portugal,0.0,3.0
-902,40668,2017-06-09,Russia,Chile,1.0,1.0
-903,40671,2017-06-09,Sweden,France,2.0,1.0
-904,40679,2017-06-10,Cameroon,Morocco,1.0,0.0
-905,40681,2017-06-10,Germany,San Marino,7.0,0.0
-906,40685,2017-06-10,Kazakhstan,Denmark,1.0,3.0
-907,40691,2017-06-10,Nigeria,South Africa,0.0,2.0
-908,40693,2017-06-10,Poland,Romania,3.0,1.0
-909,40694,2017-06-10,Scotland,England,2.0,2.0
-910,40695,2017-06-10,Senegal,Equatorial Guinea,3.0,0.0
-911,40709,2017-06-11,Iceland,Croatia,1.0,0.0
-912,40714,2017-06-11,North Macedonia,Spain,1.0,2.0
-913,40715,2017-06-11,Mexico,United States,1.0,1.0
-914,40718,2017-06-11,Serbia,Wales,1.0,1.0
-915,40720,2017-06-11,Tunisia,Egypt,1.0,0.0
-916,40722,2017-06-12,Iran,Uzbekistan,2.0,0.0
-917,40724,2017-06-13,Australia,Brazil,0.0,4.0
-918,40727,2017-06-13,Cameroon,Colombia,0.0,4.0
-919,40729,2017-06-13,Costa Rica,Trinidad and Tobago,2.0,1.0
-920,40731,2017-06-13,France,England,3.0,2.0
-921,40735,2017-06-13,Iraq,Japan,1.0,1.0
-922,40739,2017-06-13,Norway,Sweden,1.0,1.0
-923,40741,2017-06-13,Panama,Honduras,2.0,2.0
-924,40743,2017-06-13,Qatar,South Korea,3.0,2.0
-925,40745,2017-06-13,Singapore,Argentina,0.0,6.0
-926,40752,2017-06-13,Peru,Jamaica,3.0,1.0
-927,40755,2017-06-17,Russia,New Zealand,2.0,0.0
-928,40757,2017-06-18,Portugal,Mexico,2.0,2.0
-929,40758,2017-06-19,Australia,Germany,2.0,3.0
-930,40759,2017-06-21,Mexico,New Zealand,2.0,1.0
-931,40760,2017-06-21,Russia,Portugal,0.0,1.0
-932,40761,2017-06-22,Cameroon,Australia,1.0,1.0
-933,40762,2017-06-22,Germany,Chile,1.0,1.0
-934,40765,2017-06-24,New Zealand,Portugal,0.0,4.0
-935,40766,2017-06-24,Russia,Mexico,1.0,2.0
-936,40767,2017-06-25,Chile,Australia,1.0,1.0
-937,40768,2017-06-25,Germany,Cameroon,3.0,1.0
-938,40801,2017-06-28,Portugal,Chile,0.0,0.0
-939,40805,2017-06-29,Germany,Mexico,4.0,1.0
-940,40823,2017-07-01,Mexico,Paraguay,2.0,1.0
-941,40826,2017-07-02,Chile,Germany,0.0,1.0
-942,40827,2017-07-02,Portugal,Mexico,2.0,1.0
-943,40841,2017-07-07,Honduras,Costa Rica,0.0,1.0
-944,40846,2017-07-08,United States,Panama,1.0,1.0
-945,40848,2017-07-09,Mexico,El Salvador,3.0,1.0
-946,40850,2017-07-11,Costa Rica,Canada,1.0,1.0
-947,40852,2017-07-12,Panama,Nicaragua,2.0,1.0
-948,40855,2017-07-13,Mexico,Jamaica,0.0,0.0
-949,40857,2017-07-14,Costa Rica,French Guiana,3.0,0.0
-950,40859,2017-07-15,Panama,Martinique,3.0,0.0
-951,40862,2017-07-16,Curaçao,Mexico,0.0,2.0
-952,40865,2017-07-19,Costa Rica,Panama,1.0,0.0
-953,40868,2017-07-20,Mexico,Honduras,1.0,0.0
-954,40869,2017-07-22,United States,Costa Rica,2.0,0.0
-955,40870,2017-07-23,Mexico,Jamaica,0.0,1.0
-956,40885,2017-08-29,United Arab Emirates,Saudi Arabia,2.0,1.0
-957,40887,2017-08-31,Belgium,Gibraltar,9.0,0.0
-958,40888,2017-08-31,Brazil,Ecuador,2.0,0.0
-959,40889,2017-08-31,Bulgaria,Sweden,3.0,2.0
-960,40893,2017-08-31,France,Netherlands,4.0,0.0
-961,40897,2017-08-31,Japan,Australia,2.0,0.0
-962,40899,2017-08-31,South Korea,Iran,0.0,0.0
-963,40902,2017-08-31,Peru,Bolivia,2.0,1.0
-964,40903,2017-08-31,Portugal,Faroe Islands,5.0,1.0
-965,40905,2017-08-31,Switzerland,Andorra,3.0,0.0
-966,40908,2017-08-31,Uganda,Egypt,1.0,0.0
-967,40909,2017-08-31,Uruguay,Argentina,0.0,0.0
-968,40910,2017-08-31,Venezuela,Colombia,0.0,0.0
-969,40913,2017-09-01,Czech Republic,Germany,1.0,2.0
-970,40914,2017-09-01,Denmark,Poland,4.0,0.0
-971,40918,2017-09-01,Malta,England,0.0,4.0
-972,40919,2017-09-01,Mexico,Panama,1.0,0.0
-973,40920,2017-09-01,Morocco,Mali,6.0,0.0
-974,40922,2017-09-01,Nigeria,Cameroon,4.0,0.0
-975,40928,2017-09-01,Tunisia,DR Congo,2.0,1.0
-976,40929,2017-09-01,United States,Costa Rica,0.0,2.0
-977,40932,2017-09-02,Croatia,Kosovo,1.0,0.0
-978,40933,2017-09-02,Finland,Iceland,1.0,0.0
-979,40939,2017-09-02,Senegal,Burkina Faso,0.0,0.0
-980,40940,2017-09-02,Serbia,Moldova,3.0,0.0
-981,40941,2017-09-02,Spain,Italy,3.0,0.0
-982,40945,2017-09-03,Belarus,Sweden,0.0,4.0
-983,40949,2017-09-03,France,Luxembourg,0.0,0.0
-984,40951,2017-09-03,Greece,Belgium,1.0,2.0
-985,40952,2017-09-03,Hungary,Portugal,0.0,1.0
-986,40953,2017-09-03,Latvia,Switzerland,0.0,3.0
-987,40955,2017-09-04,Armenia,Denmark,1.0,4.0
-988,40957,2017-09-04,Cameroon,Nigeria,1.0,1.0
-989,40958,2017-09-04,England,Slovakia,2.0,1.0
-990,40959,2017-09-04,Germany,Norway,6.0,0.0
-991,40964,2017-09-04,Poland,Kazakhstan,3.0,0.0
-992,40968,2017-09-05,Argentina,Venezuela,1.0,1.0
-993,40969,2017-09-05,Australia,Thailand,2.0,1.0
-994,40974,2017-09-05,Burkina Faso,Senegal,2.0,2.0
-995,40976,2017-09-05,Colombia,Brazil,1.0,1.0
-996,40978,2017-09-05,DR Congo,Tunisia,2.0,2.0
-997,40979,2017-09-05,Costa Rica,Mexico,1.0,1.0
-998,40980,2017-09-05,Ecuador,Peru,1.0,2.0
-999,40981,2017-09-05,Egypt,Uganda,1.0,0.0
-1000,40983,2017-09-05,Iceland,Ukraine,2.0,0.0
-1001,40984,2017-09-05,Iran,Syria,2.0,2.0
-1002,40986,2017-09-05,Republic of Ireland,Serbia,0.0,1.0
-1003,40992,2017-09-05,Liechtenstein,Spain,0.0,8.0
-1004,40996,2017-09-05,Mali,Morocco,0.0,0.0
-1005,41001,2017-09-05,Panama,Trinidad and Tobago,3.0,0.0
-1006,41002,2017-09-05,Paraguay,Uruguay,1.0,2.0
-1007,41005,2017-09-05,Saudi Arabia,Japan,1.0,0.0
-1008,41009,2017-09-05,Turkey,Croatia,1.0,0.0
-1009,41010,2017-09-05,Uzbekistan,South Korea,0.0,0.0
-1010,41012,2017-10-05,Argentina,Peru,0.0,0.0
-1011,41013,2017-10-05,Armenia,Poland,1.0,6.0
-1012,41015,2017-10-05,Bolivia,Brazil,0.0,0.0
-1013,41018,2017-10-05,Colombia,Paraguay,1.0,2.0
-1014,41019,2017-10-05,England,Slovenia,1.0,0.0
-1015,41021,2017-10-05,Iran,Togo,2.0,0.0
-1016,41024,2017-10-05,Montenegro,Denmark,0.0,1.0
-1017,41025,2017-10-05,Northern Ireland,Germany,1.0,3.0
-1018,41030,2017-10-05,Syria,Australia,1.0,1.0
-1019,41032,2017-10-05,Venezuela,Uruguay,0.0,0.0
-1020,41033,2017-10-06,Austria,Serbia,3.0,2.0
-1021,41034,2017-10-06,Croatia,Finland,1.0,1.0
-1022,41038,2017-10-06,Japan,New Zealand,2.0,1.0
-1023,41043,2017-10-06,Mexico,Trinidad and Tobago,3.0,1.0
-1024,41044,2017-10-06,Spain,Albania,3.0,0.0
-1025,41045,2017-10-06,Turkey,Iceland,0.0,3.0
-1026,41046,2017-10-06,United States,Panama,4.0,0.0
-1027,41047,2017-10-07,Andorra,Portugal,0.0,2.0
-1028,41049,2017-10-07,Bosnia and Herzegovina,Belgium,3.0,4.0
-1029,41050,2017-10-07,Bulgaria,France,0.0,1.0
-1030,41052,2017-10-07,Cape Verde,Senegal,0.0,2.0
-1031,41053,2017-10-07,Costa Rica,Honduras,1.0,1.0
-1032,41058,2017-10-07,Guinea,Tunisia,1.0,4.0
-1033,41060,2017-10-07,Morocco,Gabon,3.0,0.0
-1034,41061,2017-10-07,Nigeria,Zambia,1.0,0.0
-1035,41062,2017-10-07,Russia,South Korea,4.0,2.0
-1036,41063,2017-10-07,Saudi Arabia,Jamaica,5.0,2.0
-1037,41065,2017-10-07,Sweden,Luxembourg,8.0,0.0
-1038,41066,2017-10-07,Switzerland,Hungary,5.0,2.0
-1039,41070,2017-10-08,Denmark,Romania,1.0,1.0
-1040,41071,2017-10-08,Egypt,Congo,2.0,1.0
-1041,41073,2017-10-08,Germany,Azerbaijan,5.0,1.0
-1042,41075,2017-10-08,Lithuania,England,0.0,1.0
-1043,41077,2017-10-08,Poland,Montenegro,4.0,2.0
-1044,41084,2017-10-09,Iceland,Kosovo,2.0,0.0
-1045,41085,2017-10-09,Israel,Spain,0.0,1.0
-1046,41088,2017-10-09,Serbia,Georgia,1.0,0.0
-1047,41089,2017-10-09,Ukraine,Croatia,0.0,2.0
-1048,41092,2017-10-10,Australia,Syria,2.0,1.0
-1049,41093,2017-10-10,Belgium,Cyprus,4.0,0.0
-1050,41095,2017-10-10,Brazil,Chile,3.0,0.0
-1051,41097,2017-10-10,Ecuador,Argentina,1.0,3.0
-1052,41099,2017-10-10,France,Belarus,2.0,1.0
-1053,41101,2017-10-10,Honduras,Mexico,3.0,2.0
-1054,41104,2017-10-10,Japan,Haiti,3.0,3.0
-1055,41105,2017-10-10,South Korea,Morocco,1.0,3.0
-1056,41110,2017-10-10,Netherlands,Sweden,2.0,0.0
-1057,41112,2017-10-10,Panama,Costa Rica,2.0,1.0
-1058,41114,2017-10-10,Peru,Colombia,1.0,1.0
-1059,41115,2017-10-10,Portugal,Switzerland,2.0,0.0
-1060,41117,2017-10-10,Russia,Iran,1.0,1.0
-1061,41118,2017-10-10,Saudi Arabia,Ghana,0.0,3.0
-1062,41123,2017-10-10,Uruguay,Bolivia,4.0,2.0
-1063,41127,2017-10-24,Grenada,Panama,0.0,5.0
-1064,41130,2017-11-08,Iceland,Czech Republic,1.0,2.0
-1065,41134,2017-11-09,Croatia,Greece,4.0,1.0
-1066,41137,2017-11-09,Iran,Panama,2.0,1.0
-1067,41139,2017-11-09,Northern Ireland,Switzerland,0.0,1.0
-1068,41143,2017-11-10,Algeria,Nigeria,3.0,0.0
-1069,41144,2017-11-10,Belgium,Mexico,3.0,3.0
-1070,41145,2017-11-10,China,Serbia,0.0,2.0
-1071,41146,2017-11-10,England,Germany,0.0,0.0
-1072,41147,2017-11-10,France,Wales,2.0,0.0
-1073,41149,2017-11-10,Honduras,Australia,0.0,0.0
-1074,41150,2017-11-10,Japan,Brazil,1.0,3.0
-1075,41152,2017-11-10,South Korea,Colombia,2.0,1.0
-1076,41153,2017-11-10,Poland,Uruguay,0.0,0.0
-1077,41154,2017-11-10,Portugal,Saudi Arabia,3.0,0.0
-1078,41155,2017-11-10,South Africa,Senegal,0.0,2.0
-1079,41156,2017-11-10,Sweden,Italy,1.0,0.0
-1080,41160,2017-11-11,Denmark,Republic of Ireland,0.0,0.0
-1081,41163,2017-11-11,Ivory Coast,Morocco,0.0,2.0
-1082,41167,2017-11-11,New Zealand,Peru,0.0,0.0
-1083,41169,2017-11-11,Russia,Argentina,0.0,1.0
-1084,41170,2017-11-11,Spain,Costa Rica,5.0,0.0
-1085,41172,2017-11-11,Tunisia,Libya,0.0,0.0
-1086,41176,2017-11-12,Ghana,Egypt,1.0,1.0
-1087,41177,2017-11-12,Greece,Croatia,0.0,0.0
-1088,41179,2017-11-12,Switzerland,Northern Ireland,0.0,0.0
-1089,41182,2017-11-13,Bulgaria,Saudi Arabia,1.0,0.0
-1090,41184,2017-11-13,Iran,Venezuela,1.0,0.0
-1091,41186,2017-11-13,Italy,Sweden,0.0,0.0
-1092,41189,2017-11-13,Poland,Mexico,0.0,1.0
-1093,41192,2017-11-14,Argentina,Nigeria,2.0,4.0
-1094,41193,2017-11-14,Austria,Uruguay,2.0,1.0
-1095,41194,2017-11-14,Belgium,Japan,1.0,0.0
-1096,41198,2017-11-14,China,Colombia,0.0,4.0
-1097,41199,2017-11-14,England,Brazil,0.0,0.0
-1098,41201,2017-11-14,Germany,France,2.0,2.0
-1099,41203,2017-11-14,Hungary,Costa Rica,1.0,0.0
-1100,41205,2017-11-14,Republic of Ireland,Denmark,1.0,5.0
-1101,41206,2017-11-14,South Korea,Serbia,1.0,1.0
-1102,41210,2017-11-14,Portugal,United States,1.0,1.0
-1103,41211,2017-11-14,Qatar,Iceland,1.0,1.0
-1104,41213,2017-11-14,Russia,Spain,3.0,3.0
-1105,41214,2017-11-14,Senegal,South Africa,2.0,1.0
-1106,41222,2017-11-14,Wales,Panama,1.0,1.0
-1107,41223,2017-11-15,Australia,Honduras,3.0,1.0
-1108,41224,2017-11-15,Peru,New Zealand,2.0,0.0
-1109,41258,2017-12-09,Japan,North Korea,1.0,0.0
-1110,41260,2017-12-09,South Korea,China,2.0,2.0
-1111,41270,2017-12-12,Japan,China,2.0,1.0
-1112,41271,2017-12-12,North Korea,South Korea,0.0,1.0
-1113,41280,2017-12-16,Japan,South Korea,1.0,4.0
-1114,41284,2017-12-22,Kuwait,Saudi Arabia,1.0,2.0
-1115,41290,2017-12-25,United Arab Emirates,Saudi Arabia,0.0,0.0
-1116,41294,2017-12-28,Saudi Arabia,Oman,0.0,2.0
-1117,41300,2018-01-07,Estonia,Sweden,1.0,1.0
-1118,41301,2018-01-11,Denmark,Sweden,0.0,1.0
-1119,41302,2018-01-11,Indonesia,Iceland,0.0,6.0
-1120,41304,2018-01-14,Indonesia,Iceland,1.0,4.0
-1121,41305,2018-01-27,Moldova,South Korea,0.0,1.0
-1122,41309,2018-01-30,Jamaica,South Korea,2.0,2.0
-1123,41310,2018-01-31,Mexico,Bosnia and Herzegovina,1.0,0.0
-1124,41311,2018-02-03,Latvia,South Korea,0.0,1.0
-1125,41312,2018-02-26,Saudi Arabia,Moldova,3.0,0.0
-1126,41313,2018-02-28,Iraq,Saudi Arabia,4.0,1.0
-1127,41314,2018-03-17,Iran,Sierra Leone,4.0,0.0
-1128,41329,2018-03-22,Denmark,Panama,1.0,0.0
-1129,41346,2018-03-23,France,Colombia,2.0,3.0
-1130,41348,2018-03-23,Germany,Spain,1.0,1.0
-1131,41349,2018-03-23,Greece,Switzerland,0.0,1.0
-1132,41352,2018-03-23,Italy,Argentina,0.0,2.0
-1133,41353,2018-03-23,Japan,Mali,1.0,1.0
-1134,41354,2018-03-23,Mexico,Iceland,3.0,0.0
-1135,41355,2018-03-23,Netherlands,England,0.0,1.0
-1136,41356,2018-03-23,Norway,Australia,4.0,1.0
-1137,41357,2018-03-23,Peru,Croatia,2.0,0.0
-1138,41358,2018-03-23,Poland,Nigeria,0.0,1.0
-1139,41359,2018-03-23,Portugal,Egypt,2.0,1.0
-1140,41360,2018-03-23,Russia,Brazil,0.0,3.0
-1141,41361,2018-03-23,Scotland,Costa Rica,0.0,1.0
-1142,41362,2018-03-23,Senegal,Uzbekistan,1.0,1.0
-1143,41363,2018-03-23,Serbia,Morocco,1.0,2.0
-1144,41365,2018-03-23,Tunisia,Iran,1.0,0.0
-1145,41367,2018-03-23,Ukraine,Saudi Arabia,1.0,1.0
-1146,41368,2018-03-23,Uruguay,Czech Republic,2.0,0.0
-1147,41379,2018-03-24,Northern Ireland,South Korea,2.0,1.0
-1148,41381,2018-03-24,Sweden,Chile,1.0,2.0
-1149,41401,2018-03-26,Portugal,Netherlands,0.0,3.0
-1150,41402,2018-03-26,Wales,Uruguay,0.0,1.0
-1151,41404,2018-03-27,Algeria,Iran,1.0,2.0
-1152,41406,2018-03-27,Australia,Colombia,0.0,0.0
-1153,41409,2018-03-27,Belgium,Saudi Arabia,4.0,0.0
-1154,41410,2018-03-27,Bosnia and Herzegovina,Senegal,0.0,0.0
-1155,41413,2018-03-27,Denmark,Chile,0.0,0.0
-1156,41414,2018-03-27,England,Italy,1.0,1.0
-1157,41416,2018-03-27,Germany,Brazil,0.0,1.0
-1158,41417,2018-03-27,Greece,Egypt,1.0,0.0
-1159,41428,2018-03-27,Mexico,Croatia,0.0,1.0
-1160,41432,2018-03-27,Morocco,Uzbekistan,2.0,0.0
-1161,41435,2018-03-27,Peru,Iceland,3.0,1.0
-1162,41437,2018-03-27,Poland,South Korea,3.0,2.0
-1163,41438,2018-03-27,Romania,Sweden,1.0,0.0
-1164,41439,2018-03-27,Russia,France,1.0,3.0
-1165,41440,2018-03-27,Serbia,Nigeria,2.0,0.0
-1166,41443,2018-03-27,Spain,Argentina,6.0,1.0
-1167,41444,2018-03-27,Switzerland,Panama,6.0,0.0
-1168,41447,2018-03-27,Tunisia,Costa Rica,1.0,0.0
-1169,41449,2018-03-27,Ukraine,Japan,2.0,1.0
-1170,41455,2018-04-18,Trinidad and Tobago,Panama,0.0,1.0
-1171,41463,2018-05-09,Algeria,Saudi Arabia,0.0,2.0
-1172,41466,2018-05-15,Saudi Arabia,Greece,2.0,0.0
-1173,41467,2018-05-19,Iran,Uzbekistan,1.0,0.0
-1174,41469,2018-05-25,Kuwait,Egypt,1.0,1.0
+,index,date,home_team,away_team,home_score,away_score,resultado
+0,37958,2014-08-06,Peru,Panama,3.0,0.0,1
+1,37967,2014-08-20,Panama,Cuba,4.0,0.0,1
+2,37975,2014-08-30,Egypt,Kenya,1.0,0.0,1
+3,37980,2014-09-03,Costa Rica,Nicaragua,3.0,0.0,1
+4,37982,2014-09-03,Denmark,Turkey,1.0,2.0,2
+5,37983,2014-09-03,England,Norway,1.0,0.0,1
+6,37984,2014-09-03,Germany,Argentina,2.0,4.0,2
+7,37990,2014-09-03,Morocco,Qatar,0.0,0.0,0
+8,37993,2014-09-03,Russia,Azerbaijan,4.0,0.0,1
+9,37996,2014-09-04,Belgium,Australia,2.0,0.0,1
+10,37999,2014-09-04,Croatia,Cyprus,2.0,0.0,1
+11,38000,2014-09-04,France,Spain,1.0,0.0,1
+12,38001,2014-09-04,Iraq,Peru,0.0,2.0,2
+13,38004,2014-09-04,Sweden,Estonia,2.0,0.0,1
+14,38008,2014-09-05,Japan,Uruguay,0.0,2.0,2
+15,38009,2014-09-05,Brazil,Colombia,1.0,0.0,1
+16,38011,2014-09-05,South Korea,Venezuela,3.0,1.0,1
+17,38013,2014-09-05,Senegal,Egypt,2.0,0.0,1
+18,38025,2014-09-06,Mexico,Chile,0.0,0.0,0
+19,38027,2014-09-06,Nigeria,Congo,2.0,3.0,2
+20,38031,2014-09-06,Tunisia,Botswana,2.0,1.0,1
+21,38036,2014-09-07,Costa Rica,Panama,2.0,2.0,0
+22,38037,2014-09-07,Denmark,Armenia,2.0,1.0,1
+23,38042,2014-09-07,Germany,Scotland,2.0,1.0,1
+24,38043,2014-09-07,Gibraltar,Poland,0.0,7.0,2
+25,38048,2014-09-07,Morocco,Libya,3.0,0.0,1
+26,38050,2014-09-07,Portugal,Albania,0.0,1.0,2
+27,38052,2014-09-07,Serbia,France,1.0,1.0,0
+28,38053,2014-09-08,Australia,Saudi Arabia,3.0,2.0,1
+29,38054,2014-09-08,Austria,Sweden,1.0,1.0,0
+30,38056,2014-09-08,South Korea,Uruguay,0.0,1.0,2
+31,38059,2014-09-08,Russia,Liechtenstein,4.0,0.0,1
+32,38061,2014-09-08,Spain,North Macedonia,5.0,1.0,1
+33,38062,2014-09-08,Switzerland,England,0.0,2.0,2
+34,38069,2014-09-09,Croatia,Malta,2.0,0.0,1
+35,38072,2014-09-09,Iceland,Turkey,3.0,0.0,1
+36,38074,2014-09-09,Japan,Venezuela,2.0,2.0,0
+37,38077,2014-09-09,Mexico,Bolivia,1.0,0.0,1
+38,38079,2014-09-09,Qatar,Peru,0.0,2.0,2
+39,38083,2014-09-10,Botswana,Senegal,0.0,2.0,2
+40,38088,2014-09-10,Egypt,Tunisia,0.0,1.0,2
+41,38092,2014-09-10,South Africa,Nigeria,0.0,0.0,0
+42,38107,2014-10-09,England,San Marino,5.0,0.0,1
+43,38112,2014-10-09,Morocco,Central African Republic,4.0,0.0,1
+44,38114,2014-10-09,Slovakia,Spain,2.0,1.0,1
+45,38115,2014-10-09,Slovenia,Switzerland,1.0,0.0,1
+46,38116,2014-10-09,Sweden,Russia,1.0,1.0,0
+47,38117,2014-10-10,Belgium,Andorra,6.0,0.0,1
+48,38118,2014-10-10,Botswana,Egypt,0.0,2.0,2
+49,38119,2014-10-10,Bulgaria,Croatia,0.0,1.0,2
+50,38125,2014-10-10,Japan,Jamaica,1.0,0.0,1
+51,38127,2014-10-10,South Korea,Paraguay,2.0,0.0,1
+52,38128,2014-10-10,Latvia,Iceland,0.0,3.0,2
+53,38132,2014-10-10,Oman,Costa Rica,3.0,4.0,2
+54,38133,2014-10-10,Saudi Arabia,Uruguay,1.0,1.0,0
+55,38134,2014-10-10,Senegal,Tunisia,0.0,0.0,0
+56,38138,2014-10-10,United Arab Emirates,Australia,0.0,0.0,0
+57,38142,2014-10-10,Chile,Peru,3.0,0.0,1
+58,38143,2014-10-11,Albania,Denmark,1.0,1.0,0
+59,38144,2014-10-11,Argentina,Brazil,0.0,2.0,2
+60,38145,2014-10-11,Armenia,Serbia,1.0,1.0,0
+61,38151,2014-10-11,France,Portugal,2.0,1.0,1
+62,38159,2014-10-11,Poland,Germany,2.0,0.0,1
+63,38162,2014-10-11,Sudan,Nigeria,1.0,0.0,1
+64,38168,2014-10-12,Estonia,England,0.0,1.0,2
+65,38173,2014-10-12,Luxembourg,Spain,0.0,4.0,2
+66,38174,2014-10-12,Mexico,Panama,1.0,0.0,1
+67,38177,2014-10-12,Russia,Moldova,1.0,1.0,0
+68,38179,2014-10-12,Sweden,Liechtenstein,2.0,0.0,1
+69,38184,2014-10-13,Bosnia and Herzegovina,Belgium,1.0,1.0,0
+70,38185,2014-10-13,Croatia,Azerbaijan,6.0,0.0,1
+71,38186,2014-10-13,Iceland,Netherlands,2.0,0.0,1
+72,38191,2014-10-13,Morocco,Kenya,3.0,0.0,1
+73,38193,2014-10-13,Oman,Uruguay,0.0,3.0,2
+74,38195,2014-10-14,Armenia,France,0.0,3.0,2
+75,38199,2014-10-14,Denmark,Portugal,0.0,1.0,2
+76,38202,2014-10-14,Germany,Republic of Ireland,1.0,1.0,0
+77,38205,2014-10-14,Hong Kong,Argentina,0.0,7.0,2
+78,38206,2014-10-14,Japan,Brazil,0.0,4.0,2
+79,38207,2014-10-14,South Korea,Costa Rica,1.0,3.0,2
+80,38210,2014-10-14,Poland,Scotland,2.0,2.0,0
+81,38211,2014-10-14,Qatar,Australia,1.0,0.0,1
+82,38212,2014-10-14,San Marino,Switzerland,0.0,4.0,2
+83,38213,2014-10-14,Saudi Arabia,Lebanon,1.0,1.0,0
+84,38214,2014-10-14,Serbia,Albania,0.0,3.0,2
+85,38217,2014-10-14,Peru,Guatemala,1.0,0.0,1
+86,38223,2014-10-15,Egypt,Botswana,2.0,0.0,1
+87,38227,2014-10-15,Nigeria,Sudan,3.0,1.0,1
+88,38231,2014-10-15,Tunisia,Senegal,1.0,0.0,1
+89,38247,2014-11-06,Saudi Arabia,Palestine,2.0,0.0,1
+90,38257,2014-11-12,Argentina,Croatia,2.0,1.0,1
+91,38258,2014-11-12,Belgium,Iceland,3.0,1.0,1
+92,38260,2014-11-12,Netherlands,Mexico,2.0,3.0,2
+93,38262,2014-11-12,Turkey,Brazil,0.0,4.0,2
+94,38265,2014-11-13,Morocco,Benin,6.0,1.0,1
+95,38266,2014-11-13,Saudi Arabia,Qatar,1.0,1.0,0
+96,38269,2014-11-13,Uruguay,Costa Rica,3.0,3.0,0
+97,38271,2014-11-14,Botswana,Tunisia,0.0,0.0,0
+98,38273,2014-11-14,France,Albania,1.0,1.0,0
+99,38274,2014-11-14,Georgia,Poland,0.0,4.0,2
+100,38275,2014-11-14,Germany,Gibraltar,4.0,0.0,1
+101,38280,2014-11-14,Japan,Honduras,6.0,0.0,1
+102,38281,2014-11-14,Jordan,South Korea,0.0,1.0,2
+103,38283,2014-11-14,Paraguay,Peru,2.0,1.0,1
+104,38285,2014-11-14,Portugal,Armenia,1.0,0.0,1
+105,38288,2014-11-14,Serbia,Denmark,1.0,3.0,2
+106,38290,2014-11-14,United States,Colombia,1.0,2.0,2
+107,38293,2014-11-15,Austria,Russia,1.0,0.0,1
+108,38296,2014-11-15,Congo,Nigeria,0.0,2.0,2
+109,38297,2014-11-15,Egypt,Senegal,0.0,1.0,2
+110,38298,2014-11-15,England,Slovenia,3.0,1.0,1
+111,38306,2014-11-15,Montenegro,Sweden,1.0,1.0,0
+112,38310,2014-11-15,Spain,Belarus,3.0,0.0,1
+113,38311,2014-11-15,Switzerland,Lithuania,4.0,0.0,1
+114,38316,2014-11-16,Belgium,Wales,0.0,0.0,0
+115,38319,2014-11-16,Czech Republic,Iceland,2.0,1.0,1
+116,38322,2014-11-16,Italy,Croatia,1.0,1.0,0
+117,38323,2014-11-16,Morocco,Zimbabwe,2.0,1.0,1
+118,38325,2014-11-16,Saudi Arabia,Bahrain,3.0,0.0,1
+119,38333,2014-11-18,Austria,Brazil,1.0,2.0,2
+120,38334,2014-11-18,Belarus,Mexico,3.0,2.0,1
+121,38336,2014-11-18,Chile,Uruguay,1.0,2.0,2
+122,38340,2014-11-18,France,Sweden,1.0,0.0,1
+123,38341,2014-11-18,Greece,Serbia,0.0,2.0,2
+124,38342,2014-11-18,Hungary,Russia,1.0,2.0,2
+125,38343,2014-11-18,Iran,South Korea,1.0,0.0,1
+126,38347,2014-11-18,Japan,Australia,2.0,1.0,1
+127,38349,2014-11-18,Panama,Canada,0.0,0.0,0
+128,38350,2014-11-18,Peru,Paraguay,2.0,1.0,1
+129,38351,2014-11-18,Poland,Switzerland,2.0,2.0,0
+130,38352,2014-11-18,Portugal,Argentina,1.0,0.0,1
+131,38353,2014-11-18,Romania,Denmark,2.0,0.0,1
+132,38354,2014-11-18,Scotland,England,1.0,3.0,2
+133,38356,2014-11-18,Slovenia,Colombia,0.0,1.0,2
+134,38357,2014-11-18,Spain,Germany,0.0,1.0,2
+135,38371,2014-11-19,Nigeria,South Africa,2.0,2.0,0
+136,38372,2014-11-19,Saudi Arabia,Yemen,1.0,0.0,1
+137,38373,2014-11-19,Senegal,Botswana,3.0,0.0,1
+138,38375,2014-11-19,Tunisia,Egypt,2.0,1.0,1
+139,38383,2014-11-23,Saudi Arabia,United Arab Emirates,3.0,2.0,1
+140,38389,2014-11-26,Saudi Arabia,Qatar,1.0,2.0,2
+141,38410,2014-12-30,Bahrain,Saudi Arabia,4.0,1.0,1
+142,38415,2015-01-04,Iran,Iraq,1.0,0.0,1
+143,38416,2015-01-04,South Korea,Saudi Arabia,2.0,0.0,1
+144,38420,2015-01-09,Australia,Kuwait,4.0,1.0,1
+145,38421,2015-01-09,Senegal,Gabon,1.0,0.0,1
+146,38425,2015-01-10,South Korea,Oman,1.0,0.0,1
+147,38426,2015-01-10,Saudi Arabia,China,0.0,1.0,2
+148,38428,2015-01-11,Iran,Bahrain,2.0,0.0,1
+149,38429,2015-01-11,Nigeria,Ivory Coast,0.0,1.0,2
+150,38430,2015-01-11,Tunisia,Algeria,1.0,1.0,0
+151,38432,2015-01-12,Japan,Palestine,4.0,0.0,1
+152,38434,2015-01-13,Australia,Oman,4.0,0.0,1
+153,38436,2015-01-13,Kuwait,South Korea,0.0,1.0,2
+154,38437,2015-01-13,Senegal,Guinea,5.0,2.0,1
+155,38439,2015-01-14,North Korea,Saudi Arabia,1.0,4.0,2
+156,38442,2015-01-15,Qatar,Iran,0.0,1.0,2
+157,38443,2015-01-15,Sweden,Ivory Coast,2.0,0.0,1
+158,38444,2015-01-16,Canada,Iceland,1.0,2.0,2
+159,38445,2015-01-16,Iraq,Japan,0.0,1.0,2
+160,38447,2015-01-17,Australia,South Korea,0.0,1.0,2
+161,38451,2015-01-17,Yemen,Nigeria,0.0,2.0,2
+162,38453,2015-01-18,Tunisia,Cape Verde,1.0,1.0,0
+163,38454,2015-01-18,Uzbekistan,Saudi Arabia,3.0,1.0,1
+164,38457,2015-01-19,Canada,Iceland,1.0,1.0,0
+165,38458,2015-01-19,Finland,Sweden,1.0,0.0,1
+166,38459,2015-01-19,Ghana,Senegal,1.0,2.0,2
+167,38460,2015-01-19,Iran,United Arab Emirates,1.0,0.0,1
+168,38464,2015-01-20,Japan,Jordan,2.0,0.0,1
+169,38468,2015-01-22,Australia,China,2.0,0.0,1
+170,38470,2015-01-22,South Korea,Uzbekistan,2.0,0.0,1
+171,38472,2015-01-22,Zambia,Tunisia,1.0,2.0,2
+172,38474,2015-01-23,Iran,Iraq,3.0,3.0,0
+173,38475,2015-01-23,Japan,United Arab Emirates,1.0,1.0,0
+174,38476,2015-01-23,South Africa,Senegal,1.0,1.0,0
+175,38482,2015-01-26,DR Congo,Tunisia,1.0,1.0,0
+176,38483,2015-01-26,South Korea,Iraq,2.0,0.0,1
+177,38484,2015-01-27,Australia,United Arab Emirates,2.0,0.0,1
+178,38485,2015-01-27,Senegal,Algeria,0.0,2.0,2
+179,38493,2015-01-31,Australia,South Korea,2.0,1.0,1
+180,38495,2015-01-31,Equatorial Guinea,Tunisia,2.0,1.0,1
+181,38507,2015-02-08,United States,Panama,2.0,0.0,1
+182,38529,2015-03-25,Denmark,United States,3.0,2.0,1
+183,38534,2015-03-25,Germany,Australia,2.0,2.0,0
+184,38537,2015-03-25,Nigeria,Uganda,0.0,1.0,2
+185,38541,2015-03-26,Bahrain,Colombia,0.0,6.0,2
+186,38542,2015-03-26,Chile,Iran,0.0,2.0,2
+187,38543,2015-03-26,Egypt,Equatorial Guinea,2.0,0.0,1
+188,38544,2015-03-26,France,Brazil,1.0,3.0,2
+189,38557,2015-03-27,England,Lithuania,4.0,0.0,1
+190,38559,2015-03-27,Japan,Tunisia,2.0,0.0,1
+191,38560,2015-03-27,South Korea,Uzbekistan,1.0,1.0,0
+192,38563,2015-03-27,Moldova,Sweden,0.0,2.0,2
+193,38566,2015-03-27,Spain,Ukraine,1.0,0.0,1
+194,38567,2015-03-27,Switzerland,Estonia,3.0,0.0,1
+195,38568,2015-03-27,Trinidad and Tobago,Panama,0.0,1.0,2
+196,38569,2015-03-28,Argentina,El Salvador,2.0,0.0,1
+197,38572,2015-03-28,Belgium,Cyprus,5.0,0.0,1
+198,38574,2015-03-28,Croatia,Norway,5.0,1.0,1
+199,38576,2015-03-28,Ghana,Senegal,1.0,2.0,2
+200,38580,2015-03-28,Kazakhstan,Iceland,0.0,3.0,2
+201,38582,2015-03-28,Morocco,Uruguay,0.0,1.0,2
+202,38589,2015-03-29,Brazil,Chile,1.0,0.0,1
+203,38591,2015-03-29,France,Denmark,2.0,0.0,1
+204,38592,2015-03-29,Georgia,Germany,0.0,2.0,2
+205,38596,2015-03-29,Republic of Ireland,Poland,1.0,1.0,0
+206,38599,2015-03-29,Portugal,Serbia,2.0,1.0,1
+207,38602,2015-03-29,South Africa,Nigeria,1.0,1.0,0
+208,38610,2015-03-30,Kuwait,Colombia,1.0,3.0,2
+209,38611,2015-03-30,North Macedonia,Australia,0.0,0.0,0
+210,38614,2015-03-30,Saudi Arabia,Jordan,2.0,1.0,1
+211,38616,2015-03-31,Argentina,Ecuador,2.0,1.0,1
+212,38618,2015-03-31,China,Tunisia,1.0,1.0,0
+213,38619,2015-03-31,Estonia,Iceland,1.0,1.0,0
+214,38622,2015-03-31,Israel,Belgium,0.0,1.0,2
+215,38623,2015-03-31,Italy,England,1.0,1.0,0
+216,38624,2015-03-31,Japan,Uzbekistan,5.0,1.0,1
+217,38625,2015-03-31,South Korea,New Zealand,1.0,0.0,1
+218,38630,2015-03-31,Netherlands,Spain,2.0,0.0,1
+219,38631,2015-03-31,Panama,Costa Rica,2.0,1.0,1
+220,38632,2015-03-31,Peru,Venezuela,0.0,1.0,2
+221,38633,2015-03-31,Portugal,Cape Verde,0.0,2.0,2
+222,38634,2015-03-31,Russia,Kazakhstan,0.0,0.0,0
+223,38637,2015-03-31,Sweden,Iran,3.0,1.0,1
+224,38638,2015-03-31,Switzerland,United States,1.0,1.0,0
+225,38641,2015-04-15,United States,Mexico,2.0,0.0,1
+226,38685,2015-05-30,Mexico,Guatemala,3.0,0.0,1
+227,38695,2015-06-03,Panama,Ecuador,1.0,1.0,0
+228,38696,2015-06-03,Peru,Mexico,1.0,1.0,0
+229,38705,2015-06-06,Argentina,Bolivia,5.0,0.0,1
+230,38708,2015-06-06,Colombia,Costa Rica,1.0,0.0,1
+231,38709,2015-06-06,Ecuador,Panama,4.0,0.0,1
+232,38716,2015-06-06,Uruguay,Guatemala,5.0,1.0,1
+233,38717,2015-06-07,Brazil,Mexico,2.0,0.0,1
+234,38718,2015-06-07,Croatia,Gibraltar,4.0,0.0,1
+235,38720,2015-06-07,France,Belgium,3.0,4.0,2
+236,38721,2015-06-07,Republic of Ireland,England,0.0,0.0,0
+237,38723,2015-06-07,Russia,Belarus,4.0,2.0,1
+238,38725,2015-06-07,Serbia,Azerbaijan,4.0,1.0,1
+239,38727,2015-06-08,Denmark,Montenegro,2.0,1.0,1
+240,38728,2015-06-08,Egypt,Malawi,2.0,1.0,1
+241,38731,2015-06-08,Norway,Sweden,0.0,0.0,0
+242,38738,2015-06-10,Brazil,Honduras,1.0,0.0,1
+243,38740,2015-06-10,Germany,United States,1.0,2.0,2
+244,38741,2015-06-10,Switzerland,Liechtenstein,3.0,0.0,1
+245,38753,2015-06-11,Japan,Iraq,4.0,0.0,1
+246,38754,2015-06-11,South Korea,United Arab Emirates,3.0,0.0,1
+247,38760,2015-06-11,Saudi Arabia,Palestine,3.0,2.0,1
+248,38761,2015-06-11,Spain,Costa Rica,2.0,1.0,1
+249,38763,2015-06-11,Uzbekistan,Iran,0.0,1.0,2
+250,38769,2015-06-12,Croatia,Italy,1.0,1.0,0
+251,38771,2015-06-12,Iceland,Czech Republic,2.0,1.0,1
+252,38775,2015-06-12,Mexico,Bolivia,0.0,0.0,0
+253,38776,2015-06-12,Morocco,Libya,1.0,0.0,1
+254,38778,2015-06-12,Wales,Belgium,1.0,0.0,1
+255,38781,2015-06-12,Tunisia,Djibouti,8.0,1.0,1
+256,38782,2015-06-13,Albania,France,1.0,0.0,1
+257,38785,2015-06-13,Argentina,Paraguay,2.0,2.0,0
+258,38786,2015-06-13,Armenia,Portugal,2.0,3.0,2
+259,38789,2015-06-13,Denmark,Serbia,2.0,0.0,1
+260,38792,2015-06-13,Gibraltar,Germany,0.0,7.0,2
+261,38797,2015-06-13,Poland,Georgia,4.0,0.0,1
+262,38798,2015-06-13,Senegal,Burundi,3.0,1.0,1
+263,38801,2015-06-13,Uruguay,Jamaica,1.0,0.0,1
+264,38804,2015-06-14,Belarus,Spain,0.0,1.0,2
+265,38805,2015-06-14,Brazil,Peru,2.0,1.0,1
+266,38807,2015-06-14,Colombia,Venezuela,0.0,1.0,2
+267,38811,2015-06-14,Egypt,Tanzania,3.0,0.0,1
+268,38817,2015-06-14,Lithuania,Switzerland,1.0,2.0,2
+269,38820,2015-06-14,Russia,Austria,0.0,1.0,2
+270,38822,2015-06-14,Slovenia,England,2.0,3.0,2
+271,38824,2015-06-14,Sweden,Montenegro,3.0,1.0,1
+272,38831,2015-06-15,Chile,Mexico,3.0,3.0,0
+273,38834,2015-06-16,Argentina,Uruguay,1.0,0.0,1
+274,38837,2015-06-16,Myanmar,South Korea,0.0,2.0,2
+275,38843,2015-06-16,Italy,Portugal,0.0,1.0,2
+276,38844,2015-06-16,Japan,Singapore,0.0,0.0,0
+277,38847,2015-06-16,Kyrgyzstan,Australia,1.0,2.0,2
+278,38851,2015-06-16,Poland,Greece,0.0,0.0,0
+279,38854,2015-06-16,Turkmenistan,Iran,1.0,1.0,0
+280,38859,2015-06-17,Brazil,Colombia,0.0,1.0,2
+281,38862,2015-06-18,Peru,Venezuela,1.0,0.0,1
+282,38866,2015-06-19,Mexico,Ecuador,1.0,2.0,2
+283,38870,2015-06-20,Argentina,Jamaica,1.0,0.0,1
+284,38871,2015-06-20,Uruguay,Paraguay,1.0,1.0,0
+285,38874,2015-06-21,Brazil,Venezuela,2.0,1.0,1
+286,38875,2015-06-21,Colombia,Peru,0.0,0.0,0
+287,38878,2015-06-24,Chile,Uruguay,1.0,0.0,1
+288,38879,2015-06-25,Bolivia,Peru,1.0,3.0,2
+289,38880,2015-06-26,Argentina,Colombia,0.0,0.0,0
+290,38881,2015-06-27,Brazil,Paraguay,1.0,1.0,0
+291,38882,2015-06-27,Mexico,Costa Rica,2.0,2.0,0
+292,38891,2015-06-29,Chile,Peru,2.0,1.0,1
+293,38900,2015-06-30,Argentina,Paraguay,6.0,1.0,1
+294,38909,2015-07-01,Honduras,Mexico,0.0,0.0,0
+295,38918,2015-07-03,Peru,Paraguay,2.0,0.0,1
+296,38921,2015-07-04,Chile,Argentina,0.0,0.0,0
+297,38923,2015-07-07,Panama,Haiti,1.0,1.0,0
+298,38925,2015-07-08,Costa Rica,Jamaica,2.0,2.0,0
+299,38927,2015-07-09,Mexico,Cuba,6.0,0.0,1
+300,38930,2015-07-10,Honduras,Panama,1.0,1.0,0
+301,38932,2015-07-11,Costa Rica,El Salvador,1.0,1.0,0
+302,38934,2015-07-12,Guatemala,Mexico,0.0,0.0,0
+303,38937,2015-07-13,United States,Panama,1.0,1.0,0
+304,38938,2015-07-14,Canada,Costa Rica,0.0,0.0,0
+305,38941,2015-07-15,Trinidad and Tobago,Mexico,4.0,4.0,0
+306,38944,2015-07-19,Mexico,Costa Rica,1.0,0.0,1
+307,38945,2015-07-19,Trinidad and Tobago,Panama,1.0,1.0,0
+308,38946,2015-07-22,Panama,Mexico,1.0,2.0,2
+309,38948,2015-07-25,United States,Panama,1.0,1.0,0
+310,38949,2015-07-26,Jamaica,Mexico,1.0,3.0,2
+311,38953,2015-08-02,China,South Korea,0.0,2.0,2
+312,38954,2015-08-02,North Korea,Japan,2.0,1.0,1
+313,38962,2015-08-05,Japan,South Korea,1.0,1.0,0
+314,38968,2015-08-09,China,Japan,1.0,1.0,0
+315,38969,2015-08-09,South Korea,North Korea,0.0,0.0,0
+316,38989,2015-09-03,Australia,Bangladesh,5.0,0.0,1
+317,38990,2015-09-03,Azerbaijan,Croatia,0.0,0.0,0
+318,38992,2015-09-03,Belgium,Bosnia and Herzegovina,3.0,1.0,1
+319,38997,2015-09-03,Iran,Guam,6.0,0.0,1
+320,39001,2015-09-03,Japan,Cambodia,3.0,0.0,1
+321,39003,2015-09-03,South Korea,Laos,8.0,0.0,1
+322,39005,2015-09-03,Netherlands,Iceland,0.0,1.0,2
+323,39009,2015-09-03,Saudi Arabia,Timor-Leste,7.0,0.0,1
+324,39017,2015-09-04,Denmark,Albania,0.0,0.0,0
+325,39021,2015-09-04,Germany,Poland,3.0,1.0,1
+326,39026,2015-09-04,Portugal,France,0.0,1.0,2
+327,39027,2015-09-04,Serbia,Armenia,2.0,0.0,1
+328,39034,2015-09-04,United States,Peru,2.0,1.0,1
+329,39035,2015-09-05,Argentina,Bolivia,7.0,0.0,1
+330,39041,2015-09-05,Costa Rica,Brazil,0.0,1.0,2
+331,39045,2015-09-05,Liberia,Tunisia,1.0,0.0,1
+332,39049,2015-09-05,Namibia,Senegal,0.0,2.0,2
+333,39050,2015-09-05,Russia,Sweden,1.0,0.0,1
+334,39052,2015-09-05,San Marino,England,0.0,6.0,2
+335,39053,2015-09-05,São Tomé and Príncipe,Morocco,0.0,3.0,2
+336,39056,2015-09-05,Spain,Slovakia,2.0,0.0,1
+337,39057,2015-09-05,Switzerland,Slovenia,3.0,2.0,1
+338,39058,2015-09-05,Tanzania,Nigeria,0.0,0.0,0
+339,39064,2015-09-06,Cyprus,Belgium,0.0,1.0,2
+340,39065,2015-09-06,Iceland,Kazakhstan,0.0,0.0,0
+341,39075,2015-09-06,Norway,Croatia,2.0,0.0,1
+342,39081,2015-09-07,Albania,Portugal,0.0,1.0,2
+343,39082,2015-09-07,Armenia,Denmark,0.0,0.0,0
+344,39085,2015-09-07,France,Serbia,2.0,1.0,1
+345,39088,2015-09-07,Poland,Gibraltar,8.0,1.0,1
+346,39090,2015-09-07,Scotland,Germany,2.0,3.0,2
+347,39091,2015-09-08,United States,Brazil,1.0,4.0,2
+348,39092,2015-09-08,Afghanistan,Japan,0.0,6.0,2
+349,39099,2015-09-08,England,Switzerland,2.0,0.0,1
+350,39102,2015-09-08,India,Iran,0.0,3.0,2
+351,39104,2015-09-08,Lebanon,South Korea,0.0,3.0,2
+352,39105,2015-09-08,Liechtenstein,Russia,0.0,7.0,2
+353,39107,2015-09-08,North Macedonia,Spain,0.0,1.0,2
+354,39108,2015-09-08,Malaysia,Saudi Arabia,0.0,3.0,2
+355,39109,2015-09-08,Mexico,Argentina,2.0,2.0,0
+356,39111,2015-09-08,Nigeria,Niger,2.0,0.0,1
+357,39116,2015-09-08,South Africa,Senegal,1.0,0.0,1
+358,39117,2015-09-08,Sweden,Austria,1.0,4.0,2
+359,39118,2015-09-08,Tajikistan,Australia,0.0,3.0,2
+360,39120,2015-09-08,Venezuela,Panama,1.0,1.0,0
+361,39129,2015-09-08,Colombia,Peru,1.0,1.0,0
+362,39139,2015-10-08,Albania,Serbia,0.0,2.0,2
+363,39140,2015-10-08,Argentina,Ecuador,0.0,2.0,2
+364,39143,2015-10-08,Bolivia,Uruguay,0.0,2.0,2
+365,39145,2015-10-08,Chile,Brazil,2.0,0.0,1
+366,39146,2015-10-08,Colombia,Peru,2.0,0.0,1
+367,39148,2015-10-08,France,Armenia,4.0,0.0,1
+368,39151,2015-10-08,Republic of Ireland,Germany,1.0,0.0,1
+369,39152,2015-10-08,Jordan,Australia,2.0,0.0,1
+370,39154,2015-10-08,Kuwait,South Korea,0.0,1.0,2
+371,39158,2015-10-08,Nigeria,DR Congo,0.0,2.0,2
+372,39160,2015-10-08,Oman,Iran,1.0,1.0,0
+373,39161,2015-10-08,Portugal,Denmark,1.0,0.0,1
+374,39165,2015-10-08,Saudi Arabia,United Arab Emirates,2.0,1.0,1
+375,39166,2015-10-08,Scotland,Poland,2.0,2.0,0
+376,39168,2015-10-08,Syria,Japan,0.0,3.0,2
+377,39175,2015-10-09,England,Estonia,2.0,0.0,1
+378,39177,2015-10-09,Liechtenstein,Sweden,0.0,2.0,2
+379,39179,2015-10-09,Moldova,Russia,1.0,2.0,2
+380,39181,2015-10-09,Morocco,Ivory Coast,0.0,1.0,2
+381,39185,2015-10-09,Spain,Luxembourg,4.0,0.0,1
+382,39186,2015-10-09,Switzerland,San Marino,7.0,0.0,1
+383,39188,2015-10-09,Tunisia,Gabon,3.0,3.0,0
+384,39189,2015-10-10,Andorra,Belgium,1.0,4.0,2
+385,39193,2015-10-10,Croatia,Bulgaria,3.0,0.0,1
+386,39196,2015-10-10,Iceland,Latvia,2.0,2.0,0
+387,39202,2015-10-10,United States,Mexico,2.0,3.0,2
+388,39204,2015-10-11,Denmark,France,1.0,2.0,2
+389,39205,2015-10-11,Egypt,Zambia,3.0,0.0,1
+390,39209,2015-10-11,Germany,Georgia,2.0,1.0,1
+391,39214,2015-10-11,Nigeria,Cameroon,3.0,0.0,1
+392,39215,2015-10-11,Poland,Republic of Ireland,2.0,1.0,1
+393,39216,2015-10-11,Serbia,Portugal,1.0,2.0,2
+394,39219,2015-10-12,Estonia,Switzerland,0.0,1.0,2
+395,39221,2015-10-12,Lithuania,England,0.0,3.0,2
+396,39223,2015-10-12,Morocco,Guinea,1.0,1.0,0
+397,39224,2015-10-12,Russia,Montenegro,2.0,0.0,1
+398,39226,2015-10-12,Sweden,Moldova,2.0,0.0,1
+399,39227,2015-10-12,Ukraine,Spain,0.0,1.0,2
+400,39228,2015-10-13,Algeria,Senegal,1.0,0.0,1
+401,39230,2015-10-13,Belgium,Israel,3.0,1.0,1
+402,39233,2015-10-13,Brazil,Venezuela,3.0,1.0,1
+403,39243,2015-10-13,Iran,Japan,1.0,1.0,0
+404,39247,2015-10-13,South Korea,Jamaica,3.0,0.0,1
+405,39253,2015-10-13,Malta,Croatia,0.0,1.0,2
+406,39259,2015-10-13,Paraguay,Argentina,0.0,0.0,0
+407,39260,2015-10-13,Peru,Chile,3.0,4.0,2
+408,39265,2015-10-13,Turkey,Iceland,1.0,0.0,1
+409,39267,2015-10-13,Uruguay,Colombia,3.0,0.0,1
+410,39279,2015-11-09,Palestine,Saudi Arabia,0.0,0.0,0
+411,39287,2015-11-12,Australia,Kyrgyzstan,3.0,0.0,1
+412,39291,2015-11-12,Chile,Colombia,1.0,1.0,0
+413,39293,2015-11-12,Ecuador,Uruguay,2.0,1.0,1
+414,39295,2015-11-12,Iran,Turkmenistan,3.0,1.0,1
+415,39296,2015-11-12,South Korea,Myanmar,4.0,0.0,1
+416,39300,2015-11-12,Morocco,Equatorial Guinea,2.0,0.0,1
+417,39306,2015-11-12,Singapore,Japan,0.0,3.0,2
+418,39313,2015-11-13,Argentina,Brazil,1.0,1.0,0
+419,39314,2015-11-13,Belgium,Italy,3.0,1.0,1
+420,39317,2015-11-13,Costa Rica,Haiti,1.0,0.0,1
+421,39318,2015-11-13,Czech Republic,Serbia,4.0,1.0,1
+422,39319,2015-11-13,France,Germany,2.0,0.0,1
+423,39325,2015-11-13,Madagascar,Senegal,2.0,2.0,0
+424,39326,2015-11-13,Mauritania,Tunisia,1.0,2.0,2
+425,39329,2015-11-13,Peru,Paraguay,1.0,0.0,1
+426,39330,2015-11-13,Poland,Iceland,4.0,2.0,1
+427,39332,2015-11-13,Slovakia,Switzerland,3.0,2.0,1
+428,39333,2015-11-13,Spain,England,2.0,0.0,1
+429,39334,2015-11-13,Eswatini,Nigeria,0.0,0.0,0
+430,39338,2015-11-13,Jamaica,Panama,0.0,2.0,2
+431,39339,2015-11-13,Mexico,El Salvador,3.0,0.0,1
+432,39342,2015-11-14,Chad,Egypt,1.0,0.0,1
+433,39346,2015-11-14,Russia,Portugal,1.0,0.0,1
+434,39347,2015-11-14,Sweden,Denmark,2.0,1.0,1
+435,39351,2015-11-15,Equatorial Guinea,Morocco,1.0,0.0,1
+436,39359,2015-11-17,Austria,Switzerland,1.0,2.0,2
+437,39361,2015-11-17,Bangladesh,Australia,0.0,4.0,2
+438,39363,2015-11-17,Brazil,Peru,3.0,0.0,1
+439,39366,2015-11-17,Cambodia,Japan,0.0,2.0,2
+440,39369,2015-11-17,Colombia,Argentina,0.0,1.0,2
+441,39371,2015-11-17,Denmark,Sweden,2.0,2.0,0
+442,39372,2015-11-17,Timor-Leste,Saudi Arabia,0.0,10.0,2
+443,39373,2015-11-17,Egypt,Chad,4.0,0.0,1
+444,39374,2015-11-17,England,France,2.0,0.0,1
+445,39377,2015-11-17,Guam,Iran,0.0,6.0,2
+446,39378,2015-11-17,Honduras,Mexico,0.0,2.0,2
+447,39384,2015-11-17,Laos,South Korea,0.0,5.0,2
+448,39385,2015-11-17,Luxembourg,Portugal,0.0,2.0,2
+449,39389,2015-11-17,Nigeria,Eswatini,2.0,0.0,1
+450,39391,2015-11-17,Poland,Czech Republic,3.0,1.0,1
+451,39392,2015-11-17,Russia,Croatia,1.0,3.0,2
+452,39394,2015-11-17,Senegal,Madagascar,3.0,0.0,1
+453,39396,2015-11-17,Slovakia,Iceland,3.0,1.0,1
+454,39399,2015-11-17,Tunisia,Mauritania,2.0,1.0,1
+455,39402,2015-11-17,Uruguay,Chile,3.0,0.0,1
+456,39406,2015-11-17,Panama,Costa Rica,1.0,2.0,2
+457,39455,2016-01-06,Sweden,Estonia,1.0,1.0,0
+458,39458,2016-01-08,Panama,Cuba,4.0,0.0,1
+459,39460,2016-01-10,Sweden,Finland,3.0,0.0,1
+460,39462,2016-01-13,Finland,Iceland,0.0,1.0,2
+461,39466,2016-01-16,United Arab Emirates,Iceland,2.0,1.0,1
+462,39468,2016-01-27,Egypt,Jordan,0.0,1.0,2
+463,39469,2016-01-29,Egypt,Libya,2.0,0.0,1
+464,39470,2016-01-31,United States,Iceland,3.0,2.0,1
+465,39476,2016-02-27,Egypt,Burkina Faso,2.0,0.0,1
+466,39484,2016-03-23,Croatia,Israel,2.0,0.0,1
+467,39489,2016-03-23,Poland,Serbia,1.0,0.0,1
+468,39495,2016-03-24,Australia,Tajikistan,7.0,0.0,1
+469,39497,2016-03-24,Bolivia,Colombia,2.0,3.0,2
+470,39498,2016-03-24,Chile,Argentina,1.0,2.0,2
+471,39502,2016-03-24,Denmark,Iceland,2.0,1.0,1
+472,39508,2016-03-24,Iran,India,4.0,0.0,1
+473,39510,2016-03-24,Italy,Spain,1.0,1.0,0
+474,39511,2016-03-24,Japan,Afghanistan,5.0,0.0,1
+475,39513,2016-03-24,South Korea,Lebanon,1.0,0.0,1
+476,39517,2016-03-24,Peru,Venezuela,2.0,2.0,0
+477,39519,2016-03-24,Saudi Arabia,Malaysia,2.0,0.0,1
+478,39523,2016-03-24,Turkey,Sweden,2.0,1.0,1
+479,39531,2016-03-25,Brazil,Uruguay,2.0,2.0,0
+480,39532,2016-03-25,Canada,Mexico,0.0,3.0,2
+481,39537,2016-03-25,Haiti,Panama,0.0,0.0,0
+482,39538,2016-03-25,Republic of Ireland,Switzerland,1.0,0.0,1
+483,39540,2016-03-25,Jamaica,Costa Rica,1.0,1.0,0
+484,39544,2016-03-25,Netherlands,France,2.0,3.0,2
+485,39545,2016-03-25,Nigeria,Egypt,1.0,1.0,0
+486,39546,2016-03-25,Portugal,Bulgaria,0.0,1.0,2
+487,39549,2016-03-25,Tunisia,Togo,1.0,0.0,1
+488,39560,2016-03-26,Cape Verde,Morocco,0.0,1.0,2
+489,39564,2016-03-26,Germany,England,2.0,3.0,2
+490,39565,2016-03-26,Hungary,Croatia,1.0,1.0,0
+491,39567,2016-03-26,Poland,Finland,5.0,0.0,1
+492,39568,2016-03-26,Russia,Lithuania,3.0,0.0,1
+493,39569,2016-03-26,Senegal,Niger,2.0,0.0,1
+494,39577,2016-03-27,Romania,Spain,0.0,0.0,0
+495,39578,2016-03-27,Thailand,South Korea,0.0,1.0,2
+496,39589,2016-03-29,Argentina,Bolivia,2.0,0.0,1
+497,39590,2016-03-29,Australia,Jordan,5.0,1.0,1
+498,39593,2016-03-29,Colombia,Ecuador,3.0,1.0,1
+499,39594,2016-03-29,Costa Rica,Jamaica,3.0,0.0,1
+500,39597,2016-03-29,Egypt,Nigeria,1.0,0.0,1
+501,39598,2016-03-29,England,Netherlands,1.0,2.0,2
+502,39599,2016-03-29,Estonia,Serbia,0.0,1.0,2
+503,39601,2016-03-29,France,Russia,4.0,2.0,1
+504,39605,2016-03-29,Germany,Italy,4.0,1.0,1
+505,39607,2016-03-29,Greece,Iceland,2.0,3.0,2
+506,39610,2016-03-29,Iran,Oman,2.0,0.0,1
+507,39613,2016-03-29,Japan,Syria,5.0,0.0,1
+508,39622,2016-03-29,Mexico,Canada,2.0,0.0,1
+509,39624,2016-03-29,Morocco,Cape Verde,2.0,0.0,1
+510,39626,2016-03-29,Niger,Senegal,1.0,2.0,2
+511,39629,2016-03-29,Panama,Haiti,1.0,0.0,1
+512,39630,2016-03-29,Paraguay,Brazil,2.0,2.0,0
+513,39632,2016-03-29,Portugal,Belgium,2.0,1.0,1
+514,39634,2016-03-29,Scotland,Denmark,1.0,0.0,1
+515,39639,2016-03-29,Sweden,Czech Republic,1.0,1.0,0
+516,39640,2016-03-29,Switzerland,Bosnia and Herzegovina,0.0,2.0,2
+517,39642,2016-03-29,Togo,Tunisia,0.0,0.0,0
+518,39644,2016-03-29,United Arab Emirates,Saudi Arabia,1.0,1.0,0
+519,39645,2016-03-29,Uruguay,Peru,1.0,0.0,1
+520,39653,2016-04-27,Martinique,Panama,0.0,2.0,2
+521,39660,2016-05-22,England,Turkey,2.0,1.0,1
+522,39662,2016-05-23,Peru,Trinidad and Tobago,4.0,0.0,1
+523,39664,2016-05-25,Serbia,Cyprus,2.0,1.0,1
+524,39666,2016-05-27,Croatia,Moldova,1.0,0.0,1
+525,39668,2016-05-27,England,Australia,2.0,1.0,1
+526,39670,2016-05-27,Morocco,Congo,2.0,0.0,1
+527,39671,2016-05-27,Nigeria,Mali,1.0,0.0,1
+528,39675,2016-05-27,Uruguay,Trinidad and Tobago,3.0,1.0,1
+529,39678,2016-05-28,Costa Rica,Venezuela,2.0,1.0,1
+530,39679,2016-05-28,El Salvador,Peru,1.0,3.0,2
+531,39682,2016-05-28,Mexico,Paraguay,1.0,0.0,1
+532,39684,2016-05-28,Rwanda,Senegal,0.0,2.0,2
+533,39685,2016-05-28,Switzerland,Belgium,1.0,2.0,2
+534,39689,2016-05-29,Bosnia and Herzegovina,Spain,1.0,3.0,2
+535,39691,2016-05-29,Germany,Slovakia,1.0,3.0,2
+536,39697,2016-05-29,Portugal,Norway,3.0,0.0,1
+537,39705,2016-05-30,France,Cameroon,3.0,2.0,1
+538,39707,2016-05-30,Sweden,Slovenia,0.0,0.0,0
+539,39715,2016-05-31,Luxembourg,Nigeria,1.0,3.0,2
+540,39716,2016-05-31,Serbia,Israel,3.0,1.0,1
+541,39725,2016-06-01,Belgium,Finland,1.0,1.0,0
+542,39727,2016-06-01,Czech Republic,Russia,2.0,1.0,1
+543,39734,2016-06-01,Norway,Iceland,3.0,2.0,1
+544,39736,2016-06-01,Poland,Netherlands,1.0,2.0,2
+545,39737,2016-06-01,Spain,South Korea,6.0,1.0,1
+546,39741,2016-06-02,England,Portugal,1.0,0.0,1
+547,39743,2016-06-02,North Macedonia,Iran,1.0,3.0,2
+548,39754,2016-06-03,Bosnia and Herzegovina,Denmark,2.0,2.0,0
+549,39757,2016-06-03,Djibouti,Tunisia,0.0,3.0,2
+550,39759,2016-06-03,Japan,Bulgaria,7.0,2.0,1
+551,39760,2016-06-03,Libya,Morocco,1.0,1.0,0
+552,39764,2016-06-03,Switzerland,Moldova,2.0,1.0,1
+553,39767,2016-06-03,United States,Colombia,0.0,2.0,2
+554,39773,2016-06-04,Australia,Greece,1.0,0.0,1
+555,39776,2016-06-04,Burundi,Senegal,0.0,2.0,2
+556,39777,2016-06-04,Brazil,Ecuador,0.0,0.0,0
+557,39778,2016-06-04,Costa Rica,Paraguay,0.0,0.0,0
+558,39779,2016-06-04,Croatia,San Marino,10.0,0.0,1
+559,39782,2016-06-04,France,Scotland,3.0,0.0,1
+560,39784,2016-06-04,Germany,Hungary,2.0,0.0,1
+561,39786,2016-06-04,Haiti,Peru,0.0,1.0,2
+562,39795,2016-06-04,Tanzania,Egypt,0.0,2.0,2
+563,39801,2016-06-05,Belgium,Norway,3.0,2.0,1
+564,39804,2016-06-05,Czech Republic,South Korea,1.0,2.0,2
+565,39811,2016-06-05,Mexico,Uruguay,3.0,1.0,1
+566,39813,2016-06-05,Russia,Serbia,1.0,1.0,0
+567,39816,2016-06-05,Sweden,Wales,3.0,0.0,1
+568,39823,2016-06-06,Argentina,Chile,2.0,1.0,1
+569,39825,2016-06-06,Iceland,Liechtenstein,4.0,0.0,1
+570,39828,2016-06-06,Panama,Bolivia,2.0,1.0,1
+571,39829,2016-06-06,Poland,Lithuania,0.0,0.0,0
+572,39831,2016-06-07,Australia,Greece,1.0,2.0,2
+573,39833,2016-06-07,Bulgaria,Denmark,0.0,4.0,2
+574,39837,2016-06-07,Colombia,Paraguay,2.0,1.0,1
+575,39841,2016-06-07,Iran,Kyrgyzstan,6.0,0.0,1
+576,39842,2016-06-07,Japan,Bosnia and Herzegovina,1.0,2.0,2
+577,39843,2016-06-07,Spain,Georgia,0.0,1.0,2
+578,39845,2016-06-07,United States,Costa Rica,4.0,0.0,1
+579,39847,2016-06-08,Brazil,Haiti,7.0,1.0,1
+580,39848,2016-06-08,Ecuador,Peru,2.0,2.0,0
+581,39851,2016-06-08,Portugal,Estonia,7.0,0.0,1
+582,39852,2016-06-09,Mexico,Jamaica,2.0,0.0,1
+583,39853,2016-06-09,Uruguay,Venezuela,0.0,1.0,2
+584,39854,2016-06-10,Argentina,Panama,5.0,0.0,1
+585,39856,2016-06-10,France,Romania,2.0,1.0,1
+586,39857,2016-06-11,Albania,Switzerland,0.0,1.0,2
+587,39858,2016-06-11,Colombia,Costa Rica,2.0,3.0,2
+588,39859,2016-06-11,England,Russia,1.0,1.0,0
+589,39866,2016-06-12,Brazil,Peru,0.0,1.0,2
+590,39868,2016-06-12,Germany,Ukraine,2.0,0.0,1
+591,39871,2016-06-12,Poland,Northern Ireland,1.0,0.0,1
+592,39872,2016-06-12,Turkey,Croatia,0.0,1.0,2
+593,39873,2016-06-13,Belgium,Italy,0.0,2.0,2
+594,39874,2016-06-13,Republic of Ireland,Sweden,1.0,1.0,0
+595,39876,2016-06-13,Mexico,Venezuela,1.0,1.0,0
+596,39877,2016-06-13,Spain,Czech Republic,1.0,0.0,1
+597,39879,2016-06-13,Uruguay,Jamaica,3.0,0.0,1
+598,39881,2016-06-14,Argentina,Bolivia,3.0,0.0,1
+599,39883,2016-06-14,Chile,Panama,4.0,2.0,1
+600,39885,2016-06-14,Portugal,Iceland,1.0,1.0,0
+601,39886,2016-06-15,France,Albania,2.0,0.0,1
+602,39887,2016-06-15,Romania,Switzerland,1.0,1.0,0
+603,39888,2016-06-15,Russia,Slovakia,1.0,2.0,2
+604,39892,2016-06-16,England,Wales,2.0,1.0,1
+605,39893,2016-06-16,Germany,Poland,0.0,0.0,0
+606,39897,2016-06-17,Czech Republic,Croatia,2.0,2.0,0
+607,39898,2016-06-17,Italy,Sweden,1.0,0.0,1
+608,39899,2016-06-17,Peru,Colombia,0.0,0.0,0
+609,39900,2016-06-17,Spain,Turkey,3.0,0.0,1
+610,39901,2016-06-18,Argentina,Venezuela,4.0,1.0,1
+611,39902,2016-06-18,Belgium,Republic of Ireland,3.0,0.0,1
+612,39903,2016-06-18,Iceland,Hungary,1.0,1.0,0
+613,39904,2016-06-18,Mexico,Chile,0.0,7.0,2
+614,39906,2016-06-18,Portugal,Austria,0.0,0.0,0
+615,39909,2016-06-19,France,Switzerland,0.0,0.0,0
+616,39913,2016-06-20,Russia,Wales,0.0,3.0,2
+617,39914,2016-06-20,Slovakia,England,0.0,0.0,0
+618,39915,2016-06-21,Croatia,Spain,2.0,1.0,1
+619,39919,2016-06-21,Northern Ireland,Germany,0.0,1.0,2
+620,39920,2016-06-21,Ukraine,Poland,0.0,1.0,2
+621,39921,2016-06-21,United States,Argentina,0.0,4.0,2
+622,39923,2016-06-22,Colombia,Chile,0.0,2.0,2
+623,39924,2016-06-22,Hungary,Portugal,3.0,3.0,0
+624,39925,2016-06-22,Iceland,Austria,2.0,1.0,1
+625,39929,2016-06-22,Sweden,Belgium,0.0,1.0,2
+626,39931,2016-06-25,Croatia,Portugal,0.0,1.0,2
+627,39934,2016-06-25,Switzerland,Poland,1.0,1.0,0
+628,39935,2016-06-25,United States,Colombia,0.0,1.0,2
+629,39937,2016-06-26,Argentina,Chile,0.0,0.0,0
+630,39939,2016-06-26,France,Republic of Ireland,2.0,1.0,1
+631,39940,2016-06-26,Germany,Slovakia,3.0,0.0,1
+632,39941,2016-06-26,Hungary,Belgium,0.0,4.0,2
+633,39942,2016-06-27,England,Iceland,1.0,2.0,2
+634,39943,2016-06-27,Italy,Spain,2.0,0.0,1
+635,39945,2016-06-30,Poland,Portugal,1.0,1.0,0
+636,39946,2016-07-01,Wales,Belgium,3.0,1.0,1
+637,39947,2016-07-02,Germany,Italy,1.0,1.0,0
+638,39950,2016-07-03,France,Iceland,5.0,2.0,1
+639,39952,2016-07-06,Portugal,Wales,2.0,0.0,1
+640,39953,2016-07-07,France,Germany,2.0,0.0,1
+641,39954,2016-07-10,France,Portugal,0.0,1.0,2
+642,39968,2016-08-24,Saudi Arabia,Laos,4.0,0.0,1
+643,39975,2016-08-30,Egypt,Guinea,1.0,1.0,0
+644,39978,2016-08-31,Albania,Morocco,0.0,0.0,0
+645,39980,2016-08-31,Denmark,Liechtenstein,5.0,0.0,1
+646,39982,2016-08-31,Germany,Finland,2.0,0.0,1
+647,39986,2016-08-31,Turkey,Russia,0.0,0.0,0
+648,39987,2016-09-01,Argentina,Uruguay,1.0,0.0,1
+649,39988,2016-09-01,Australia,Iraq,2.0,0.0,1
+650,39990,2016-09-01,Belgium,Spain,0.0,2.0,2
+651,39991,2016-09-01,Bolivia,Peru,0.0,3.0,2
+652,39992,2016-09-01,Colombia,Venezuela,2.0,0.0,1
+653,39993,2016-09-01,Ecuador,Brazil,0.0,3.0,2
+654,39995,2016-09-01,Iran,Qatar,2.0,0.0,1
+655,39996,2016-09-01,Italy,France,1.0,3.0,2
+656,39997,2016-09-01,Japan,United Arab Emirates,1.0,2.0,2
+657,39998,2016-09-01,South Korea,China,3.0,2.0,1
+658,40002,2016-09-01,Portugal,Gibraltar,5.0,0.0,1
+659,40003,2016-09-01,Saudi Arabia,Thailand,1.0,0.0,1
+660,40005,2016-09-02,El Salvador,Mexico,1.0,3.0,2
+661,40006,2016-09-02,Haiti,Costa Rica,0.0,1.0,2
+662,40009,2016-09-02,Panama,Jamaica,2.0,0.0,1
+663,40022,2016-09-03,Nigeria,Tanzania,1.0,0.0,1
+664,40023,2016-09-03,Senegal,Namibia,2.0,0.0,1
+665,40030,2016-09-04,Denmark,Armenia,1.0,0.0,1
+666,40033,2016-09-04,Kazakhstan,Poland,2.0,2.0,0
+667,40037,2016-09-04,Morocco,São Tomé and Príncipe,2.0,0.0,1
+668,40040,2016-09-04,Norway,Germany,0.0,3.0,2
+669,40043,2016-09-04,Slovakia,England,0.0,1.0,2
+670,40045,2016-09-04,Tunisia,Liberia,4.0,1.0,1
+671,40049,2016-09-05,Croatia,Turkey,1.0,1.0,0
+672,40054,2016-09-05,Serbia,Republic of Ireland,2.0,2.0,0
+673,40055,2016-09-05,Spain,Liechtenstein,8.0,0.0,1
+674,40056,2016-09-05,Ukraine,Iceland,1.0,1.0,0
+675,40060,2016-09-06,Belarus,France,0.0,0.0,0
+676,40062,2016-09-06,Brazil,Colombia,2.0,1.0,1
+677,40067,2016-09-06,China,Iran,0.0,0.0,0
+678,40068,2016-09-06,Costa Rica,Panama,3.0,1.0,1
+679,40069,2016-09-06,Cyprus,Belgium,0.0,3.0,2
+680,40073,2016-09-06,Iraq,Saudi Arabia,1.0,2.0,2
+681,40077,2016-09-06,Mexico,Honduras,0.0,0.0,0
+682,40079,2016-09-06,Peru,Ecuador,2.0,1.0,1
+683,40081,2016-09-06,Russia,Ghana,1.0,0.0,1
+684,40082,2016-09-06,South Africa,Egypt,1.0,0.0,1
+685,40083,2016-09-06,Sweden,Netherlands,1.0,1.0,0
+686,40084,2016-09-06,Switzerland,Portugal,2.0,0.0,1
+687,40085,2016-09-06,Syria,South Korea,0.0,0.0,0
+688,40086,2016-09-06,Thailand,Japan,0.0,2.0,2
+689,40087,2016-09-06,United Arab Emirates,Australia,0.0,1.0,2
+690,40088,2016-09-06,Uruguay,Paraguay,4.0,0.0,1
+691,40090,2016-09-06,Venezuela,Argentina,2.0,2.0,0
+692,40092,2016-09-29,Qatar,Serbia,3.0,0.0,1
+693,40101,2016-10-06,Brazil,Bolivia,5.0,0.0,1
+694,40105,2016-10-06,Iceland,Finland,3.0,2.0,1
+695,40107,2016-10-06,Italy,Spain,1.0,1.0,0
+696,40108,2016-10-06,Japan,Iraq,2.0,1.0,1
+697,40109,2016-10-06,South Korea,Qatar,3.0,2.0,1
+698,40110,2016-10-06,Kosovo,Croatia,0.0,6.0,2
+699,40115,2016-10-06,Moldova,Serbia,0.0,3.0,2
+700,40116,2016-10-06,Paraguay,Colombia,0.0,1.0,2
+701,40117,2016-10-06,Peru,Argentina,2.0,2.0,0
+702,40118,2016-10-06,Saudi Arabia,Australia,2.0,2.0,0
+703,40121,2016-10-06,Uruguay,Venezuela,3.0,0.0,1
+704,40122,2016-10-06,Uzbekistan,Iran,0.0,1.0,2
+705,40124,2016-10-07,Belgium,Bosnia and Herzegovina,4.0,0.0,1
+706,40127,2016-10-07,France,Bulgaria,4.0,1.0,1
+707,40130,2016-10-07,Hungary,Switzerland,2.0,3.0,2
+708,40132,2016-10-07,Luxembourg,Sweden,0.0,1.0,2
+709,40136,2016-10-07,Portugal,Andorra,6.0,0.0,1
+710,40144,2016-10-08,England,Malta,2.0,0.0,1
+711,40146,2016-10-08,Gabon,Morocco,0.0,0.0,0
+712,40147,2016-10-08,Germany,Czech Republic,3.0,0.0,1
+713,40149,2016-10-08,Mexico,New Zealand,2.0,1.0,1
+714,40152,2016-10-08,Poland,Denmark,3.0,2.0,1
+715,40154,2016-10-08,Senegal,Cape Verde,2.0,0.0,1
+716,40159,2016-10-09,Albania,Spain,0.0,2.0,2
+717,40162,2016-10-09,Congo,Egypt,1.0,2.0,2
+718,40163,2016-10-09,Finland,Croatia,0.0,1.0,2
+719,40164,2016-10-09,Iceland,Turkey,2.0,0.0,1
+720,40169,2016-10-09,Russia,Costa Rica,3.0,4.0,2
+721,40170,2016-10-09,Serbia,Austria,3.0,2.0,1
+722,40172,2016-10-09,Tunisia,Guinea,2.0,0.0,1
+723,40175,2016-10-09,Zambia,Nigeria,1.0,2.0,2
+724,40176,2016-10-10,Andorra,Switzerland,1.0,2.0,2
+725,40181,2016-10-10,Faroe Islands,Portugal,0.0,6.0,2
+726,40182,2016-10-10,Gibraltar,Belgium,0.0,6.0,2
+727,40184,2016-10-10,Netherlands,France,0.0,1.0,2
+728,40186,2016-10-10,Sweden,Bulgaria,3.0,0.0,1
+729,40187,2016-10-11,Argentina,Paraguay,0.0,1.0,2
+730,40188,2016-10-11,Australia,Japan,1.0,1.0,0
+731,40190,2016-10-11,Chile,Peru,2.0,1.0,1
+732,40191,2016-10-11,Colombia,Uruguay,2.0,2.0,0
+733,40193,2016-10-11,Denmark,Montenegro,0.0,1.0,2
+734,40194,2016-10-11,Germany,Northern Ireland,2.0,0.0,1
+735,40196,2016-10-11,Iran,South Korea,1.0,0.0,1
+736,40204,2016-10-11,Mexico,Panama,1.0,0.0,1
+737,40205,2016-10-11,Morocco,Canada,4.0,0.0,1
+738,40208,2016-10-11,Poland,Armenia,2.0,1.0,1
+739,40211,2016-10-11,Saudi Arabia,United Arab Emirates,3.0,0.0,1
+740,40213,2016-10-11,Slovenia,England,0.0,0.0,0
+741,40216,2016-10-11,Venezuela,Brazil,0.0,2.0,2
+742,40243,2016-11-09,Netherlands,Belgium,1.0,1.0,0
+743,40249,2016-11-10,Brazil,Argentina,3.0,0.0,1
+744,40250,2016-11-10,Colombia,Chile,0.0,0.0,0
+745,40251,2016-11-10,Iran,Papua New Guinea,8.0,1.0,1
+746,40253,2016-11-10,Paraguay,Peru,1.0,4.0,2
+747,40254,2016-11-10,Qatar,Russia,2.0,1.0,1
+748,40255,2016-11-10,Uruguay,Ecuador,2.0,1.0,1
+749,40260,2016-11-11,Denmark,Kazakhstan,4.0,1.0,1
+750,40261,2016-11-11,England,Scotland,3.0,0.0,1
+751,40262,2016-11-11,France,Sweden,2.0,1.0,1
+752,40263,2016-11-11,Honduras,Panama,0.0,1.0,2
+753,40264,2016-11-11,Japan,Oman,4.0,0.0,1
+754,40265,2016-11-11,South Korea,Canada,2.0,0.0,1
+755,40266,2016-11-11,Libya,Tunisia,0.0,1.0,2
+756,40269,2016-11-11,Romania,Poland,0.0,3.0,2
+757,40270,2016-11-11,San Marino,Germany,0.0,8.0,2
+758,40273,2016-11-11,Trinidad and Tobago,Costa Rica,0.0,2.0,2
+759,40274,2016-11-11,United States,Mexico,1.0,2.0,2
+760,40279,2016-11-12,Croatia,Iceland,2.0,0.0,1
+761,40286,2016-11-12,Morocco,Ivory Coast,0.0,0.0,0
+762,40289,2016-11-12,Nigeria,Algeria,3.0,1.0,1
+763,40290,2016-11-12,Spain,North Macedonia,4.0,0.0,1
+764,40294,2016-11-12,Wales,Serbia,1.0,1.0,0
+765,40295,2016-11-13,Belgium,Estonia,8.0,1.0,1
+766,40298,2016-11-13,Egypt,Ghana,2.0,0.0,1
+767,40304,2016-11-13,Portugal,Latvia,4.0,1.0,1
+768,40308,2016-11-13,Switzerland,Faroe Islands,2.0,0.0,1
+769,40314,2016-11-14,Poland,Slovenia,1.0,1.0,0
+770,40315,2016-11-15,Argentina,Colombia,3.0,0.0,1
+771,40319,2016-11-15,Chile,Uruguay,3.0,1.0,1
+772,40321,2016-11-15,Costa Rica,United States,4.0,0.0,1
+773,40322,2016-11-15,Czech Republic,Denmark,1.0,1.0,0
+774,40324,2016-11-15,England,Spain,2.0,2.0,0
+775,40325,2016-11-15,France,Ivory Coast,0.0,0.0,0
+776,40328,2016-11-15,Italy,Germany,0.0,0.0,0
+777,40329,2016-11-15,Japan,Saudi Arabia,2.0,1.0,1
+778,40332,2016-11-15,South Korea,Uzbekistan,2.0,1.0,1
+779,40333,2016-11-15,Malta,Iceland,0.0,2.0,2
+780,40334,2016-11-15,Morocco,Togo,2.0,1.0,1
+781,40338,2016-11-15,Northern Ireland,Croatia,0.0,3.0,2
+782,40339,2016-11-15,Panama,Mexico,0.0,0.0,0
+783,40340,2016-11-15,Peru,Brazil,0.0,2.0,2
+784,40341,2016-11-15,Russia,Romania,1.0,0.0,1
+785,40342,2016-11-15,Syria,Iran,0.0,0.0,0
+786,40343,2016-11-15,Thailand,Australia,2.0,2.0,0
+787,40344,2016-11-15,Tunisia,Mauritania,0.0,0.0,0
+788,40345,2016-11-15,Ukraine,Serbia,2.0,0.0,1
+789,40370,2016-12-28,Catalonia,Tunisia,3.0,3.0,0
+790,40372,2016-12-30,Basque Country,Tunisia,3.0,1.0,1
+791,40374,2017-01-04,Tunisia,Uganda,2.0,0.0,1
+792,40379,2017-01-08,Egypt,Tunisia,1.0,0.0,1
+793,40380,2017-01-08,Ivory Coast,Sweden,2.0,1.0,1
+794,40381,2017-01-08,Libya,Senegal,1.0,2.0,2
+795,40383,2017-01-09,Morocco,Finland,0.0,1.0,2
+796,40386,2017-01-10,China,Iceland,0.0,2.0,2
+797,40387,2017-01-11,Chile,Croatia,1.0,1.0,0
+798,40388,2017-01-11,Congo,Senegal,0.0,2.0,2
+799,40392,2017-01-14,Cambodia,Saudi Arabia,2.0,7.0,2
+800,40393,2017-01-14,China,Croatia,1.0,1.0,0
+801,40396,2017-01-15,Belize,Costa Rica,0.0,3.0,2
+802,40398,2017-01-15,Iceland,Chile,0.0,1.0,2
+803,40399,2017-01-15,Tunisia,Senegal,0.0,2.0,2
+804,40400,2017-01-16,DR Congo,Morocco,1.0,0.0,1
+805,40404,2017-01-17,Mali,Egypt,0.0,0.0,0
+806,40408,2017-01-19,Algeria,Tunisia,1.0,2.0,2
+807,40409,2017-01-19,Senegal,Zimbabwe,2.0,0.0,1
+808,40411,2017-01-20,Morocco,Togo,3.0,1.0,1
+809,40413,2017-01-21,Egypt,Uganda,1.0,0.0,1
+810,40420,2017-01-22,Panama,Costa Rica,1.0,0.0,1
+811,40421,2017-01-23,Senegal,Algeria,2.0,2.0,0
+812,40423,2017-01-23,Zimbabwe,Tunisia,2.0,4.0,2
+813,40424,2017-01-24,Morocco,Ivory Coast,1.0,0.0,1
+814,40426,2017-01-25,Egypt,Ghana,1.0,0.0,1
+815,40429,2017-01-26,Brazil,Colombia,1.0,0.0,1
+816,40430,2017-01-28,Burkina Faso,Tunisia,2.0,0.0,1
+817,40431,2017-01-28,Senegal,Cameroon,0.0,0.0,0
+818,40433,2017-01-29,Egypt,Morocco,1.0,0.0,1
+819,40434,2017-01-29,United States,Serbia,0.0,0.0,0
+820,40435,2017-02-01,Burkina Faso,Egypt,1.0,1.0,0
+821,40438,2017-02-05,Egypt,Cameroon,1.0,2.0,2
+822,40439,2017-02-08,Mexico,Iceland,1.0,0.0,1
+823,40447,2017-03-18,Iran,Iraq,0.0,1.0,2
+824,40455,2017-03-22,Germany,England,1.0,0.0,1
+825,40462,2017-03-23,Argentina,Chile,1.0,0.0,1
+826,40464,2017-03-23,China,South Korea,1.0,0.0,1
+827,40465,2017-03-23,Colombia,Bolivia,1.0,0.0,1
+828,40466,2017-03-23,Iraq,Australia,1.0,1.0,0
+829,40469,2017-03-23,Nigeria,Senegal,1.0,1.0,0
+830,40472,2017-03-23,Qatar,Iran,0.0,1.0,2
+831,40474,2017-03-23,Thailand,Saudi Arabia,0.0,3.0,2
+832,40475,2017-03-23,United Arab Emirates,Japan,0.0,2.0,2
+833,40476,2017-03-23,Uruguay,Brazil,1.0,4.0,2
+834,40477,2017-03-23,Venezuela,Peru,2.0,2.0,0
+835,40480,2017-03-24,Croatia,Ukraine,1.0,0.0,1
+836,40481,2017-03-24,Georgia,Serbia,1.0,3.0,2
+837,40485,2017-03-24,Kosovo,Iceland,1.0,2.0,2
+838,40489,2017-03-24,Mexico,Costa Rica,2.0,0.0,1
+839,40490,2017-03-24,Morocco,Burkina Faso,2.0,0.0,1
+840,40491,2017-03-24,Russia,Ivory Coast,0.0,2.0,2
+841,40492,2017-03-24,Spain,Israel,4.0,1.0,1
+842,40493,2017-03-24,Trinidad and Tobago,Panama,1.0,0.0,1
+843,40494,2017-03-24,Tunisia,Cameroon,0.0,1.0,2
+844,40498,2017-03-25,Belgium,Greece,1.0,1.0,0
+845,40503,2017-03-25,Luxembourg,France,1.0,3.0,2
+846,40505,2017-03-25,Portugal,Hungary,3.0,0.0,1
+847,40507,2017-03-25,Sweden,Belarus,4.0,0.0,1
+848,40508,2017-03-25,Switzerland,Latvia,1.0,0.0,1
+849,40512,2017-03-26,Azerbaijan,Germany,1.0,4.0,2
+850,40514,2017-03-26,England,Lithuania,2.0,0.0,1
+851,40518,2017-03-26,Montenegro,Poland,1.0,2.0,2
+852,40520,2017-03-26,Romania,Denmark,0.0,0.0,0
+853,40525,2017-03-27,Ivory Coast,Senegal,1.0,1.0,0
+854,40530,2017-03-28,Australia,United Arab Emirates,2.0,0.0,1
+855,40533,2017-03-28,Bolivia,Argentina,2.0,0.0,1
+856,40534,2017-03-28,Brazil,Paraguay,3.0,0.0,1
+857,40538,2017-03-28,Ecuador,Colombia,0.0,2.0,2
+858,40539,2017-03-28,Egypt,Togo,3.0,0.0,1
+859,40540,2017-03-28,Estonia,Croatia,3.0,0.0,1
+860,40541,2017-03-28,France,Spain,0.0,2.0,2
+861,40544,2017-03-28,Honduras,Costa Rica,1.0,1.0,0
+862,40545,2017-03-28,Iran,China,1.0,0.0,1
+863,40546,2017-03-28,Republic of Ireland,Iceland,0.0,1.0,2
+864,40547,2017-03-28,Japan,Thailand,4.0,0.0,1
+865,40549,2017-03-28,South Korea,Syria,1.0,0.0,1
+866,40556,2017-03-28,Morocco,Tunisia,1.0,0.0,1
+867,40561,2017-03-28,Panama,United States,1.0,1.0,0
+868,40562,2017-03-28,Peru,Uruguay,2.0,1.0,1
+869,40564,2017-03-28,Portugal,Sweden,2.0,3.0,2
+870,40565,2017-03-28,Russia,Belgium,3.0,3.0,0
+871,40566,2017-03-28,Saudi Arabia,Iraq,1.0,0.0,1
+872,40570,2017-03-28,Trinidad and Tobago,Mexico,0.0,1.0,2
+873,40579,2017-05-11,Senegal,Mauritania,2.0,0.0,1
+874,40580,2017-05-13,Egypt,Libya,1.0,0.0,1
+875,40586,2017-05-26,Corsica,Nigeria,1.0,1.0,0
+876,40589,2017-05-28,Mexico,Croatia,1.0,2.0,2
+877,40592,2017-05-31,Morocco,Netherlands,1.0,2.0,2
+878,40594,2017-06-01,Mexico,Republic of Ireland,3.0,1.0,1
+879,40595,2017-06-01,Nigeria,Togo,3.0,0.0,1
+880,40596,2017-06-01,Switzerland,Belarus,1.0,0.0,1
+881,40598,2017-06-02,France,Paraguay,5.0,0.0,1
+882,40603,2017-06-03,Portugal,Cyprus,4.0,0.0,1
+883,40607,2017-06-04,Republic of Ireland,Uruguay,3.0,1.0,1
+884,40610,2017-06-04,Montenegro,Iran,1.0,2.0,2
+885,40614,2017-06-05,Belgium,Czech Republic,2.0,1.0,1
+886,40616,2017-06-05,Egypt,Libya,1.0,0.0,1
+887,40617,2017-06-05,Hungary,Russia,0.0,3.0,2
+888,40619,2017-06-05,Senegal,Uganda,0.0,0.0,0
+889,40626,2017-06-06,Denmark,Germany,1.0,1.0,0
+890,40642,2017-06-07,Iraq,South Korea,0.0,0.0,0
+891,40643,2017-06-07,Italy,Uruguay,3.0,0.0,1
+892,40644,2017-06-07,Japan,Syria,1.0,1.0,0
+893,40645,2017-06-07,Spain,Colombia,2.0,2.0,0
+894,40651,2017-06-08,Australia,Saudi Arabia,3.0,2.0,1
+895,40653,2017-06-08,Costa Rica,Panama,0.0,0.0,0
+896,40655,2017-06-08,Mexico,Honduras,3.0,0.0,1
+897,40656,2017-06-08,Peru,Paraguay,1.0,0.0,1
+898,40659,2017-06-09,Argentina,Brazil,1.0,0.0,1
+899,40662,2017-06-09,Estonia,Belgium,0.0,2.0,2
+900,40663,2017-06-09,Faroe Islands,Switzerland,0.0,2.0,2
+901,40665,2017-06-09,Latvia,Portugal,0.0,3.0,2
+902,40668,2017-06-09,Russia,Chile,1.0,1.0,0
+903,40671,2017-06-09,Sweden,France,2.0,1.0,1
+904,40679,2017-06-10,Cameroon,Morocco,1.0,0.0,1
+905,40681,2017-06-10,Germany,San Marino,7.0,0.0,1
+906,40685,2017-06-10,Kazakhstan,Denmark,1.0,3.0,2
+907,40691,2017-06-10,Nigeria,South Africa,0.0,2.0,2
+908,40693,2017-06-10,Poland,Romania,3.0,1.0,1
+909,40694,2017-06-10,Scotland,England,2.0,2.0,0
+910,40695,2017-06-10,Senegal,Equatorial Guinea,3.0,0.0,1
+911,40709,2017-06-11,Iceland,Croatia,1.0,0.0,1
+912,40714,2017-06-11,North Macedonia,Spain,1.0,2.0,2
+913,40715,2017-06-11,Mexico,United States,1.0,1.0,0
+914,40718,2017-06-11,Serbia,Wales,1.0,1.0,0
+915,40720,2017-06-11,Tunisia,Egypt,1.0,0.0,1
+916,40722,2017-06-12,Iran,Uzbekistan,2.0,0.0,1
+917,40724,2017-06-13,Australia,Brazil,0.0,4.0,2
+918,40727,2017-06-13,Cameroon,Colombia,0.0,4.0,2
+919,40729,2017-06-13,Costa Rica,Trinidad and Tobago,2.0,1.0,1
+920,40731,2017-06-13,France,England,3.0,2.0,1
+921,40735,2017-06-13,Iraq,Japan,1.0,1.0,0
+922,40739,2017-06-13,Norway,Sweden,1.0,1.0,0
+923,40741,2017-06-13,Panama,Honduras,2.0,2.0,0
+924,40743,2017-06-13,Qatar,South Korea,3.0,2.0,1
+925,40745,2017-06-13,Singapore,Argentina,0.0,6.0,2
+926,40752,2017-06-13,Peru,Jamaica,3.0,1.0,1
+927,40755,2017-06-17,Russia,New Zealand,2.0,0.0,1
+928,40757,2017-06-18,Portugal,Mexico,2.0,2.0,0
+929,40758,2017-06-19,Australia,Germany,2.0,3.0,2
+930,40759,2017-06-21,Mexico,New Zealand,2.0,1.0,1
+931,40760,2017-06-21,Russia,Portugal,0.0,1.0,2
+932,40761,2017-06-22,Cameroon,Australia,1.0,1.0,0
+933,40762,2017-06-22,Germany,Chile,1.0,1.0,0
+934,40765,2017-06-24,New Zealand,Portugal,0.0,4.0,2
+935,40766,2017-06-24,Russia,Mexico,1.0,2.0,2
+936,40767,2017-06-25,Chile,Australia,1.0,1.0,0
+937,40768,2017-06-25,Germany,Cameroon,3.0,1.0,1
+938,40801,2017-06-28,Portugal,Chile,0.0,0.0,0
+939,40805,2017-06-29,Germany,Mexico,4.0,1.0,1
+940,40823,2017-07-01,Mexico,Paraguay,2.0,1.0,1
+941,40826,2017-07-02,Chile,Germany,0.0,1.0,2
+942,40827,2017-07-02,Portugal,Mexico,2.0,1.0,1
+943,40841,2017-07-07,Honduras,Costa Rica,0.0,1.0,2
+944,40846,2017-07-08,United States,Panama,1.0,1.0,0
+945,40848,2017-07-09,Mexico,El Salvador,3.0,1.0,1
+946,40850,2017-07-11,Costa Rica,Canada,1.0,1.0,0
+947,40852,2017-07-12,Panama,Nicaragua,2.0,1.0,1
+948,40855,2017-07-13,Mexico,Jamaica,0.0,0.0,0
+949,40857,2017-07-14,Costa Rica,French Guiana,3.0,0.0,1
+950,40859,2017-07-15,Panama,Martinique,3.0,0.0,1
+951,40862,2017-07-16,Curaçao,Mexico,0.0,2.0,2
+952,40865,2017-07-19,Costa Rica,Panama,1.0,0.0,1
+953,40868,2017-07-20,Mexico,Honduras,1.0,0.0,1
+954,40869,2017-07-22,United States,Costa Rica,2.0,0.0,1
+955,40870,2017-07-23,Mexico,Jamaica,0.0,1.0,2
+956,40885,2017-08-29,United Arab Emirates,Saudi Arabia,2.0,1.0,1
+957,40887,2017-08-31,Belgium,Gibraltar,9.0,0.0,1
+958,40888,2017-08-31,Brazil,Ecuador,2.0,0.0,1
+959,40889,2017-08-31,Bulgaria,Sweden,3.0,2.0,1
+960,40893,2017-08-31,France,Netherlands,4.0,0.0,1
+961,40897,2017-08-31,Japan,Australia,2.0,0.0,1
+962,40899,2017-08-31,South Korea,Iran,0.0,0.0,0
+963,40902,2017-08-31,Peru,Bolivia,2.0,1.0,1
+964,40903,2017-08-31,Portugal,Faroe Islands,5.0,1.0,1
+965,40905,2017-08-31,Switzerland,Andorra,3.0,0.0,1
+966,40908,2017-08-31,Uganda,Egypt,1.0,0.0,1
+967,40909,2017-08-31,Uruguay,Argentina,0.0,0.0,0
+968,40910,2017-08-31,Venezuela,Colombia,0.0,0.0,0
+969,40913,2017-09-01,Czech Republic,Germany,1.0,2.0,2
+970,40914,2017-09-01,Denmark,Poland,4.0,0.0,1
+971,40918,2017-09-01,Malta,England,0.0,4.0,2
+972,40919,2017-09-01,Mexico,Panama,1.0,0.0,1
+973,40920,2017-09-01,Morocco,Mali,6.0,0.0,1
+974,40922,2017-09-01,Nigeria,Cameroon,4.0,0.0,1
+975,40928,2017-09-01,Tunisia,DR Congo,2.0,1.0,1
+976,40929,2017-09-01,United States,Costa Rica,0.0,2.0,2
+977,40932,2017-09-02,Croatia,Kosovo,1.0,0.0,1
+978,40933,2017-09-02,Finland,Iceland,1.0,0.0,1
+979,40939,2017-09-02,Senegal,Burkina Faso,0.0,0.0,0
+980,40940,2017-09-02,Serbia,Moldova,3.0,0.0,1
+981,40941,2017-09-02,Spain,Italy,3.0,0.0,1
+982,40945,2017-09-03,Belarus,Sweden,0.0,4.0,2
+983,40949,2017-09-03,France,Luxembourg,0.0,0.0,0
+984,40951,2017-09-03,Greece,Belgium,1.0,2.0,2
+985,40952,2017-09-03,Hungary,Portugal,0.0,1.0,2
+986,40953,2017-09-03,Latvia,Switzerland,0.0,3.0,2
+987,40955,2017-09-04,Armenia,Denmark,1.0,4.0,2
+988,40957,2017-09-04,Cameroon,Nigeria,1.0,1.0,0
+989,40958,2017-09-04,England,Slovakia,2.0,1.0,1
+990,40959,2017-09-04,Germany,Norway,6.0,0.0,1
+991,40964,2017-09-04,Poland,Kazakhstan,3.0,0.0,1
+992,40968,2017-09-05,Argentina,Venezuela,1.0,1.0,0
+993,40969,2017-09-05,Australia,Thailand,2.0,1.0,1
+994,40974,2017-09-05,Burkina Faso,Senegal,2.0,2.0,0
+995,40976,2017-09-05,Colombia,Brazil,1.0,1.0,0
+996,40978,2017-09-05,DR Congo,Tunisia,2.0,2.0,0
+997,40979,2017-09-05,Costa Rica,Mexico,1.0,1.0,0
+998,40980,2017-09-05,Ecuador,Peru,1.0,2.0,2
+999,40981,2017-09-05,Egypt,Uganda,1.0,0.0,1
+1000,40983,2017-09-05,Iceland,Ukraine,2.0,0.0,1
+1001,40984,2017-09-05,Iran,Syria,2.0,2.0,0
+1002,40986,2017-09-05,Republic of Ireland,Serbia,0.0,1.0,2
+1003,40992,2017-09-05,Liechtenstein,Spain,0.0,8.0,2
+1004,40996,2017-09-05,Mali,Morocco,0.0,0.0,0
+1005,41001,2017-09-05,Panama,Trinidad and Tobago,3.0,0.0,1
+1006,41002,2017-09-05,Paraguay,Uruguay,1.0,2.0,2
+1007,41005,2017-09-05,Saudi Arabia,Japan,1.0,0.0,1
+1008,41009,2017-09-05,Turkey,Croatia,1.0,0.0,1
+1009,41010,2017-09-05,Uzbekistan,South Korea,0.0,0.0,0
+1010,41012,2017-10-05,Argentina,Peru,0.0,0.0,0
+1011,41013,2017-10-05,Armenia,Poland,1.0,6.0,2
+1012,41015,2017-10-05,Bolivia,Brazil,0.0,0.0,0
+1013,41018,2017-10-05,Colombia,Paraguay,1.0,2.0,2
+1014,41019,2017-10-05,England,Slovenia,1.0,0.0,1
+1015,41021,2017-10-05,Iran,Togo,2.0,0.0,1
+1016,41024,2017-10-05,Montenegro,Denmark,0.0,1.0,2
+1017,41025,2017-10-05,Northern Ireland,Germany,1.0,3.0,2
+1018,41030,2017-10-05,Syria,Australia,1.0,1.0,0
+1019,41032,2017-10-05,Venezuela,Uruguay,0.0,0.0,0
+1020,41033,2017-10-06,Austria,Serbia,3.0,2.0,1
+1021,41034,2017-10-06,Croatia,Finland,1.0,1.0,0
+1022,41038,2017-10-06,Japan,New Zealand,2.0,1.0,1
+1023,41043,2017-10-06,Mexico,Trinidad and Tobago,3.0,1.0,1
+1024,41044,2017-10-06,Spain,Albania,3.0,0.0,1
+1025,41045,2017-10-06,Turkey,Iceland,0.0,3.0,2
+1026,41046,2017-10-06,United States,Panama,4.0,0.0,1
+1027,41047,2017-10-07,Andorra,Portugal,0.0,2.0,2
+1028,41049,2017-10-07,Bosnia and Herzegovina,Belgium,3.0,4.0,2
+1029,41050,2017-10-07,Bulgaria,France,0.0,1.0,2
+1030,41052,2017-10-07,Cape Verde,Senegal,0.0,2.0,2
+1031,41053,2017-10-07,Costa Rica,Honduras,1.0,1.0,0
+1032,41058,2017-10-07,Guinea,Tunisia,1.0,4.0,2
+1033,41060,2017-10-07,Morocco,Gabon,3.0,0.0,1
+1034,41061,2017-10-07,Nigeria,Zambia,1.0,0.0,1
+1035,41062,2017-10-07,Russia,South Korea,4.0,2.0,1
+1036,41063,2017-10-07,Saudi Arabia,Jamaica,5.0,2.0,1
+1037,41065,2017-10-07,Sweden,Luxembourg,8.0,0.0,1
+1038,41066,2017-10-07,Switzerland,Hungary,5.0,2.0,1
+1039,41070,2017-10-08,Denmark,Romania,1.0,1.0,0
+1040,41071,2017-10-08,Egypt,Congo,2.0,1.0,1
+1041,41073,2017-10-08,Germany,Azerbaijan,5.0,1.0,1
+1042,41075,2017-10-08,Lithuania,England,0.0,1.0,2
+1043,41077,2017-10-08,Poland,Montenegro,4.0,2.0,1
+1044,41084,2017-10-09,Iceland,Kosovo,2.0,0.0,1
+1045,41085,2017-10-09,Israel,Spain,0.0,1.0,2
+1046,41088,2017-10-09,Serbia,Georgia,1.0,0.0,1
+1047,41089,2017-10-09,Ukraine,Croatia,0.0,2.0,2
+1048,41092,2017-10-10,Australia,Syria,2.0,1.0,1
+1049,41093,2017-10-10,Belgium,Cyprus,4.0,0.0,1
+1050,41095,2017-10-10,Brazil,Chile,3.0,0.0,1
+1051,41097,2017-10-10,Ecuador,Argentina,1.0,3.0,2
+1052,41099,2017-10-10,France,Belarus,2.0,1.0,1
+1053,41101,2017-10-10,Honduras,Mexico,3.0,2.0,1
+1054,41104,2017-10-10,Japan,Haiti,3.0,3.0,0
+1055,41105,2017-10-10,South Korea,Morocco,1.0,3.0,2
+1056,41110,2017-10-10,Netherlands,Sweden,2.0,0.0,1
+1057,41112,2017-10-10,Panama,Costa Rica,2.0,1.0,1
+1058,41114,2017-10-10,Peru,Colombia,1.0,1.0,0
+1059,41115,2017-10-10,Portugal,Switzerland,2.0,0.0,1
+1060,41117,2017-10-10,Russia,Iran,1.0,1.0,0
+1061,41118,2017-10-10,Saudi Arabia,Ghana,0.0,3.0,2
+1062,41123,2017-10-10,Uruguay,Bolivia,4.0,2.0,1
+1063,41127,2017-10-24,Grenada,Panama,0.0,5.0,2
+1064,41130,2017-11-08,Iceland,Czech Republic,1.0,2.0,2
+1065,41134,2017-11-09,Croatia,Greece,4.0,1.0,1
+1066,41137,2017-11-09,Iran,Panama,2.0,1.0,1
+1067,41139,2017-11-09,Northern Ireland,Switzerland,0.0,1.0,2
+1068,41143,2017-11-10,Algeria,Nigeria,3.0,0.0,1
+1069,41144,2017-11-10,Belgium,Mexico,3.0,3.0,0
+1070,41145,2017-11-10,China,Serbia,0.0,2.0,2
+1071,41146,2017-11-10,England,Germany,0.0,0.0,0
+1072,41147,2017-11-10,France,Wales,2.0,0.0,1
+1073,41149,2017-11-10,Honduras,Australia,0.0,0.0,0
+1074,41150,2017-11-10,Japan,Brazil,1.0,3.0,2
+1075,41152,2017-11-10,South Korea,Colombia,2.0,1.0,1
+1076,41153,2017-11-10,Poland,Uruguay,0.0,0.0,0
+1077,41154,2017-11-10,Portugal,Saudi Arabia,3.0,0.0,1
+1078,41155,2017-11-10,South Africa,Senegal,0.0,2.0,2
+1079,41156,2017-11-10,Sweden,Italy,1.0,0.0,1
+1080,41160,2017-11-11,Denmark,Republic of Ireland,0.0,0.0,0
+1081,41163,2017-11-11,Ivory Coast,Morocco,0.0,2.0,2
+1082,41167,2017-11-11,New Zealand,Peru,0.0,0.0,0
+1083,41169,2017-11-11,Russia,Argentina,0.0,1.0,2
+1084,41170,2017-11-11,Spain,Costa Rica,5.0,0.0,1
+1085,41172,2017-11-11,Tunisia,Libya,0.0,0.0,0
+1086,41176,2017-11-12,Ghana,Egypt,1.0,1.0,0
+1087,41177,2017-11-12,Greece,Croatia,0.0,0.0,0
+1088,41179,2017-11-12,Switzerland,Northern Ireland,0.0,0.0,0
+1089,41182,2017-11-13,Bulgaria,Saudi Arabia,1.0,0.0,1
+1090,41184,2017-11-13,Iran,Venezuela,1.0,0.0,1
+1091,41186,2017-11-13,Italy,Sweden,0.0,0.0,0
+1092,41189,2017-11-13,Poland,Mexico,0.0,1.0,2
+1093,41192,2017-11-14,Argentina,Nigeria,2.0,4.0,2
+1094,41193,2017-11-14,Austria,Uruguay,2.0,1.0,1
+1095,41194,2017-11-14,Belgium,Japan,1.0,0.0,1
+1096,41198,2017-11-14,China,Colombia,0.0,4.0,2
+1097,41199,2017-11-14,England,Brazil,0.0,0.0,0
+1098,41201,2017-11-14,Germany,France,2.0,2.0,0
+1099,41203,2017-11-14,Hungary,Costa Rica,1.0,0.0,1
+1100,41205,2017-11-14,Republic of Ireland,Denmark,1.0,5.0,2
+1101,41206,2017-11-14,South Korea,Serbia,1.0,1.0,0
+1102,41210,2017-11-14,Portugal,United States,1.0,1.0,0
+1103,41211,2017-11-14,Qatar,Iceland,1.0,1.0,0
+1104,41213,2017-11-14,Russia,Spain,3.0,3.0,0
+1105,41214,2017-11-14,Senegal,South Africa,2.0,1.0,1
+1106,41222,2017-11-14,Wales,Panama,1.0,1.0,0
+1107,41223,2017-11-15,Australia,Honduras,3.0,1.0,1
+1108,41224,2017-11-15,Peru,New Zealand,2.0,0.0,1
+1109,41258,2017-12-09,Japan,North Korea,1.0,0.0,1
+1110,41260,2017-12-09,South Korea,China,2.0,2.0,0
+1111,41270,2017-12-12,Japan,China,2.0,1.0,1
+1112,41271,2017-12-12,North Korea,South Korea,0.0,1.0,2
+1113,41280,2017-12-16,Japan,South Korea,1.0,4.0,2
+1114,41284,2017-12-22,Kuwait,Saudi Arabia,1.0,2.0,2
+1115,41290,2017-12-25,United Arab Emirates,Saudi Arabia,0.0,0.0,0
+1116,41294,2017-12-28,Saudi Arabia,Oman,0.0,2.0,2
+1117,41300,2018-01-07,Estonia,Sweden,1.0,1.0,0
+1118,41301,2018-01-11,Denmark,Sweden,0.0,1.0,2
+1119,41302,2018-01-11,Indonesia,Iceland,0.0,6.0,2
+1120,41304,2018-01-14,Indonesia,Iceland,1.0,4.0,2
+1121,41305,2018-01-27,Moldova,South Korea,0.0,1.0,2
+1122,41309,2018-01-30,Jamaica,South Korea,2.0,2.0,0
+1123,41310,2018-01-31,Mexico,Bosnia and Herzegovina,1.0,0.0,1
+1124,41311,2018-02-03,Latvia,South Korea,0.0,1.0,2
+1125,41312,2018-02-26,Saudi Arabia,Moldova,3.0,0.0,1
+1126,41313,2018-02-28,Iraq,Saudi Arabia,4.0,1.0,1
+1127,41314,2018-03-17,Iran,Sierra Leone,4.0,0.0,1
+1128,41329,2018-03-22,Denmark,Panama,1.0,0.0,1
+1129,41346,2018-03-23,France,Colombia,2.0,3.0,2
+1130,41348,2018-03-23,Germany,Spain,1.0,1.0,0
+1131,41349,2018-03-23,Greece,Switzerland,0.0,1.0,2
+1132,41352,2018-03-23,Italy,Argentina,0.0,2.0,2
+1133,41353,2018-03-23,Japan,Mali,1.0,1.0,0
+1134,41354,2018-03-23,Mexico,Iceland,3.0,0.0,1
+1135,41355,2018-03-23,Netherlands,England,0.0,1.0,2
+1136,41356,2018-03-23,Norway,Australia,4.0,1.0,1
+1137,41357,2018-03-23,Peru,Croatia,2.0,0.0,1
+1138,41358,2018-03-23,Poland,Nigeria,0.0,1.0,2
+1139,41359,2018-03-23,Portugal,Egypt,2.0,1.0,1
+1140,41360,2018-03-23,Russia,Brazil,0.0,3.0,2
+1141,41361,2018-03-23,Scotland,Costa Rica,0.0,1.0,2
+1142,41362,2018-03-23,Senegal,Uzbekistan,1.0,1.0,0
+1143,41363,2018-03-23,Serbia,Morocco,1.0,2.0,2
+1144,41365,2018-03-23,Tunisia,Iran,1.0,0.0,1
+1145,41367,2018-03-23,Ukraine,Saudi Arabia,1.0,1.0,0
+1146,41368,2018-03-23,Uruguay,Czech Republic,2.0,0.0,1
+1147,41379,2018-03-24,Northern Ireland,South Korea,2.0,1.0,1
+1148,41381,2018-03-24,Sweden,Chile,1.0,2.0,2
+1149,41401,2018-03-26,Portugal,Netherlands,0.0,3.0,2
+1150,41402,2018-03-26,Wales,Uruguay,0.0,1.0,2
+1151,41404,2018-03-27,Algeria,Iran,1.0,2.0,2
+1152,41406,2018-03-27,Australia,Colombia,0.0,0.0,0
+1153,41409,2018-03-27,Belgium,Saudi Arabia,4.0,0.0,1
+1154,41410,2018-03-27,Bosnia and Herzegovina,Senegal,0.0,0.0,0
+1155,41413,2018-03-27,Denmark,Chile,0.0,0.0,0
+1156,41414,2018-03-27,England,Italy,1.0,1.0,0
+1157,41416,2018-03-27,Germany,Brazil,0.0,1.0,2
+1158,41417,2018-03-27,Greece,Egypt,1.0,0.0,1
+1159,41428,2018-03-27,Mexico,Croatia,0.0,1.0,2
+1160,41432,2018-03-27,Morocco,Uzbekistan,2.0,0.0,1
+1161,41435,2018-03-27,Peru,Iceland,3.0,1.0,1
+1162,41437,2018-03-27,Poland,South Korea,3.0,2.0,1
+1163,41438,2018-03-27,Romania,Sweden,1.0,0.0,1
+1164,41439,2018-03-27,Russia,France,1.0,3.0,2
+1165,41440,2018-03-27,Serbia,Nigeria,2.0,0.0,1
+1166,41443,2018-03-27,Spain,Argentina,6.0,1.0,1
+1167,41444,2018-03-27,Switzerland,Panama,6.0,0.0,1
+1168,41447,2018-03-27,Tunisia,Costa Rica,1.0,0.0,1
+1169,41449,2018-03-27,Ukraine,Japan,2.0,1.0,1
+1170,41455,2018-04-18,Trinidad and Tobago,Panama,0.0,1.0,2
+1171,41463,2018-05-09,Algeria,Saudi Arabia,0.0,2.0,2
+1172,41466,2018-05-15,Saudi Arabia,Greece,2.0,0.0,1
+1173,41467,2018-05-19,Iran,Uzbekistan,1.0,0.0,1
+1174,41469,2018-05-25,Kuwait,Egypt,1.0,1.0,0

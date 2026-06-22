@@ -1,53 +1,53 @@
 ,Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials,resultado
-308,1982.0,13 Jun 1982 - 20:00 ,Group 3,Camp Nou,Barcelona ,Argentina,0.0,1.0,Belgium, ,95000.0,0.0,0.0,CHRISTOV Vojtech (TCH),PALOTAI Karoly (HUN),JARGUZ Alojzy (POL),293.0,749.0,ARG,BEL,2
-309,1982.0,14 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,0.0,0.0,Poland, ,33000.0,0.0,0.0,VAUTROT Michel (FRA),PROKOP Adolf (GDR),RAINEA Nicolae (ROU),293.0,995.0,ITA,POL,0
-310,1982.0,14 Jun 1982 - 21:00 ,Group 6,Ramon Sanchez Pizjuan,Seville ,Brazil,2.0,1.0,Soviet Union, ,68000.0,0.0,1.0,LAMO CASTILLO Augusto (ESP),SANCHEZ ARMINIO Victoriano (ESP),GARCIA CARRION Jose L. (ESP),293.0,791.0,BRA,URS,1
-311,1982.0,15 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Peru,0.0,0.0,Cameroon, ,11000.0,0.0,0.0,WOEHRER Franz (AUT),RAINEA Nicolae (ROU),PROKOP Adolf (GDR),293.0,833.0,PER,CMR,0
-312,1982.0,15 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Hungary,10.0,1.0,El Salvador, ,23000.0,3.0,0.0,AL DOY Ebrahim (BHR),CORVER Charles (NED),LUND-SORENSEN Henning (DEN),293.0,896.0,HUN,SLV,1
-313,1982.0,15 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Scotland,5.0,2.0,New Zealand, ,36000.0,3.0,0.0,SOCHA David (USA),CHAN Thomson Tam Sun (HKG),EL GHOUL Yusef Mohamed (LBY),293.0,1051.0,SCO,NZL,1
-314,1982.0,16 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,1.0,2.0,Algeria, ,42000.0,0.0,0.0,LABO REVOREDO Enrique (PER),ARISTIZABAL MURCIA Gilberto (COL),CASARIN Paolo (ITA),293.0,741.0,FRG,ALG,2
-315,1982.0,16 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,3.0,1.0,France, ,44172.0,1.0,1.0,GARRIDO Antonio (POR),CASTRO Gaston (CHI),COELHO Arnaldo (BRA),293.0,878.0,ENG,FRA,1
-316,1982.0,16 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,1.0,1.0,Honduras, ,49562.0,0.0,1.0,ITHURRALDE Arturo Andres (ARG),DOTCHEV Bogdan (BUL),BARRANCOS Luis (BOL),293.0,901.0,ESP,HON,0
-317,1982.0,17 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Chile,0.0,1.0,Austria, ,22500.0,0.0,1.0,CARDELLINO DE SAN VICENTE Juan (URU),CASARIN Paolo (ITA),ARISTIZABAL MURCIA Gilberto (COL),293.0,764.0,CHI,AUT,2
-318,1982.0,17 Jun 1982 - 17:45 ,Group 4,Jose Zorrilla,Valladolid ,Czechoslovakia,1.0,1.0,Kuwait, ,25000.0,1.0,0.0,DWOMOH Benjamin (GHA),MENDEZ MOLINA Romulo (GUA),VALENTINE Robert (SCO),293.0,1012.0,TCH,KUW,0
-319,1982.0,17 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Yugoslavia,0.0,0.0,Northern Ireland, ,25000.0,0.0,0.0,FREDRIKSSON Erik (SWE),GALLER Bruno (SUI),PALOTAI Karoly (HUN),293.0,1044.0,YUG,NIR,0
-320,1982.0,18 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Peru, ,25000.0,1.0,0.0,ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),KLEIN Abraham (ISR),293.0,994.0,ITA,PER,0
-321,1982.0,18 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,4.0,1.0,Hungary, ,32093.0,2.0,0.0,LACARNE Belaid (ALG),VAUTROT Michel (FRA),RAINEA Nicolae (ROU),293.0,752.0,ARG,HUN,1
-322,1982.0,18 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4.0,1.0,Scotland, ,47379.0,1.0,1.0,SILES Jesus Paulino (CRC),CHAN Thomson Tam Sun (HKG),PROKOP Adolf (GDR),293.0,790.0,BRA,SCO,1
-323,1982.0,19 Jun 1982 - 19:15 ,Group 1,Riazor,La Coru�A ,Poland,0.0,0.0,Cameroon, ,19000.0,0.0,0.0,PONNET Alexis (BEL),ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),293.0,834.0,POL,CMR,0
-324,1982.0,19 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1.0,0.0,El Salvador, ,15000.0,1.0,0.0,MOFFATT Malcolm (NIR),CASTRO Gaston (CHI),JARGUZ Alojzy (POL),293.0,774.0,BEL,SLV,1
-325,1982.0,19 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,3.0,0.0,New Zealand, ,19000.0,1.0,0.0,EL GHOUL Yusef Mohamed (LBY),SORIANO ALADREN Emilio (ESP),WHITE Clive (ENG),293.0,1054.0,URS,NZL,1
-326,1982.0,20 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,4.0,1.0,Chile, ,42000.0,1.0,0.0,GALLER Bruno (SUI),CHRISTOV Vojtech (TCH),BOSKOVIC Tony (AUS),293.0,813.0,FRG,CHI,1
-327,1982.0,20 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,2.0,0.0,Czechoslovakia, ,41123.0,0.0,0.0,CORVER Charles (NED),DOTCHEV Bogdan (BUL),ARISTIZABAL MURCIA Gilberto (COL),293.0,889.0,ENG,TCH,1
-328,1982.0,20 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,2.0,1.0,Yugoslavia, ,48000.0,1.0,1.0,LUND-SORENSEN Henning (DEN),GARRIDO Antonio (POR),ITHURRALDE Arturo Andres (ARG),293.0,903.0,ESP,YUG,1
-329,1982.0,21 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,0.0,2.0,Austria, ,22000.0,0.0,0.0,BOSKOVIC Tony (AUS),CHRISTOV Vojtech (TCH),AL DOY Ebrahim (BHR),293.0,739.0,ALG,AUT,2
-330,1982.0,21 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,4.0,1.0,Kuwait, ,30043.0,2.0,0.0,STUPAR Miroslav (URS),FREDRIKSSON Erik (SWE),MATOVINOVIC Damir (CRO),293.0,919.0,FRA,KUW,1
-331,1982.0,21 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,1.0,1.0,Northern Ireland, ,15000.0,0.0,1.0,CHAN Thomson Tam Sun (HKG),LABO REVOREDO Enrique (PER),CASARIN Paolo (ITA),293.0,959.0,HON,NIR,0
-332,1982.0,22 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Poland,5.0,1.0,Peru, ,25000.0,0.0,0.0,RUBIO VAZQUEZ Mario (MEX),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),293.0,1055.0,POL,PER,1
-333,1982.0,22 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1.0,1.0,Hungary, ,37000.0,0.0,1.0,WHITE Clive (ENG),ESCHWEILER Walter (GER),LACARNE Belaid (ALG),293.0,779.0,BEL,HUN,0
-334,1982.0,22 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,2.0,2.0,Scotland, ,45000.0,0.0,1.0,RAINEA Nicolae (ROU),JARGUZ Alojzy (POL),PONNET Alexis (BEL),293.0,1071.0,URS,SCO,0
-335,1982.0,23 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Cameroon, ,20000.0,0.0,0.0,DOTCHEV Bogdan (BUL),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),293.0,828.0,ITA,CMR,0
-336,1982.0,23 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,2.0,0.0,El Salvador, ,32500.0,1.0,0.0,BARRANCOS Luis (BOL),LAMO CASTILLO Augusto (ESP),LACARNE Belaid (ALG),293.0,751.0,ARG,SLV,1
-337,1982.0,23 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4.0,0.0,New Zealand, ,43000.0,2.0,0.0,MATOVINOVIC Damir (CRO),KLEIN Abraham (ISR),CORVER Charles (NED),293.0,789.0,BRA,NZL,1
-338,1982.0,24 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,3.0,2.0,Chile, ,16000.0,3.0,0.0,MENDEZ MOLINA Romulo (GUA),FREDRIKSSON Erik (SWE),COELHO Arnaldo (BRA),293.0,740.0,ALG,CHI,1
-339,1982.0,24 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,1.0,1.0,Czechoslovakia, ,28000.0,0.0,0.0,CASARIN Paolo (ITA),DWOMOH Benjamin (GHA),PALOTAI Karoly (HUN),293.0,922.0,FRA,TCH,0
-340,1982.0,24 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,0.0,1.0,Yugoslavia, ,25000.0,0.0,0.0,CASTRO Gaston (CHI),SILES Jesus Paulino (CRC),ITHURRALDE Arturo Andres (ARG),293.0,962.0,HON,YUG,2
-341,1982.0,25 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany FR,1.0,0.0,Austria, ,41000.0,1.0,0.0,VALENTINE Robert (SCO),AL DOY Ebrahim (BHR),COELHO Arnaldo (BRA),293.0,770.0,FRG,AUT,1
-342,1982.0,25 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,1.0,0.0,Kuwait, ,39700.0,1.0,0.0,ARISTIZABAL MURCIA Gilberto (COL),LUND-SORENSEN Henning (DEN),GARCIA CARRION Jose L. (ESP),293.0,882.0,ENG,KUW,1
-343,1982.0,25 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Northern Ireland,1.0,0.0,Spain, ,49562.0,0.0,0.0,ORTIZ Hector (PAR),LABO REVOREDO Enrique (PER),PONNET Alexis (BEL),293.0,902.0,NIR,ESP,1
-344,1982.0,28 Jun 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,0.0,1.0,France, ,37000.0,0.0,1.0,PALOTAI Karoly (HUN),CHRISTOV Vojtech (TCH),MATOVINOVIC Damir (CRO),294.0,767.0,AUT,FRA,2
-345,1982.0,28 Jun 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,3.0,0.0,Belgium, ,65000.0,2.0,0.0,SILES Jesus Paulino (CRC),LABO REVOREDO Enrique (PER),CASTRO Gaston (CHI),294.0,782.0,POL,BEL,1
-346,1982.0,29 Jun 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,2.0,1.0,Argentina, ,43000.0,0.0,0.0,RAINEA Nicolae (ROU),GALLER Bruno (SUI),LACARNE Belaid (ALG),294.0,753.0,ITA,ARG,1
-347,1982.0,29 Jun 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany FR,0.0,0.0,England, ,75000.0,0.0,0.0,COELHO Arnaldo (BRA),ORTIZ Hector (PAR),MENDEZ MOLINA Romulo (GUA),294.0,879.0,FRG,ENG,0
-348,1982.0,01 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,2.0,2.0,Northern Ireland, ,20000.0,0.0,1.0,PROKOP Adolf (GDR),FREDRIKSSON Erik (SWE),ESCHWEILER Walter (GER),294.0,771.0,AUT,NIR,0
-349,1982.0,01 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Belgium,0.0,1.0,Soviet Union, ,45000.0,0.0,0.0,VAUTROT Michel (FRA),CORVER Charles (NED),GARRIDO Antonio (POR),294.0,783.0,BEL,URS,2
-350,1982.0,02 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Argentina,1.0,3.0,Brazil, ,44000.0,0.0,1.0,RUBIO VAZQUEZ Mario (MEX),ARISTIZABAL MURCIA Gilberto (COL),CASTRO Gaston (CHI),294.0,750.0,ARG,BRA,2
-351,1982.0,02 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany FR,2.0,1.0,Spain, ,90089.0,0.0,0.0,CASARIN Paolo (ITA),WOEHRER Franz (AUT),PALOTAI Karoly (HUN),294.0,900.0,FRG,ESP,1
-352,1982.0,04 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,France,4.0,1.0,Northern Ireland, ,37000.0,1.0,0.0,JARGUZ Alojzy (POL),RAINEA Nicolae (ROU),EL GHOUL Yusef Mohamed (LBY),294.0,920.0,FRA,NIR,1
-353,1982.0,04 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,0.0,0.0,Soviet Union, ,65000.0,0.0,0.0,VALENTINE Robert (SCO),LUND-SORENSEN Henning (DEN),WHITE Clive (ENG),294.0,1058.0,POL,URS,0
-354,1982.0,05 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,3.0,2.0,Brazil, ,44000.0,2.0,1.0,KLEIN Abraham (ISR),CHAN Thomson Tam Sun (HKG),DOTCHEV Bogdan (BUL),294.0,788.0,ITA,BRA,1
-355,1982.0,05 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Spain,0.0,0.0,England, ,75000.0,0.0,0.0,PONNET Alexis (BEL),VAUTROT Michel (FRA),LACARNE Belaid (ALG),294.0,877.0,ESP,ENG,0
-356,1982.0,08 Jul 1982 - 17:15 ,Semi-finals,Camp Nou,Barcelona ,Poland,0.0,2.0,Italy, ,50000.0,0.0,1.0,CARDELLINO DE SAN VICENTE Juan (URU),SOCHA David (USA),ARISTIZABAL MURCIA Gilberto (COL),295.0,996.0,POL,ITA,2
-357,1982.0,08 Jul 1982 - 21:00 ,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany FR,3.0,3.0,France, win on penalties (5 - 4) ,70000.0,0.0,0.0,CORVER Charles (NED),GALLER Bruno (SUI),VALENTINE Robert (SCO),295.0,914.0,FRG,FRA,0
-358,1982.0,10 Jul 1982 - 20:00 ,Match for third place,Jose Rico Perez,Alicante ,Poland,3.0,2.0,France, ,28000.0,2.0,1.0,GARRIDO Antonio (POR),RUBIO VAZQUEZ Mario (MEX),LACARNE Belaid (ALG),676.0,921.0,POL,FRA,1
-359,1982.0,11 Jul 1982 - 20:00 ,Final,Santiago Bernabeu,Madrid ,Italy,3.0,1.0,Germany FR, ,90000.0,0.0,0.0,COELHO Arnaldo (BRA),KLEIN Abraham (ISR),CHRISTOV Vojtech (TCH),3475.0,923.0,ITA,FRG,1
+0,1982,13 Jun 1982 - 20:00 ,Group 3,Camp Nou,Barcelona ,Argentina,0.0,1.0,Belgium, ,95000.0,0.0,0.0,CHRISTOV Vojtech (TCH),PALOTAI Karoly (HUN),JARGUZ Alojzy (POL),293.0,749.0,ARG,BEL,2
+1,1982,14 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,0.0,0.0,Poland, ,33000.0,0.0,0.0,VAUTROT Michel (FRA),PROKOP Adolf (GDR),RAINEA Nicolae (ROU),293.0,995.0,ITA,POL,0
+2,1982,14 Jun 1982 - 21:00 ,Group 6,Ramon Sanchez Pizjuan,Seville ,Brazil,2.0,1.0,Soviet Union, ,68000.0,0.0,1.0,LAMO CASTILLO Augusto (ESP),SANCHEZ ARMINIO Victoriano (ESP),GARCIA CARRION Jose L. (ESP),293.0,791.0,BRA,URS,1
+3,1982,15 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Peru,0.0,0.0,Cameroon, ,11000.0,0.0,0.0,WOEHRER Franz (AUT),RAINEA Nicolae (ROU),PROKOP Adolf (GDR),293.0,833.0,PER,CMR,0
+4,1982,15 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Hungary,10.0,1.0,El Salvador, ,23000.0,3.0,0.0,AL DOY Ebrahim (BHR),CORVER Charles (NED),LUND-SORENSEN Henning (DEN),293.0,896.0,HUN,SLV,1
+5,1982,15 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Scotland,5.0,2.0,New Zealand, ,36000.0,3.0,0.0,SOCHA David (USA),CHAN Thomson Tam Sun (HKG),EL GHOUL Yusef Mohamed (LBY),293.0,1051.0,SCO,NZL,1
+6,1982,16 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany,1.0,2.0,Algeria, ,42000.0,0.0,0.0,LABO REVOREDO Enrique (PER),ARISTIZABAL MURCIA Gilberto (COL),CASARIN Paolo (ITA),293.0,741.0,FRG,ALG,2
+7,1982,16 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,3.0,1.0,France, ,44172.0,1.0,1.0,GARRIDO Antonio (POR),CASTRO Gaston (CHI),COELHO Arnaldo (BRA),293.0,878.0,ENG,FRA,1
+8,1982,16 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,1.0,1.0,Honduras, ,49562.0,0.0,1.0,ITHURRALDE Arturo Andres (ARG),DOTCHEV Bogdan (BUL),BARRANCOS Luis (BOL),293.0,901.0,ESP,HON,0
+9,1982,17 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Chile,0.0,1.0,Austria, ,22500.0,0.0,1.0,CARDELLINO DE SAN VICENTE Juan (URU),CASARIN Paolo (ITA),ARISTIZABAL MURCIA Gilberto (COL),293.0,764.0,CHI,AUT,2
+10,1982,17 Jun 1982 - 17:45 ,Group 4,Jose Zorrilla,Valladolid ,Czechoslovakia,1.0,1.0,Kuwait, ,25000.0,1.0,0.0,DWOMOH Benjamin (GHA),MENDEZ MOLINA Romulo (GUA),VALENTINE Robert (SCO),293.0,1012.0,TCH,KUW,0
+11,1982,17 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Yugoslavia,0.0,0.0,Northern Ireland, ,25000.0,0.0,0.0,FREDRIKSSON Erik (SWE),GALLER Bruno (SUI),PALOTAI Karoly (HUN),293.0,1044.0,YUG,NIR,0
+12,1982,18 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Peru, ,25000.0,1.0,0.0,ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),KLEIN Abraham (ISR),293.0,994.0,ITA,PER,0
+13,1982,18 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,4.0,1.0,Hungary, ,32093.0,2.0,0.0,LACARNE Belaid (ALG),VAUTROT Michel (FRA),RAINEA Nicolae (ROU),293.0,752.0,ARG,HUN,1
+14,1982,18 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4.0,1.0,Scotland, ,47379.0,1.0,1.0,SILES Jesus Paulino (CRC),CHAN Thomson Tam Sun (HKG),PROKOP Adolf (GDR),293.0,790.0,BRA,SCO,1
+15,1982,19 Jun 1982 - 19:15 ,Group 1,Riazor,La Coru�A ,Poland,0.0,0.0,Cameroon, ,19000.0,0.0,0.0,PONNET Alexis (BEL),ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),293.0,834.0,POL,CMR,0
+16,1982,19 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1.0,0.0,El Salvador, ,15000.0,1.0,0.0,MOFFATT Malcolm (NIR),CASTRO Gaston (CHI),JARGUZ Alojzy (POL),293.0,774.0,BEL,SLV,1
+17,1982,19 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,3.0,0.0,New Zealand, ,19000.0,1.0,0.0,EL GHOUL Yusef Mohamed (LBY),SORIANO ALADREN Emilio (ESP),WHITE Clive (ENG),293.0,1054.0,URS,NZL,1
+18,1982,20 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany,4.0,1.0,Chile, ,42000.0,1.0,0.0,GALLER Bruno (SUI),CHRISTOV Vojtech (TCH),BOSKOVIC Tony (AUS),293.0,813.0,FRG,CHI,1
+19,1982,20 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,2.0,0.0,Czechoslovakia, ,41123.0,0.0,0.0,CORVER Charles (NED),DOTCHEV Bogdan (BUL),ARISTIZABAL MURCIA Gilberto (COL),293.0,889.0,ENG,TCH,1
+20,1982,20 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,2.0,1.0,Yugoslavia, ,48000.0,1.0,1.0,LUND-SORENSEN Henning (DEN),GARRIDO Antonio (POR),ITHURRALDE Arturo Andres (ARG),293.0,903.0,ESP,YUG,1
+21,1982,21 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,0.0,2.0,Austria, ,22000.0,0.0,0.0,BOSKOVIC Tony (AUS),CHRISTOV Vojtech (TCH),AL DOY Ebrahim (BHR),293.0,739.0,ALG,AUT,2
+22,1982,21 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,4.0,1.0,Kuwait, ,30043.0,2.0,0.0,STUPAR Miroslav (URS),FREDRIKSSON Erik (SWE),MATOVINOVIC Damir (CRO),293.0,919.0,FRA,KUW,1
+23,1982,21 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,1.0,1.0,Northern Ireland, ,15000.0,0.0,1.0,CHAN Thomson Tam Sun (HKG),LABO REVOREDO Enrique (PER),CASARIN Paolo (ITA),293.0,959.0,HON,NIR,0
+24,1982,22 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Poland,5.0,1.0,Peru, ,25000.0,0.0,0.0,RUBIO VAZQUEZ Mario (MEX),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),293.0,1055.0,POL,PER,1
+25,1982,22 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1.0,1.0,Hungary, ,37000.0,0.0,1.0,WHITE Clive (ENG),ESCHWEILER Walter (GER),LACARNE Belaid (ALG),293.0,779.0,BEL,HUN,0
+26,1982,22 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Soviet Union,2.0,2.0,Scotland, ,45000.0,0.0,1.0,RAINEA Nicolae (ROU),JARGUZ Alojzy (POL),PONNET Alexis (BEL),293.0,1071.0,URS,SCO,0
+27,1982,23 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Cameroon, ,20000.0,0.0,0.0,DOTCHEV Bogdan (BUL),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),293.0,828.0,ITA,CMR,0
+28,1982,23 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,2.0,0.0,El Salvador, ,32500.0,1.0,0.0,BARRANCOS Luis (BOL),LAMO CASTILLO Augusto (ESP),LACARNE Belaid (ALG),293.0,751.0,ARG,SLV,1
+29,1982,23 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4.0,0.0,New Zealand, ,43000.0,2.0,0.0,MATOVINOVIC Damir (CRO),KLEIN Abraham (ISR),CORVER Charles (NED),293.0,789.0,BRA,NZL,1
+30,1982,24 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,3.0,2.0,Chile, ,16000.0,3.0,0.0,MENDEZ MOLINA Romulo (GUA),FREDRIKSSON Erik (SWE),COELHO Arnaldo (BRA),293.0,740.0,ALG,CHI,1
+31,1982,24 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,1.0,1.0,Czechoslovakia, ,28000.0,0.0,0.0,CASARIN Paolo (ITA),DWOMOH Benjamin (GHA),PALOTAI Karoly (HUN),293.0,922.0,FRA,TCH,0
+32,1982,24 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,0.0,1.0,Yugoslavia, ,25000.0,0.0,0.0,CASTRO Gaston (CHI),SILES Jesus Paulino (CRC),ITHURRALDE Arturo Andres (ARG),293.0,962.0,HON,YUG,2
+33,1982,25 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany,1.0,0.0,Austria, ,41000.0,1.0,0.0,VALENTINE Robert (SCO),AL DOY Ebrahim (BHR),COELHO Arnaldo (BRA),293.0,770.0,FRG,AUT,1
+34,1982,25 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,1.0,0.0,Kuwait, ,39700.0,1.0,0.0,ARISTIZABAL MURCIA Gilberto (COL),LUND-SORENSEN Henning (DEN),GARCIA CARRION Jose L. (ESP),293.0,882.0,ENG,KUW,1
+35,1982,25 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Northern Ireland,1.0,0.0,Spain, ,49562.0,0.0,0.0,ORTIZ Hector (PAR),LABO REVOREDO Enrique (PER),PONNET Alexis (BEL),293.0,902.0,NIR,ESP,1
+36,1982,28 Jun 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,0.0,1.0,France, ,37000.0,0.0,1.0,PALOTAI Karoly (HUN),CHRISTOV Vojtech (TCH),MATOVINOVIC Damir (CRO),294.0,767.0,AUT,FRA,2
+37,1982,28 Jun 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,3.0,0.0,Belgium, ,65000.0,2.0,0.0,SILES Jesus Paulino (CRC),LABO REVOREDO Enrique (PER),CASTRO Gaston (CHI),294.0,782.0,POL,BEL,1
+38,1982,29 Jun 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,2.0,1.0,Argentina, ,43000.0,0.0,0.0,RAINEA Nicolae (ROU),GALLER Bruno (SUI),LACARNE Belaid (ALG),294.0,753.0,ITA,ARG,1
+39,1982,29 Jun 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany,0.0,0.0,England, ,75000.0,0.0,0.0,COELHO Arnaldo (BRA),ORTIZ Hector (PAR),MENDEZ MOLINA Romulo (GUA),294.0,879.0,FRG,ENG,0
+40,1982,01 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,2.0,2.0,Northern Ireland, ,20000.0,0.0,1.0,PROKOP Adolf (GDR),FREDRIKSSON Erik (SWE),ESCHWEILER Walter (GER),294.0,771.0,AUT,NIR,0
+41,1982,01 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Belgium,0.0,1.0,Soviet Union, ,45000.0,0.0,0.0,VAUTROT Michel (FRA),CORVER Charles (NED),GARRIDO Antonio (POR),294.0,783.0,BEL,URS,2
+42,1982,02 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Argentina,1.0,3.0,Brazil, ,44000.0,0.0,1.0,RUBIO VAZQUEZ Mario (MEX),ARISTIZABAL MURCIA Gilberto (COL),CASTRO Gaston (CHI),294.0,750.0,ARG,BRA,2
+43,1982,02 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany,2.0,1.0,Spain, ,90089.0,0.0,0.0,CASARIN Paolo (ITA),WOEHRER Franz (AUT),PALOTAI Karoly (HUN),294.0,900.0,FRG,ESP,1
+44,1982,04 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,France,4.0,1.0,Northern Ireland, ,37000.0,1.0,0.0,JARGUZ Alojzy (POL),RAINEA Nicolae (ROU),EL GHOUL Yusef Mohamed (LBY),294.0,920.0,FRA,NIR,1
+45,1982,04 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,0.0,0.0,Soviet Union, ,65000.0,0.0,0.0,VALENTINE Robert (SCO),LUND-SORENSEN Henning (DEN),WHITE Clive (ENG),294.0,1058.0,POL,URS,0
+46,1982,05 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,3.0,2.0,Brazil, ,44000.0,2.0,1.0,KLEIN Abraham (ISR),CHAN Thomson Tam Sun (HKG),DOTCHEV Bogdan (BUL),294.0,788.0,ITA,BRA,1
+47,1982,05 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Spain,0.0,0.0,England, ,75000.0,0.0,0.0,PONNET Alexis (BEL),VAUTROT Michel (FRA),LACARNE Belaid (ALG),294.0,877.0,ESP,ENG,0
+48,1982,08 Jul 1982 - 17:15 ,Semi-finals,Camp Nou,Barcelona ,Poland,0.0,2.0,Italy, ,50000.0,0.0,1.0,CARDELLINO DE SAN VICENTE Juan (URU),SOCHA David (USA),ARISTIZABAL MURCIA Gilberto (COL),295.0,996.0,POL,ITA,2
+49,1982,08 Jul 1982 - 21:00 ,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany,3.0,3.0,France, win on penalties (5 - 4) ,70000.0,0.0,0.0,CORVER Charles (NED),GALLER Bruno (SUI),VALENTINE Robert (SCO),295.0,914.0,FRG,FRA,0
+50,1982,10 Jul 1982 - 20:00 ,Match for third place,Jose Rico Perez,Alicante ,Poland,3.0,2.0,France, ,28000.0,2.0,1.0,GARRIDO Antonio (POR),RUBIO VAZQUEZ Mario (MEX),LACARNE Belaid (ALG),676.0,921.0,POL,FRA,1
+51,1982,11 Jul 1982 - 20:00 ,Final,Santiago Bernabeu,Madrid ,Italy,3.0,1.0,Germany, ,90000.0,0.0,0.0,COELHO Arnaldo (BRA),KLEIN Abraham (ISR),CHRISTOV Vojtech (TCH),3475.0,923.0,ITA,FRG,1
