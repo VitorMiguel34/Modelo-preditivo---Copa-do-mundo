@@ -5,7 +5,7 @@ Script para normalizar nomes de países em múltiplos ficheiros CSV sob a direto
 Funcionalidades:
 - Percorre recursivamente `./dados` e encontra todos os `.csv`.
 - Detecta colunas que provavelmente têm nomes de países por heurísticas sobre o nome da coluna.
-- Normaliza os nomes usando mapeamento manual e suporte opcional a pycountry.
+- Normaliza os nomes usando mapeamento manual (com suporte a tradução PT -> EN) e suporte opcional a pycountry.
 - Guarda os CSVs processados em `./dados_processados` preservando a subpasta relativa.
 
 Uso:
@@ -18,6 +18,7 @@ import argparse
 import logging
 from typing import List, Optional
 import functools
+import unicodedata  
 
 import pandas as pd
 try:
@@ -43,9 +44,62 @@ COUNTRY_COLUMN_KEYWORDS = [
     "away_team",
 ]
 
-# Dicionário robusto e unificado para variações e tratamentos históricos
+# Dicionário robusto unificado: Trata variações históricas, siglas E traduções do Português!
+# NOTA: Todas as chaves em Português foram salvas SEM ACENTO, pois a função remove os acentos antes da busca.
 MANUAL_MAP = {
-    # Variações gerais
+    # --- TRADUÇÕES DO PORTUGUÊS PARA O INGLÊS PADRÃO ---
+    "brasil": "Brazil",
+    "marrocos": "Morocco",
+    "marroco": "Morocco",
+    "espanha": "Spain",
+    "franca": "France",
+    "inglaterra": "England",
+    "portugal": "Portugal",
+    "holanda": "Netherlands",
+    "belgica": "Belgium",
+    "alemanha": "Germany",
+    "croacia": "Croatia",
+    "colombia": "Colombia",
+    "mexico": "Mexico",
+    "senegal": "Senegal",
+    "uruguai": "Uruguay",
+    "estados unidos": "United States",
+    "eua": "United States",
+    "japao": "Japan",
+    "suica": "Switzerland",
+    "ira": "Iran",
+    "turquia": "Turkey",
+    "equador": "Ecuador",
+    "austria": "Austria",
+    "coreia do sul": "South Korea",
+    "australia": "Australia",
+    "argelia": "Algeria",
+    "egito": "Egypt",
+    "canada": "Canada",
+    "noruega": "Norway",
+    "costa do marfim": "Ivory Coast",
+    "panama": "Panama",
+    "suecia": "Sweden",
+    "republica tcheca": "Czechia",
+    "paraguai": "Paraguay",
+    "escocia": "Scotland",
+    "tunisia": "Tunisia",
+    "republica democratica do congo": "DR Congo",
+    "rd congo": "DR Congo",
+    "uzbequistao": "Uzbekistan",
+    "catar": "Qatar",
+    "iraque": "Iraq",
+    "africa do sul": "South Africa",
+    "arabia saudita": "Saudi Arabia",
+    "jordania": "Jordan",
+    "bosnia e herzegovina": "Bosnia and Herzegovina",
+    "cabo verde": "Cape Verde",
+    "gana": "Ghana",
+    "curacao": "Curacao",
+    "haiti": "Haiti",
+    "nova zelandia": "New Zealand",
+
+    # --- VARIAÇÕES GERAIS E HISTÓRICAS EM INGLÊS ---
     "u.s.": "United States",
     "u.s.a.": "United States",
     "usa": "United States",
@@ -57,7 +111,7 @@ MANUAL_MAP = {
     "wales": "Wales",
     "northern ireland": "Northern Ireland",
     
-    # Coreias (Separadas e protegidas!)
+    # Coreias
     "korea republic": "South Korea",
     "south korea": "South Korea",
     "korea, south": "South Korea",
@@ -65,17 +119,16 @@ MANUAL_MAP = {
     "north korea": "North Korea",
     "korea, north": "North Korea",
     
-    # TRATAMENTO HISTÓRICO DA ALEMANHA (SEPARADAS!)
-    "west germany": "Germany",         # Arquivo do ciclo -> unifica em Germany (Ocidental)
-    "germany fr": "Germany",           # Confronto FIFA -> unifica em Germany (Ocidental)
-    "east germany": "East Germany",     # Arquivo do ciclo -> mantém isolada a Oriental
-    "german dr": "East Germany",        # Confronto FIFA -> mantém isolada a Oriental
+    # Alemanha Histórica
+    "west germany": "Germany",         
+    "germany fr": "Germany",           
+    "east germany": "East Germany",     
+    "german dr": "East Germany",        
     
-    # Correções de logs e codificação de caracteres
+    # Limpezas de logs e formatos alternativos de bases internacionais
     "iran, islamic republic of": "Iran",
     "czech republic": "Czechia",
     "ir iran": "Iran",
-    "iran": "Iran",
     "côte d'ivoire": "Ivory Coast",
     "c°te d'ivoire": "Ivory Coast",  
     "cote d'ivoire": "Ivory Coast",
@@ -90,9 +143,8 @@ MANUAL_MAP = {
     "soviet union": "Soviet Union",
     "ussr": "Soviet Union",
     
-    # Iugoslávia / Sérvia
+    # Antiga Iugoslávia / Sérvia
     "fr yugoslavia": "Yugoslavia",
-    "yugoslavia": "Yugoslavia",
     "serbia & montenegro": "Serbia and Montenegro",
     "serbia and montenegro": "Serbia and Montenegro",
     
@@ -121,8 +173,8 @@ def is_country_column_name(col: str) -> bool:
 @functools.lru_cache(maxsize=None)
 def normalize_team_name(team_name: Optional[str]) -> Optional[str]:
     """
-    Função UNIFICADA de tratamento. Limpa resíduos técnicos, aplica remoção 
-    de prefixos, mapeamento manual de apelidos e validação inteligente de países.
+    Função UNIFICADA de tratamento. Limpa resíduos técnicos, remove acentos,
+    aplica tradução/mapeamento manual de apelidos e validação de países.
     """
     if team_name is None or pd.isna(team_name):
         return team_name
@@ -131,10 +183,17 @@ def normalize_team_name(team_name: Optional[str]) -> Optional[str]:
     if not team_name:
         return team_name
     
+    # 1. Forçar minúsculas e limpar sujeiras comuns de encoding html/csv
     key = team_name.lower()
-    
     key = key.replace('"rn"">', '').replace('rn>', '').replace('"', '')
     
+    # 2. REMOVER ACENTOS (Ex: "França" vira "franca", "Japão" vira "japao")
+    key = "".join(
+        c for c in unicodedata.normalize('NFD', key)
+        if unicodedata.category(c) != 'Mn'
+    )
+    
+    # Casos especiais de strings parciais antes do mapeamento exato
     if "ivoire" in key or "ivory" in key:
         return "Ivory Coast"
     if "israel*" in key:
@@ -142,14 +201,16 @@ def normalize_team_name(team_name: Optional[str]) -> Optional[str]:
     if "bulgaria" in key:
         return "Bulgaria"
         
+    # Remover prefixos técnicos comuns em datasets antigos da FIFA
     for prefix in ["ir ", "dr ", "fyr "]:
         if key.startswith(prefix):
             key = key[len(prefix):].strip()
             
+    # 3. Verificar se existe no MANUAL_MAP (que agora contém as traduções!)
     if key in MANUAL_MAP:
         return MANUAL_MAP[key]
         
-    # Tratamentos adicionais caso o "rn>" ou espaços não tenham sido pegos antes
+    # Tratamentos adicionais de fallback
     if "republic of ireland" in key:
         return "Ireland"
     if "united arab emirates" in key:
@@ -163,7 +224,7 @@ def normalize_team_name(team_name: Optional[str]) -> Optional[str]:
         
     simple_clean = key.replace(".", "").replace("/", " ").strip()
     
-    # 6. Pycountry
+    # 4. Suporte ao Pycountry se instalado
     if pycountry:
         try:
             c = pycountry.countries.get(alpha_2=simple_clean.upper())
@@ -199,7 +260,6 @@ def process_file(path: Path, out_root: Path, input_root: Path) -> None:
     else:
         logging.info(f"  Columns to normalize: {cols_to_normalize}")
         for col in cols_to_normalize:
-            # Chama a nova função unificada e robusta
             df[col] = df[col].apply(normalize_team_name)
 
     # Build output path preserving relative structure

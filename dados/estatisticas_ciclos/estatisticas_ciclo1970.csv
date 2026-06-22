@@ -1,17 +1,17 @@
-team,wins,draws,loses,points,games_played,points_per_game
-Mexico,25,17,20,92,62,1.48
-Brazil,27,6,6,87,39,2.23
-England,22,10,4,76,36,2.11
-Sweden,21,6,8,69,35,1.97
-Czechoslovakia,16,3,6,51,25,2.04
-Peru,13,10,15,49,38,1.29
-Uruguay,13,9,7,48,29,1.66
-Italy,13,8,1,47,22,2.14
-Romania,11,13,7,46,31,1.48
-El Salvador,13,2,10,41,25,1.64
-Belgium,12,2,7,38,21,1.81
-Morocco,6,6,7,24,19,1.26
-Germany,4,3,1,15,8,1.88
-Bulgaria,4,3,4,15,11,1.36
-Israel,0,0,4,0,4,0.0
-Soviet Union,0,0,0,0,0,
+team,wins,draws,loses,points,games_played,goals_for,goals_against,goal_difference,goal_diff_per_game,points_per_game
+Mexico,25,17,20,92,62,84,62,22,0.35,1.48
+Brazil,27,6,6,87,39,96,40,56,1.44,2.23
+England,22,10,4,76,36,66,22,44,1.22,2.11
+Sweden,21,6,8,69,35,68,40,28,0.8,1.97
+Czechoslovakia,16,3,6,51,25,43,21,22,0.88,2.04
+Peru,13,10,15,49,38,53,57,-4,-0.11,1.29
+Uruguay,13,9,7,48,29,39,29,10,0.34,1.66
+Italy,13,8,1,47,22,44,17,27,1.23,2.14
+Romania,11,13,7,46,31,43,38,5,0.16,1.48
+El Salvador,13,2,10,41,25,35,34,1,0.04,1.64
+Belgium,12,2,7,38,21,38,26,12,0.57,1.81
+Morocco,6,6,7,24,19,20,22,-2,-0.11,1.26
+Germany,4,3,1,15,8,14,7,7,0.88,1.88
+Bulgaria,4,3,4,15,11,16,17,-1,-0.09,1.36
+Soviet Union,0,0,0,0,0,0,0,0,,
+Israel,0,0,4,0,4,2,10,-8,-2.0,0.0
