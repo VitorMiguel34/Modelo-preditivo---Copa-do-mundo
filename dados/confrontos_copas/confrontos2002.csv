@@ -13,7 +13,7 @@
 11,2002,04 June 2002 - 15:30 ,Group C,Gwangju World Cup Stadium,Gwangju ,China,0.0,2.0,Costa Rica, ,27217.0,0.0,0.0,VASSARAS Kyros (GRE),MATOS Carlos (POR),POOL Jaap (NED),43950100.0,43950012.0,CHN,CRC,2
 12,2002,04 June 2002 - 18:00 ,Group H,Saitama Stadium 2002,Saitama ,Japan,2.0,2.0,Belgium, ,55256.0,0.0,0.0,MATTUS William (CRC),KOLEIT Haidar (LIB),DUPANOV Yuri (BLR),43950100.0,43950013.0,JPN,BEL,0
 13,2002,04 Jun 2002 - 20:30 ,Group D,Busan Asiad Main Stadium,Busan ,South Korea,2.0,0.0,Poland, ,48760.0,1.0,0.0,RUIZ Oscar (COL),DORIRI Elise (VAN),LINDBERG Leif (SWE),43950100.0,43950014.0,KOR,POL,1
-14,2002,05 Jun 2002 - 15:30 ,Group H,Kobe Wing Stadium,Kobe ,Russian Federation,2.0,0.0,Tunisia, ,30957.0,0.0,0.0,PRENDERGAST Peter (JAM),RAGOONATH Michael (TRI),SMITH Paul (NZL),43950100.0,43950015.0,RUS,TUN,1
+14,2002,05 Jun 2002 - 15:30 ,Group H,Kobe Wing Stadium,Kobe ,Russia,2.0,0.0,Tunisia, ,30957.0,0.0,0.0,PRENDERGAST Peter (JAM),RAGOONATH Michael (TRI),SMITH Paul (NZL),43950100.0,43950015.0,RUS,TUN,1
 15,2002,05 Jun 2002 - 18:00 ,Group D,Suwon World Cup Stadium,Suwon ,United States,3.0,2.0,Portugal, ,37306.0,3.0,1.0,MORENO Byron (ECU),FIERRO Bomer (ECU),HASSOUNEH Awni (JOR),43950100.0,43950016.0,USA,POR,1
 16,2002,05 Jun 2002 - 20:30 ,Group E,Kashima Stadium,Ibaraki ,Germany,1.0,1.0,Ireland, ,35854.0,1.0,0.0,NIELSEN Kim Milton (DEN),LARSEN Jens (DEN),AMLER Evzen (CZE),43950100.0,43950017.0,GER,IRL,0
 17,2002,06 Jun 2002 - 15:30 ,Group A,Daegu World Cup Stadium,Daegu ,Denmark,1.0,1.0,Senegal, ,43500.0,1.0,0.0,BATRES Carlos (GUA),SZEKELY Ferenc (HUN),KRISHNAN Visva (SIN),43950100.0,43950020.0,DEN,SEN,0
@@ -26,7 +26,7 @@
 24,2002,08 Jun 2002 - 20:30 ,Group C,Jeju World Cup Stadium,Jeju ,Brazil,4.0,0.0,China, ,36750.0,3.0,0.0,FRISK Anders (SWE),LINDBERG Leif (SWE),FIERRO Bomer (ECU),43950100.0,43950026.0,BRA,CHN,1
 25,2002,08 June 2002 - 18:00 ,Group G,Kashima Stadium,Ibaraki ,Italy,1.0,2.0,Croatia, ,36472.0,0.0,0.0,POLL Graham (ENG),SHARP Philip (ENG),LARSEN Jens (DEN),43950100.0,43950025.0,ITA,CRO,2
 26,2002,09 Jun 2002 - 18:00 ,Group C,Incheon Football Stadium,Incheon ,Costa Rica,1.0,1.0,Turkey, ,42299.0,0.0,0.0,CODJIA Coffi (BEN),DANTE Dramane (MLI),MUDZAMIRI Brighton (ZIM),43950100.0,43950028.0,CRC,TUR,0
-27,2002,09 Jun 2002 - 20:30 ,Group H,International Stadium Yokohama,Yokohama ,Japan,1.0,0.0,Russian Federation, ,66108.0,0.0,0.0,MERK Markus (GER),MUELLER Heiner (GER),AMLER Evzen (CZE),43950100.0,43950029.0,JPN,RUS,1
+27,2002,09 Jun 2002 - 20:30 ,Group H,International Stadium Yokohama,Yokohama ,Japan,1.0,0.0,Russia, ,66108.0,0.0,0.0,MERK Markus (GER),MUELLER Heiner (GER),AMLER Evzen (CZE),43950100.0,43950029.0,JPN,RUS,1
 28,2002,09 Jun 2002 - 15:30 ,Group G,Miyagi Stadium,Rifu ,Mexico,2.0,1.0,Ecuador, ,45610.0,1.0,1.0,DAAMI Mourad (TUN),ADJENGUI Taoufik (TUN),KOLEIT Haidar (LIB),43950100.0,43950027.0,MEX,ECU,1
 29,2002,10 Jun 2002 - 15:30 ,Group D,Daegu World Cup Stadium,Daegu ,South Korea,1.0,1.0,United States, ,60778.0,0.0,1.0,MEIER Urs (SUI),BEREUTER Egon (AUT),TOMUSANGE Ali (UGA),43950100.0,43950030.0,KOR,USA,0
 30,2002,10 Jun 2002 - 20:30 ,Group D,Jeonju World Cup Stadium,Jeonju ,Portugal,4.0,0.0,Poland, ,31000.0,1.0,0.0,DALLAS Hugh (SCO),SRAMKA Igor (SVK),FARAG Wagih (EGY),43950100.0,43950032.0,POR,POL,1
@@ -46,7 +46,7 @@
 44,2002,14 Jun 2002 - 15:30 ,Group H,Osaka Nagai Stadium,Osaka ,Tunisia,0.0,2.0,Japan, ,45213.0,0.0,0.0,VEISSIERE Gilles (FRA),ARNAULT Frederic (FRA),KOLEIT Haidar (LIB),43950100.0,43950045.0,TUN,JPN,2
 45,2002,14 Jun 2002 - 20:30 ,Group D,Incheon Football Stadium,Incheon ,Portugal,0.0,1.0,South Korea, ,50239.0,0.0,0.0,SANCHEZ Angel (ARG),ALTRAIFI Ali (KSA),SZEKELY Ferenc (HUN),43950100.0,43950047.0,POR,KOR,2
 46,2002,14 Jun 2002 - 20:30 ,Group D,Daejeon World Cup Stadium,Daejeon ,Poland,3.0,1.0,United States, ,26482.0,2.0,0.0,LU Jun (CHN),FIERRO Bomer (ECU),POOL Jaap (NED),43950100.0,43950048.0,POL,USA,1
-47,2002,14 Jun 2002 - 15:30 ,Group H,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3.0,2.0,Russian Federation, ,46640.0,1.0,0.0,NIELSEN Kim Milton (DEN),SHARP Philip (ENG),KOMALEESWARAN Sankar (IND),43950100.0,43950046.0,BEL,RUS,1
+47,2002,14 Jun 2002 - 15:30 ,Group H,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3.0,2.0,Russia, ,46640.0,1.0,0.0,NIELSEN Kim Milton (DEN),SHARP Philip (ENG),KOMALEESWARAN Sankar (IND),43950100.0,43950046.0,BEL,RUS,1
 48,2002,15 Jun 2002 - 20:30 ,Round of 16,Niigata Stadium Big Swan,Niigata ,Denmark,0.0,3.0,England, ,40582.0,0.0,3.0,MERK Markus (GER),MUELLER Heiner (GER),AMLER Evzen (CZE),43950200.0,43950050.0,DEN,ENG,2
 49,2002,15 Jun 2002 - 15:30 ,Round of 16,Jeju World Cup Stadium,Jeju ,Germany,1.0,0.0,Paraguay, ,25176.0,0.0,0.0,BATRES Carlos (GUA),CHARLES Curtis (ATG),DANTE Dramane (MLI),43950200.0,43950049.0,GER,PAR,1
 50,2002,16 Jun 2002 - 20:30 ,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1.0,1.0,Ireland,Spain win on penalties (3 - 2) ,38926.0,0.0,0.0,FRISK Anders (SWE),LINDBERG Leif (SWE),SRAMKA Igor (SVK),43950200.0,43950052.0,ESP,IRL,0
